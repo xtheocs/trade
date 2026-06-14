@@ -38,11 +38,9 @@ STEP 4 — Entry gate (skip + log any failure):
 - catalyst still in today's RESEARCH-LOG and quant was confirmed
 - trade is listed in PENDING-TRADES (owner did not veto)
 
-STEP 5 — Execute approved buys:
-  Stocks/ETFs (fractional, day TIF):
+STEP 5 — Execute approved buys (EQUITY INSTRUMENTS ONLY — stocks/ETFs/leveraged/inverse ETFs;
+if a crypto symbol somehow appears in PENDING-TRADES, skip it — crypto is the crypto routine's job):
   bash scripts/alpaca.sh order '{"symbol":"SYM","notional":"AMOUNT","side":"buy","type":"market","time_in_force":"day"}'
-  Crypto (gtc TIF):
-  bash scripts/alpaca.sh order '{"symbol":"BTC/USD","notional":"AMOUNT","side":"buy","type":"market","time_in_force":"gtc"}'
 Wait for fill confirmation before placing the stop.
 
 STEP 6 — Immediately place the protective stop at the §6 level (the stop price from the

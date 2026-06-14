@@ -51,10 +51,11 @@ Use Perplexity ONLY for the qualitative catalyst. NEVER use its prices/percentag
 decisions — every number comes from Alpaca in STEP 5.
 
 STEP 5 — Quant-confirm each catalyst name (ALPACA bars only):
-  bash scripts/quant.sh signal TICKER           # stocks / ETFs (benchmark SPY)
-  bash scripts/quant.sh signal BTC/USD crypto   # crypto (benchmark BTC)
-A name is a candidate only if: catalyst present AND "confirmed": true (passes ≥3/5) AND its
-regime allows it (crypto uses BTC regime; inverse ETFs only in risk-off). The helper returns
+  bash scripts/quant.sh signal TICKER           # stocks / ETFs / leveraged & inverse ETFs (benchmark SPY)
+This routine trades EQUITY INSTRUMENTS ONLY (stocks, ETFs, leveraged ETFs, inverse ETFs).
+Do NOT plan crypto trades here — crypto entries and exits are owned by the dedicated 24/7
+crypto routine. A name is a candidate only if: catalyst present AND "confirmed": true
+(passes ≥3/5) AND its regime allows it (inverse ETFs only in risk-off). The helper returns
 suggested_stop (entry−2×ATR) and risk_per_share — use them next.
 
 STEP 6 — Size each candidate (% of equity per TRADING-STRATEGY):

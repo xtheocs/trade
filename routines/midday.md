@@ -20,9 +20,9 @@ STEP 2 — State:
   bash scripts/alpaca.sh orders
 Compute drawdown from peak; if ≥20% below peak, breaker is active (manage only, no adds).
 
-STEP 3 — Recompute each position from Alpaca data:
-  stocks/ETFs: bash scripts/quant.sh signal SYM
-  crypto:      bash scripts/quant.sh signal SYM crypto
+STEP 3 — Recompute each EQUITY position from Alpaca data (skip crypto — the 24/7 crypto
+routine manages crypto exits):
+  bash scripts/quant.sh signal SYM      # stocks / ETFs / leveraged & inverse ETFs
 Read last, atr_14, trend.
 
 STEP 4 — Hard exits (act immediately):
