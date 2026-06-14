@@ -28,7 +28,9 @@ STEP 2 — Account + drawdown breaker:
   bash scripts/alpaca.sh account
   bash scripts/alpaca.sh positions
   bash scripts/alpaca.sh orders
-Compute equity and drawdown from peak. If equity is ≥20% below peak → manage/exit only, NO new buys.
+Compute equity and drawdown from peak (peak = highest equity in TRADE-LOG EOD snapshots; if
+no snapshot exists yet, use current equity as the peak → drawdown 0%). If equity is ≥20%
+below peak → manage/exit only, NO new buys.
 
 STEP 3 — Crypto regime:
   bash scripts/quant.sh regime crypto    # BTC vs its 50-day → risk_on / neutral / risk_off
