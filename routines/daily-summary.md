@@ -62,5 +62,7 @@ STEP 5 — Send ONE ClickUp message (always, even on no-trade days). <= 15 lines
 STEP 6 — COMMIT AND PUSH (mandatory — tomorrow's Day P&L depends on this):
   git add memory/TRADE-LOG.md
   git commit -m "EOD snapshot $DATE"
-  git push origin main
-On push failure: rebase and retry.
+  git push origin HEAD:main
+On push failure: rebase and retry with `git push origin HEAD:main`.
+(Use HEAD:main — cloud sessions run on a claude/* branch, so plain
+`git push origin main` never moves the real main.)

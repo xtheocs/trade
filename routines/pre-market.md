@@ -129,5 +129,8 @@ STEP 6 — ALWAYS send ClickUp notification (pre-market always notifies):
 STEP 7 — COMMIT AND PUSH (mandatory):
   git add memory/RESEARCH-LOG.md memory/PENDING-TRADES.md
   git commit -m "pre-market research $DATE"
-  git push origin main
-On push failure: git pull --rebase origin main, then push again. Never force-push.
+  git push origin HEAD:main
+On push failure: git pull --rebase origin main, then `git push origin HEAD:main` again. Never force-push.
+(Use HEAD:main — the cloud session runs on a claude/* working branch, so a plain
+`git push origin main` would push the unchanged local main and your commit would
+never reach the real main branch.)

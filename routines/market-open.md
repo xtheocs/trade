@@ -77,5 +77,7 @@ STEP 9 — Notification: only if at least one trade was placed.
 STEP 10 — COMMIT AND PUSH (only if trades executed):
   git add memory/TRADE-LOG.md memory/PENDING-TRADES.md
   git commit -m "market-open trades $DATE"
-  git push origin main
-Skip commit if no trades fired. On push failure: rebase and retry. Never force-push.
+  git push origin HEAD:main
+Skip commit if no trades fired. On push failure: rebase and retry with `git push origin HEAD:main`.
+Never force-push. (Use HEAD:main — cloud sessions run on a claude/* branch, so plain
+`git push origin main` never moves the real main.)

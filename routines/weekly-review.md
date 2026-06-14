@@ -74,6 +74,8 @@ STEP 6 — Send ONE ClickUp message. <= 15 lines:
 STEP 7 — COMMIT AND PUSH (mandatory):
   git add memory/WEEKLY-REVIEW.md memory/TRADING-STRATEGY.md
   git commit -m "weekly review $DATE"
-  git push origin main
+  git push origin HEAD:main
 If TRADING-STRATEGY.md didn't change, add just WEEKLY-REVIEW.md.
-On push failure: rebase and retry. Never force-push.
+On push failure: rebase and retry with `git push origin HEAD:main`. Never force-push.
+(Use HEAD:main — cloud sessions run on a claude/* branch, so plain
+`git push origin main` never moves the real main.)
