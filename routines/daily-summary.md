@@ -31,11 +31,16 @@ STEP 4 — Append to memory/TRADE-LOG.md:
 **Notes:** one-paragraph plain-english summary.
 
 STEP 5 — Send ONE ClickUp message (always, ≤15 lines):
-  bash scripts/clickup.sh --channel "$CLICKUP_CHANNEL_SUMMARY" "EOD MMM DD | Equity \$X (±X% day, ±X% phase) | DD −X% from peak
-  Cash \$X | Trades today: <list or none>
-  Positions:
-    SYM ±X% (stop \$X)
-  Tomorrow: <one-line regime/plan>"
+  bash scripts/clickup.sh --channel "$CLICKUP_CHANNEL_SUMMARY" "**EOD — [MMM DD]**
+
+- Equity: \$[X] ([±X]% day · [±X]% phase)
+- Drawdown: [X]% from peak · Cash: \$[X]
+- Trades today: [list or none]
+
+**Open positions**
+- [SYM] [±X]% · stop \$[X]
+
+Tomorrow: [one-line regime/plan]."
 
 STEP 6 — Commit (mandatory):
   git add memory/TRADE-LOG.md

@@ -40,8 +40,16 @@ STEP 5 — Manage winners (never loosen, never move a stop down):
 STEP 6 — Optional: if a name is moving sharply with no known cause, one Perplexity query;
 append an afternoon addendum to RESEARCH-LOG if relevant.
 
-STEP 7 — Notify ClickUp ONLY if action was taken (exit, stop moved, thesis close):
-  bash scripts/clickup.sh "<tickers — action — P&L>"
+STEP 7 — Notify ClickUp ONLY if action was taken (exit, stop moved, thesis close).
+Clean Markdown, no emojis, no indentation:
+  bash scripts/clickup.sh "**Midday update — $DATE**
+
+- Closed [TICKER] @ \$[X] · P&L [±X]% · reason: [stop / thesis / time stop]
+- Tightened [TICKER] stop → \$[X] ([breakeven / locking +X%])
+
+(include only the actions that actually happened)
+
+Open positions: [SYM] [±X]% (stop \$[X]), ..."
 
 STEP 8 — Commit if memory changed:
   git add memory/TRADE-LOG.md memory/RESEARCH-LOG.md

@@ -43,6 +43,8 @@ STEP 4 — Catalyst research (Perplexity; on exit code 3 fall back to WebSearch 
 - "Top premarket stock movers today $DATE by volume and why — surging stocks and catalysts"
 - "Market-moving news today $DATE — earnings beats, raised guidance, contract wins, upgrades, FDA, M&A"
 - "S&P 500 sector leadership this week $DATE — leading and lagging sectors"
+- "S&P 500 futures and VIX premarket today $DATE"
+- "WTI and Brent crude oil and key commodity moves today $DATE"
 - "Economic calendar today $DATE — CPI PPI FOMC jobs, any major release"
 - "Crypto majors today $DATE — BTC ETH news and momentum"
 - For each held ticker: "[TICKER] news today $DATE — is the catalyst still valid?"
@@ -86,11 +88,35 @@ If none:
 # Pending Trades — $DATE
 No trades. Reason: [one line].
 
-STEP 9 — ALWAYS notify ClickUp:
-  bash scripts/clickup.sh "Pre-market $DATE | Regime: eq [X] crypto [X] | DD from peak: X%
-  PLANNED (veto in PENDING-TRADES.md by 3:30 PM Paris):
-  TICKER — N sh — ~\$X (X%) — [catalyst] — stop \$X — R:R X:1
-  [or: No trades today — reason]"
+STEP 9 — ALWAYS notify ClickUp. Use clean Markdown: bold section headers, "- " bullets,
+NO emojis, NO leading indentation (4-space indents render as code blocks), NO pipe walls.
+Keep ALL the detail. If trades are planned:
+  bash scripts/clickup.sh "**Pre-market — $DATE**
+
+**Market context**
+- Regime: equity [risk-on/neutral/off] · crypto [on/off] · drawdown [X]% from peak
+- Sectors leading: [list]
+- S&P futures [±X%] · VIX [X] · WTI [\$X, ±X%]
+- Key calendar/risks: [e.g. FOMC Wed Jun 17, or none]
+
+**Planned trades** — veto by deleting the trade's block in PENDING-TRADES.md (GitHub) before 3:30 PM Paris / 9:30 AM ET:
+
+**BUY [TICKER]** — [N] sh · ~\$[X] ([X]% equity) · [sleeve]
+- Catalyst: [specific, one line]
+- Entry ~\$[X] · Stop \$[X] (risk [X]%) · Target ~\$[X] · R:R [X]:1
+
+(repeat the BUY block for every planned trade)
+
+Total planned deployment: ~\$[X] ([X]% of equity) if all execute.
+[Caveats if any, e.g. skip [TICKER] if [condition].]"
+If NO trades, send instead:
+  bash scripts/clickup.sh "**Pre-market — $DATE**
+
+**Market context**
+- Regime: equity [X] · crypto [X] · drawdown [X]% from peak
+- Sectors leading: [list] · Key risks: [list]
+
+**No trades today.** Reason: [one line]."
 
 STEP 10 — Commit:
   git add memory/RESEARCH-LOG.md memory/PENDING-TRADES.md
