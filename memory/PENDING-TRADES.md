@@ -8,8 +8,15 @@ Edit this file directly on GitHub. Market-open will only execute trades still li
 
 ---
 
-## Pending Trades — 2026-06-14
+## Pending Trades — 2026-06-14 (for Mon Jun 15 open)
 
-To veto: delete the trade block below before **3:30 PM Paris / 9:30 AM ET** on GitHub.
+To veto: delete the trade block below before **3:30 PM Paris / 9:30 AM ET Monday** on GitHub.
 
 ---
+
+**BUY SMH — 0.69 shares — ~$268 (24.8% eq) — [sector/index ETF]**
+
+- Catalyst: AI capex → semiconductor leadership; broadening risk-on rotation
+- Quant: 4/5 (trend✓ momentum✓ rel_strength✓ volume✓ over-extended✗)
+- Entry: ~$388.30 | Stop: $373.91 (−2×ATR, real GTC after fill) | risk/sh $14.39 | real risk $9.93 (0.92% eq) | R:R 2:1
+- Note: holds into FOMC (Wed Jun 17) + Core PCE (Thu Jun 18). Mildly over-extended.

@@ -98,3 +98,21 @@ TRADE or HOLD (default HOLD if no edge)
 - Max 3 trades/week: at limit — no further new entries this week
 - All trades listed in PENDING-TRADES.md; veto by deleting trade block before 3:30 PM Paris / 9:30 AM ET Monday
 - Conditional: if market opens with FOMC-risk caution, execute MU + GD only and skip LRCX
+
+---
+
+## 2026-06-14 — Pre-market (Sunday; research for Mon Jun 15 session)
+
+**Account:** equity $1,080 / cash $1,080 (100%) / drawdown-from-peak 0% (peak $1,080) / 0 open positions / 0 week trades. Fresh paper account (created today). Prior $25k MU/GD/LRCX entries above are from the old $100k era — void.
+
+**Regime:** equity **risk_on** (SPY 690.62 > rising 50d 680.60) | crypto **risk_off** (BTC 108,211 < falling 50d 114,364 → no new crypto; handled by 24/7 routine).
+
+**Macro / event week:** FOMC **Wed Jun 17** (expected hold 3.75%, dot-plot = the risk) → **Core PCE Thu Jun 18** → **Fri Jun 19 market closed (Juneteenth)**. Entering Monday = holding into FOMC + PCE. Leading theme: **AI capex → semiconductors**; broadening rotation (equal-weight S&P new highs, small caps gaining).
+
+**Candidates (catalyst + quant):**
+- **SMH (semis ETF)** — catalyst: AI capex spillover to semis, sector leadership, broadening rotation — quant **4/5** (trend✓ momentum✓ rel_strength✓ volume✓ over-extended✗) — entry ~$388.30 | stop $373.91 (−2ATR) | risk/sh $14.39 | shares 0.69 (25% cap binds) | ~$268 (24.8% eq) | real risk $9.93 (0.92%) | R:R 2:1
+- LRCX — quant 3/5, confirmed, but **rejected**: redundant correlated semi single-name; stacking 2 same-theme bets into FOMC adds no diversification, only event risk.
+
+**Rejected:** NVDA (quant 2/5), MU (2/5), AVGO (1/5), ORCL (1/5) — failed quant confirmation. LRCX — theme-correlation/event-risk (see above).
+
+**Decision: TRADE SMH (1 position).** One diversified ETF expression of the leading AI/semi theme, sized to the 25% cap (risk <1% of equity). Deliberately conservative for a brand-new account into a binary FOMC/PCE week — patience > activity. Will reassess adding a second name after the Fed clears Wednesday if the uptrend holds. Note SMH is mildly over-extended (chasing strength); stop is real GTC at $373.91.
