@@ -123,7 +123,7 @@ Keep the book to **3–4 positions**, diversified (no more than ~2 in one theme)
 | **Sector / index ETFs** (SPY, QQQ, XLE, SMH…) | Core / theme | up to full book | Sector rotation without single-stock blow-ups |
 | **Leveraged ETFs** (TQQQ, SOXL, 2–3x) | Leverage sleeve | ≤ 1 position, ≤ 15% equity | Hold SHORT (1–5 days) — daily decay punishes long holds; wider stop → smaller size |
 | **Inverse ETFs** (SH, SQQQ) | Downside sleeve | ≤ 1 position, ≤ 15% equity | **Risk-off only.** Hold SHORT (1–5 days), decays like leveraged; the long-only way to play declines |
-| **Crypto** (BTC, ETH, liquid majors) | Satellite | ≤ 30% equity total | 24/7, no PDT, fractional; gated on BTC's own regime; wider stops; can gap overnight |
+| **Crypto** (BTC, ETH, liquid majors) | Satellite | ≤ 30% equity total, ≤ 2 positions | 24/7, no PDT, fractional; gated on BTC's own regime; managed by the 24/7 crypto routine; protective stop = `stop_limit` (no stop-market/trailing for crypto); can gap overnight |
 
 **Liquidity rule:** only names liquid enough that a small order doesn't move price.
 Avoid illiquid micro-caps and thin crypto.
@@ -162,3 +162,7 @@ Avoid illiquid micro-caps and thin crypto.
 - **Daily-summary:** Always send, one message, under 15 lines.
 - **Weekly-review:** Always send, headline numbers. Update this strategy file if rules
   prove out or fail over 2+ weeks.
+- **Crypto (24/7 routine):** runs ~every 6h including weekends. Unlike equities, it
+  **auto-executes** crypto within all caps (3% risk, ≤30% sleeve, ≤2 crypto positions,
+  ≤4 total, ≤12% heat, drawdown breaker) and notifies AFTER acting — the 24/7 nature makes
+  a pre-trade veto impractical. It also manages crypto exits every run (stop_limit + market sells).
