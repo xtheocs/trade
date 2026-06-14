@@ -1,196 +1,164 @@
 # Trading Strategy
 
 ## Mission
-Beat the S&P 500 over the challenge window. Stocks only — no options, ever.
-Style: momentum / trend following. Buy strength, follow sectors, ride macro themes.
-This file is updated by the weekly review if rules prove out or fail over 2+ weeks.
+Grow the account as fast as is *survivable*. Absolute return — not measured against
+the S&P 500. Survive first, compound second: a blown-up account can't compound.
+Style: **catalyst-driven swing trading (days to weeks), quant-confirmed.**
+
+**Target:** ~10%/month is the *stretch* aim for a good month; ~3–5% is a solid month;
+red months are normal. There is **no floor** — never break a risk rule to hit a number.
+
+Currently $100k paper; the live account will be small (<$1k). Every rule is written
+in **% of equity**, so the same strategy runs identically at any account size.
+This file is updated by the weekly review when rules prove out or fail over 2+ weeks.
+
+---
 
 ## Capital & Constraints
-- Starting capital: ~$100,000 (paper to start)
-- Platform: Alpaca
-- Instruments: Stocks ONLY — no options, ever
-- Max positions: 6
-- Target deployment: 75-85% of equity (~$75,000–$85,000)
+- **Sizing is always % of current equity — never fixed dollars** (scales paper → live).
+- Live account <$1k → **cash account, no margin** (margin needs $2k). Leverage comes
+  only from leveraged ETFs and instrument volatility — never borrowed money.
+- **PDT-aware:** under $25k equity = max 3 day-trades per 5 business days. We swing
+  (hold overnight), so day-trades stay near zero. Never open+close the same name the
+  same day except a stop-out.
+- **Instruments allowed:** stocks, ETFs (fractional), leveraged ETFs, inverse ETFs, crypto.
+  **NO options. No short selling** — downside is played via inverse ETFs (e.g. SH, SQQQ),
+  not short sales (which need margin you won't have).
+- **Holding period:** days to a few weeks. Not intraday, not multi-month.
 
 ---
 
 ## Core Risk Rules (non-negotiable)
-1. NO OPTIONS — ever
-2. Maximum 6 open positions
-3. Maximum 25% per position (~$25,000), except health/biotech: max $12,500
-4. Maximum 3 new trades per week
-5. 10% trailing stop on every new position as a real GTC order — placed immediately after fill
-6. Cut losers at -10% manually, no exceptions, no hoping
-7. Tighten trailing stop: 8% when position up +15%, 6% when up +20%
-8. Never tighten within 3% of current price. Never move a stop down.
-9. Exit a sector after 2 consecutive failed trades in that sector
-10. Patience > activity. Zero trades in a week can be the right answer.
-11. Time stop: if a position hasn't moved significantly after 10 trading days → close to free capacity
+1. **Risk per trade ≤ 3% of equity** — the most you lose if the stop hits. Master dial.
+2. **Portfolio heat ≤ 12%** — sum of open risk across all positions (≈ four 3% trades).
+3. **Max 3–4 concurrent positions.**
+4. **Drawdown circuit breaker:** if equity falls **20% below its peak**, STOP opening
+   new trades, alert the owner, and only manage existing positions until owner resumes.
+5. **Minimum reward:risk 2:1** on every entry (target 2–3:1).
+6. **Position size = (0.03 × equity) ÷ per-share stop distance**, hard-capped at
+   **25% of equity** per position (smaller for crypto / leveraged ETFs — see below).
+7. Every position gets a **protective stop placed immediately after fill.**
+8. **Cut at the stop. No exceptions, no averaging down, no hoping.**
+9. Never move a stop down. Never widen a stop. Only tighten.
+10. **Time stop:** no meaningful progress after ~7 trading days → close, free the capital.
+11. Patience > activity. Zero trades is a valid week. On a small account, overtrading
+    bleeds you through spreads.
 
 ---
 
-## Entry Gate (ALL must pass before placing any buy order)
-- Total positions after fill <= 6
-- Trades this week (including this one) <= 3
-- Position cost <= 25% of equity ($25,000 max; $12,500 for biotech)
-- Position cost <= available cash
-- Specific catalyst documented in today's RESEARCH-LOG
-- Instrument is a stock (not an option)
-- Sector is in confirmed uptrend per today's research
-- Trade must satisfy at least 2 of the 3 entry filters below
-- Trade is listed in memory/PENDING-TRADES.md (owner has not vetoed it)
+## Market Regime Filter (check before ANY new long)
+Computed from **Alpaca price data**, not headlines.
+
+**Equity / ETF regime — SPY vs its 50-day SMA:**
+- **Risk-on** (SPY above a rising 50-day): trade long equity / ETFs normally.
+- **Neutral** (SPY chopping around its 50-day): half size, best setups only.
+- **Risk-off** (SPY below a falling 50-day, or a sharp broad selloff): **no new long
+  equity.** Inverse-ETF longs (SQQQ/SH — capped, held short) ARE allowed here — this is
+  the sanctioned way to play the downside. Tighten/trim existing longs.
+
+**Crypto regime — judged separately, BTC vs its own 50-day SMA:**
+- Crypto runs its own cycle, so crypto setups gate on BTC's trend, not SPY.
+- BTC above a rising 50-day → crypto risk-on. BTC below a falling 50-day → no new crypto.
+
+Don't fight the tape — most momentum trades fail against their own regime.
 
 ---
 
-## Three Entry Filters (minimum 2 must apply to every trade)
+## Entry Method — Catalyst-led, Quant-confirmed
+A trade needs BOTH a reason and confirmation.
 
-**FILTER 1 — SECTOR ROTATION**
-The sector must be in confirmed uptrend: leading YTD, recent outperformance vs S&P,
-positive rating in current Schwab/State Street sector research.
-Avoid: consumer discretionary, real estate (soft revenue/FCF trends in 2025/2026).
-Currently favoured: technology, industrials, energy, materials, health care.
+**Step 1 — Catalyst (the reason; from Perplexity/WebSearch):**
+A specific, recent event driving the name — earnings beat / raised guidance, contract
+win, analyst upgrade, product launch, sector-moving macro or commodity news, regulatory
+approval, crypto protocol/flow catalyst. No catalyst → no trade.
 
-**FILTER 2 — MACRO THEME**
-Trade must align with at least one running macro narrative:
-- AI infrastructure: semiconductor equipment, data-center buildout, memory/optical fiber demand
-- Defence spending: US defence budget +15% FY2026 (OBBBA), shipbuilding, missiles, cybersecurity
-- Energy transition & security: renewables, grid infrastructure, copper/lithium miners
-- Reshoring & manufacturing: domestic fabs, industrial automation, materials for new plants
+**Step 2 — Quant confirmation (the proof; computed from ALPACA BARS ONLY):**
+> Never trust prices or percentages quoted by Perplexity. Pull bars from Alpaca and
+> compute every number yourself.
 
-**FILTER 3 — NEWS CATALYST**
-A specific event is driving the move today:
-earnings beat, contract win, analyst upgrade, FDA approval, partnership announcement,
-commodity price surge, legislation passed.
-Headlines mentioning "beats by", "revenue up X%", "raises guidance", "awarded $X contract",
-"new 52-week high", "surges X% on heavy volume" all count.
+Require **at least 3 of 5**:
+- **Trend:** price above a rising 20-day SMA.
+- **Momentum:** positive 10-day return AND price within ~5% of its 20-day high.
+- **Relative strength:** outperforming SPY over the last 10–20 days.
+- **Volume:** today's volume above its 20-day average (real participation).
+- **Not over-extended:** not more than ~2 ATR above the 20-day SMA (don't chase blow-offs).
 
----
+*Crypto adaptation:* measure relative strength vs **BTC** (not SPY), and gate on the
+crypto regime (BTC's 50-day) from §4. All other checks use the coin's own Alpaca bars.
 
-## Sell-Side Rules (evaluated at midday scan and opportunistically)
-- Unrealized loss <= -10%: close immediately, no exceptions
-- Thesis broken: close even if not at -10% (catalyst invalidated, sector rolling over, bad news)
-- Up +20% or more: cancel stop, place new trailing stop at 6%
-- Up +15% or more: cancel stop, place new trailing stop at 8%
-- 2 consecutive failed trades in a sector: exit ALL positions in that sector
-- Time stop: close if no meaningful movement after 10 trading days
+**Step 3 — Regime check** is risk-on or neutral.
+
+Catalyst + ≥3/5 quant + acceptable regime → candidate for PENDING-TRADES.md.
 
 ---
 
-## Strategy Allocation Model (how to fill 6 positions)
-
-| Strategy | Max slots | Position size | Current macro tailwind |
-|----------|-----------|--------------|----------------------|
-| AI Infrastructure | 2 | $25,000 each | Semiconductor capex +37% earnings growth 2026 |
-| Defense & Reshoring | 2 | $25,000 each | US defence budget >$1T, +15% FY2026 |
-| Energy & Materials | 1 | $25,000 | Supply disruptions, commodity demand from AI+EVs |
-| Health/Biotech | 1 | $12,500 ONLY | FDA approvals, GLP-1, genomics — binary risk |
-| FinTech/Digital | 1 | $25,000 | Only if compelling catalyst; sector is neutral |
-
-Never put more than 2 positions in any single strategy bucket.
+## Stops & Sizing (ATR-based)
+- Pull **14-day ATR** from Alpaca. Initial **stop = entry − 2×ATR**.
+- **Position size = (0.03 × equity) ÷ (entry − stop)** → auto-shrinks for volatile names.
+- Hard cap **25% of equity** per single position, whatever the math says.
+- **Target ≥ 2× the stop distance** (enforces the 2:1 minimum).
+- The 2:1 is a **setup filter, not a take-profit**: a trade needs ≥2R of room *before*
+  entry, but once in, winners are managed by the trailing stop (§7) — never auto-sold at
+  exactly 2R. Let winners run; the big runs pay for the losers.
 
 ---
 
-## Strategy 1 — AI Infrastructure Momentum
-
-**Candidate signals (Perplexity research each morning):**
-- "record sales", "orders surge", "beats earnings", "new data-center contract", "launches AI chip"
-- Semiconductor manufacturers, memory suppliers, cloud infrastructure, optical fiber, power semis
-- Analyst upgrades tied to AI capex or data-center demand
-- Headlines: "new 52-week high", "surges X% on heavy volume"
-
-**Entry:** Catalyst + price momentum (>5% daily move OR near 52-week high) + sector tailwind confirmed
-**Profit target:** 20-30% gain, or if news suggests overheating/overvaluation
-**Exit early:** No positive news for >3 consecutive days; momentum fades; downgrade or guidance cut
-**Avoid:** Mega-cap AI names with stretched valuations — too crowded
+## Sell-Side Rules
+- **Initial stop hit** → close. No exceptions.
+- **Lock gains:** once up ≥ +1×ATR, move stop to breakeven; then trail behind the
+  10-day low or by ATR. Tighten as it runs — never loosen.
+- **Thesis broken** (catalyst invalidated, sector rolling over, bad news) → close even
+  if the stop isn't hit.
+- **Time stop:** no meaningful progress in ~7 trading days → close.
+- **Regime flips risk-off** → trim and tighten across the book.
 
 ---
 
-## Strategy 2 — Defense & Reshoring Momentum
+## Tradeable Universe & Allocation
+Keep the book to **3–4 positions**, diversified (no more than ~2 in one theme):
 
-**Candidate signals:**
-- "awarded $X billion contract", "Congress approves appropriation", "backlog grows"
-- Prime contractors, missile/shipbuilding suppliers, cybersecurity for military, industrial automation
-- Reshoring: new domestic manufacturing facilities, government incentives, supply-chain partnerships
-- Industrials sector favoured by Schwab due to AI infrastructure + defence + energy spending
+| Sleeve | Role | Max exposure | Notes |
+|--------|------|-------------|-------|
+| **Stocks** (liquid large/mid-cap) | Core | up to full book | Fractional; single-name catalyst plays |
+| **Sector / index ETFs** (SPY, QQQ, XLE, SMH…) | Core / theme | up to full book | Sector rotation without single-stock blow-ups |
+| **Leveraged ETFs** (TQQQ, SOXL, 2–3x) | Leverage sleeve | ≤ 1 position, ≤ 15% equity | Hold SHORT (1–5 days) — daily decay punishes long holds; wider stop → smaller size |
+| **Inverse ETFs** (SH, SQQQ) | Downside sleeve | ≤ 1 position, ≤ 15% equity | **Risk-off only.** Hold SHORT (1–5 days), decays like leveraged; the long-only way to play declines |
+| **Crypto** (BTC, ETH, liquid majors) | Satellite | ≤ 30% equity total | 24/7, no PDT, fractional; gated on BTC's own regime; wider stops; can gap overnight |
 
-**Entry:** Contract/funding catalyst + price momentum (>4% daily move OR near 52-week high) + sector positive
-**Profit target:** 15-25% (defence stocks less volatile than tech)
-**Exit early:** Legislation stalls, contract cancelled, peace reducing defence budgets
-**Time stop:** 3 weeks if thesis hasn't played out
-
----
-
-## Strategy 3 — Energy & Materials Momentum
-
-**Candidate signals:**
-- "oil surges on supply concerns", "copper prices hit two-year high", "OPEC cut"
-- Low-cost oil/gas producers, renewable developers with government contracts
-- Copper/lithium miners (AI datacenters + EV demand), industrial metals
-- State Street upgraded Energy and Materials to positive (supply disruption risk + structural demand)
-
-**Entry:** Commodity price catalyst or earnings beat + momentum + policy support
-**Profit target:** 20% energy, 25% volatile mining stocks
-**Exit early:** Geopolitical tensions ease (oil reversal), Schwab/State Street downgrade sector
-**Sizing note:** Commodity-sensitive small caps → half-size ($12,500)
+**Liquidity rule:** only names liquid enough that a small order doesn't move price.
+Avoid illiquid micro-caps and thin crypto.
 
 ---
 
-## Strategy 4 — Health/Biotech Catalysts (limited, $12,500 only)
-
-**Candidate signals:**
-- FDA approval, breakthrough designation, positive Phase-III data
-- GLP-1 weight-loss drugs, CRISPR/gene-editing, AI diagnostics, telehealth
-- Partnership/acquisition announcements at premium; medical device regulatory approvals
-
-**Entry:** Confirmed regulatory catalyst (NOT ahead of unconfirmed trial readouts)
-  Stock must jump >7% on news before considering entry
-**Profit target:** 30-40% (high volatility, explosive moves)
-**Exit immediately:** Negative trial outcome or regulatory setback
-**Max size:** $12,500 ALWAYS — binary risk, never full position
-
----
-
-## Strategy 5 — FinTech/Digital Transformation (only when compelling)
-
-**Candidate signals:**
-- Double-digit revenue/user growth, profitability improvement, major bank partnership
-- Mobile payments, digital settlement, AI personal finance, blockchain infrastructure
-- Regulatory modernization enabling new products
-
-**Entry:** Strong earnings + partnership catalyst + >5% move + reasonable valuation
-**Profit target:** 15-20% (competition and regulatory risk)
-**Exit early:** Adverse policy, security breach, momentum fades
-**Note:** Financials are NEUTRAL rated — only allocate when catalyst is exceptional
-
----
-
-## Momentum Proxy Rules (since bot cannot compute technical indicators)
-
-Use these news-based proxies instead of indicators:
-- **52-week high:** Look for headlines "new 52-week high", "all-time high", "multi-year high"
-- **Volume surge:** Headlines mentioning "on heavy volume", "volume X times average"
-- **Daily move:** Stock must move >4-5% on news day (mentioned in articles or in Alpaca quote vs prior close)
-- **No positive news >3 days:** Momentum has faded — prepare to exit
+## Candidate Sourcing (pre-market)
+1. Scan catalysts (Perplexity/WebSearch): market-moving news, top movers, sector
+   leadership, earnings, contracts, commodity/crypto moves.
+2. For each catalyst name, pull Alpaca bars and run the quant confirmation.
+3. Check regime. Rank survivors by catalyst strength × quant score; take the best that
+   fit open slots and the heat budget.
+4. **If the equity regime is risk-off:** also scan for inverse-ETF setups (SQQQ/SH) — a
+   confirmed broad downtrend is the catalyst for the downside sleeve. Don't just sit in
+   cash if a clean downtrend is in play.
 
 ---
 
 ## Pre-market Research Priority (in order)
-
-1. Which S&P 500 sectors are leading/lagging this week? (sector rotation check)
-2. Macro theme updates: AI capex, defence spending, commodity moves, reshoring news
-3. S&P 500 futures direction and VIX level
-4. Earnings beats/misses today before open
-5. Economic calendar (CPI, PPI, FOMC, jobs)
-6. WTI/Brent oil and key commodity prices
-7. Top pre-market volume movers and why (momentum proxy)
-8. Breaking news on any currently-held ticker
+1. Market regime — SPY vs 50-day SMA, broad risk-on/off (verify via Alpaca).
+2. Overnight / pre-market catalysts and top movers — and why.
+3. Sector leadership this week.
+4. Earnings + economic calendar (don't hold into unplanned binary events).
+5. Crypto majors overnight action (24/7).
+6. News on any currently-held position.
+7. **In risk-off:** candidate inverse-ETF setups (SQQQ/SH) for the downside sleeve.
 
 ---
 
 ## Autonomy & Notification Rules
-
-- **Pre-market:** ALWAYS notify ClickUp with planned trades + rationale. Owner has until market-open (3:30 PM Paris / 9:30 AM ET) to veto by deleting trade blocks in memory/PENDING-TRADES.md on GitHub.
+- **Pre-market:** ALWAYS notify ClickUp with planned trades + rationale. Owner has until
+  market-open (3:30 PM Paris / 9:30 AM ET) to veto by deleting trade blocks in
+  memory/PENDING-TRADES.md on GitHub.
 - **Market-open:** Execute only what is in PENDING-TRADES.md. Silent unless trades placed.
 - **Midday:** Notify only if action taken (sell, stop tightened, thesis exit).
 - **Daily-summary:** Always send, one message, under 15 lines.
-- **Weekly-review:** Always send, headline numbers. Update this strategy file if rules prove out or fail over 2+ weeks.
+- **Weekly-review:** Always send, headline numbers. Update this strategy file if rules
+  prove out or fail over 2+ weeks.
