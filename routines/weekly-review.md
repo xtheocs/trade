@@ -40,7 +40,7 @@ memory/TRADING-STRATEGY.md and call out the change in the review. Be conservativ
 never churn rules on a single week's noise.
 
 STEP 6 — Send ONE ClickUp message (always, ≤15 lines):
-  bash scripts/clickup.sh "Week ending MMM DD | Equity \$X (±X% wk, ±X% phase) | DD −X%
+  bash scripts/clickup.sh --channel "$CLICKUP_CHANNEL_SUMMARY" "Week ending MMM DD | Equity \$X (±X% wk, ±X% phase) | DD −X%
   vs S&P (FYI): ±X% | Trades N (W:X / L:Y / open:Z) | Win X%
   Best SYM +X% | Worst SYM −X% | Profit factor X
   Takeaway: <one line> | Grade: <letter>"
