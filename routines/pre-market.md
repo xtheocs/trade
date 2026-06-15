@@ -89,31 +89,37 @@ If none:
 No trades. Reason: [one line].
 
 STEP 9 — ALWAYS notify ClickUp. MOBILE layout: each field on its own short line, bold the
-title/section/ticker lines, "·" as the in-line separator, NO emojis, NO 4-space indents,
-NO long pipe-walls. Render the date as DD-MM-YYYY. $[amount] is the position size in
-dollars; $[price] fields are per-share prices. If trades are planned:
-  bash scripts/clickup.sh "**Pre-market [DD-MM-YYYY]** (for [next trading day DD-MM])
+title/section/ticker lines, "·" as the in-line separator, NO emojis, NO 4-space indents.
+Date as DD-MM-YYYY. Tag the instrument type after the ticker: (stock) (ETF) (leveraged ETF)
+(inverse ETF) (crypto). $[amount] = dollars in the position; $[price] = per-share price.
+Include a macro line (Oil/VIX/futures) ONLY when it is notably moving or directly relevant
+to a planned trade — otherwise omit it (Leading sectors is enough). The "Why" must be plain
+English explaining what is actually driving the move — no jargon. If trades are planned:
+  bash scripts/clickup.sh "**Pre-market [DD-MM-YYYY]** (for [Weekday DD-MM] open)
 eq [risk_on/neutral/off] · crypto [on/off]
 DD from peak: [X]%
 Equity: \$[X]
-Leading: [top sectors] · VIX [X] · WTI [±X%]
+Leading sectors: [top sectors]
 
-**Planned trades** — veto on GitHub before 3:30 PM Paris:
+**Planned trades**
 
-**BUY [TICKER]**
+**BUY [TICKER]** ([type])
 [N] sh · ~\$[amount] ([X]% eq)
-Entry ~\$[price] · Stop \$[price] (-2 ATR) · Target ~\$[price] · R:R [X]:1
-[catalyst, one short line] · Quant [N]/5
+Entry ~\$[price]
+Stop \$[price] (-2 ATR)
+Target ~\$[price] (R:R [X]:1)
+Quant [N]/5 · Risk ~\$[X] ([X]% eq)
+Why: [plain-English reason — what is driving it, one short line]
 
 (repeat the BUY block per trade)
 
-Note: [one concise line — caveats / skipped names]"
+Veto: delete the block in PENDING-TRADES.md before 3:30 PM Paris"
 If NO trades, send instead:
-  bash scripts/clickup.sh "**Pre-market [DD-MM-YYYY]** (for [next trading day DD-MM])
+  bash scripts/clickup.sh "**Pre-market [DD-MM-YYYY]** (for [Weekday DD-MM] open)
 eq [X] · crypto [X]
 DD from peak: [X]%
 Equity: \$[X]
-Leading: [top sectors] · Key risk: [calendar]
+Leading sectors: [top sectors]
 
 No trades today.
 Reason: [one line]"

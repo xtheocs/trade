@@ -56,13 +56,16 @@ Date | Ticker | Sleeve | Shares | Entry | Stop(−2ATR) | Risk/sh | Risk% | Cata
 STEP 8 — Update memory/PENDING-TRADES.md: Executed [TICKER xN @ $X] / Skipped [TICKER — reason].
 
 STEP 9 — Notify ClickUp ONLY if ≥1 trade placed. MOBILE layout, no emojis, no indentation,
-date DD-MM-YYYY. $[amount] = dollars in; $[price] = per-share price.
+date DD-MM-YYYY. Tag instrument type after the ticker — (stock)/(ETF)/(crypto) etc.
+$[amount] = dollars in the position; $[price] = per-share price; "Why" = plain English.
   bash scripts/clickup.sh "**Trades executed [DD-MM-YYYY]**
 
-**[TICKER]**
+**[TICKER]** ([type])
 bought [N] sh @ \$[price] · ~\$[amount] ([X]% eq)
-Stop \$[price] (-2 ATR) · R:R [X]:1
-[catalyst, one short line]
+Stop \$[price] (-2 ATR)
+Target ~\$[price] (R:R [X]:1)
+Quant [N]/5 · Risk ~\$[X] ([X]% eq)
+Why: [plain-English reason, one short line]
 
 (repeat the block per fill)
 
