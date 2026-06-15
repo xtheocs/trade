@@ -133,3 +133,21 @@ TRADE or HOLD (default HOLD if no edge)
 **Rejected:** ADBE — earnings beat+raised but CFO departure weighing on the stock (mixed catalyst, no quant run). GM/USFD — defense/logistics contracts too small to move large-caps. Premarket gainers (DFNS, ADTX, DSY, BYAH, CUPR…) — illiquid microcaps, fail liquidity rule. No second clean liquid name surfaced.
 
 **Decision: TRADE SMH (1 position).** Carry forward the single-ETF expression of the leading AI/semi theme, sized to the 25% cap (real risk ~1% eq). Deliberately one name into a binary FOMC/PCE week — patience > activity. Entry/stop refreshed up ~$8 vs Jun 14 as semis rallied; SMH mildly over-extended (chasing strength) but 4/5 confirmed. Real GTC stop at $380.27 after fill. Reassess adding a 2nd name after the Fed clears Wednesday if the uptrend holds.
+
+---
+
+## 2026-06-15 — Pre-market (REFRESH — updated data feed; supersedes earlier 06-15 entry)
+
+**Account:** equity $1,080 / cash $1,080 (100%) / drawdown-from-peak 0% (peak $1,080) / 0 open positions / 0 week trades. (Data feed refreshed materially vs earlier 06-15 entry — SPY now 741.67 vs 692; re-running with current Alpaca bars.)
+
+**Regime:** equity **risk_on** (SPY 741.67 > rising 50d 722.75; S&P futures +1.2%, Nasdaq +1.9%) | crypto **risk_off** (BTC 66,384 < falling 50d 73,679 — owned by 24/7 routine, not this run).
+
+**Macro / event week:** Dominant catalyst = **US–Iran interim peace deal** → Strait of Hormuz reopening → global relief rally, oil to 3-month low. Light calendar today (Empire Mfg, Industrial Production). **FOMC Wed Jun 17** (new Chair Warsh's first decision — the risk). Entering Mon = holding into FOMC. Leading: semis/IT, memory-storage surging; airlines bid on cheap fuel. Energy under pressure (oil down).
+
+**Candidates (catalyst + quant):**
+- **STX (stock)** — catalyst: memory/storage complex surging (+6%+ premkt), AI-storage demand, risk-on rotation — quant **5/5** (trend✓ momentum✓ rel_strength✓ volume✓ not_extended✓) — entry ~$930.75 | stop $819.92 (−2ATR) | risk/sh $110.83 | shares 0.290 (25% cap binds) | ~$270 (25% eq) | real risk $32.15 (2.98% eq) | R:R 2:1
+- **UAL (stock)** — catalyst: Iran deal → oil 3-month low → airline fuel-cost tailwind; UAL +5.5% premkt — quant **5/5** (trend✓ momentum✓ rel_strength✓ volume✓ not_extended✓) — entry ~$115.52 | stop $104.88 (−2ATR) | risk/sh $10.64 | shares 2.337 (25% cap binds) | ~$270 (25% eq) | real risk $24.87 (2.30% eq) | R:R 2:1
+
+**Rejected:** MU — quant **3/5** (momentum✗ volume✗) despite being top premkt gainer; weakest of the surging memory names. SMH (4/5) / WDC (4/5) — same AI-memory/semi theme as STX; stacking correlated names adds event risk into FOMC, no diversification — took the single best (STX 5/5). Premarket microcap gappers (CAST, BYAH, CPOP…) — fail liquidity rule.
+
+**Decision: TRADE STX + UAL (2 positions).** Two 5/5 setups across two uncorrelated themes — AI-memory/storage (STX) and travel/cheap-oil beneficiary (UAL). Both sized to the 25% cap (~$270 each, 50% deployed), portfolio heat 5.3% (well under 12%). Leaves 1 of 3 weekly trades free. Real GTC −2ATR stops after fill (STX $819.92, UAL $104.88). Holding into Wed FOMC — stops protect; will reassess post-Fed.
