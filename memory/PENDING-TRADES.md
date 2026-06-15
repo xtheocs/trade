@@ -10,10 +10,9 @@ Edit this file directly on GitHub. Market-open will only execute trades still li
 
 ## Pending Trades — 2026-06-15 (for Mon Jun 15 open)
 
-To veto: delete the trade block below before **3:30 PM Paris / 9:30 AM ET Monday** on GitHub.
+**Outcome (market-open 2026-06-15):** No trades executed — both skipped on re-validation.
 
-### BUY STX — 0.290 shares — ~$270 (25% eq) — [stock]
-- Catalyst: memory/storage complex surging on risk-on rotation + AI-storage demand | quant 5/5 | entry ~$930.75 | stop $819.92 (−2×ATR) | risk/sh $110.83 | R:R 2:1
+- Skipped STX — price gapped from ~$930.75 to ask $1,064.57 (+14.4%); R:R degraded to 0.36:1 at ask / 1.22:1 at bid (stop $819.92 unchanged) — below 2:1 minimum, do not chase
+- Skipped UAL — price gapped from ~$115.52 to ask $130.20 (+12.7%); R:R degraded to 0.26:1 at ask / 1.63:1 at bid (stop $104.88 unchanged) — below 2:1 minimum, do not chase
 
-### BUY UAL — 2.337 shares — ~$270 (25% eq) — [stock]
-- Catalyst: US–Iran deal → oil 3-month low → airline fuel-cost tailwind | quant 5/5 | entry ~$115.52 | stop $104.88 (−2×ATR) | risk/sh $10.64 | R:R 2:1
+Regime: risk_on (SPY 753.13 > rising 50d 724.70). Positions: 0/4. Weekly trades: 0/3. Watchlist intact — will re-evaluate post-FOMC (Wed Jun 18) if pullback restores 2:1 entry on either name.
