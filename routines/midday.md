@@ -41,15 +41,15 @@ STEP 6 — Optional: if a name is moving sharply with no known cause, one Perple
 append an afternoon addendum to RESEARCH-LOG if relevant.
 
 STEP 7 — Notify ClickUp ONLY if action was taken (exit, stop moved, thesis close).
-Clean Markdown, no emojis, no indentation:
-  bash scripts/clickup.sh "**Midday update — $DATE**
+MOBILE layout, no emojis, no indentation, date DD-MM-YYYY.
+  bash scripts/clickup.sh "**Midday [DD-MM-YYYY]**
 
-- Closed [TICKER] @ \$[X] · P&L [±X]% · reason: [stop / thesis / time stop]
-- Tightened [TICKER] stop → \$[X] ([breakeven / locking +X%])
+[only the actions that happened, one per line:]
+Closed [TICKER] @ \$[price] · P&L [±X]% · [stop / thesis / time]
+Stop moved [TICKER] → \$[price] ([breakeven / locking +X%])
 
-(include only the actions that actually happened)
-
-Open positions: [SYM] [±X]% (stop \$[X]), ..."
+Open positions:
+[SYM] [±X]% · stop \$[price]"
 
 STEP 8 — Commit if memory changed:
   git add memory/TRADE-LOG.md memory/RESEARCH-LOG.md

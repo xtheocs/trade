@@ -55,16 +55,19 @@ Date | Ticker | Sleeve | Shares | Entry | Stop(−2ATR) | Risk/sh | Risk% | Cata
 
 STEP 8 — Update memory/PENDING-TRADES.md: Executed [TICKER xN @ $X] / Skipped [TICKER — reason].
 
-STEP 9 — Notify ClickUp ONLY if ≥1 trade placed. Clean Markdown, no emojis, no indentation:
-  bash scripts/clickup.sh "**Trades executed — $DATE**
+STEP 9 — Notify ClickUp ONLY if ≥1 trade placed. MOBILE layout, no emojis, no indentation,
+date DD-MM-YYYY. $[amount] = dollars in; $[price] = per-share price.
+  bash scripts/clickup.sh "**Trades executed [DD-MM-YYYY]**
 
-**[TICKER]** — bought [N] sh @ ~\$[X] ([X]% equity) · [sleeve]
-- Stop \$[X] (risk [X]%) · R:R [X]:1 · [catalyst]
+**[TICKER]**
+bought [N] sh @ \$[price] · ~\$[amount] ([X]% eq)
+Stop \$[price] (-2 ATR) · R:R [X]:1
+[catalyst, one short line]
 
 (repeat the block per fill)
 
-Skipped: [TICKER — reason] (omit this line if none)
-Open positions: [N]/4 · portfolio heat [X]%"
+Skipped: [TICKER — reason] (omit if none)
+Positions: [N]/4 · Heat [X]%"
 
 STEP 10 — Commit if trades placed:
   git add memory/TRADE-LOG.md memory/PENDING-TRADES.md

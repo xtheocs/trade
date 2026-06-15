@@ -65,16 +65,15 @@ Execute AT MOST ONE new entry per run:
         (S = entry − 2×ATR ; L = S − 0.5×ATR)
 Append the entry to TRADE-LOG: Date | Ticker | crypto | Qty | Entry | Stop | Risk/sh | Risk% | Catalyst | R:R.
 
-STEP 6 — Notify ClickUp AFTER any action (entry, exit, stop move). Clean Markdown, no
-emojis, no indentation:
-  bash scripts/clickup.sh "**Crypto — $DATE $(date +%H:%M)**
-BTC regime: [risk-on/neutral/off]
+STEP 6 — Notify ClickUp AFTER any action (entry, exit, stop move). MOBILE layout, no emojis,
+no indentation. $[amount] = dollars in; $[price] = per-coin price.
+  bash scripts/clickup.sh "**Crypto [DD-MM-YYYY] $(date +%H:%M)**
+BTC regime: [risk_on/neutral/off]
 
-- Bought [SYM] [qty] @ \$[X] ([X]% equity) · stop \$[X] (risk [X]%) · [catalyst]
-- Sold [SYM] @ \$[X] · P&L [±X]% · reason: [stop / thesis / time / regime]
-- Raised [SYM] stop → \$[X]
-
-(include only the actions that actually happened)"
+[only the actions that happened, one per line:]
+Bought [SYM] [qty] @ \$[price] · ~\$[amount] ([X]% eq) · stop \$[price]
+Sold [SYM] @ \$[price] · P&L [±X]% · [reason]
+Stop moved [SYM] → \$[price]"
 If no action this run → send NOTHING (stay silent).
 
 STEP 7 — Commit if memory changed:
