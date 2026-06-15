@@ -116,3 +116,20 @@ TRADE or HOLD (default HOLD if no edge)
 **Rejected:** NVDA (quant 2/5), MU (2/5), AVGO (1/5), ORCL (1/5) — failed quant confirmation. LRCX — theme-correlation/event-risk (see above).
 
 **Decision: TRADE SMH (1 position).** One diversified ETF expression of the leading AI/semi theme, sized to the 25% cap (risk <1% of equity). Deliberately conservative for a brand-new account into a binary FOMC/PCE week — patience > activity. Will reassess adding a second name after the Fed clears Wednesday if the uptrend holds. Note SMH is mildly over-extended (chasing strength); stop is real GTC at $373.91.
+
+---
+
+## 2026-06-15 — Pre-market (Mon Jun 15; for today's open)
+
+**Account:** equity $1,080 / cash $1,080 (100%) / drawdown-from-peak 0% (peak $1,080) / 0 open positions / 0 week trades.
+
+**Regime:** equity **risk_on** (SPY 692.18 > rising 50d 680.78; S&P futures +1.21% on Iran-deal hopes) | crypto **risk_off** (BTC 106,470 < falling 50d 114,241 — handled by 24/7 routine, not this run).
+
+**Macro / event week:** Today = Empire State Mfg 8:30 ET (minor). **FOMC Wed Jun 17** (hold expected; dot-plot is the risk) → **Core PCE Thu Jun 18** → **Fri Jun 19 closed (Juneteenth)**. Entering = holding into FOMC + PCE. Leading sectors: industrials, financials, tech/hyperscalers; AI-capex → semi theme intact.
+
+**Candidates (catalyst + quant):**
+- **SMH (semis ETF)** — catalyst: AI capex → semiconductor leadership; broadening risk-on rotation (futures +1.21%) — quant **4/5** (trend✓ momentum✓ rel_strength✓ volume✓ over-extended✗) — entry ~$396.53 | stop $380.27 (−2ATR) | risk/sh $16.26 | shares 0.68 (25% cap binds) | ~$270 (25% eq) | real risk $11.06 (1.02% eq) | R:R 2:1
+
+**Rejected:** ADBE — earnings beat+raised but CFO departure weighing on the stock (mixed catalyst, no quant run). GM/USFD — defense/logistics contracts too small to move large-caps. Premarket gainers (DFNS, ADTX, DSY, BYAH, CUPR…) — illiquid microcaps, fail liquidity rule. No second clean liquid name surfaced.
+
+**Decision: TRADE SMH (1 position).** Carry forward the single-ETF expression of the leading AI/semi theme, sized to the 25% cap (real risk ~1% eq). Deliberately one name into a binary FOMC/PCE week — patience > activity. Entry/stop refreshed up ~$8 vs Jun 14 as semis rallied; SMH mildly over-extended (chasing strength) but 4/5 confirmed. Real GTC stop at $380.27 after fill. Reassess adding a 2nd name after the Fed clears Wednesday if the uptrend holds.
