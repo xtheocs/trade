@@ -4,9 +4,7 @@
 #
 # Usage:
 #   bash scripts/quant.sh signal SYM           # stock/ETF: 5 checks vs SPY + ATR stop
-#   bash scripts/quant.sh signal BTC/USD crypto# crypto: checks vs BTC
 #   bash scripts/quant.sh regime               # SPY -> risk_on / neutral / risk_off
-#   bash scripts/quant.sh regime crypto        # BTC -> risk_on / neutral / risk_off
 #
 # Output is JSON. "confirmed": true means >=3 of 5 checks passed.
 
@@ -14,19 +12,18 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 ALP="bash $ROOT/scripts/alpaca.sh"
 
-fetch_bars() { # $1=symbol  $2=stock|crypto
-  if [[ "${2:-stock}" == crypto ]]; then $ALP crypto-bars "$1" 200; else $ALP bars "$1" 200; fi
+fetch_bars() { # $1=symbol
+  $ALP bars "$1" 200
 }
 
-mode="${1:?usage: signal SYM [crypto] | regime [crypto]}"; shift || true
+mode="${1:?usage: signal SYM | regime}"; shift || true
 
 case "$mode" in
   signal)
-    sym="${1:?usage: signal SYM [crypto]}"; kind="${2:-stock}"
-    if [[ "$kind" == crypto ]]; then bench="BTC/USD"; bkind="crypto"; else bench="SPY"; bkind="stock"; fi
-    sym_json="$(fetch_bars "$sym" "$kind")"
-    bench_json="$(fetch_bars "$bench" "$bkind")"
-    python3 - "$sym" "$kind" "$sym_json" "$bench_json" <<'PY'
+    sym="${1:?usage: signal SYM}"
+    sym_json="$(fetch_bars "$sym")"
+    bench_json="$(fetch_bars "SPY")"
+    python3 - "$sym" stock "$sym_json" "$bench_json" <<'PY'
 import json, sys
 sym, kind, sym_raw, bench_raw = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4]
 def bars(raw, symbol):
@@ -35,7 +32,7 @@ def bars(raw, symbol):
         b = b.get(symbol) or (next(iter(b.values()), []) if b else [])
     return b or []
 sb = bars(sym_raw, sym)
-bb = bars(bench_raw, "BTC/USD" if kind == "crypto" else "SPY")
+bb = bars(bench_raw, "SPY")
 if len(sb) < 55:
     print(json.dumps({"symbol": sym, "error": "insufficient bars", "n": len(sb)})); sys.exit(0)
 c = [x["c"] for x in sb]; h = [x["h"] for x in sb]; l = [x["l"] for x in sb]; v = [x["v"] for x in sb]
@@ -71,9 +68,8 @@ print(json.dumps(out, indent=2))
 PY
     ;;
   regime)
-    kind="${1:-stock}"
-    if [[ "$kind" == crypto ]]; then sym="BTC/USD"; else sym="SPY"; kind="stock"; fi
-    j="$(fetch_bars "$sym" "$kind")"
+    sym="SPY"
+    j="$(fetch_bars "$sym")"
     python3 - "$sym" "$j" <<'PY'
 import json, sys
 sym, raw = sys.argv[1], sys.argv[2]
@@ -93,5 +89,5 @@ print(json.dumps({"symbol": sym, "last": round(last, 4), "sma50": round(sma50, 4
 PY
     ;;
   *)
-    echo "usage: quant.sh signal SYM [crypto] | regime [crypto]" >&2; exit 1 ;;
+    echo "usage: quant.sh signal SYM | regime" >&2; exit 1 ;;
 esac

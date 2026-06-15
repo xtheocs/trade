@@ -21,7 +21,7 @@ This file is updated by the weekly review when rules prove out or fail over 2+ w
 - **PDT-aware:** under $25k equity = max 3 day-trades per 5 business days. We swing
   (hold overnight), so day-trades stay near zero. Never open+close the same name the
   same day except a stop-out.
-- **Instruments allowed:** stocks, ETFs (fractional), leveraged ETFs, inverse ETFs, crypto.
+- **Instruments allowed:** stocks, ETFs (fractional), leveraged ETFs, inverse ETFs.
   **NO options. No short selling** — downside is played via inverse ETFs (e.g. SH, SQQQ),
   not short sales (which need margin you won't have).
 - **Holding period:** days to a few weeks. Not intraday, not multi-month.
@@ -36,7 +36,7 @@ This file is updated by the weekly review when rules prove out or fail over 2+ w
    new trades, alert the owner, and only manage existing positions until owner resumes.
 5. **Minimum reward:risk 2:1** on every entry (target 2–3:1).
 6. **Position size = (0.03 × equity) ÷ per-share stop distance**, hard-capped at
-   **25% of equity** per position (smaller for crypto / leveraged ETFs — see below).
+   **25% of equity** per position (smaller for leveraged ETFs — see below).
 7. Every position gets a **protective stop placed immediately after fill.**
 8. **Cut at the stop. No exceptions, no averaging down, no hoping.**
 9. Never move a stop down. Never widen a stop. Only tighten.
@@ -56,10 +56,6 @@ Computed from **Alpaca price data**, not headlines.
   equity.** Inverse-ETF longs (SQQQ/SH — capped, held short) ARE allowed here — this is
   the sanctioned way to play the downside. Tighten/trim existing longs.
 
-**Crypto regime — judged separately, BTC vs its own 50-day SMA:**
-- Crypto runs its own cycle, so crypto setups gate on BTC's trend, not SPY.
-- BTC above a rising 50-day → crypto risk-on. BTC below a falling 50-day → no new crypto.
-
 Don't fight the tape — most momentum trades fail against their own regime.
 
 ---
@@ -70,7 +66,7 @@ A trade needs BOTH a reason and confirmation.
 **Step 1 — Catalyst (the reason; from Perplexity/WebSearch):**
 A specific, recent event driving the name — earnings beat / raised guidance, contract
 win, analyst upgrade, product launch, sector-moving macro or commodity news, regulatory
-approval, crypto protocol/flow catalyst. No catalyst → no trade.
+approval. No catalyst → no trade.
 
 **Step 2 — Quant confirmation (the proof; computed from ALPACA BARS ONLY):**
 > Never trust prices or percentages quoted by Perplexity. Pull bars from Alpaca and
@@ -82,9 +78,6 @@ Require **at least 3 of 5**:
 - **Relative strength:** outperforming SPY over the last 10–20 days.
 - **Volume:** today's volume above its 20-day average (real participation).
 - **Not over-extended:** not more than ~2 ATR above the 20-day SMA (don't chase blow-offs).
-
-*Crypto adaptation:* measure relative strength vs **BTC** (not SPY), and gate on the
-crypto regime (BTC's 50-day) from §4. All other checks use the coin's own Alpaca bars.
 
 **Step 3 — Regime check** is risk-on or neutral.
 
@@ -123,16 +116,15 @@ Keep the book to **3–4 positions**, diversified (no more than ~2 in one theme)
 | **Sector / index ETFs** (SPY, QQQ, XLE, SMH…) | Core / theme | up to full book | Sector rotation without single-stock blow-ups |
 | **Leveraged ETFs** (TQQQ, SOXL, 2–3x) | Leverage sleeve | ≤ 1 position, ≤ 15% equity | Hold SHORT (1–5 days) — daily decay punishes long holds; wider stop → smaller size |
 | **Inverse ETFs** (SH, SQQQ) | Downside sleeve | ≤ 1 position, ≤ 15% equity | **Risk-off only.** Hold SHORT (1–5 days), decays like leveraged; the long-only way to play declines |
-| **Crypto** (BTC, ETH, liquid majors) | Satellite | ≤ 30% equity total, ≤ 2 positions | 24/7, no PDT, fractional; gated on BTC's own regime; managed by the 24/7 crypto routine; protective stop = `stop_limit` (no stop-market/trailing for crypto); can gap overnight |
 
 **Liquidity rule:** only names liquid enough that a small order doesn't move price.
-Avoid illiquid micro-caps and thin crypto.
+Avoid illiquid micro-caps.
 
 ---
 
 ## Candidate Sourcing (pre-market)
 1. Scan catalysts (Perplexity/WebSearch): market-moving news, top movers, sector
-   leadership, earnings, contracts, commodity/crypto moves.
+   leadership, earnings, contracts, commodity moves.
 2. For each catalyst name, pull Alpaca bars and run the quant confirmation.
 3. Check regime. Rank survivors by catalyst strength × quant score; take the best that
    fit open slots and the heat budget.
@@ -147,9 +139,8 @@ Avoid illiquid micro-caps and thin crypto.
 2. Overnight / pre-market catalysts and top movers — and why.
 3. Sector leadership this week.
 4. Earnings + economic calendar (don't hold into unplanned binary events).
-5. Crypto majors overnight action (24/7).
-6. News on any currently-held position.
-7. **In risk-off:** candidate inverse-ETF setups (SQQQ/SH) for the downside sleeve.
+5. News on any currently-held position.
+6. **In risk-off:** candidate inverse-ETF setups (SQQQ/SH) for the downside sleeve.
 
 ---
 
@@ -162,7 +153,3 @@ Avoid illiquid micro-caps and thin crypto.
 - **Daily-summary:** Always send, one message, under 15 lines.
 - **Weekly-review:** Always send, headline numbers. Update this strategy file if rules
   prove out or fail over 2+ weeks.
-- **Crypto (24/7 routine):** runs ~every 6h including weekends. Unlike equities, it
-  **auto-executes** crypto within all caps (3% risk, ≤30% sleeve, ≤2 crypto positions,
-  ≤4 total, ≤12% heat, drawdown breaker) and notifies AFTER acting — the 24/7 nature makes
-  a pre-trade veto impractical. It also manages crypto exits every run (stop_limit + market sells).

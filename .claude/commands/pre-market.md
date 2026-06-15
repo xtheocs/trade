@@ -52,12 +52,12 @@ STEP 5 — Write memory/PENDING-TRADES.md with planned trades (or no-trade note)
 STEP 6 — ALWAYS notify ClickUp. MOBILE layout: each field on its own short line, bold the
 title/section/ticker lines, "·" as the in-line separator, NO emojis, NO 4-space indents.
 Date as DD-MM-YYYY. Tag the instrument type after the ticker: (stock) (ETF) (leveraged ETF)
-(inverse ETF) (crypto). $[amount] = dollars in the position; $[price] = per-share price.
+(inverse ETF). $[amount] = dollars in the position; $[price] = per-share price.
 Every number comes from Alpaca (account + quant.sh), never from Perplexity. Include a macro
 line (Oil/VIX/futures) ONLY when notably moving or relevant to a planned trade — otherwise
 omit it. The "Why" must be plain English. If trades are planned:
   bash scripts/clickup.sh "**Pre-market [DD-MM-YYYY]** (for [Weekday DD-MM] open)
-eq [risk_on/neutral/off] · crypto [on/off]
+eq [risk_on/neutral/off]
 DD from peak: [X]%
 Equity: \$[X]
 Leading sectors: [top sectors]
@@ -77,7 +77,7 @@ Why: [plain-English reason — what is driving it, one short line]
 Veto: delete the block in PENDING-TRADES.md before 3:30 PM Paris"
 If NO trades, send instead:
   bash scripts/clickup.sh "**Pre-market [DD-MM-YYYY]** (for [Weekday DD-MM] open)
-eq [X] · crypto [X]
+eq [X]
 DD from peak: [X]%
 Equity: \$[X]
 Leading sectors: [top sectors]

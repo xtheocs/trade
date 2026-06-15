@@ -89,21 +89,8 @@ case "$cmd" in
       "$DATA/stocks/$sym/bars?timeframe=1Day&limit=$days&feed=iex&adjustment=split&sort=desc&start=$start" \
       | reverse_bars
     ;;
-  crypto-bars)
-    sym="${1:?usage: crypto-bars SYM (e.g. BTC/USD) [days]}"
-    days="${2:-120}"
-    start="$(python3 -c "import datetime; print((datetime.date.today()-datetime.timedelta(days=$days*2+40)).isoformat())")"
-    curl -fsS -H "$H_KEY" -H "$H_SEC" \
-      "https://data.alpaca.markets/v1beta3/crypto/us/bars?symbols=$sym&timeframe=1Day&limit=$days&sort=desc&start=$start" \
-      | reverse_bars
-    ;;
-  crypto-quote)
-    sym="${1:?usage: crypto-quote SYM (e.g. BTC/USD)}"
-    curl -fsS -H "$H_KEY" -H "$H_SEC" \
-      "https://data.alpaca.markets/v1beta3/crypto/us/latest/quotes?symbols=$sym"
-    ;;
   *)
-    echo "Usage: bash scripts/alpaca.sh <account|positions|position|quote|orders|order|cancel|cancel-all|close|close-all|bars|crypto-bars|crypto-quote> [args]" >&2
+    echo "Usage: bash scripts/alpaca.sh <account|positions|position|quote|orders|order|cancel|cancel-all|close|close-all|bars> [args]" >&2
     exit 1
     ;;
 esac
