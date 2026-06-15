@@ -119,17 +119,80 @@ TRADE or HOLD (default HOLD if no edge)
 
 ---
 
-## 2026-06-15 — Pre-market (Mon Jun 15; for today's open)
+## 2026-06-15 — Pre-market (Mon Jun 15; for today's open) [CORRECTED — Alpaca bars used]
 
-**Account:** equity $1,080 / cash $1,080 (100%) / drawdown-from-peak 0% (peak $1,080) / 0 open positions / 0 week trades.
+### Account
+- Equity: $1,080 | Cash: $1,080 (100%) | Peak: $1,080 | Drawdown: 0%
+- Open positions: 0 | Week trades: 0 (max 3)
+- Daytrade count: 0
 
-**Regime:** equity **risk_on** (SPY 692.18 > rising 50d 680.78; S&P futures +1.21% on Iran-deal hopes) | crypto **risk_off** (BTC 106,470 < falling 50d 114,241 — handled by 24/7 routine, not this run).
+### Market Context
+- WTI: ~$80–81/bbl (sharp drop from >$100 on Iran deal hopes — energy headwind)
+- Brent: ~$83.50/bbl
+- S&P 500 futures: +1.21% (~7,525) on US-Iran interim agreement / Strait of Hormuz easing
+- VIX: not confirmed in premarket sources (implied lower given positive futures)
+- Today's release: Industrial Production & Capacity Utilization 9:15 AM ET (secondary)
+- Earnings before open: none major
+- Economic calendar: **FOMC Wed Jun 17** (hold 3.50–3.75% expected; dot-plot = risk) → **Core PCE Thu Jun 18** → **Fri Jun 19 closed (Juneteenth)**
+- Sector momentum (last week): ALL 11 sectors gained — Materials +2.38% | Technology +1.79% | Financials +1.73% leading; Health Care lagged (+1.10%)
+- YTD leaders: Energy (+35% 6m), Information Technology (+18.7% 6m / +52.7% 12m)
+- YTD laggards: Financials (−1.0% 6m), Consumer Staples
 
-**Macro / event week:** Today = Empire State Mfg 8:30 ET (minor). **FOMC Wed Jun 17** (hold expected; dot-plot is the risk) → **Core PCE Thu Jun 18** → **Fri Jun 19 closed (Juneteenth)**. Entering = holding into FOMC + PCE. Leading sectors: industrials, financials, tech/hyperscalers; AI-capex → semi theme intact.
+### Regime
+- **Equity: RISK-ON** — SPY Jun 12 close $741.67 > rising 50d SMA $722.75
+- **Crypto: RISK-OFF** — BTC below falling 50d SMA (handled by 24/7 routine, skipped here)
 
-**Candidates (catalyst + quant):**
-- **SMH (semis ETF)** — catalyst: AI capex → semiconductor leadership; broadening risk-on rotation (futures +1.21%) — quant **4/5** (trend✓ momentum✓ rel_strength✓ volume✓ over-extended✗) — entry ~$396.53 | stop $380.27 (−2ATR) | risk/sh $16.26 | shares 0.68 (25% cap binds) | ~$270 (25% eq) | real risk $11.06 (1.02% eq) | R:R 2:1
+### Macro Themes Active
+- **AI Infrastructure:** Generative AI chips ~$500B revenue in 2026 (≈50% of global semis). Hyperscaler capex accelerating. Data center chip market $229B→$688B by 2032. Arm +100% YoY data-center revenue. MU +7.58% premarket, STX +6.17% premarket on memory demand.
+- **Reshoring / Automation:** Tariffs accelerating onshoring; 287k+ mfg jobs reshored in 2023. Automation is structural, not tariff-dependent.
+- **Defense:** LMT $2.29B IDIQ contract (Jun 12). Northrop $900M+ in May contracts. Space Force Golden Dome awards ongoing. Theme intact.
+- **Energy: AVOID** — WTI down >20% from early-June peaks. Iran deal overhang. No energy trades.
+- **Biotech (minor):** Cytokinetics MYQORZO trial readout today; ensitrelvir FDA decision Jun 16. No liquid large-cap catalyst today.
 
-**Rejected:** ADBE — earnings beat+raised but CFO departure weighing on the stock (mixed catalyst, no quant run). GM/USFD — defense/logistics contracts too small to move large-caps. Premarket gainers (DFNS, ADTX, DSY, BYAH, CUPR…) — illiquid microcaps, fail liquidity rule. No second clean liquid name surfaced.
+### Candidates by Strategy
 
-**Decision: TRADE SMH (1 position).** Carry forward the single-ETF expression of the leading AI/semi theme, sized to the 25% cap (real risk ~1% eq). Deliberately one name into a binary FOMC/PCE week — patience > activity. Entry/stop refreshed up ~$8 vs Jun 14 as semis rallied; SMH mildly over-extended (chasing strength) but 4/5 confirmed. Real GTC stop at $380.27 after fill. Reassess adding a 2nd name after the Fed clears Wednesday if the uptrend holds.
+**SMH (VanEck Semiconductor ETF) — AI Infrastructure [SELECTED]**
+All prices from Alpaca bars (Jun 12 close). Prior entries at ~$388–396 were wrong Perplexity estimates.
+- Catalyst: AI capex → semiconductor leadership; MU/STX surging premarket; S&P futures +1.21%; all 5 largest semi names recovering from Jun 5–9 selloff ✓
+- Quant (4/5):
+  - Trend ✓: $619.51 > rising 20d SMA $590.71
+  - Momentum ✓: +1.98% 10-day return; 3.6% below 20d high ($642.73) — within 5%
+  - Rel strength ✓: SMH +1.98% vs SPY −2.21% over 10 days
+  - Volume ⚠️: pending open (Jun 12 vol 378k below 20d avg 427k — watch at open)
+  - Not over-extended ✓: $28.80 above SMA vs 2×ATR=$61.48 — not stretched
+- Regime: RISK-ON ✓
+- Entry: ~$619 (at open; actual price will be higher given +1.21% futures)
+- ATR(14): $30.74 | Stop: entry − 2×ATR ≈ entry − $61.48
+- Shares: 25% cap binds → $1,080 × 25% / entry ≈ 0.44 shares (~$272)
+- Real risk: 0.44 × $61.48 = $27.05 (2.51% equity — within 3% limit)
+- Target: ≥2×ATR above entry → R:R 2:1 minimum
+- Thesis: ETF expression of the leading AI/semi theme; diversified across NVDA/AVGO/TSM/MU/ASML; avoids single-stock binary event risk into FOMC week
+
+**MU (Micron Technology) — AI Infrastructure [REJECTED]**
+- Rejected: correlated to SMH (same theme); no independent quant run yet; would stack two AI-semi bets into FOMC/PCE binary week. SMH is better risk-adjusted expression.
+
+**LMT / GD — Defense [REJECTED]**
+- Rejected: Jun 12 LMT contract is large-cap stock with small move probability; no fresh earnings/quant check run; defense theme intact for future. Skip this week.
+
+**Biotech — REJECTED**
+- No liquid large-cap catalyst today. CYTK readout too binary for a swing entry without quant confirmation.
+
+### Premarket Movers (Perplexity)
+- MU +7.58% ($1,056) | STX +6.17% ($988.50) | UAL +5.54% ($121.92) — all liquid
+- BYAH/CAST/GMM — small-cap low-float movers; fail liquidity rule
+
+### Risk Factors
+- **FOMC Wed Jun 17:** Hawkish dot-plot surprise would pressure growth/tech. Holding SMH into the decision.
+- **Core PCE Thu Jun 18:** Second binary event same week.
+- **SMH Jun 5–9 selloff:** −10% drawdown from $638→$569; recovering but sentiment fragile.
+- **Volume:** Jun 12 volume below average; need confirmation at open.
+- **Iran deal uncertainty:** Positive for equities (lower oil, lower inflation risk) but geopolitically binary.
+
+### Decision
+**TRADE: SMH (1 position, 25% cap)**
+- 1 trade → ~$272 deployed (25% equity)
+- Deliberately single-ETF expression into FOMC/PCE week; patience > activity
+- Real GTC stop placed immediately after fill at entry − $61.48
+- Reassess adding 2nd position (defense or reshoring) after FOMC clears Wednesday
+
+---
