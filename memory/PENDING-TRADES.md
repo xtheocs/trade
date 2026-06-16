@@ -14,3 +14,4 @@ To veto: delete the trade block below before **3:30 PM Paris / 9:30 AM ET Tuesda
 
 ### BUY SMH — 0.417 shares — ~$270 (25% eq) — [ETF]
 - Catalyst: Technology/semiconductor sector leadership + AI-capex theme, risk-on grind to record highs | quant 4/5 | entry ~$647.72 | stop $586.01 (−2×ATR) | risk/sh $61.71 | target ~$771.13 | R:R 2:1
+- **Executed [SMH 0.417517 sh @ $646.656]** — stop blocked (fractional GTC not supported by Alpaca) — see TRADE-LOG, manage manually next routine.
