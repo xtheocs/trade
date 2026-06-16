@@ -151,3 +151,20 @@ TRADE or HOLD (default HOLD if no edge)
 **Rejected:** MU — quant **3/5** (momentum✗ volume✗) despite being top premkt gainer; weakest of the surging memory names. SMH (4/5) / WDC (4/5) — same AI-memory/semi theme as STX; stacking correlated names adds event risk into FOMC, no diversification — took the single best (STX 5/5). Premarket microcap gappers (CAST, BYAH, CPOP…) — fail liquidity rule.
 
 **Decision: TRADE STX + UAL (2 positions).** Two 5/5 setups across two uncorrelated themes — AI-memory/storage (STX) and travel/cheap-oil beneficiary (UAL). Both sized to the 25% cap (~$270 each, 50% deployed), portfolio heat 5.3% (well under 12%). Leaves 1 of 3 weekly trades free. Real GTC −2ATR stops after fill (STX $819.92, UAL $104.88). Holding into Wed FOMC — stops protect; will reassess post-Fed.
+
+---
+
+## 2026-06-16 — Pre-market (Tue Jun 16; for today's open)
+
+**Account:** equity $1,080 / cash $1,080 (100%) / drawdown-from-peak 0% (peak $1,080) / 0 open positions / 0 week trades. (Jun-15 STX/UAL plan was NOT executed — Day-1 EOD shows account flat. Week trade count resets effectively at 0.)
+
+**Regime:** equity **risk_on** (SPY 754.75 > rising 50d 724.73) | crypto owned by 24/7 routine (not this run).
+
+**Macro / event week:** **FOMC Wed Jun 17** (new Chair Warsh's first decision — the binary risk) → **Core PCE Thu Jun 18** → **Fri Jun 19 closed (Juneteenth)**. Entering today = holding into FOMC + PCE. Futures ~flat premarket. Leading sector: **Technology / semis** (AI-capex theme intact, SpaceX IPO + HPE lifting tech to record highs). Oil low on US–Iran deal. Strong earnings season (10% aggregate beat rate, raised guidance).
+
+**Candidates (catalyst + quant):**
+- **SMH (ETF)** — catalyst: Technology/semiconductor sector leadership, AI-capex theme, broad risk-on grind to record highs — quant **4/5** (trend✓ momentum✓ rel_strength✓ not_extended✓ volume✗) — entry ~$647.72 | stop $586.01 (−2ATR) | risk/sh $61.71 | shares 0.417 (25% cap binds) | ~$270 (25% eq) | real risk $25.72 (2.38% eq) | target ~$771.13 | R:R 2:1
+
+**Rejected:** QQQ (4/5 confirmed) — too correlated with SMH; stacking same tech theme into FOMC adds event risk, no diversification. SOXL (4/5) — leveraged 3x; −2ATR stop is ~30% wide = no real protection, reckless into binary FOMC. MSCI — quant 3/5 (momentum✗ rel_strength✗, neg 10d return), weak. NVDA (1/5), AVGO (1/5, −14% 10d) — failed quant. Premarket gappers (CAST, TDIC, SLBT, JRSH, NMRA…) — illiquid microcaps, fail liquidity rule.
+
+**Decision: TRADE SMH (1 position).** Single diversified ETF expression of the leading tech/semi theme, sized to the 25% cap (real risk 2.38% eq, heat 2.38% « 12%). Deliberately one name into a binary FOMC/PCE week under a new Fed Chair — patience > activity. Real GTC −2ATR stop at $586.01 after fill. Leaves 2 of 3 weekly trades free; reassess adding a 2nd name once the Fed clears Wednesday if the uptrend holds.
