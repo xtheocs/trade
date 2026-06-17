@@ -18,11 +18,27 @@ STEP 1 — Read memory:
 - memory/PENDING-TRADES.md (the ONLY trades to execute)
 - today's memory/RESEARCH-LOG.md (thesis + quant context)
 - tail memory/TRADE-LOG.md (open positions, week count, peak equity)
-If PENDING-TRADES says "No trades" or is empty → exit (nothing to do).
+If PENDING-TRADES says "No trades" or is empty → you STILL run STEP 2B (stop re-arm) first,
+then exit. Do not skip stop re-arming just because there are no new trades.
 
 STEP 2 — Account state + breaker:
   bash scripts/alpaca.sh account / positions / orders
 Compute equity and drawdown from peak. If ≥20% below peak → cancel pending, notify, exit.
+
+STEP 2B — Re-arm protective stops on EVERY open position (runs every session, even with no
+pending trades — this is how a stop that expired at the prior close gets replaced):
+- From `positions` get each holding and its quantity; from `orders` get all live orders.
+- For each open position, check whether a working stop SELL order already covers its full qty.
+- If a position has NO live stop (e.g. a fractional day-stop expired at the last close):
+    bash scripts/alpaca.sh stop SYM QTY STOP_PRICE
+  with QTY = the full position size and STOP_PRICE = that position's CURRENT stop from
+  TRADE-LOG (latest value, including any trail). The helper auto-uses GTC for whole-share
+  positions and a day stop for fractional ones (Alpaca forbids GTC/stop on fractional), so
+  fractional stops are simply re-armed here each session.
+- Log each re-arm to TRADE-LOG: "Re-armed stop SYM @ $X". If ANY stop was re-armed, commit +
+  push at the end (even with no new trades) and add a "Stops re-armed: SYM @ $X" line to the
+  ClickUp note so the owner knows.
+If PENDING-TRADES is "No trades"/empty → after this step, you are done; exit.
 
 STEP 3 — Re-validate each pending trade at the open:
 - Fresh price: `bash scripts/alpaca.sh quote SYM`.
@@ -43,10 +59,12 @@ STEP 5 — Execute approved buys (EQUITY INSTRUMENTS ONLY — stocks/ETFs/levera
 Wait for fill confirmation before placing the stop.
 
 STEP 6 — Immediately place the protective stop at the §6 level (the stop price from the
-pending block, = entry − 2×ATR), GTC:
-  bash scripts/alpaca.sh order '{"symbol":"SYM","qty":"N","side":"sell","type":"stop","stop_price":"X.XX","time_in_force":"gtc"}'
-(Use a trailing_stop with trail_percent ≈ 2×ATR/entry×100 if you prefer.) If a stop is
-rejected, log "stop blocked — set next run" in TRADE-LOG and tighten manually next routine.
+pending block, = entry − 2×ATR):
+  bash scripts/alpaca.sh stop SYM QTY STOP_PRICE
+The helper auto-selects GTC for whole-share positions and a day stop for fractional ones
+(Alpaca forbids GTC/stop on fractional). A fractional day-stop is expected and fine —
+STEP 2B re-arms it automatically at each session open. If a stop is rejected, log
+"stop blocked — set next run" in TRADE-LOG; STEP 2B retries it next session.
 
 STEP 7 — Append each fill to memory/TRADE-LOG.md:
 Date | Ticker | Sleeve | Shares | Entry | Stop(−2ATR) | Risk/sh | Risk% | Catalyst | R:R

@@ -25,8 +25,10 @@ STEP 3 — Recompute each position from Alpaca data:
 Read last, atr_14, trend.
 
 STEP 4 — Hard exits (act immediately):
-- Price ≤ initial stop (entry − 2×ATR) and no live stop order → close now
-  (bash scripts/alpaca.sh close SYM) and cancel any stale stop.
+- Ensure every position has a live protective stop. If a position has NO working stop sell:
+  · price ≤ its stop level → close now (bash scripts/alpaca.sh close SYM) and cancel any stale stop.
+  · price still above its stop → RE-ARM it: bash scripts/alpaca.sh stop SYM QTY STOP_PRICE
+    (catches a fractional day-stop that expired; helper auto-picks GTC vs day). Log the re-arm.
 - Thesis broken (catalyst invalidated, or the sleeve's regime flipped risk-off) → close.
 - Time stop: held ≥ 7 trading days with no meaningful progress → close.
 Log each exit to TRADE-LOG: exit price, realized P&L %, reason.

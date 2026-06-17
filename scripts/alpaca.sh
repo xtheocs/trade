@@ -89,8 +89,20 @@ case "$cmd" in
       "$DATA/stocks/$sym/bars?timeframe=1Day&limit=$days&feed=iex&adjustment=split&sort=desc&start=$start" \
       | reverse_bars
     ;;
+  stop)
+    # Place a protective stop SELL. Alpaca forbids GTC (and stop orders) on FRACTIONAL
+    # quantities, so use a day stop for fractional qty (the routines re-arm it each
+    # session) and GTC for whole-share positions.
+    sym="${1:?usage: stop SYM QTY STOP_PRICE}"
+    qty="${2:?usage: stop SYM QTY STOP_PRICE}"
+    price="${3:?usage: stop SYM QTY STOP_PRICE}"
+    tif="$(python3 -c "q=float('$qty'); print('gtc' if q==int(q) else 'day')")"
+    curl -fsS -H "$H_KEY" -H "$H_SEC" -H "Content-Type: application/json" \
+      -X POST -d "{\"symbol\":\"$sym\",\"qty\":\"$qty\",\"side\":\"sell\",\"type\":\"stop\",\"stop_price\":\"$price\",\"time_in_force\":\"$tif\"}" \
+      "$API/orders"
+    ;;
   *)
-    echo "Usage: bash scripts/alpaca.sh <account|positions|position|quote|orders|order|cancel|cancel-all|close|close-all|bars> [args]" >&2
+    echo "Usage: bash scripts/alpaca.sh <account|positions|position|quote|orders|order|stop|cancel|cancel-all|close|close-all|bars> [args]" >&2
     exit 1
     ;;
 esac

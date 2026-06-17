@@ -27,7 +27,8 @@ runs per trading day plus two ad-hoc helpers.
 - Max 25% per position (~$25,000 on a $100,000 account).
 - Max 3 new trades per week.
 - 75-85% capital deployed.
-- 10% trailing stop on every new position as a real GTC order.
+- Protective stop on every position. Whole-share positions → real GTC stop; fractional
+  positions → day stop re-armed each session by the routines (Alpaca forbids GTC on fractional).
 - Cut losers at -10%. No exceptions.
 - Tighten trail to 8% at +15%, to 6% at +20%.
 - Never within 3% of current price. Never move a stop down.

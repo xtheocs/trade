@@ -93,6 +93,14 @@ Catalyst + ≥3/5 quant + acceptable regime → candidate for PENDING-TRADES.md.
 - The 2:1 is a **setup filter, not a take-profit**: a trade needs ≥2R of room *before*
   entry, but once in, winners are managed by the trailing stop (§7) — never auto-sold at
   exactly 2R. Let winners run; the big runs pay for the losers.
+- **Fractional positions & stops (Alpaca limitation):** Alpaca does **not** allow GTC or stop
+  orders on **fractional** share quantities — only whole-share positions can hold a real GTC
+  stop. On a small account most positions are fractional, so their protective stop is a **day
+  stop that the routines re-arm every session**: market-open (STEP 2B) re-places any stop that
+  expired at the prior close, and midday double-checks. This is a *synthetic* stop — protection
+  holds through each session and is restored at the next open, but there is **no resting stop
+  overnight or intraday between routine runs**. Treat that gap as known risk (it is part of why
+  positions are sized to a small % of equity).
 
 ---
 
