@@ -186,3 +186,23 @@ TRADE or HOLD (default HOLD if no edge)
 **Rejected:** QCOM/STX/WDC/INTC/AMD — same semi/storage theme as held SMH; adding stacks correlated event risk into a binary FOMC that directly threatens that theme; no diversification. Premarket microcap gappers (SLBT +243%, EHGO, YMAT, LNAI, AZTR) — illiquid, fail liquidity rule. No clean liquid non-tech catalyst surfaced.
 
 **Decision: HOLD — no new trades.** Already hold one semi position into a binary FOMC whose specific risk (hawkish Warsh → growth/tech/semi selloff) is exactly my exposure. Adding any tech/semi name doubles down on that event risk; nothing diversified and liquid qualified. SMH itself is weakening (3/5, negative momentum & RS) — not a name to add to. Patience > activity into the Fed under a new Chair. Manage SMH on its stop; reassess Thursday after the Fed and PCE clear.
+
+---
+
+## 2026-06-17 — Post-close refresh (post-FOMC; for Thu Jun-18 open)
+
+*(This run fired post-close ~16:47 ET, after the morning HOLD entry above and after FOMC cleared. Refreshes the plan for the next session.)*
+
+**Account:** equity $1,072.70 / cash $810 (75.5%) / drawdown-from-peak 0.68% (peak $1,080) / 1 open position (SMH, 24.5% eq) / 1 week trade.
+
+**Regime:** equity **risk_on** (SPY 741.02 > rising 50d 728.20) — but a hawkish Fed is a fresh, specific headwind for tech/semis.
+
+**FOMC outcome (today, cleared):** Held 3.50–3.75% unanimous (12-0, Warsh's debut), but **dot plot turned hawkish** — 2026 median to 3.8% (now signaling a *hike*, prior was a cut), 10yr yield ~4.40%, Dec hike odds ~77%. Growth/tech/semis pressured; financials outperformed on higher yields. **Core PCE Thu Jun-18** is the next binary; **Fri Jun-19 closed (Juneteenth).**
+
+**Held — SMH (ETF):** entry $646.66, Jun-17 close $624.22, unrealized −2.7% (−$7.29). Catalyst (AI-capex/semi leadership) intact but now fighting a hawkish-rate tape; quant softening. Stop level $586.01 ($38 cushion); fractional → no resting stop overnight, re-armed at Jun-18 open by market-open routine.
+
+**Candidates:** None taken. Hawkish Fed pressures the only theme that surfaced (semis); financials are a thin, late catalyst not worth entering the day before PCE.
+
+**Rejected:** AMAT (+9.3% then faded) / QCOM / semis — same theme as held SMH, adding stacks rate-headwind risk, no diversification. QURE +78%, ICCM +200%, microcap/biotech binary spikes — fail liquidity/universe rules.
+
+**Decision: HOLD — no new trades.** Hawkish Fed confirms the risk that kept me at one position; do not add tech/semi exposure into Thu PCE. Manage SMH on its stop, reassess after PCE clears. 2 of 3 weekly trades still free; heat 2.4% « 12%.
