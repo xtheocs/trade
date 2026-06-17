@@ -36,3 +36,14 @@ drawdown are measured from here.
 **Breakeven/trail:** No — price ($634) not yet up +1×ATR from entry ($646.66); no stop move
 **Thesis:** AI-capex/semi catalyst intact. FOMC today 2 PM ET — hawkish dot-plot risk to semis. Stop at $586.01 provides $48 cushion. Hold with stop protection; reassess post-Fed.
 **Drawdown from peak:** ~0.74% | Breaker: inactive
+
+---
+
+### Jun 17 — EOD Snapshot (Day 3)
+**Equity:** $1,070.99 | **Cash:** $810.00 (75.6%) | **Day:** +0.36% | **Phase:** −0.83% | **Peak:** $1,080.00 | **DD:** −0.83%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| SMH | Core | 0.4175 | $646.66 | $625.09 | +1.48% | −$9.00 (−3.34%) | $586.01 |
+
+**Notes:** SMH recovered +1.48% intraday from the $616 close on Jun 16, settling at $625.09. Position remains underwater vs entry ($646.66) by −$9.00 (−3.34%). FOMC day: the Fed held rates and signaled a cautious dot-plot — semis sold off earlier in the session but recovered. Catalyst (AI-capex/semi leadership) remains intact; stop at $586.01 provides $39 cushion below close. DAY stop expires at market close and will be re-armed tomorrow morning. No new trades today; account has 1 of 3 weekly trades used, 1 open position (25% of equity), portfolio heat within rules. Drawdown from $1,080 peak is −0.83% — well clear of the 20% breaker.
