@@ -168,3 +168,21 @@ TRADE or HOLD (default HOLD if no edge)
 **Rejected:** QQQ (4/5 confirmed) — too correlated with SMH; stacking same tech theme into FOMC adds event risk, no diversification. SOXL (4/5) — leveraged 3x; −2ATR stop is ~30% wide = no real protection, reckless into binary FOMC. MSCI — quant 3/5 (momentum✗ rel_strength✗, neg 10d return), weak. NVDA (1/5), AVGO (1/5, −14% 10d) — failed quant. Premarket gappers (CAST, TDIC, SLBT, JRSH, NMRA…) — illiquid microcaps, fail liquidity rule.
 
 **Decision: TRADE SMH (1 position).** Single diversified ETF expression of the leading tech/semi theme, sized to the 25% cap (real risk 2.38% eq, heat 2.38% « 12%). Deliberately one name into a binary FOMC/PCE week under a new Fed Chair — patience > activity. Real GTC −2ATR stop at $586.01 after fill. Leaves 2 of 3 weekly trades free; reassess adding a 2nd name once the Fed clears Wednesday if the uptrend holds.
+
+---
+
+## 2026-06-17 — Pre-market (Wed Jun 17; for today's open)
+
+**Account:** equity $1,072.10 / cash $810 / drawdown-from-peak 0.73% (peak $1,080) / 1 open position (SMH) / 1 week trade.
+
+**Regime:** equity **risk_on** (SPY 750.58 > rising 50d 726.57) | crypto owned by 24/7 routine (not this run).
+
+**Macro / event week:** **FOMC decision TODAY 2:00 PM ET** — new Chair Warsh's first decision. Hold ~97% priced (range 3.50–3.75%); the binary risk is the **dot plot + Warsh's debut presser**, not the rate. A hawkish shift (fewer/no 2026 cuts) lifts yields and specifically pressures growth/tech/**semis**. Then **Core PCE Thu Jun 18** → **Fri Jun 19 closed (Juneteenth)**. Premarket movers concentrated in semis/storage (QCOM +3.3%, STX +2.6%, WDC, INTC, AMD active) — same tech/semi theme I already hold; rest are illiquid microcap gappers (SLBT, EHGO, YMAT…) failing the liquidity rule.
+
+**Held position — SMH (ETF):** entry $646.66, last ~$616–628, unrealized −2.9%. Quant now **3/5** (trend✓ volume✓ not_extended✓ | momentum✗ ret_10d −2.5% | rel_strength✗ −1.3% vs SPY) — still confirmed but softening into the Fed. Catalyst (AI-capex/semi leadership) intact but weakening. Protective stop $586.01 currently open — note it is a DAY order; market-open/midday must re-arm as GTC.
+
+**Candidates (catalyst + quant):** None taken.
+
+**Rejected:** QCOM/STX/WDC/INTC/AMD — same semi/storage theme as held SMH; adding stacks correlated event risk into a binary FOMC that directly threatens that theme; no diversification. Premarket microcap gappers (SLBT +243%, EHGO, YMAT, LNAI, AZTR) — illiquid, fail liquidity rule. No clean liquid non-tech catalyst surfaced.
+
+**Decision: HOLD — no new trades.** Already hold one semi position into a binary FOMC whose specific risk (hawkish Warsh → growth/tech/semi selloff) is exactly my exposure. Adding any tech/semi name doubles down on that event risk; nothing diversified and liquid qualified. SMH itself is weakening (3/5, negative momentum & RS) — not a name to add to. Patience > activity into the Fed under a new Chair. Manage SMH on its stop; reassess Thursday after the Fed and PCE clear.
