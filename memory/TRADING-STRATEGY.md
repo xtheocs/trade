@@ -130,6 +130,17 @@ Avoid illiquid micro-caps.
 
 ---
 
+## Learning Loop (self-improvement)
+Each pre-market run scores yesterday's research against yesterday's ACTUAL top tradeable
+gainers/losers (Alpaca movers, filtered to price ≥ $5 / no warrants), names the best
+trade it realistically could have proposed, and logs lessons to **memory/LEARNING-LOG.md**
+(daily scorecard + rolling 7-day view of recurring leaders and repeated misses). Today's
+research and tie-breaks read those lessons as a **soft bias only** — lean into sectors
+that keep leading, be warier of patterns that keep failing. These lessons NEVER override a
+hard rule (3% risk, quant ≥3/5, 12% heat, position/sleeve caps, regime gate).
+
+---
+
 ## Candidate Sourcing (pre-market)
 1. Scan catalysts (Perplexity/WebSearch): market-moving news, top movers, sector
    leadership, earnings, contracts, commodity moves.

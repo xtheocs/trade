@@ -14,6 +14,7 @@ Open these in order before doing anything:
 - memory/TRADE-LOG.md         — Tail for open positions, entries, stops, ATR, peak equity.
 - memory/RESEARCH-LOG.md      — Today's research before any trade.
 - memory/PENDING-TRADES.md    — Planned trades awaiting execution (check for vetoes).
+- memory/LEARNING-LOG.md      — Daily scorecards; pre-market reflection / 7-day soft bias.
 - memory/PROJECT-CONTEXT.md   — Overall mission and context.
 - memory/WEEKLY-REVIEW.md     — Friday afternoons; template for new entries.
 

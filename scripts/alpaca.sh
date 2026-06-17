@@ -89,6 +89,15 @@ case "$cmd" in
       "$DATA/stocks/$sym/bars?timeframe=1Day&limit=$days&feed=iex&adjustment=split&sort=desc&start=$start" \
       | reverse_bars
     ;;
+  movers)
+    # Top market gainers/losers for the most recent completed session (the learning
+    # loop's "yesterday" at a pre-market run). Returns {gainers:[...],losers:[...]}
+    # with symbol/price/change/percent_change — market-wide, so callers filter to a
+    # tradeable universe (price floor, drop warrants/units) before drawing lessons.
+    top="${1:-25}"
+    curl -fsS -H "$H_KEY" -H "$H_SEC" \
+      "https://data.alpaca.markets/v1beta1/screener/stocks/movers?top=$top"
+    ;;
   stop)
     # Place a protective stop SELL. Alpaca forbids GTC (and stop orders) on FRACTIONAL
     # quantities, so use a day stop for fractional qty (the routines re-arm it each
@@ -102,7 +111,7 @@ case "$cmd" in
       "$API/orders"
     ;;
   *)
-    echo "Usage: bash scripts/alpaca.sh <account|positions|position|quote|orders|order|stop|cancel|cancel-all|close|close-all|bars> [args]" >&2
+    echo "Usage: bash scripts/alpaca.sh <account|positions|position|quote|orders|order|stop|cancel|cancel-all|close|close-all|bars|movers> [args]" >&2
     exit 1
     ;;
 esac

@@ -24,6 +24,7 @@ STEP 1 — Read memory:
 - memory/TRADING-STRATEGY.md (the full rulebook — follow it exactly)
 - tail memory/TRADE-LOG.md (open positions, entries, stops, ATR, week trade count, peak equity)
 - tail memory/RESEARCH-LOG.md (yesterday's context)
+- head memory/LEARNING-LOG.md (recent scorecards — feeds the STEP 3b reflection / soft bias)
 
 STEP 2 — Account state + drawdown breaker:
   bash scripts/alpaca.sh account
@@ -37,6 +38,34 @@ STEP 3 — Market regime (Alpaca data, not headlines):
 Risk-off equity regime → no new long equity (only inverse-ETF setups allowed).
 Neutral → half size, best setups only.
 
+STEP 3b — Reflect on yesterday & update the learning log (self-improvement loop):
+Goal: score yesterday's research against what ACTUALLY moved, so today is smarter.
+- Read yesterday's entry in memory/RESEARCH-LOG.md (its candidates + decision) and the
+  last ~7 scorecards at the top of memory/LEARNING-LOG.md.
+- If there is no prior RESEARCH-LOG entry and no log history → write one line under the
+  divider in LEARNING-LOG.md: "## $DATE — first run, baseline, no history yet" and skip
+  the rest of this step.
+- Pull yesterday's actual movers:  bash scripts/alpaca.sh movers 25
+  Filter to a TRADEABLE universe before learning anything: keep price ≥ $5 and DROP
+  warrants/units/rights (heuristic: 5-letter symbols ending in W, or symbols ending in
+  U or R). Keep ~10 gainers + ~5 losers.
+- Score our own picks: for each ticker we proposed/held yesterday, get its real 1-day
+  move via  bash scripts/alpaca.sh bars TICKER 5  (last bar vs prior close). Tag each:
+  worked / stopped / missed-entry / dodged-loss.
+- Best realistic miss: among the filtered gainers, pick the single highest-quality name
+  that had an identifiable catalyst AND would plausibly have passed quant — the trade we
+  SHOULD have surfaced. Ignore penny pumps and unexplained spikes; we never chase those.
+- Prepend a dated block to the top of memory/LEARNING-LOG.md (newest first), under the
+  "---" divider, exactly:
+## $DATE — Scorecard (prior session $PREV_DATE)
+### Our picks: TICKER — decision(traded/pending/rejected) — actual 1d ±X% — verdict
+### Day's top tradeable gainers: TICKER +X% ($price) — sector/theme  (repeat ~5)
+### Best realistic miss: TICKER +X% — sector — catalyst? would-pass-quant? why we missed it
+### Lessons: up to 3 short bullets
+### Rolling 7d: recurring leading sectors = [...] ; recurring miss pattern = [...]
+Carry the rolling-7d line forward by aggregating across the last 7 scorecards.
+These lessons are a SOFT bias for the steps below — they never relax a hard rule.
+
 STEP 4 — Catalyst research (Perplexity; on exit code 3 fall back to WebSearch and note it):
   bash scripts/perplexity.sh "<query>"
 - "Top premarket stock movers today $DATE by volume and why — surging stocks and catalysts"
@@ -47,6 +76,8 @@ STEP 4 — Catalyst research (Perplexity; on exit code 3 fall back to WebSearch 
 - "Economic calendar today $DATE — CPI PPI FOMC jobs, any major release"
 - For each held ticker: "[TICKER] news today $DATE — is the catalyst still valid?"
 - If equity regime is risk-off: "Is the broad market breaking down today $DATE — downtrend confirmation"
+- SOFT BIAS from STEP 3b: add a query focused on the sector(s) recurring as leaders in the
+  rolling-7d view, and one probing any repeated-miss theme — so we stop missing the same setups.
 Use Perplexity ONLY for the qualitative catalyst. NEVER use its prices/percentages for
 decisions — every number comes from Alpaca in STEP 5.
 
@@ -64,6 +95,9 @@ STEP 6 — Size each candidate (% of equity per TRADING-STRATEGY):
   (leveraged/inverse ETF ≤15%). Trim shares to fit.
 - Confirm reward:risk ≥ 2:1 (≥ 2× risk_per_share of room to a sensible objective).
 Respect: ≤3–4 total positions, portfolio heat ≤12% (sum of open 3% risks), ≤2 per theme.
+SOFT BIAS from STEP 3b (tiebreaker only): between two otherwise-equal candidates, prefer
+the one in a recurring-leading sector, and be warier of a setup pattern that has repeatedly
+failed in the log. Hard rules are NEVER relaxed by these lessons.
 
 STEP 7 — Write a dated entry to memory/RESEARCH-LOG.md:
 ## $DATE — Pre-market
@@ -122,7 +156,7 @@ No trades today.
 Reason: [one line]"
 
 STEP 10 — Commit:
-  git add memory/RESEARCH-LOG.md memory/PENDING-TRADES.md
+  git add memory/RESEARCH-LOG.md memory/PENDING-TRADES.md memory/LEARNING-LOG.md
   git commit -m "pre-market research $DATE"
   git push origin HEAD:main
 On push failure: git pull --rebase origin main, then `git push origin HEAD:main`. Never force-push.

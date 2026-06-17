@@ -9,11 +9,32 @@ STEP 1 — Read memory:
 - memory/TRADING-STRATEGY.md (full strategy, all 5 frameworks, entry filters, allocation model)
 - tail of memory/TRADE-LOG.md (open positions, weekly trade count)
 - tail of memory/RESEARCH-LOG.md
+- head of memory/LEARNING-LOG.md (recent scorecards — soft bias for today)
 
 STEP 2 — Pull live account state:
   bash scripts/alpaca.sh account
   bash scripts/alpaca.sh positions
   bash scripts/alpaca.sh orders
+
+STEP 2b — Reflect on yesterday & update memory/LEARNING-LOG.md (self-improvement loop):
+- Read yesterday's RESEARCH-LOG entry (candidates + decision) and the last ~7 scorecards
+  at the top of LEARNING-LOG.md. If no history exists → write "## $DATE — first run,
+  baseline, no history yet" under the divider and skip the rest.
+- Pull yesterday's actual movers:  bash scripts/alpaca.sh movers 25
+  Filter to tradeable: price ≥ $5; drop warrants/units/rights (5-letter symbols ending
+  in W, or ending in U/R). Keep ~10 gainers + ~5 losers.
+- Score our own picks via  bash scripts/alpaca.sh bars TICKER 5  (last 1-day move):
+  worked / stopped / missed-entry / dodged-loss.
+- Best realistic miss: highest-quality filtered gainer with a real catalyst that would
+  plausibly pass quant (never penny pumps).
+- Prepend a dated block (newest first) under the "---" divider in LEARNING-LOG.md:
+## $DATE — Scorecard (prior session $PREV_DATE)
+### Our picks: TICKER — decision — actual 1d ±X% — verdict
+### Day's top tradeable gainers: TICKER +X% ($price) — sector  (repeat ~5)
+### Best realistic miss: TICKER +X% — sector — catalyst? would-pass-quant? why missed
+### Lessons: up to 3 bullets
+### Rolling 7d: recurring leading sectors = [...] ; recurring miss pattern = [...]
+Use these as a SOFT bias below (never override a hard rule).
 
 STEP 3 — Run Perplexity research by strategy bucket:
 
