@@ -47,3 +47,14 @@ drawdown are measured from here.
 | SMH | Core | 0.4175 | $646.66 | $625.09 | +1.48% | −$9.00 (−3.34%) | $586.01 |
 
 **Notes:** SMH recovered +1.48% intraday from the $616 close on Jun 16, settling at $625.09. Position remains underwater vs entry ($646.66) by −$9.00 (−3.34%). FOMC day: the Fed held rates and signaled a cautious dot-plot — semis sold off earlier in the session but recovered. Catalyst (AI-capex/semi leadership) remains intact; stop at $586.01 provides $39 cushion below close. DAY stop expires at market close and will be re-armed tomorrow morning. No new trades today; account has 1 of 3 weekly trades used, 1 open position (25% of equity), portfolio heat within rules. Drawdown from $1,080 peak is −0.83% — well clear of the 20% breaker.
+
+---
+
+### Jun 18 — EOD Snapshot (Day 4, Thursday)
+**Equity:** $1,085.97 | **Cash:** $810.00 (74.6%) | **Day:** +1.44% | **Phase:** +0.55% | **Peak:** $1,085.97 | **DD:** 0.00%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| SMH | Core | 0.4175 | $646.66 | $660.98 | +5.93% | +$5.98 (+2.22%) | $586.01 |
+
+**Notes:** SMH surged +5.93% today, closing at $660.98 and lifting portfolio equity to a new phase high of $1,085.97 — eclipsing the prior $1,080.00 peak, so drawdown resets to 0.00%. Unrealized P&L flipped positive at +$5.98 (+2.22%). Position is not yet at the +1×ATR breakeven trigger (entry $646.66 + ATR $31.50 = $678.16), so stop remains at $586.01. DAY stop expired at close and will be re-armed tomorrow at market open. No new trades today; 1 of 3 weekly trades used (SMH on Jun 16). Portfolio heat within rules — single 25% sleeve, 20% breaker inactive.
