@@ -47,3 +47,12 @@ drawdown are measured from here.
 | SMH | Core | 0.4175 | $646.66 | $625.09 | +1.48% | −$9.00 (−3.34%) | $586.01 |
 
 **Notes:** SMH recovered +1.48% intraday from the $616 close on Jun 16, settling at $625.09. Position remains underwater vs entry ($646.66) by −$9.00 (−3.34%). FOMC day: the Fed held rates and signaled a cautious dot-plot — semis sold off earlier in the session but recovered. Catalyst (AI-capex/semi leadership) remains intact; stop at $586.01 provides $39 cushion below close. DAY stop expires at market close and will be re-armed tomorrow morning. No new trades today; account has 1 of 3 weekly trades used, 1 open position (25% of equity), portfolio heat within rules. Drawdown from $1,080 peak is −0.83% — well clear of the 20% breaker.
+
+---
+
+### Jun 18 — Market Open (Day 4)
+**No new trades.** Pre-market: no qualifying setups (KMX earnings trap; INTC semi add in hawkish tape; Fri/Jun-19 Juneteenth market closed → weekend gap risk).
+**SMH:** open $651.21 (+4.19% vs prior close $625.09) | unrealized +$1.90 (+0.70% vs entry $646.66) | **NEW EQUITY PEAK $1,081.92**
+**Stop re-armed:** DAY stop @ $586.01 (order 6e05ee41, expires 20:00 UTC) — fractional, re-arm required each session
+**Stop logic:** price $651.21 < breakeven trigger ~$677 (entry + 1×ATR) → stop stays at $586.01; 3%-buffer check OK ($651.21 × 0.97 = $631.67 > $586.01 ✓)
+**Note:** Next trading day Mon Jun-23 (Jun-19 Juneteenth closed, Jun-21/22 weekend). Stop re-armed today only; midday/EOD routine must re-arm again if stop not triggered.
