@@ -8,6 +8,6 @@ Edit this file directly on GitHub. Market-open will only execute trades still li
 
 ---
 
-# Pending Trades — 2026-06-17 (for Thu Jun-18 open)
+# Pending Trades — 2026-06-18
 
-No trades. Reason: hawkish FOMC (dot plot flipped to a 2026 hike, 10yr ~4.40%) is a fresh headwind for tech/semis — exactly the SMH exposure already held; adding stacks rate risk into Thu Core PCE. No diversified liquid catalyst qualified. Manage SMH on its stop; patience > activity.
+No trades. Reason: only quant-confirmed names were a beat-but-dumped earnings trap (KMX −9% on its Jun-17 print) and a correlated semi add into a hawkish tape (INTC); neither survives discipline, and Fri is closed (weekend gap risk). HOLD SMH, manage on stop.

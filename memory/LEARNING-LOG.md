@@ -13,6 +13,30 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-06-18 — Scorecard (prior session 2026-06-17)
+
+**Our picks:**
+- SMH (semis ETF) — decision **held** (no add into FOMC) — actual 1d **+1.30%** (Jun-17 close $624.22 vs $616.23) — verdict **patience paid** (recovered modestly the day after a binary, downside-skewed FOMC; correctly did NOT stack correlated semi risk into the Fed).
+
+**Day's top tradeable gainers (Jun-17, ≥$5, no warrants):**
+- ICCM +200% ($6.40) — microcap spike
+- SDOT +98% ($17.18) — microcap spike
+- QURE +78% ($48.16) — biotech / gene-therapy binary
+- ALOT +70% ($28.35) — small-cap, no broad catalyst
+- VRM +36% ($10.70) — Vroom, small-cap
+- BIRD +39% ($5.48) — Allbirds, small-cap
+
+**Best realistic miss:** none of quality. Headline gainers were microcap/biotech binary spikes outside our universe (correctly skipped). No clean liquid swing setup with a real catalyst surfaced.
+
+**Lessons:**
+- A "beat" is not a buy. KMX posted a +39% EPS beat (Jun-17) yet fell −9.1% on margin/pricing concerns — the tape rejected it. Always confirm the actual price reaction from Alpaca bars before treating earnings as a bullish catalyst; quant trend/not_extended checks lag a fresh post-earnings gap-down.
+- Holding SMH through the binary FOMC instead of adding semis paid off (+1.3% next day) — patience > activity into a known binary.
+- Day's leaders again microcap/biotech binaries — no edge, liquidity rule correctly filtered them.
+
+**Rolling 7d:** recurring leading sectors = semis/tech (under Fed/rate pressure), Energy/Industrials ; recurring miss pattern = microcap gap spikes (ICCM, QURE, SDOT, EHGO) we correctly skip — no edge there.
+
+---
+
 ## 2026-06-17 — Scorecard (prior session 2026-06-16)
 
 **Our picks:**

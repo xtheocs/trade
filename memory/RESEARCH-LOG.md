@@ -206,3 +206,25 @@ TRADE or HOLD (default HOLD if no edge)
 **Rejected:** AMAT (+9.3% then faded) / QCOM / semis — same theme as held SMH, adding stacks rate-headwind risk, no diversification. QURE +78%, ICCM +200%, microcap/biotech binary spikes — fail liquidity/universe rules.
 
 **Decision: HOLD — no new trades.** Hawkish Fed confirms the risk that kept me at one position; do not add tech/semi exposure into Thu PCE. Manage SMH on its stop, reassess after PCE clears. 2 of 3 weekly trades still free; heat 2.4% « 12%.
+
+---
+
+## 2026-06-18 — Pre-market (Thu Jun 18; for today's open)
+
+**Account:** equity $1,079.39 / cash $810 (75%) / drawdown-from-peak 0.06% (peak $1,080) / 1 open position (SMH, 25% eq) / 1 week trade.
+
+**Regime:** equity **risk_on** (SPY 741.02 > rising 50d 728.20). FOMC binary cleared (hawkish — dot plot to 2026 hike, traders now price an Oct hike, 10yr ~4.40%); structural valuation headwind for long-duration tech/semis, not a demand killer.
+
+**Macro / event:** Core PCE is **June 25**, NOT today (prior logs assumed Jun-18 — corrected). Possible weekly jobless claims only; no binary inflation print today. **Fri Jun-19 closed (Juneteenth)** → any new position carries 3-day-weekend gap risk. Leading sectors: Technology/semis, Energy, Industrials; lagging Financials/Health Care. Premarket large-cap movers all semis (INTC +4–8%, MU +3.9%, WDC/AVGO/AMD active) — same theme already held via SMH; rest are microcap gappers (EHGO, ICCM, AZTR, YMAT) failing liquidity.
+
+**Held — SMH (ETF):** entry $646.66, last ~$645 (≈breakeven, +3.4% intraday off the $624 close). Catalyst (AI-capex/semi leadership) intact but fighting a hawkish-rate tape. Stop level $586.01; fractional → re-armed each session by market-open routine (DAY stop expired overnight, no open order now).
+
+**Candidates (catalyst + quant):** None taken.
+
+**Rejected:**
+- **KMX** — quant 4/5 *confirmed* on paper BUT bars show Jun-17 close $47.32 vs $52.07 = **−9.1%**: a +39% EPS beat was *sold off hard* on margin/pricing concerns. Beat-but-rejected = bearish reaction, not a strength buy; quant trend/not_extended checks lag the fresh gap-down (momentum✗ was the tell).
+- **INTC** — quant 4/5 confirmed, but same semi theme as held SMH; adding stacks correlated rate-headwind risk into a hawkish tape, no diversification (exactly the documented lesson). Reject.
+- **MU** (2/5), **PSX** (1/5), **XLE** (1/5) — failed quant.
+- Microcap gappers (EHGO, ICCM, AZTR, YMAT, SDOT…) — illiquid, fail universe/liquidity rule.
+
+**Decision: HOLD — no new trades.** No clean, diversified, liquid catalyst+quant name qualified. Only confirmed names were a beat-but-dumped earnings trap (KMX) and a correlated semi add into a hawkish tape (INTC) — neither survives discipline. Avoid opening fresh risk into a 3-day weekend (Fri closed) without a real edge. Manage SMH on its stop; 2 of 3 weekly trades still free; heat ~2.3% « 12%. Patience > activity.
