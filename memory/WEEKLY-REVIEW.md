@@ -101,3 +101,62 @@ Template for each entry:
 - Track sector momentum mid-week: Info Tech and Industrials must remain leading for thesis to hold
 
 ### Overall Grade: Incomplete (pre-launch baseline — no trading activity)
+
+---
+
+## Week ending 2026-06-19
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,080.00 (Mon Jun-15 open) |
+| Ending portfolio | $1,085.51 (Fri Jun-19, Juneteenth — mkt closed) |
+| Week return | +$5.51 (+0.51%) |
+| S&P 500 week | ~flat (~0%; ~7,493 → ~7,487, Fed-driven dip Jun-18 then rebound) — FYI only |
+| Bot vs S&P | ≈ +0.5% (FYI context, not the goal) |
+| Trades | 1 (W:0 / L:0 / open:1) |
+| Win rate | N/A (no closed trades) |
+| Best trade | SMH +2.05% (open, unrealized) |
+| Worst trade | N/A |
+| Profit factor | N/A (no closed trades) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closes — first real trade still open |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| SMH | $646.66 | $659.88 | +$5.52 (+2.05%) | $586.01 |
+
+### What Worked
+- First real trade entered (SMH, AI-capex/semi leadership) — clean catalyst + 4/5 quant, sized to the 25% cap with real risk only 2.38% eq.
+- Survived a binary FOMC under a new Fed Chair by holding ONE diversified ETF instead of stacking correlated semi names — discipline paid off when SMH rebounded +5.93% Jun-18.
+- Repeatedly rejected the correct traps: KMX (beat-but-dumped −9%), leveraged SOXL (−2ATR stop ~30% wide), microcap gappers (illiquid), and correlated semi adds (INTC/QCOM) into a hawkish tape.
+- Risk discipline intact all week: heat ~2.4% « 12%, 1 of 3 weekly trades used, drawdown breaker never near.
+
+### What Didn't Work
+- Only 0.51% on the week — light vs the ~10%/month stretch; capital 74.6% idle in cash the whole week (by design into FOMC, but a drag).
+- SMH dipped −3.34% intraday before recovering — entry timing into a binary Fed event meant carrying an underwater position for two days.
+- Jun-16 research-log called the stop a "real GTC" stop, but SMH is fractional → Alpaca forbids GTC; it is a DAY stop re-armed each session. Wording corrected in later logs; watch for the same slip.
+- No second name added even after the Fed cleared — defensible, but the book stayed under-deployed at one position.
+
+### Key Lessons
+- Patience around a binary macro event (FOMC under new Chair Warsh) was correct — the hawkish dot-plot would have punished a stacked semi book.
+- "Beat-but-sold-off" earnings (KMX) are bearish reactions, not strength buys — momentum✗ on the quant was the tell; trust it over a paper 4/5.
+- A single 25%-cap ETF gives semi-theme exposure without single-stock blow-up risk — good vehicle for a concentrated, conviction theme on a small account.
+- Fractional positions carry real overnight/weekend gap risk (no resting stop) — sizing small is the protection; SMH rode a 3-day weekend unhedged.
+
+### Adjustments for Next Week
+- Re-arm SMH DAY stop @ $586.01 at Monday's open (no resting stop over the long weekend).
+- SMH not yet at +1×ATR breakeven trigger ($678.16) — once tagged, move stop to breakeven, then trail by ATR / 10-day low.
+- 2 of 3 weekly trades free, heat budget wide open — look for ONE diversified, non-semi catalyst (Industrials/Energy showed leadership) to add a second uncorrelated name if it clears 3/5 quant + risk-on regime.
+- Watch Core PCE (Jun-25) — don't open fresh binary risk into it without a real edge.
+- Don't force deployment to chase the 10% stretch; zero new trades is valid if nothing clean qualifies.
+
+### Overall Grade: B
+*(Disciplined, correct process; first trade green and rules fully respected. Marked down only for thin absolute return / heavy idle cash — appropriate for a launch-into-FOMC week, but not yet compounding.)*
