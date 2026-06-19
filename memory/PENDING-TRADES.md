@@ -8,6 +8,6 @@ Edit this file directly on GitHub. Market-open will only execute trades still li
 
 ---
 
-# Pending Trades — 2026-06-18
+# Pending Trades — 2026-06-19
 
-No trades. Reason: only quant-confirmed names were a beat-but-dumped earnings trap (KMX −9% on its Jun-17 print) and a correlated semi add into a hawkish tape (INTC); neither survives discipline, and Fri is closed (weekend gap risk). HOLD SMH, manage on stop.
+No trades. Reason: market CLOSED today (Juneteenth, Fri Jun-19) — no session to trade. HOLD SMH on its stop; next live pre-market scan Mon Jun-22.

@@ -13,6 +13,32 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-06-19 — Scorecard (prior session 2026-06-18)
+
+*(Note: Fri Jun-19 is Juneteenth — market CLOSED. No new session today; this scores Thu Jun-18 and carries the plan to Mon Jun-22.)*
+
+**Our picks:**
+- SMH (semis ETF) — decision **held** (no add, no chase) — actual 1d **+5.57%** (Jun-18 close $659 vs Jun-17 $624.22) — verdict **worked / patience paid** (semis ripped post-FOMC; the held position carried the gain without stacking correlated risk).
+
+**Day's top tradeable gainers (Jun-18, ≥$5, no warrants):**
+- CAST +56.7% ($8.07) — small-cap spike (recurring junk-spike name)
+- BFLY +55.9% ($8.90) — Butterfly Network, small-cap medtech spike
+- VELL +34.0% ($38.40) — small-cap, no broad catalyst
+- HQ +35.5% ($32.00) — small-cap spike
+- QSU +33.3% ($15.35) — small-cap spike
+- BESS +37.9% ($5.82) — small-cap spike
+
+**Best realistic miss:** none of quality. All headline gainers were single-day small-cap momentum spikes (≫2 ATR extended, would fail the not-over-extended quant check), no liquid clean swing catalyst. The day's real, in-universe winner was the held SMH (+5.57%) — already captured.
+
+**Lessons:**
+- Holding semis through the hawkish FOMC instead of chasing or dumping paid off twice running (+1.3% Jun-17, +5.57% Jun-18) — patience > activity into and out of a binary.
+- The KMX "beat-but-dumped" filter held: we did not buy strength into a rejected earnings reaction.
+- Day's leaders again small-cap/penny spikes — liquidity rule correctly filtered all of them; no edge there.
+
+**Rolling 7d:** recurring leading sectors = semis/tech (leading despite Fed/rate pressure), Energy/Industrials ; recurring miss pattern = microcap/penny gap spikes (CAST, ICCM, QURE, SDOT, BFLY) we correctly skip — no tradeable edge.
+
+---
+
 ## 2026-06-18 — Scorecard (prior session 2026-06-17)
 
 **Our picks:**

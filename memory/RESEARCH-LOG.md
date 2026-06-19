@@ -228,3 +228,19 @@ TRADE or HOLD (default HOLD if no edge)
 - Microcap gappers (EHGO, ICCM, AZTR, YMAT, SDOT…) — illiquid, fail universe/liquidity rule.
 
 **Decision: HOLD — no new trades.** No clean, diversified, liquid catalyst+quant name qualified. Only confirmed names were a beat-but-dumped earnings trap (KMX) and a correlated semi add into a hawkish tape (INTC) — neither survives discipline. Avoid opening fresh risk into a 3-day weekend (Fri closed) without a real edge. Manage SMH on its stop; 2 of 3 weekly trades still free; heat ~2.3% « 12%. Patience > activity.
+
+---
+
+## 2026-06-19 — Pre-market (Fri Jun 19 — Juneteenth, MARKET CLOSED)
+
+**Account:** equity $1,085.51 / cash $810 (74.6%) / drawdown-from-peak 0.04% (peak $1,085.97) / 1 open position (SMH, 25.4% eq) / 1 week trade.
+
+**Regime:** equity **risk_on** (SPY 746.75 > rising 50d 729.62).
+
+**Market status:** **CLOSED — Juneteenth (Fri Jun-19).** SMH `change_today` = 0, last = prior close ($659.88). No session today; next open **Mon Jun-22**. No catalyst research run — no live session to trade into; full regime + catalyst + quant scan resumes in Monday's pre-market.
+
+**Held — SMH (ETF):** entry $646.66, last $659.88, unrealized **+2.05% (+$5.52)**. Jun-18 surged +5.57% post-FOMC; catalyst (AI-capex/semi leadership) intact and reasserting. Not yet at +1×ATR breakeven trigger (entry $646.66 + ATR ~$31.50 = $678.16), so stop stays $586.01. Fractional → no resting stop over the 3-day weekend (known gap risk); re-armed Mon by market-open routine.
+
+**Candidates (catalyst + quant):** None — market closed.
+
+**Decision: HOLD — market closed (Juneteenth).** No trades possible today; nothing to veto. Manage SMH on its $586.01 stop level (synthetic; re-armed Monday). 2 of 3 weekly trades still free; heat ~2.3% « 12%. Reassess full setup at Monday's pre-market open.
