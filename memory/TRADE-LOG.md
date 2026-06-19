@@ -58,3 +58,14 @@ drawdown are measured from here.
 | SMH | Core | 0.4175 | $646.66 | $660.98 | +5.93% | +$5.98 (+2.22%) | $586.01 |
 
 **Notes:** SMH surged +5.93% today, closing at $660.98 and lifting portfolio equity to a new phase high of $1,085.97 — eclipsing the prior $1,080.00 peak, so drawdown resets to 0.00%. Unrealized P&L flipped positive at +$5.98 (+2.22%). Position is not yet at the +1×ATR breakeven trigger (entry $646.66 + ATR $31.50 = $678.16), so stop remains at $586.01. DAY stop expired at close and will be re-armed tomorrow at market open. No new trades today; 1 of 3 weekly trades used (SMH on Jun 16). Portfolio heat within rules — single 25% sleeve, 20% breaker inactive.
+
+---
+
+### Jun 19 — EOD Snapshot (Day 5, Friday / Juneteenth)
+**Equity:** $1,085.51 | **Cash:** $810.00 (74.6%) | **Day:** −$0.46 (−0.04%) | **Phase:** +$5.51 (+0.51%) | **Peak:** $1,085.97 | **DD:** −0.04%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| SMH | Core | 0.4175 | $646.66 | $659.88 | 0.00% | +$5.52 (+2.05%) | $586.01 |
+
+**Notes:** Juneteenth federal holiday — US markets closed, no trading. SMH sits at $659.88, still $18.28 below the +1×ATR breakeven trigger ($646.66 + $31.50 = $678.16), so stop remains at $586.01 (expired DAY order, not re-armed today). Minor equity drift of −$0.46 vs yesterday reflects a small price adjustment ($660.98 → $659.88). Peak stays at $1,085.97 from Jun 18; drawdown negligible at −0.04%. One trade this week (SMH buy Jun 16), two weekly slots remaining. Action for Monday: re-arm DAY stop at $586.01 at market open; pre-market research for any new catalyst setups.
