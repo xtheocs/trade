@@ -90,3 +90,14 @@ drawdown are measured from here.
 **Breakeven/trail:** No — price ($665) not yet up +1×ATR from entry ($646.66 + $33.21 = $679.87); no stop move
 **Thesis:** AI-capex/semi catalyst intact; RS +15.7% vs SPY; momentum strong (ret_10d +16.7%). No action.
 **Drawdown from peak:** 0.00% (equity ~$1,087.49 > prior peak $1,087.15) | Breaker: inactive
+
+---
+
+### Jun 22 — EOD Snapshot (Day 8, Monday)
+**Equity:** $1,089.01 | **Cash:** $810.00 (74.4%) | **Day P&L:** +$3.50 (+0.32%) | **Phase P&L:** +$9.01 (+0.83%) | **Peak:** $1,089.01 | **DD:** 0.00%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| SMH | Core | 0.4175 | $646.66 | $668.25 | +1.27% | +$9.02 (+3.34%) | $586.01 |
+
+**Notes:** SMH climbed +1.27% today (from $659.88 → $668.25), driving portfolio equity to a new phase high of $1,089.01 — eclipsing the prior $1,085.97 peak, so drawdown resets to 0.00%. Unrealized P&L now +$9.02 (+3.34%). Price is at $668.25, still below the +1×ATR breakeven trigger ($646.66 + $33.21 ATR = $679.87), so stop remains at $586.01; the DAY protective stop was re-armed at market open this morning (expires 20:00 UTC). No new trades today; 0 of 3 weekly slots used this week (fresh week starting Jun 22). Portfolio heat: 1 position at ~25% of equity, well within rules. Drawdown breaker inactive. AI-capex/semiconductor catalyst intact; quant 4/5 from midday scan.
