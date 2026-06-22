@@ -80,3 +80,19 @@ drawdown are measured from here.
 | SMH | Core | 0.4175 | $646.66 | $659.88 | 0.00% | +$5.52 (+2.04%) | $586.01 |
 
 **Notes:** Saturday — US markets closed, no trading activity. Equity flat at $1,085.51 vs yesterday. SMH holds at $659.88, unrealized P&L steady at +$5.52 (+2.04%). Position remains below the +1×ATR breakeven trigger ($678.16 = $646.66 + $31.50), so stop stays at $586.01; DAY stop expired at Friday's close and will be re-armed at Monday's market open. Peak equity $1,085.97 (Jun 18) intact; drawdown negligible at −0.04%. One trade this week (SMH Jun 16), two weekly slots remaining. Action for Monday: re-arm DAY stop at open, then pre-market research for any new catalyst setups.
+
+---
+
+### Jun 22 — Market-Open (Day 7, Monday)
+**Action:** No new trades — PENDING-TRADES: "No trades" (SMH at 25% cap, no qualifying catalyst)
+**Stop re-armed:** SMH DAY stop @ $586.01 (order 3b7110e9, expires 20:00 UTC)
+**Equity:** $1,088.93 | **Cash:** $810.00 (74.4%) | **Phase P&L:** +$8.93 (+0.83%) | **Peak:** $1,088.93 (new high) | **DD:** 0.00%
+
+| Ticker | Sleeve | Shares | Entry | Last | Unrealized P&L | Stop | ATR |
+|--------|--------|--------|-------|------|----------------|------|-----|
+| SMH | Core | 0.4175 | $646.66 | $668.33 | +$9.05 (+3.35%) | $586.01 | $33.17 |
+
+**Breakeven trigger:** $679.83 ($646.66 + $33.17 ATR) — not yet reached; stop unchanged at $586.01
+**Regime:** risk-on (SPY $748.22 vs SMA50 $730.98, rising)
+**Quant SMH:** 4/5 (trend✓ momentum✓ rel_strength✓ not_extended✓ volume✗)
+**Week trades:** 0/3 this week (1 total since inception — SMH Jun 16)
