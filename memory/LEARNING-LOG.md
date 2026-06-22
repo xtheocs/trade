@@ -13,6 +13,25 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-06-22 — Scorecard (prior session 2026-06-18)
+
+*(Note: Fri Jun-19 Juneteenth + weekend — no trading session since the last scorecard. Alpaca movers still show Jun-18 data, already scored on 06-19. No new tape to learn from; this entry carries the rolling view forward to Mon Jun-22's open.)*
+
+**Our picks:**
+- SMH (semis ETF) — decision **held** over the long weekend — actual move since Jun-17: +5.57% (Jun-18) then flat Fri/weekend; now **+2.65% unrealized** vs entry — verdict **working** (held the leading theme without stacking correlated risk).
+
+**Day's top tradeable gainers:** none new — last session (Jun-18: CAST, BFLY, VELL, HQ, QSU, BESS) already scored as microcap/penny spikes, correctly skipped.
+
+**Best realistic miss:** none — no new session; the in-universe winner remains the held SMH.
+
+**Lessons:**
+- No new session data over Juneteenth + weekend; nothing to re-learn — avoid manufacturing signal from stale movers.
+- Holding the leading theme (SMH) at full 25% sleeve into a quiet, light-calendar week is correct; no diversified, liquid, non-semi catalyst has surfaced to justify a second name.
+
+**Rolling 7d:** recurring leading sectors = semis/tech (leading despite Fed/rate pressure; Comm Services secondary), Energy fading, Industrials/Health Care lagging ; recurring miss pattern = microcap/penny gap spikes (CAST, ICCM, QURE, BFLY, ADTX) we correctly skip — no tradeable edge.
+
+---
+
 ## 2026-06-19 — Scorecard (prior session 2026-06-18)
 
 *(Note: Fri Jun-19 is Juneteenth — market CLOSED. No new session today; this scores Thu Jun-18 and carries the plan to Mon Jun-22.)*

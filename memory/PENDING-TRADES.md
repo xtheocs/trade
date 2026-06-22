@@ -1,13 +1,3 @@
-# Pending Trades
+# Pending Trades — 2026-06-22
 
-This file is written by the pre-market routine and read by the market-open routine.
-
-## How to veto a trade
-Remove the entire trade block before market-open fires (3:30 PM Paris / 9:30 AM ET).
-Edit this file directly on GitHub. Market-open will only execute trades still listed here.
-
----
-
-# Pending Trades — 2026-06-19
-
-No trades. Reason: market CLOSED today (Juneteenth, Fri Jun-19) — no session to trade. HOLD SMH on its stop; next live pre-market scan Mon Jun-22.
+No trades. Reason: Leading theme (semis/tech) already held at the 25% position cap via SMH (quant 4/5, catalyst intact); no diversified, liquid, non-semi catalyst qualified into a quiet, light-calendar week ahead of Fri PCE.

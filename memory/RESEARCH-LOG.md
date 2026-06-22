@@ -244,3 +244,24 @@ TRADE or HOLD (default HOLD if no edge)
 **Candidates (catalyst + quant):** None — market closed.
 
 **Decision: HOLD — market closed (Juneteenth).** No trades possible today; nothing to veto. Manage SMH on its $586.01 stop level (synthetic; re-armed Monday). 2 of 3 weekly trades still free; heat ~2.3% « 12%. Reassess full setup at Monday's pre-market open.
+
+---
+
+## 2026-06-22 — Pre-market (Mon Jun 22; for today's open)
+
+**Account:** equity $1,087.15 / cash $810 (74.5%) / drawdown-from-peak 0.00% (new peak $1,087.15) / 1 open position (SMH, 25.5% eq) / 0 week trades (new week; 3 free).
+
+**Regime:** equity **risk_on** (SPY 746.75 > rising 50d 729.62). Futures slightly soft (−0.19%); week's calendar light — **May PCE Fri Jun-26** is the only binary. Risk-on tone supported by tech strength + a US-Iran interim peace headline.
+
+**Leading sectors:** Technology/semis (dominant, AI-capex), Comm Services secondary. Lagging: Health Care, Energy, Industrials, Staples. Financials beat (MS/BAC earnings) but sector still lagging.
+
+**Held — SMH (ETF):** entry $646.66, last $663.80, unrealized **+2.65% (+$7.16)**. Quant **4/5 confirmed** (trend✓ momentum✓ rel_strength✓ not_extended✓ volume✗; ret_10d +4.85%, RS +6.2% vs SPY, ATR $33.73). Catalyst (AI-capex/semi leadership) intact and reasserting. Not yet at +1×ATR breakeven trigger ($646.66 + $33.73 = $680.39), so stop stays **$586.01** (never moved down). Fractional → re-armed each session by market-open routine.
+
+**Candidates (catalyst + quant):** None taken.
+
+**Rejected:**
+- Premarket gainers (ADTX, CAST, GETY, LNKS, EHGO, BFLY…) — microcap/penny gap spikes, fail liquidity/universe rule.
+- Adding semis (INTC/NVDA/AMD via more SMH or single names) — leading theme already held at the **25% position cap** via SMH; stacking correlated semi risk breaches concentration discipline, no diversification.
+- No clean, diversified, liquid non-semi catalyst surfaced (Comm Services leads but no specific name; Financials lagging despite beats).
+
+**Decision: HOLD — no new trades.** Hold the leading theme via SMH (full sleeve, quant-confirmed, catalyst intact); nothing diversified/liquid qualifies to add a second name into a quiet, light-calendar week ahead of Fri PCE. Manage SMH on its $586.01 stop. 3 of 3 weekly trades free; heat ~3% « 12%; drawdown 0%. Patience > activity.
