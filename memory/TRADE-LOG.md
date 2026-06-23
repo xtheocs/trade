@@ -101,3 +101,14 @@ drawdown are measured from here.
 | SMH | Core | 0.4175 | $646.66 | $668.25 | +1.27% | +$9.02 (+3.34%) | $586.01 |
 
 **Notes:** SMH climbed +1.27% today (from $659.88 → $668.25), driving portfolio equity to a new phase high of $1,089.01 — eclipsing the prior $1,085.97 peak, so drawdown resets to 0.00%. Unrealized P&L now +$9.02 (+3.34%). Price is at $668.25, still below the +1×ATR breakeven trigger ($646.66 + $33.21 ATR = $679.87), so stop remains at $586.01; the DAY protective stop was re-armed at market open this morning (expires 20:00 UTC). No new trades today; 0 of 3 weekly slots used this week (fresh week starting Jun 22). Portfolio heat: 1 position at ~25% of equity, well within rules. Drawdown breaker inactive. AI-capex/semiconductor catalyst intact; quant 4/5 from midday scan.
+
+---
+
+### Jun 23 — EOD Snapshot (Day 9, Tuesday)
+**Equity:** $1,069.87 | **Cash:** $810.00 (75.7%) | **Day P&L:** −$19.41 (−1.78%) | **Phase P&L:** −$10.13 (−0.94%) | **Peak:** $1,089.01 | **DD:** −1.76%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| SMH | Core | 0.4175 | $646.66 | $622.45 | −6.95% | −$10.11 (−3.74%) | $586.01 |
+
+**Notes:** SMH sold off sharply today, dropping −6.95% from $668.91 → $622.45 — the largest single-session drawdown this phase. Portfolio equity fell to $1,069.87, erasing the Jun 22 phase high and pushing phase P&L modestly negative (−$10.13, −0.94%). Unrealized P&L on the SMH position is now −$10.11 (−3.74%) vs entry $646.66. Stop holds at $586.01, providing $36.44 of cushion below the current close; DAY protective stop re-armed this morning expires 20:00 UTC. No new trades today; 0 of 3 weekly slots used this week. Drawdown from the $1,089.01 peak is −1.76% — well clear of the 20% breaker. AI-capex/semi catalyst under pressure; pre-market tomorrow will reassess whether the semiconductor thesis remains intact or if the time-stop clock has begun.
