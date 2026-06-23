@@ -13,6 +13,29 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-06-23 — Scorecard (prior session 2026-06-22)
+
+**Our picks:**
+- SMH (semis ETF) — decision **held** (no add, no chase) — actual 1d Jun-22 **+1.42%** ($668.36 vs $659) — verdict **worked** (held the leading theme without stacking a second correlated semi name — which now looks especially right as the tech/semi selloff reverses into Jun-23).
+
+**Day's top tradeable gainers (Jun-22, ≥$5, no warrants/units/rights):**
+- APGE +46.7% ($132.55) — Apogee Therapeutics, biotech single-day spike (binary/data)
+- DFTX +49.8% ($36.67) — small-cap biotech spike
+- SPCG +32.7% ($21.45) / SSPC +32.6% ($12.81) / SNK +32.5% ($21.16) — SPAC-trust cluster, unexplained
+- NXTS +155.9% ($13) / FGMC +44.6% ($14.89) / WYHG +34.8% ($6.59) — micro-cap momentum spikes
+- (OPI +8400% data artifact / reverse-split — excluded)
+
+**Best realistic miss:** none of quality. Every in-universe leader was a microcap/biotech/SPAC single-day spike (≫2 ATR extended → fails not-over-extended quant; binary or illiquid). No clean liquid swing catalyst. The day's real tradeable winner was the held SMH (+1.42%) — already captured.
+
+**Lessons:**
+- Not stacking a second semi name on Jun-22 paid off twice: caught Monday's +1.42% AND avoided extra correlated downside into Tuesday's tech/semi reversal.
+- Day's leaders again microcap/biotech/SPAC spikes — liquidity + not-extended rules correctly filtered all; no edge there.
+- Tech/semi leadership is rolling over (Broadcom-led AI-capex selloff broadening) — be quicker to manage SMH on its stop/trail, slower to add the theme.
+
+**Rolling 7d:** recurring leading sectors = semis/tech (was dominant; now reversing on AI-capex profit-taking), Energy firming on Iran/Hormuz + oil ; recurring miss pattern = microcap/penny/biotech/SPAC gap spikes (CAST, ADTX, GETY, APGE, SPC*) we correctly skip — no tradeable edge.
+
+---
+
 ## 2026-06-22 — Scorecard (prior session 2026-06-18)
 
 *(Note: Fri Jun-19 Juneteenth + weekend — no trading session since the last scorecard. Alpaca movers still show Jun-18 data, already scored on 06-19. No new tape to learn from; this entry carries the rolling view forward to Mon Jun-22's open.)*

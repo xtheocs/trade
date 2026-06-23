@@ -1,3 +1,3 @@
-# Pending Trades — 2026-06-22
+# Pending Trades — 2026-06-23
 
-No trades. Reason: Leading theme (semis/tech) already held at the 25% position cap via SMH (quant 4/5, catalyst intact); no diversified, liquid, non-semi catalyst qualified into a quiet, light-calendar week ahead of Fri PCE.
+No trades. Reason: Tech/semi selloff spreading (SMH ~−5.4% pre-market), SPY rolling near-term, VIX elevated, oil/Iran risk, PCE Thu — no clean catalyst+quant setup; still risk_on so no inverse sleeve sanctioned. Hold + manage SMH on its $586.01 stop.

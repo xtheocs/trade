@@ -265,3 +265,25 @@ TRADE or HOLD (default HOLD if no edge)
 - No clean, diversified, liquid non-semi catalyst surfaced (Comm Services leads but no specific name; Financials lagging despite beats).
 
 **Decision: HOLD — no new trades.** Hold the leading theme via SMH (full sleeve, quant-confirmed, catalyst intact); nothing diversified/liquid qualifies to add a second name into a quiet, light-calendar week ahead of Fri PCE. Manage SMH on its $586.01 stop. 3 of 3 weekly trades free; heat ~3% « 12%; drawdown 0%. Patience > activity.
+
+---
+
+## 2026-06-23 — Pre-market (Tue Jun 23; for today's open)
+
+**Account:** equity $1,074.32 / cash $810 (75.4%) / drawdown-from-peak 1.35% (peak $1,089.01) / 1 open position (SMH, ~24.6% eq) / 0 week trades (3 free).
+
+**Regime:** equity **risk_on** by the 50d gate (SPY 744.27 > rising 50d 730.91) — but the tape is rolling over near-term: SPY's own signal is only **2/5** (trend✗ below 20d 747.14, rel_strength✗, volume✗). A broad **tech/semiconductor selloff is spreading into today** (Morningstar: "Stock Futures Slide as Technology Selloff Spreads"; STMicro −4.7%; Nasdaq ~−1.3%) — continuation of the Jun-5 Broadcom AI-capex-miss rout. Futures red (S&P −0.3%), **VIX elevated**, crude bid on Iran/Strait-of-Hormuz tension. Binary this week: **May PCE Thu Jun-26 8:30 ET**; Fed bank stress-test results Wed.
+
+**Leading sectors:** Energy firming (Iran/oil); semis/tech **rolling over** (was the leader, now the source of the selloff); defensives (Staples — CLX/HSY/ROL bid premarket) catching a flight-to-safety bid.
+
+**Held — SMH (ETF):** entry $646.66, last (Jun-22 close) $668.36; **pre-market −5.36% to ~$633.08**, unrealized flips to ~−2.1% (−$5.67). Daily signal still **4/5 confirmed** (trend✓ momentum✓ rel_strength✓ not_extended✓ volume✗; ret_10d +17.3%, RS +16.4% vs SPY, ATR $33.21) — but that's stale vs this morning's gap-down. Catalyst (AI-capex/semi leadership) now **under active pressure**, though structural TSMC/foundry demand intact and **stop $586.01 not threatened** (price $633 » $586). This is a market-open/midday management item, not a thesis-broken exit yet. Fractional → DAY stop re-armed at open by the market-open routine.
+
+**Candidates (catalyst + quant):** None.
+
+**Rejected:**
+- Adding/holding-into semis — leading theme already held via SMH and the theme is *selling off*; adding correlated risk into a spreading tech rout is exactly wrong.
+- Premarket gainers (GETY, ADTX, NXTS, DFTX, APGE, SPC* cluster) — microcap/biotech/SPAC gap spikes, fail liquidity + not-extended rules.
+- Defensives bid (CLX/HSY/ROL) — flight-to-safety pop, no fresh single-name catalyst + low-momentum names; not a strength-buy swing setup.
+- Inverse-ETF sleeve (SQQQ/SH) — regime is still risk_on by the 50d gate; a one-day gap is not a confirmed broad downtrend. No sanctioned inverse setup yet.
+
+**Decision: HOLD — no new trades.** Tech/semi selloff spreading, SPY rolling near-term, VIX up, oil/Iran risk, PCE Thursday — wrong tape to open fresh long risk, and no inverse setup is sanctioned (still risk_on). Manage SMH on its $586.01 stop (re-armed at open); if the selloff deepens, midday tightens/trims. 3 of 3 weekly trades free; heat ~3% « 12%; drawdown 1.35%. Patience > activity.
