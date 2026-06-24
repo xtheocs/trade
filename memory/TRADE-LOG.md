@@ -125,3 +125,14 @@ drawdown are measured from here.
 **Thesis:** AI-capex/semi structurally intact but under near-term pressure; MU earnings tonight AMC (±5.3% implied SMH move). Tomorrow: May PCE 8:30 ET (binary). No thesis-broken exit today — MU result pending.
 **Equity:** ~$1,067.70 | **Peak:** $1,089.01 | **DD:** −1.96% | Breaker: inactive
 **Drawdown breaker:** Inactive (−1.96% vs 20% threshold)
+
+---
+
+### Jun 24 — EOD Snapshot (Day 10, Wednesday)
+**Equity:** $1,070.53 | **Cash:** $810.00 (75.7%) | **Day P&L:** +$0.81 (+0.08%) | **Phase P&L:** −$9.47 (−0.88%) | **Peak:** $1,089.01 | **DD:** −1.70%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| SMH | Core | 0.4175 | $646.66 | $624.01 | +0.32% | −$9.46 (−3.50%) | $586.01 |
+
+**Notes:** SMH edged up +0.32% to $624.01, a modest bounce after yesterday's −6.95% selloff, as MU's after-hours earnings were acceptable and prevented further downside. Position remains underwater vs entry ($646.66) by −$9.46 (−3.50%); day P&L effectively flat at +$0.81 (+0.08%). Time-stop clock reaches Day 7 of trading tomorrow (Jun 16 entry: Jun 16/17/18/22/23/24 = 6 days so far) — if SMH shows no meaningful recovery toward entry tomorrow, the 7-day time-stop rule triggers and the position is closed to free capital. PCE data prints tomorrow at 8:30 ET, a binary macro event. DAY protective stop at $586.01 (order 7fad4a79, expires 20:00 UTC). No new trades today; 0 of 3 weekly slots used this week. Drawdown from $1,089.01 peak is −1.70% — 20% breaker inactive.
