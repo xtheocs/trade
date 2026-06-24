@@ -13,6 +13,28 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-06-24 — Scorecard (prior session 2026-06-23)
+
+**Our picks:**
+- SMH (semis ETF) — decision **HOLD, no new trades / declined to add semis** — actual 1d Jun-23 **−7.0%** ($621.54 vs $668.36) on 2.0× volume — verdict **dodged-loss** (correctly refused to stack a second semi name into a spreading tech/AI-capex rout; held position lost but managed on its $586.01 stop, untouched).
+
+**Day's top tradeable gainers (Jun-23, ≥$5, no warrants/units/rights):**
+- BLZE +43.6% ($11.66) — Backblaze, cloud storage small-cap spike
+- ARQQ +35.6% ($29.04) — Arqit, quantum-computing/security theme pop
+- BTQ +32.2% ($5.87) — BTQ Technologies, quantum theme
+- (HSCS/GITS/FOFO/XCH — sub-$3 microcap gap spikes; KORU/AXTX/AXTU/AXTL — leveraged-ETF wipeouts, −31% to −36%)
+
+**Best realistic miss:** none of investable quality. The day's leaders were a quantum-theme pop (ARQQ +36%, BTQ +32%) and a cloud small-cap (BLZE +44%) — all ≫2 ATR extended single-day spikes (fail not-over-extended) and speculative/illiquid. The session was a semi-selloff rotation into speculative names; no clean liquid catalyst+quant swing setup. The held SMH was the real tradeable instrument and it fell −7% — declining to add was the correct call.
+
+**Lessons:**
+- Refusing to add semis Jun-23 dodged a −7% SMH day — concentration discipline paid off a second time.
+- Leaders were speculative quantum (ARQQ/BTQ) + cloud (BLZE) one-day spikes — too extended/illiquid, no swing edge.
+- Defensives/staples now catching flight-to-safety bids (SJM/CHD/TJX) as tech rotates; flight-to-safety pops are NOT strength-buy swings — wait for genuine momentum.
+
+**Rolling 7d:** recurring leading sectors = Energy (Iran/oil, now **fading** as crude drops to 4-month lows on Hormuz easing), defensives/staples (flight-to-safety), semis/tech reversing on AI-capex profit-taking ; recurring miss pattern = speculative microcap/biotech/SPAC/quantum gap spikes (ARQQ, BTQ, BLZE, APGE, ADTX) we correctly skip — no tradeable edge.
+
+---
+
 ## 2026-06-23 — Scorecard (prior session 2026-06-22)
 
 **Our picks:**

@@ -287,3 +287,26 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse-ETF sleeve (SQQQ/SH) — regime is still risk_on by the 50d gate; a one-day gap is not a confirmed broad downtrend. No sanctioned inverse setup yet.
 
 **Decision: HOLD — no new trades.** Tech/semi selloff spreading, SPY rolling near-term, VIX up, oil/Iran risk, PCE Thursday — wrong tape to open fresh long risk, and no inverse setup is sanctioned (still risk_on). Manage SMH on its $586.01 stop (re-armed at open); if the selloff deepens, midday tightens/trims. 3 of 3 weekly trades free; heat ~3% « 12%; drawdown 1.35%. Patience > activity.
+
+---
+
+## 2026-06-24 — Pre-market (Wed Jun 24; for today's open)
+
+**Account:** equity $1,072.30 / cash $810 (75.5%) / drawdown-from-peak −1.53% (peak $1,089.01) / 1 open position (SMH, ~24.5% eq) / 0 week trades (3 free).
+
+**Regime:** equity **risk_on** by the 50d gate, but barely — SPY 733.62 sits just above its rising 50d (731.99) after Tuesday's tech rout, and SPY's own signal is **1/5** (trend✗ below 20d 746.54, momentum✗ ret_10d −0.76%, rel_strength✗, volume✗; only not_extended✓). Tape is choppy/rolling. Tech **bouncing modestly** premarket (NVDA +0.7%, AMD +1.2%, QCOM +2%, INTC +1.9%) after Tuesday's −7% semi day. Binaries this week: **Micron (MU) earnings AMC tonight** (key semi/HBM tell — strategist warns "expect a pullback"), Fed meeting underway (rates expected held), May PCE Thu. Oil **down to 4-month lows** (Hormuz transit resuming) — energy momentum fading; dollar 1-yr high; gold pulling back.
+
+**Leading sectors:** Energy still top YTD but **fading near-term** as oil rolls to 4-mo lows; Materials / Consumer Staples / Industrials leading; defensives bid premarket (SJM +7.7% earnings, CHD, TJX +5%, BRO) on flight-to-safety. Lagging: Info Tech, Financials, Consumer Disc, Comm Services. Broad rotation from mega-cap tech → value/small-cap/staples (equal-weight beating cap-weight).
+
+**Held — SMH (ETF):** entry $646.66, last (Jun-23 close) $621.54, premarket ~$628; unrealized ~−2.8% (−$7.69). Daily signal **4/5 confirmed** (trend✓ rel_strength✓ volume✓ not_extended✓; momentum✗ ret_10d +4.03%; ATR $35.05, RS +4.8% vs SPY, vol_ratio 2.0×). Catalyst (AI-capex/memory supercycle) structurally intact (hyperscaler capex $500–600B 2026; HBM shortages) but **under near-term pressure** and faces tonight's MU binary (SMH options imply ±5.3% into Fri). Below +1×ATR breakeven trigger ($646.66 + $35.05 = $681.71) → stop stays **$586.01** (never moved down); price $628 » $586, not threatened. Fractional → DAY stop re-armed at open by market-open routine. Management item (watch MU reaction), not a thesis-broken exit.
+
+**Candidates (catalyst + quant):** None.
+
+**Rejected:**
+- Adding semis (MU / NVDA / more SMH) — leading theme already held at the ~25% position cap via SMH; stacking correlated semi risk into tonight's Micron earnings binary is exactly wrong.
+- Premarket defensives/value (SJM, CHD, TJX, MTCH) — flight-to-safety / earnings pops, low-momentum lagging-or-defensive names; not strength-buy momentum swings, no 2:1 clean setup.
+- Quantum/cloud spikes (ARQQ, BTQ, BLZE) — ≫2 ATR extended one-day pops, speculative/illiquid, fail not-extended + liquidity.
+- Energy add — leadership fading as crude drops to 4-month lows (Hormuz easing); no fresh long-energy edge.
+- Inverse sleeve (SQQQ/SH) — still risk_on by the 50d gate; one rough session is not a confirmed broad downtrend. Not sanctioned.
+
+**Decision: HOLD — no new trades.** Leading theme already held via SMH at full sleeve; can't/shouldn't add correlated risk into the Micron earnings binary tonight. Premarket leaders are defensive flight-to-safety pops, not strength-buy swings; energy fading on falling oil; choppy tape (SPY 1/5, below 20d, barely above 50d) with MU + Fed this week = wrong tape to open fresh long risk, and no inverse setup is sanctioned. Manage SMH on its $586.01 stop (re-armed at open); midday reassesses post-MU. 3 of 3 weekly trades free; heat ~3% « 12%; drawdown −1.53%. Patience > activity.
