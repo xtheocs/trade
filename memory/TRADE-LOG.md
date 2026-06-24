@@ -112,3 +112,16 @@ drawdown are measured from here.
 | SMH | Core | 0.4175 | $646.66 | $622.45 | −6.95% | −$10.11 (−3.74%) | $586.01 |
 
 **Notes:** SMH sold off sharply today, dropping −6.95% from $668.91 → $622.45 — the largest single-session drawdown this phase. Portfolio equity fell to $1,069.87, erasing the Jun 22 phase high and pushing phase P&L modestly negative (−$10.13, −0.94%). Unrealized P&L on the SMH position is now −$10.11 (−3.74%) vs entry $646.66. Stop holds at $586.01, providing $36.44 of cushion below the current close; DAY protective stop re-armed this morning expires 20:00 UTC. No new trades today; 0 of 3 weekly slots used this week. Drawdown from the $1,089.01 peak is −1.76% — well clear of the 20% breaker. AI-capex/semi catalyst under pressure; pre-market tomorrow will reassess whether the semiconductor thesis remains intact or if the time-stop clock has begun.
+
+---
+
+### Jun 24 — Midday Scan (Day 10 calendar / Day 6 trading)
+**SMH:** last $617.22 | unrealized −4.55% (−$12.29) | intraday −0.78%
+**Quant:** 3/5 — trend✓ rel_strength✓ not_extended✓ | momentum✗ volume✗ (vol_ratio 0.79, ret_10d +4.51%)
+**ATR:** $34.59 | stop $586.01 (price $617 > stop — no hard exit triggered)
+**Stop action:** DAY stop had expired (orders empty); re-armed DAY stop @ $586.01 (order 7fad4a79, expires 20:00 UTC)
+**Breakeven/trail:** No — price ($617) is below entry ($646.66); no upward progress
+**Time stop check:** Day 6 of trading since Jun 16 entry (~7-day rule); if still no progress tomorrow (Day 7), time stop triggers
+**Thesis:** AI-capex/semi structurally intact but under near-term pressure; MU earnings tonight AMC (±5.3% implied SMH move). Tomorrow: May PCE 8:30 ET (binary). No thesis-broken exit today — MU result pending.
+**Equity:** ~$1,067.70 | **Peak:** $1,089.01 | **DD:** −1.96% | Breaker: inactive
+**Drawdown breaker:** Inactive (−1.96% vs 20% threshold)
