@@ -13,6 +13,29 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-06-25 — Scorecard (prior session 2026-06-24)
+
+**Our picks:**
+- SMH (semis ETF) — decision **HOLD, no new trades / declined to add semis into MU binary** — actual 1d Jun-24 **−0.4%** ($619.21 vs $621.54) — verdict **worked** (held the leading theme flat through the pre-earnings chop without stacking correlated risk; vindicated Jun-25 when MU's beat sent SMH +4.6% premarket — patience on a confirmed name beat reacting to one rough week).
+
+**Day's top tradeable gainers (Jun-24, ≥$5, no warrants/units/rights):**
+- RAM +124% ($23.79) — SPAC/merger pop, unexplained
+- ECHO +107% ($99.86) — single-day spike, likely deal/buyout
+- PLSM +93% ($6.59) — microcap momentum spike
+- CBRZ +39% ($29.87) / NVCT +39% ($24.48) — biotech/microcap gap spikes
+- (ICCM +52% $9.30, STFS +52% $12.84, CUPR +46% $5.74 — small-cap spikes; ONTX +2476% = reverse-split/data artifact, excluded)
+
+**Best realistic miss:** none of investable quality. Every in-universe leader was a microcap/SPAC/biotech single-day spike (≫2 ATR extended → fails not-over-extended; illiquid/binary). No clean liquid catalyst+quant swing setup. The day's real tradeable instrument was the held SMH (flat), and the next session's winner — the MU-driven semi bounce — was already captured by holding SMH.
+
+**Lessons:**
+- Holding SMH through the week-long semi selloff (no panic sell, no add) paid off: MU's Jun-25 earnings beat + raised guidance validated the AI-capex/memory thesis and SMH bounced +4.6%.
+- The week's semi pressure was profit-taking *ahead of* MU's binary, not a broken thesis — patience on a confirmed, quant-passing name beat overreacting to one rough week.
+- Top gainers again all speculative microcap/SPAC spikes (RAM/ECHO/PLSM) — no liquid swing edge; correctly skipped, as every session this week.
+
+**Rolling 7d:** recurring leading sectors = semis/tech (sold off Jun-5 & Jun-23 on AI-capex fears, **reclaiming leadership Jun-25 on MU's beat**), Energy (YTD leader but near-term faded as oil rolled to 4-mo lows), defensives/staples (flight-to-safety, now fading as risk returns) ; recurring miss pattern = speculative microcap/biotech/SPAC/quantum gap spikes (RAM, ECHO, ARQQ, BTQ, BLZE) — correctly skipped, no tradeable edge.
+
+---
+
 ## 2026-06-24 — Scorecard (prior session 2026-06-23)
 
 **Our picks:**

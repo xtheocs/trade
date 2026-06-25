@@ -310,3 +310,25 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — still risk_on by the 50d gate; one rough session is not a confirmed broad downtrend. Not sanctioned.
 
 **Decision: HOLD — no new trades.** Leading theme already held via SMH at full sleeve; can't/shouldn't add correlated risk into the Micron earnings binary tonight. Premarket leaders are defensive flight-to-safety pops, not strength-buy swings; energy fading on falling oil; choppy tape (SPY 1/5, below 20d, barely above 50d) with MU + Fed this week = wrong tape to open fresh long risk, and no inverse setup is sanctioned. Manage SMH on its $586.01 stop (re-armed at open); midday reassesses post-MU. 3 of 3 weekly trades free; heat ~3% « 12%; drawdown −1.53%. Patience > activity.
+
+---
+
+## 2026-06-25 — Pre-market (Thu Jun 25; for today's open)
+
+**Account:** equity $1,080.43 / cash $810 (75.0%) / drawdown-from-peak −0.79% (peak $1,089.01) / 1 open position (SMH, ~25.0% eq) / 0 week trades (3 free).
+
+**Regime:** equity **risk_on** (SPY 733.32 > rising 50d 732.94, +0.05% — marginal but qualifying). The week's tech/semi pressure is **reversing today**: Micron (MU) reported an earnings **beat + raised guidance** on the memory supercycle (MU +17% premarket), dragging the whole memory/semi complex up — WDC +11%, QCOM +12%, GLW (Corning) +9%, ARM/KLAC bid. Core PCE prints **today** 8:30 ET (~0.2% MoM core, a soft/disinflationary early read — cooler than the 0.3% forecast); jobless claims 226K. The macro binary that overhung the week is resolving benignly, not hawkishly.
+
+**Leading sectors:** Semis/Info-Tech **reclaiming leadership** on MU's beat (was the week's laggard/selloff source). Energy still YTD leader (+23%) but near-term faded as oil rolled to 4-month lows. Defensives/staples bid fading as risk appetite returns.
+
+**Held — SMH (ETF):** entry $646.66, Jun-24 close $619.21, premarket ~+4.6% to ~$647.70 → unrealized back to ~breakeven (+$0.44). Daily signal **4/5 confirmed** (trend✓ rel_strength✓ volume✓ not_extended✓; momentum✗ ret_10d +4.8%; ATR $35.05, RS +5.3% vs SPY, vol_ratio 1.31×). Catalyst (AI-capex/memory supercycle) now **validated by MU's beat** — the week-long pressure was pre-earnings profit-taking, not a broken thesis. Below +1×ATR breakeven trigger ($681.71) → stop stays **$586.01** (never moved down). Time-stop clock (Day 7) is reset by the fresh positive catalyst + recovery to breakeven — thesis re-confirmed, not stalled; a hold, not a time-stop exit. Fractional → DAY stop re-armed at open by market-open routine.
+
+**Candidates (catalyst + quant):** None opened.
+- MU (stock) — catalyst: earnings beat + raised guidance — quant 4/5 confirmed (on stale $1047 close) — REJECTED: after +17% gap MU trades ~$1225, right at its 20d high ($1213) = fully extended/chasing; room to a sensible objective < 2× risk/sh ($205) → **R:R < 2:1 fails the setup filter**; and it would stack a 2nd semi name on a theme already held at the ~25% position cap via SMH.
+
+**Rejected:**
+- MU / WDC / QCOM (semi gap-ups) — leading theme already held via SMH at the position cap; chasing +11–17% earnings gaps = over-extended + correlated-risk stacking. QCOM also quant 2/5 (below 20d, negative RS). Add nothing correlated.
+- Premarket microcap spikes (AZI, EHGO, WAVE, GPUS) — illiquid/penny gap-ups, fail liquidity + not-extended.
+- Inverse sleeve (SQQQ/SH) — regime risk_on; no broad downtrend. Not sanctioned.
+
+**Decision: HOLD — no new trades.** Today's winning catalyst (MU beat → memory/semi bounce) is *already expressed* by the held SMH, which is quant 4/5 confirmed and recovering to breakeven. Adding a single semi name post-gap fails R:R 2:1 and stacks correlated risk at the theme cap. PCE today (benign early read) and a marginal risk_on tape argue for riding the position we have, not opening fresh risk. Manage SMH on its $586.01 stop (re-armed at open); midday reassesses post-PCE. 3 of 3 weekly trades free; heat ~3% « 12%; drawdown −0.79%. Patience > activity — the held position is doing the work.
