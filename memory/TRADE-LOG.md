@@ -136,3 +136,15 @@ drawdown are measured from here.
 | SMH | Core | 0.4175 | $646.66 | $624.01 | +0.32% | −$9.46 (−3.50%) | $586.01 |
 
 **Notes:** SMH edged up +0.32% to $624.01, a modest bounce after yesterday's −6.95% selloff, as MU's after-hours earnings were acceptable and prevented further downside. Position remains underwater vs entry ($646.66) by −$9.46 (−3.50%); day P&L effectively flat at +$0.81 (+0.08%). Time-stop clock reaches Day 7 of trading tomorrow (Jun 16 entry: Jun 16/17/18/22/23/24 = 6 days so far) — if SMH shows no meaningful recovery toward entry tomorrow, the 7-day time-stop rule triggers and the position is closed to free capital. PCE data prints tomorrow at 8:30 ET, a binary macro event. DAY protective stop at $586.01 (order 7fad4a79, expires 20:00 UTC). No new trades today; 0 of 3 weekly slots used this week. Drawdown from $1,089.01 peak is −1.70% — 20% breaker inactive.
+
+---
+
+### Jun 25 — Midday Scan (Day 7 trading / Day 11 calendar)
+**SMH:** last $634.55 | unrealized −1.87% (−$5.05) | intraday +2.53% (recovery from $618.92)
+**Quant:** 3/5 — trend✓ rel_strength✓ not_extended✓ | momentum✗ (ret_10d +11.3%) | volume✗ (vol_ratio 0.76)
+**ATR:** $35.21 | stop $586.01 (DAY order c590d2a6, live, expires 20:00 UTC)
+**Breakeven/trail:** No — price ($634.55) not yet up +1×ATR from entry ($646.66 + $35.21 = $681.87); no stop move
+**Time-stop assessment (Day 7):** Catalyst re-validated by MU's earnings beat + raised guidance (MU +17% premarket; memory supercycle intact); PCE printed soft/disinflationary. Pre-market analysis deferred time stop given fresh confirming catalyst. Price intraday +2.53% (recovering). DEFER — hold.
+**Exit checks:** No hard stop trigger ($634.55 ≫ $586.01) | not −7% (−1.87%) | thesis intact (MU beat confirms AI-capex/HBM thesis) | stop order live — NO EXITS
+**Drawdown from peak:** −1.29% (equity ~$1,074.94 vs peak $1,089.01) | Breaker: inactive
+**Action:** Hold. Stop already live; no adjustments needed. No ClickUp notification (no action taken).
