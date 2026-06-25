@@ -148,3 +148,14 @@ drawdown are measured from here.
 **Exit checks:** No hard stop trigger ($634.55 ≫ $586.01) | not −7% (−1.87%) | thesis intact (MU beat confirms AI-capex/HBM thesis) | stop order live — NO EXITS
 **Drawdown from peak:** −1.29% (equity ~$1,074.94 vs peak $1,089.01) | Breaker: inactive
 **Action:** Hold. Stop already live; no adjustments needed. No ClickUp notification (no action taken).
+
+---
+
+### Jun 25 — EOD Snapshot (Day 11, Thursday)
+**Equity:** $1,075.86 | **Cash:** $810.00 (75.3%) | **Day P&L:** +$5.33 (+0.50%) | **Phase P&L:** −$4.14 (−0.38%) | **Peak:** $1,089.01 | **DD:** −1.21%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| SMH | Core | 0.4175 | $646.66 | $637.50 | +3.00% | −$3.82 (−1.42%) | $586.01 |
+
+**Notes:** SMH bounced +3.00% (from $618.92 → $637.50) on continued MU-earnings/AI-capex momentum, recovering roughly half of Tuesday's sharp selloff. Portfolio equity rose to $1,075.86, with phase P&L narrowing to −$4.14 (−0.38%) vs the $1,080.00 starting equity. Position remains below entry ($646.66), so time-stop clock reached Day 7 of trading; the midday scan deferred exit given MU's earnings beat re-validated the semiconductor/HBM catalyst and PCE printed soft. DAY protective stop at $586.01 (order c590d2a6, expired 20:00 UTC). No new trades today; 0 of 3 weekly slots used this week. Drawdown from $1,089.01 peak is −1.21% — 20% breaker inactive. Tomorrow: pre-market research; monitor whether SMH can push back toward entry ($646.66) and above the +1×ATR breakeven trigger ($681.87 = $646.66 + $35.21); re-arm DAY stop at open.
