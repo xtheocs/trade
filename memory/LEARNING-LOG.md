@@ -13,6 +13,28 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-06-26 — Scorecard (prior session 2026-06-25)
+
+**Our picks:**
+- SMH (semis ETF) — decision **HOLD, no new trades / rejected chasing MU's +17% gap** — actual 1d Jun-25 **+2.78%** ($636.42 vs $619.21) — verdict **worked** (held the leading theme through the MU-driven recovery; correctly declined to stack an over-extended MU post-gap that failed R:R 2:1).
+
+**Day's top tradeable gainers (Jun-25, ≥$5, no warrants/units/rights):**
+- SNXX +42.9% ($45.70) — illiquid small-cap momentum spike (vol ~668k but thin float)
+- SNDG +43.3% ($28.73) — small-cap spike (~95k vol)
+- MEI +37.8% ($18.07) — Methode Electronics, auto/industrial electronics — likely earnings/news pop (~179k vol)
+- PTLE +7.6% ($6.88) — extremely illiquid (~2.4k vol)
+
+**Best realistic miss:** none of investable quality. The only "real company" name was MEI (Methode Electronics +37.8%), but it gapped ≫2 ATR extended on thin volume ($18, ~179k) = fails not-over-extended + liquidity. The rest (SNXX/SNDG/PTLE) are illiquid one-day spikes. No clean liquid catalyst+quant swing setup. Held SMH was again the real tradeable instrument and it gained +2.78%.
+
+**Lessons:**
+- Rejecting MU's +17% post-earnings gap Jun-25 was right: the winning catalyst (memory/semi bounce) was already expressed via the held SMH (+2.78%) without chasing an extended, R:R-failing single name.
+- Top gainers again all illiquid micro/small-cap spikes (SNXX/SNDG/MEI/PTLE) — no liquid swing edge; correctly skipped, as every session this stretch.
+- Semis are now rolling back over Jun-26 premarket (NVDA −1%, AMD −3.5%, INTC −3.4%, GLW −3%) — the MU bounce is fading and the held SMH time-stop clock (Day 8) is back in focus.
+
+**Rolling 7d:** recurring leading sectors = semis/tech (sold off Jun-5/Jun-23 on AI-capex fears, bounced Jun-25 on MU's beat, **fading again Jun-26**), Energy (YTD leader, near-term faded as oil hit 4-mo lows), defensives/value/staples (CRL/ATO/ECL/CTAS/utilities/insurance catching flight-to-safety bids as tech wobbles) ; recurring miss pattern = speculative micro/small-cap/SPAC/quantum gap spikes (SNXX, SNDG, INLF, ILLR, IVF, ARQQ) we correctly skip — no tradeable edge.
+
+---
+
 ## 2026-06-25 — Scorecard (prior session 2026-06-24)
 
 **Our picks:**

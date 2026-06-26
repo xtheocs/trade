@@ -332,3 +332,27 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime risk_on; no broad downtrend. Not sanctioned.
 
 **Decision: HOLD — no new trades.** Today's winning catalyst (MU beat → memory/semi bounce) is *already expressed* by the held SMH, which is quant 4/5 confirmed and recovering to breakeven. Adding a single semi name post-gap fails R:R 2:1 and stacks correlated risk at the theme cap. PCE today (benign early read) and a marginal risk_on tape argue for riding the position we have, not opening fresh risk. Manage SMH on its $586.01 stop (re-armed at open); midday reassesses post-PCE. 3 of 3 weekly trades free; heat ~3% « 12%; drawdown −0.79%. Patience > activity — the held position is doing the work.
+
+---
+
+## 2026-06-26 — Pre-market (Fri Jun 26; for today's open)
+
+**Account:** equity $1,069.26 / cash $810 (75.8%) / drawdown-from-peak −1.81% (peak $1,089.01) / 1 open position (SMH, ~24.3% eq) / 0 week trades (3 free).
+
+**Regime:** equity **neutral** — SPY 733.33 sits just *below* its rising 50d (733.72). Half size / best setups only. Risk-on bounce is rolling over: tech/semis **down premarket** (NVDA −1.0%, AMD −3.5%, INTC −3.4%, GLW −3.1%) as the MU-driven bounce fades; premarket leadership is **defensive/value** (CRL +7.8%, ATO +5.9%, ECL +5.5%, CTAS +4.3%, plus utilities/insurance — CINF, FE, ED, BRO) = flight-to-safety rotation. No FOMC this week (next July); jobs report this week.
+
+**Leading sectors:** Defensives/value rotating back to the front (utilities, insurance, business services, pharma-services) as tech wobbles. Semis/Info-Tech giving back this week's MU bounce. Energy still YTD leader but near-term faded (oil at ~4-mo lows).
+
+**Held — SMH (ETF):** entry $646.66, Jun-25 close $636.42, premarket ~$620.95 → unrealized −3.98% (−$10.73). Daily signal **4/5 confirmed** (trend✓ rel_strength✓ volume✓ not_extended✓; momentum✗ ret_10d +11.5%; ATR $35.21, RS +10.5% vs SPY, vol_ratio 1.11×). Catalyst (AI-capex/memory supercycle) structurally intact but the MU bounce is **fading again** premarket (semis red across the board). Below +1×ATR breakeven trigger ($681.87) → stop stays **$586.01** (never moved down; new −2ATR $565.99 is lower → do not move). Price $620.95 » $586.01, not threatened. **Time-stop: Day 8 of trading (entry Jun 16)** — deferred Jun 25 on MU's fresh beat, but position is still below entry and semis are rolling over; if no recovery today the time-stop / fading-thesis case for an exit firms up. **Management watch item — midday reassesses; market-open re-arms the DAY stop.**
+
+**Candidates (catalyst + quant):** None opened.
+
+**Rejected:**
+- CRL (stock) — catalyst VALID + recent (Barclays + Morgan Stanley upgrades; Eli Lilly TuneLab AI drug-discovery collab Jun-21), quant **4/5 confirmed** — REJECTED: **not_extended✗** — last $212.64 sits ~3.7 ATR above its 20d SMA ($186.38) and has gapped +7.8% into its 20d high ($212.75) / near 52-wk high ($226.77) = chasing a blow-off; and **R:R fails 2:1** — stop $198.62 (−2ATR), risk/sh $14.02, room to a sensible objective (prior high ~$226) is only ~$14 = ~1:1. Neutral regime = best setups only, not gap-chases.
+- CTAS (stock) — earnings catalyst but quant **1/5** (below falling 20d, negative RS, vol 0.54×) — defensive low-vol name, no momentum-swing setup.
+- Premarket defensive/value leaders (ATO, ECL, CINF, FE, ED, BRO) — utilities/insurance/staples flight-to-safety pops, low-momentum lagging-or-defensive names; not strength-buy swings (per repeated learning-log lessons).
+- Microcap premarket spikes (INLF, ILLR, IVF, SDOT, TII) — illiquid pump/dump gap-ups; fail liquidity + not-extended.
+- Adding semis (MU/NVDA/more SMH) — leading theme already held at the position cap via SMH; stacking correlated semi risk as the bounce fades is wrong.
+- Inverse sleeve (SQQQ/SH) — regime is neutral, not a confirmed broad downtrend; SPY still on a rising 50d. Not sanctioned.
+
+**Decision: HOLD — no new trades.** The one catalyst+quant name (CRL) is an over-extended gap-chase that fails R:R 2:1; everything else is defensive flight-to-safety (we don't chase) or illiquid micro-cap pumps. Neutral tape (SPY just below 50d) + semis rolling over = wrong tape to open fresh long risk, and no inverse setup is sanctioned. Manage SMH on its $586.01 stop (re-armed at open); **time-stop Day 8 is the live watch item** — midday decides whether the fading semi bounce triggers an exit. 3 of 3 weekly trades free; heat ~2.4% « 12%; drawdown −1.81%. Patience > activity.
