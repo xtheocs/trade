@@ -160,3 +160,65 @@ Template for each entry:
 
 ### Overall Grade: B
 *(Disciplined, correct process; first trade green and rules fully respected. Marked down only for thin absolute return / heavy idle cash — appropriate for a launch-into-FOMC week, but not yet compounding.)*
+
+---
+
+## Week ending 2026-06-26
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,085.51 (Mon Jun-22 open, carried from Fri Jun-20 close) |
+| Ending portfolio | $1,068.33 (Fri Jun-26) |
+| Week return | −$17.18 (−1.58%) |
+| S&P 500 week | +0.9% (~7,433 → 7,501) — FYI only |
+| Bot vs S&P | ≈ −2.48% (FYI context, NOT the goal) |
+| Trades | 1 (W:0 / L:1 / open:0) — 0 new opened, 1 closed |
+| Win rate | 0% (1 closed, 1 loss) |
+| Best trade | N/A (no winners — SMH was the only position) |
+| Worst trade | SMH −4.32% (−$11.66) |
+| Profit factor | 0.00 (Σ winners $0 / |Σ losers $11.66|) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| SMH | $646.66 | ~$618.71 | −$11.66 (−4.32%) | Time stop, Day 8 trading (Jun 16–26). MU-beat bounce fully reversed, quant decayed 4/5→2/5, regime turned neutral. Stop never threatened ($618 ≫ $586.01 floor); risk realized −0.46R. |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| (none — 100% cash) | — | — | — | — |
+
+### What Worked
+- **Time stop executed, not rationalized away.** SMH closed at Day 8 once the MU-beat thesis faded and quant collapsed to 2/5 — capital freed at −4.32% rather than letting a stalled position bleed toward the −$25 stop. Rule obeyed.
+- **Risk discipline held all week:** one position at the 25% cap, heat ~2.4% « 12%, initial risk 2.34% « 3%, stop never widened/lowered, drawdown −1.90% « 20% breaker. No rule broken.
+- **Correctly rejected every chase:** CRL (3.7 ATR extended, R:R <2:1), MU/WDC/QCOM post-gap correlated semi adds, defensive flight-to-safety pops, and illiquid microcap pumps — all filtered out by not-extended / R:R / liquidity gates.
+- **No inverse-sleeve mistake:** resisted SQQQ/SH despite the wobble — regime was risk-on→neutral, not a confirmed downtrend, so the sleeve stayed un-sanctioned. No forced trade to look busy.
+
+### What Didn't Work
+- **A losing week (−1.58%); the only position bled out.** SMH rode a binary (MU earnings) and a sector rotation against it (semis → defensives/value), giving back the prior week's gain and then some. Phase P&L flipped to −1.08%.
+- **Day-7 time-stop deferral cost ~0.7%.** Jun-25 held SMH on MU's beat (price recovered to ~breakeven), but the bounce reversed Jun-26 and we exited Day 8 at a worse price (−4.32% vs ~−1.4% Thu close). The deferral was defensible (fresh confirming catalyst) but in hindsight selling into the Thursday strength was the better exit.
+- **Capital ~75% idle the entire week** for the second week running — under-deployed, no second uncorrelated name added, so the book had zero diversification and one ETF's volatility was the whole P&L.
+- **Single-name concentration = single point of failure.** With only SMH open, a one-sector drawdown was the entire week. A second uncorrelated position would have dampened it.
+
+### Key Lessons
+- **Holding a swing through a binary earnings event you can't control is a coin-flip, not an edge.** SMH carried MU's print (±5.3% implied) with no way to hedge — the bounce came, then evaporated. Prefer to trim/exit ahead of an uncontrollable binary on a position already stalled past its time-stop window, rather than deferring on the hope of a beat.
+- **When a position is already past the time-stop clock AND quant is decaying, take the exit on strength.** Thursday's +3% bounce was the cleaner exit than Friday's reversal; "defer one more day" repeatedly favors the downside on a stalled name.
+- **Two weeks, one position each — selectivity is right, but persistent 75% cash with no second name is leaving the diversification benefit on the table.** Not a rule violation, but a recurring drag worth correcting when a genuinely uncorrelated catalyst appears.
+- **Process can be clean and the week still red.** Every rule was obeyed and the result was still −1.58% — correct, because the alternative (chasing CRL/MU gaps, stacking semis, forcing the inverse sleeve) would have risked far worse. Survive first.
+
+### Adjustments for Next Week
+- **Hunt for ONE uncorrelated second name** (Industrials / Materials / value-defensive leadership has been persistent) if it clears 3/5 quant + R:R 2:1 + an allowing regime — to break the single-position concentration. Do NOT force it; zero is still valid.
+- **Regime gate is the first filter Monday:** SPY closed just *below* its 50-day (neutral) — half-size / best-setups-only until SPY reclaims a rising 50-day. If it rolls further, scan the inverse sleeve (SQQQ/SH) for a *confirmed* downtrend, not one rough session.
+- **On any stalled position at/over the time-stop window, prefer exiting into intraday strength** rather than deferring on a single catalyst — bank the better fill (the SMH lesson).
+- **Avoid carrying swings through uncontrollable binary earnings** unless the position is healthy (above breakeven, quant ≥4/5) — don't gamble a stalled name on a print.
+- **Full $1,068 buying power, 0/3 weekly trades used, heat 0%** — clean slate; patience over activity, but lean toward adding one diversifier if a clean setup appears.
+
+### Strategy File Changes
+- **None this week.** Two weeks of data (Wk1 +0.51%, Wk2 −1.58%; one position each) is too thin to amend hard rules. The recurring observations — heavy idle cash, single-name concentration, a costly time-stop deferral — are *execution biases to correct in the routines*, not failures of the written rules. The rules performed as intended (risk capped, stop honored, no chase, breaker never near). Will revisit a possible "exit stalled positions into strength" refinement or a soft deployment nudge if the pattern persists another 1–2 weeks.
+
+### Overall Grade: C+
+*(Clean, disciplined process — correct time-stop, no forced trades, every risk rule respected — but a red week with no winners, the lone position bled out on a binary it couldn't control, and capital sat ~75% idle for a second straight week. Process A-, result D; the average is a C+. Survival intact; compounding not yet.)*
