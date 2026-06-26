@@ -179,3 +179,14 @@ drawdown are measured from here.
 - Stop never threatened ($618 vs $586 floor)
 **Drawdown from peak:** −1.90% (equity $1,068.33 vs peak $1,089.01) | Breaker: inactive
 **Account after exit:** Equity $1,068.33 | Cash $1,068.33 (100%) | 0 open positions | Portfolio heat 0%
+
+---
+
+### Jun 26 — EOD Snapshot (Day 12, Friday)
+**Equity:** $1,068.33 | **Cash:** $1,068.33 (100%) | **Day P&L:** −$7.58 (−0.70%) | **Phase P&L:** −$11.67 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| (none — fully exited) | | | | | | | |
+
+**Notes:** Time-stop exit on SMH executed at midday (~$618.71); see midday scan above for full details. Position held 8 trading days (Jun 16–26) with no meaningful recovery toward entry ($646.66); realized P&L −$11.66 (−4.32%). Account is now 100% cash at $1,068.33. Phase P&L: −$11.67 (−1.08%) vs $1,080.00 starting equity. Peak remains $1,089.01 (Jun 22); drawdown −1.90%. No new trades opened this week (0/3 weekly slots used). Drawdown breaker inactive. Weekend ahead — Monday pre-market will identify fresh setups with full $1,068 buying power available.
