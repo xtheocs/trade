@@ -159,3 +159,23 @@ drawdown are measured from here.
 | SMH | Core | 0.4175 | $646.66 | $637.50 | +3.00% | −$3.82 (−1.42%) | $586.01 |
 
 **Notes:** SMH bounced +3.00% (from $618.92 → $637.50) on continued MU-earnings/AI-capex momentum, recovering roughly half of Tuesday's sharp selloff. Portfolio equity rose to $1,075.86, with phase P&L narrowing to −$4.14 (−0.38%) vs the $1,080.00 starting equity. Position remains below entry ($646.66), so time-stop clock reached Day 7 of trading; the midday scan deferred exit given MU's earnings beat re-validated the semiconductor/HBM catalyst and PCE printed soft. DAY protective stop at $586.01 (order c590d2a6, expired 20:00 UTC). No new trades today; 0 of 3 weekly slots used this week. Drawdown from $1,089.01 peak is −1.21% — 20% breaker inactive. Tomorrow: pre-market research; monitor whether SMH can push back toward entry ($646.66) and above the +1×ATR breakeven trigger ($681.87 = $646.66 + $35.21); re-arm DAY stop at open.
+
+---
+
+### Jun 26 — Midday Scan + Exit (Day 8 trading / Day 12 calendar)
+**SMH:** last $618.35 | unrealized −4.32% (−$11.66) | intraday −2.83% (from $636.88)
+**Quant:** 2/5 — rel_strength✓ not_extended✓ | trend✗ momentum✗ volume✗ (vol_ratio 0.45, ret_10d +1.49%)
+**ATR:** $32.92 | stop $586.01 (no live order — DAY stop expired overnight)
+**Hard exit checks:** Price ($618) ≫ stop ($586) — no trigger. Thesis structurally intact but MU bounce fully reversed.
+**Time stop: Day 8 of trading** — rule triggers at ≥ 7 days with no meaningful progress. Position held 8 trading days (Jun 16/17/18/22/23/24/25/26), still −4.32% below entry. Day-7 deferral on MU beat now fully faded (semis red again, quant deteriorated 2/5). Pre-market flagged today as the decision point. TIME STOP TRIGGERED.
+**Regime:** Neutral (SPY below its 50d) — worsened from risk_on; no tailwind for semis.
+**Action: CLOSED SMH @ ~$618.71** (market order d089b70f, filled ~17:03 UTC)
+
+**EXIT SUMMARY — SMH**
+- Entry: $646.66 | Exit: ~$618.71 | Shares: 0.4175
+- Realized P&L: −$11.66 (−4.32%)
+- Reason: Time stop — 8 trading days, no meaningful progress; MU bounce fully reversed; quant 2/5; regime neutral
+- Holding period: Jun 16 – Jun 26 (8 trading days)
+- Stop never threatened ($618 vs $586 floor)
+**Drawdown from peak:** −1.90% (equity $1,068.33 vs peak $1,089.01) | Breaker: inactive
+**Account after exit:** Equity $1,068.33 | Cash $1,068.33 (100%) | 0 open positions | Portfolio heat 0%
