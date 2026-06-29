@@ -356,3 +356,25 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime is neutral, not a confirmed broad downtrend; SPY still on a rising 50d. Not sanctioned.
 
 **Decision: HOLD — no new trades.** The one catalyst+quant name (CRL) is an over-extended gap-chase that fails R:R 2:1; everything else is defensive flight-to-safety (we don't chase) or illiquid micro-cap pumps. Neutral tape (SPY just below 50d) + semis rolling over = wrong tape to open fresh long risk, and no inverse setup is sanctioned. Manage SMH on its $586.01 stop (re-armed at open); **time-stop Day 8 is the live watch item** — midday decides whether the fading semi bounce triggers an exit. 3 of 3 weekly trades free; heat ~2.4% « 12%; drawdown −1.81%. Patience > activity.
+
+---
+
+## 2026-06-29 — Pre-market (Mon Jun 29; for today's open)
+
+**Account:** equity $1,068.31 / cash $1,068.31 (100%) / drawdown-from-peak −1.90% (peak $1,089.01) / 0 open positions / 0 week trades (3 free). Breaker inactive.
+
+**Regime:** equity **neutral** — SPY 729.35 sits just *below* its rising 50d (734.31). Half size / best setups only; no risk-off → inverse sleeve not sanctioned. Backdrop: last week was a broad tech rout (S&P −1.95%, Nasdaq −4.6%; NVDA & GOOGL each −8%, rotation out of megacap tech). Today is a relief bounce — S&P futures +0.67% — on a US–Iran agreement to halt attacks ahead of Doha peace talks. Big binary ahead: June nonfarm payrolls Thursday; Nike earnings Tue after close.
+
+**Leading sectors:** Info-Tech / semis still the month/YTD leader on the AI-capex/memory supercycle (Samsung + SK Group announced massive long-term AI-memory investment in S. Korea), but megacap tech led last week's selloff. Semicap equipment (AMAT/LRCX) held up with strong relative strength through the rout. Defensives/staples/utilities/energy lagging (oil at 4-mo lows, now de-escalation).
+
+**Candidates (passed catalyst + quant):** None opened.
+- AMAT (stock) — catalyst: AI-capex/memory-WFE demand; bid premarket — quant **4/5 confirmed** (trend✓ rel_strength✓ volume✓ not_extended✓; momentum✗ ret_10d +12.9%, 6.7% below 20d high; ATR $45.37, RS +14% vs SPY, vol 1.94×) — **REJECTED: R:R fails 2:1**. risk/sh $90.74 (2×ATR), stop $533.26. A 2R objective = ~$805 (+29%, new-high territory), but room to a sensible objective (20d high $669) is only ~$45 = ~0.5R → R:R ~0.5:1. Ultra-high-ATR stop dwarfs near-term upside room.
+- LRCX (stock) — catalyst: same semicap/AI-capex theme — quant **4/5 confirmed** (trend✓ rel_strength✓ volume✓ not_extended✓; momentum✗ ret_10d +4.25%; ATR $28.79, RS +5.4%, vol 1.52×) — **REJECTED: R:R fails 2:1**. risk/sh $57.59, stop $320.40; room to 20d high ($409.73) ~$32 = ~0.55R; 2R target ~$493 (+30%) unrealistic short-term.
+
+**Rejected:**
+- CMCSA / CHTR — Perplexity flagged "+21% / +12%" premarket pops, but those are **bogus/misreported data**: Alpaca shows CMCSA $23.14, CHTR $133.6, both down on the 10-day, quant **1/5** (falling 20d, negative RS, light volume). No real catalyst. (Numbers come from Alpaca only.)
+- Microcap one-day spikes (MIC, SDOT, GOGL, PCLA, WSHP, UPC, DCOY, ILLR) — illiquid pump/dump gap-ups / data artifacts; fail liquidity + not-extended. Skip per repeated lessons.
+- Adding semis right after Friday's SMH time-stop — re-stacking the same theme we just exited, into a neutral tape and ahead of Thursday jobs, is wrong; and the clean semicap names (AMAT/LRCX) fail R:R anyway.
+- Inverse sleeve (SQQQ/SH) — regime neutral, SPY on a rising 50d; no confirmed broad downtrend. Not sanctioned.
+
+**Decision: HOLD — no new trades.** The two catalyst+quant names (AMAT, LRCX, both 4/5) fail the R:R 2:1 setup filter — their 2×ATR stops (risk/sh $90 / $58) are far wider than the ~0.5R of room to their 20d highs, so a 2R objective implies an unrealistic +29–30% near-term move (same trap that killed MU/CRL). Everything else is bogus-data pops (CMCSA/CHTR) or illiquid microcap spikes. Neutral tape after a tech rout, a relief bounce on Iran de-escalation, and the jobs binary Thursday = wrong setup to open fresh long risk with no sanctioned inverse play. 100% cash, 3 of 3 weekly trades free, heat 0%, drawdown −1.90%. Patience > activity.

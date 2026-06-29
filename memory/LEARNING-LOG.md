@@ -13,6 +13,30 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-06-29 — Scorecard (prior session 2026-06-26)
+
+**Our picks:**
+- SMH (semis ETF) — decision **TIME-STOP EXIT at midday ~$618.71** (Day 8, no progress) — actual 1d Jun-26 **−4.24%** (close $609.46 vs $636.42) — verdict **worked / dodged-loss** (exited at −2.79% from prior close; SMH closed another ~$9.25/sh lower — the time-stop got us out above the close as the MU bounce fully reversed).
+- CRL (stock) — decision **REJECTED** (over-extended ~3.7 ATR above 20d, at 20d/52w highs; R:R < 2:1) — actual 1d Jun-26 **+1.43%** (close $215.68 vs $212.64) — verdict **acceptable miss** (kept grinding up but only +1.4%; rejecting a blow-off gap-chase that failed the R:R setup filter remains correct discipline).
+
+**Day's top tradeable gainers (Jun-26, ≥$5, no warrants/units/rights):**
+- MIC +430% ($21.67) — illiquid one-day spike (Alpaca bars null/thin)
+- SDOT +247% ($21.45) — Sadot Group, microcap short-squeeze/news spike
+- GOGL +201% ($24.01) — feed shows a spike but Alpaca bars stale flat $7.97 = data artifact, not investable
+- PCLA +127% ($6.97) — microcap momentum spike
+- WSHP +70% ($8.00) — microcap spike
+
+**Best realistic miss:** none of investable quality. Every in-universe leader was a microcap one-day spike (≫2 ATR extended, illiquid, binary) or a data artifact (GOGL). No clean liquid catalyst+quant swing setup. The day's only real tradeable instrument was the held SMH, which we correctly time-stopped out of as it fell −4.24%.
+
+**Lessons:**
+- Time-stopping SMH on Friday was vindicated: it closed another ~$9/sh lower and semis (NVDA/GOOGL −8% on the week) led last week's broad tech rout — no regret on freeing the capital to 100% cash.
+- Don't trust Perplexity premarket %s: today's "CMCSA +21% / CHTR +12%" pops were bogus/misreported — Alpaca shows CMCSA $23.14, CHTR $133.6, both down on the 10-day, quant 1/5. Every number from Alpaca, always.
+- Top gainers again all illiquid microcap spikes (MIC/SDOT/PCLA/WSHP) — no liquid swing edge; correctly skipped, as every session this stretch.
+
+**Rolling 7d:** recurring leading sectors = semis/semicap & broad Info-Tech (AI-capex/memory supercycle — sold off hard last week in a tech rout, NVDA/GOOGL −8%; semicap equipment AMAT/LRCX held up with strong RS), Energy (YTD leader, near-term faded on 4-mo-low oil + Iran de-escalation), defensives/value (intermittent flight-to-safety bids) ; recurring miss pattern = speculative microcap/SPAC/biotech gap spikes (MIC, SDOT, GOGL, UPC, DCOY, ILLR) we correctly skip — no tradeable edge.
+
+---
+
 ## 2026-06-26 — Scorecard (prior session 2026-06-25)
 
 **Our picks:**
