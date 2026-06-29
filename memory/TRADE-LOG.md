@@ -190,3 +190,10 @@ drawdown are measured from here.
 | (none — fully exited) | | | | | | | |
 
 **Notes:** Time-stop exit on SMH executed at midday (~$618.71); see midday scan above for full details. Position held 8 trading days (Jun 16–26) with no meaningful recovery toward entry ($646.66); realized P&L −$11.66 (−4.32%). Account is now 100% cash at $1,068.33. Phase P&L: −$11.67 (−1.08%) vs $1,080.00 starting equity. Peak remains $1,089.01 (Jun 22); drawdown −1.90%. No new trades opened this week (0/3 weekly slots used). Drawdown breaker inactive. Weekend ahead — Monday pre-market will identify fresh setups with full $1,068 buying power available.
+
+---
+
+### Jun 29 — Midday Scan (100% cash / no positions)
+**Positions:** None (exited SMH Jun 26). 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (AMAT/LRCX fail R:R 2:1; neutral regime; jobs binary Thu). Weekly trades used: 0/3.
