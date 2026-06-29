@@ -197,3 +197,14 @@ drawdown are measured from here.
 **Positions:** None (exited SMH Jun 26). 0 orders live.
 **Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (AMAT/LRCX fail R:R 2:1; neutral regime; jobs binary Thu). Weekly trades used: 0/3.
+
+---
+
+### Jun 29 — EOD Snapshot (Day 13, Monday)
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** −$0.02 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | | |
+
+**Notes:** No-trade Monday. Account flat at $1,068.31 — unchanged from the Jun 26 close ($1,068.33 rounding). Pre-market found no setups clearing 2:1 R:R (AMAT/LRCX evaluated and passed over); regime neutral (SPY below 50d); macro binary risk (jobs data Thursday). Phase P&L: −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from $1,089.01 peak −1.90% — 20% breaker inactive. Weekly trades: 0/3 (fresh week). Next catalyst window: jobs Thursday; pre-market tomorrow will scan for fresh setups with full $1,068.31 buying power.
