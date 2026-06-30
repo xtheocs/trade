@@ -13,6 +13,31 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-06-30 — Scorecard (prior session 2026-06-29)
+
+**Our picks:**
+- AMAT (stock) — decision **REJECTED** (R:R fails 2:1; risk/sh $90.74) — actual 1d Jun-29 **+11.32%** ($694.66 vs $624.00) — verdict **missed-entry** (ran hard; rejection was disciplined-but-costly — wide 2×ATR stop made 2:1 impossible).
+- LRCX (stock) — decision **REJECTED** (R:R fails 2:1; risk/sh $57.59) — actual 1d Jun-29 **+8.69%** ($410.82 vs $377.99) — verdict **missed-entry** (same R:R trap; now 5/5 quant, new highs).
+- CMCSA / CHTR — decision **REJECTED** (bogus Perplexity %s; quant 1/5) — verdict **correct** (real Alpaca data showed no setup).
+
+**Day's top tradeable gainers (Jun-29, ≥$5, no warrants/units/rights):**
+- UPC +311% ($12.18) — Universe Pharmaceuticals, illiquid microcap binary spike
+- DCOY +74% ($9.59) — Decoy Therapeutics, microcap biotech spike
+- SDOT +67% ($35.85) — Sadot Group, recurring microcap spike
+- ASTT/ASTX/ASTG/ASUP/ASTY +42–43% ($14–42) — leveraged single-stock ETPs on ASTS (AST SpaceMobile ~+20% blow-off); not core-tradeable, over-extended
+- CBRX +37% ($16.37) / CBRG +38% ($5.58) — microcap spikes
+
+**Best realistic miss:** LRCX +8.7% — semis/semicap — catalyst YES (AI-capex / WFE demand), would-pass-quant YES (5/5, not_extended true, breakout to new highs on volume). We missed it on the R:R 2:1 filter; the constructive miss was not staging a pullback-entry plan toward the rising 20d SMA where the stop tightens and 2:1 works.
+
+**Lessons:**
+- Our fixed 2×ATR stop + 2:1 R:R filter structurally excludes high-$/high-ATR semicap leaders: AMAT (risk/sh ~$96) & LRCX (risk/sh ~$59) need +28–29% to reach 2R, so even at 4–5/5 quant they fail — and both ran +9–11% the next day. Fix is NOT to relax the hard rule but to stage a pullback entry near the rising 20d SMA (tighter stop → real 2:1).
+- Regime flipped back to risk_on (SPY 740.86 > rising 50d 735.10); S&P/Nasdaq hit ATHs on the US–Canada trade restart. The relief bounce became a breakout — hunt clean continuation entries, not just rejections.
+- Movers screen again all illiquid microcap spikes (UPC/DCOY/SDOT) + leveraged single-stock ETPs (AST* cluster on ASTS) — no core edge; the real strength was the large-cap semicaps we already track.
+
+**Rolling 7d:** recurring leading sectors = semis/semicap (AMAT/LRCX breaking to new highs on AI-capex/WFE demand), Financials (one-day Fed stress-test pop off a YTD-laggard base, −6.9% YTD), Energy (YTD leader +23%, near-term faded on soft oil) ; recurring miss pattern = high-ATR semicap leaders rejected on R:R 2:1 then running (AMAT/LRCX, 2–3 sessions running), plus perennial illiquid microcap / leveraged-ETP spikes we correctly skip.
+
+---
+
 ## 2026-06-29 — Scorecard (prior session 2026-06-26)
 
 **Our picks:**

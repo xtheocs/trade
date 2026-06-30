@@ -378,3 +378,26 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime neutral, SPY on a rising 50d; no confirmed broad downtrend. Not sanctioned.
 
 **Decision: HOLD — no new trades.** The two catalyst+quant names (AMAT, LRCX, both 4/5) fail the R:R 2:1 setup filter — their 2×ATR stops (risk/sh $90 / $58) are far wider than the ~0.5R of room to their 20d highs, so a 2R objective implies an unrealistic +29–30% near-term move (same trap that killed MU/CRL). Everything else is bogus-data pops (CMCSA/CHTR) or illiquid microcap spikes. Neutral tape after a tech rout, a relief bounce on Iran de-escalation, and the jobs binary Thursday = wrong setup to open fresh long risk with no sanctioned inverse play. 100% cash, 3 of 3 weekly trades free, heat 0%, drawdown −1.90%. Patience > activity.
+
+---
+
+## 2026-06-30 — Pre-market (Tue Jun 30; for today's open)
+
+**Account:** equity $1,068.31 / cash $1,068.31 (100%) / drawdown-from-peak −1.90% (peak $1,089.01) / 0 open positions / 0 week trades (3 free). Breaker inactive.
+
+**Regime:** equity **risk_on** — SPY 740.86 above its rising 50d (735.10). Full size allowed. Backdrop: S&P 500 & Nasdaq closed at **all-time highs** Mon (US–Canada trade talks restarted after Canada dropped its digital-services tax); strongest quarter since Q4-2023. Financials hit a **record close** as major banks passed the Fed stress tests (GS/WFC surged). Caveats: PCE printed hottest in ~3 yrs → rate-hike chatter, yields up; **June jobs report Thursday** (binary); holiday-shortened week (July 4 / 250th anniversary) → thin liquidity, wilder swings.
+
+**Leading sectors:** Semis/semicap (AMAT/LRCX broke to new highs on AI-capex/WFE demand) and a broad tech re-engagement; Financials popped on the stress-test pass (but YTD laggard −6.9%). YTD leadership still Energy (+23%) / Materials / Staples / Industrials. Memory chips (Samsung/SK Hynix) soft on AI-cost concerns.
+
+**Candidates (passed catalyst + quant, but failed setup filters):** None opened.
+- LRCX (stock) — catalyst: AI-capex / semicap WFE demand; broke to new highs +8.7% Jun-29 — quant **5/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✓ not_extended✓; ret_10d +12.0%, RS +12.1% vs SPY, vol 1.32×, ATR $29.48) — **REJECTED: R:R fails 2:1.** Last $410.82 sits AT its 20d high ($414.91); stop $351.87 (−2ATR), risk/sh $58.95 (14.3% wide). 2R objective = $528.7 (+28.7%); even a generous breakout measured-move (≈ prior $340→$415 leg) only ~1.25R. Buying the exact high with a wide stop. Watch for a pullback toward the rising 20d SMA (~$360) → tighter stop makes 2:1 work.
+- AMAT (stock) — catalyst: same semicap/AI-capex theme; +11.3% Jun-29 — quant **4/5 confirmed** (not_extended✗ — last $694.66 is ~2.8 ATR above 20d SMA $558.85 after the gap; ATR $48.27, vol 1.71×) — **REJECTED: over-extended blow-off chase + R:R fails 2:1** (risk/sh $96.54 → 2R needs +27.8%).
+- XLF (ETF) — catalyst: banks' record close on Fed stress-test pass — quant **4/5 confirmed** (volume✗, vol 0.69× = below avg, no participation; ret_10d +0.66% anemic; last $53.70 at 20d-high resistance $54.89; ATR $0.75, risk/sh $1.51) — **REJECTED: low conviction.** A one-day pop in the worst YTD sector (−6.9%) on below-average volume and flat momentum; sitting at resistance, not a strength-buy momentum swing.
+
+**Rejected (other):**
+- GS / WFC (stocks) — surged on stress tests but quant **not confirmed** (both below their 20d SMA, negative 10d return: GS −3.95%, WFC −0.28%). One-day bounce in a downtrend, no momentum setup.
+- AVAV (stock) — +25% on a contract win but quant **not confirmed** (ret_10d −18.3%, last $139.47 far below 20d SMA $170.56). The pop is a bounce off a steep decline, not a trend.
+- Movers screen (UPC +311%, DCOY +74%, SDOT +67%, AST* cluster +42%, CBRX/CBRG) — illiquid microcap binary spikes / leveraged single-stock ETPs on ASTS; fail liquidity + not-extended. Skip per repeated lessons.
+- Inverse sleeve (SQQQ/SH) — regime is risk_on; not sanctioned.
+
+**Decision: HOLD — no new trades.** Regime flipped risk_on and the tape is at ATHs, but no name clears catalyst + quant + R:R with conviction: the semicap leaders (LRCX 5/5, AMAT 4/5) fail R:R 2:1 — their wide 2×ATR stops ($59/$97) require unrealistic +28–29% moves to a sensible objective, and both are at/over their 20d highs after big up-days (3rd session of this exact trap). XLF is a low-conviction laggard bounce on below-avg volume; GS/WFC/AVAV fail quant. Hot PCE + jobs Thursday (binary) + holiday-thin liquidity argue against chasing wide-stop names right at their highs. LRCX is the watch item — a pullback toward its rising 20d SMA would tighten the stop and make 2:1 work. 100% cash, 3/3 weekly trades free, heat 0%, drawdown −1.90%. Patience > activity.
