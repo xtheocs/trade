@@ -226,3 +226,10 @@ drawdown are measured from here.
 | (none — 100% cash) | | | | | | | |
 
 **Notes:** Second straight no-trade day. Account flat at $1,068.31, unchanged from yesterday's close. Pre-market evaluated LRCX (5/5 quant) and AMAT (4/5 quant) but both failed the 2:1 reward:risk filter; regime risk_on but holiday-thin liquidity ahead of Thursday's jobs print kept the bar high. Midday scan was a no-op with zero positions to manage. Phase P&L: −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from $1,089.01 peak holds at −1.90% — 20% breaker inactive. Weekly trades: 0/3. Tomorrow: pre-market rescans for fresh setups; full $1,068.31 buying power available; jobs data Thursday remains the key macro catalyst to watch.
+
+### Jul 1 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (AMD 5/5 fails R:R 2:1; LRCX/AMAT over-extended; jobs binary Thu; holiday-thin liquidity). Weekly trades used: 0/3.
+
+---
