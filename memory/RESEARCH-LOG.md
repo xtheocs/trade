@@ -401,3 +401,28 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime is risk_on; not sanctioned.
 
 **Decision: HOLD — no new trades.** Regime flipped risk_on and the tape is at ATHs, but no name clears catalyst + quant + R:R with conviction: the semicap leaders (LRCX 5/5, AMAT 4/5) fail R:R 2:1 — their wide 2×ATR stops ($59/$97) require unrealistic +28–29% moves to a sensible objective, and both are at/over their 20d highs after big up-days (3rd session of this exact trap). XLF is a low-conviction laggard bounce on below-avg volume; GS/WFC/AVAV fail quant. Hot PCE + jobs Thursday (binary) + holiday-thin liquidity argue against chasing wide-stop names right at their highs. LRCX is the watch item — a pullback toward its rising 20d SMA would tighten the stop and make 2:1 work. 100% cash, 3/3 weekly trades free, heat 0%, drawdown −1.90%. Patience > activity.
+
+---
+
+## 2026-07-01 — Pre-market (Wed Jul 1; for today's open)
+
+**Account:** equity $1,068.31 / cash $1,068.31 (100%) / drawdown-from-peak −1.90% (peak $1,089.01) / 0 open positions / 0 week trades (3 free). Breaker inactive.
+
+**Regime:** equity **risk_on** — SPY 746.65 above its rising 50d (735.83). Full size allowed. Backdrop: Tuesday closed a strong H1 (Dow +8.9% best first-half since 2021; Nasdaq +1.52%, S&P +0.79% on the day) led by chips/AI — NVDA +2.6%, AMD +7.7%, INTC +6%, SNDK +10.9%, MRVL +7.3%. Wed futures flat (−0.04%), VIX quiet, US500 −0.37% overnight. Caveats: Fed Chair Warsh (hawkish; market now prices ~1.5 hikes) speaks at ECB Sintra; ADP (122K, mild beat) + ISM Mfg today; **June jobs report Thursday = the binary**; holiday-shortened week (July 4).
+
+**Leading sectors:** Semis/semicap the clear leader on the AI-capex/WFE supercycle (sector earnings growth >30% 2026). Energy still YTD leader (+24%); Industrials/Materials broadening. Financials / Consumer Discretionary lagging (Financials −9% Q1). Megacap "Mag 7" de-rating (−9% May→late-Jun) as leadership broadens to semis + the S&P 493.
+
+**Candidates (passed catalyst + quant, but failed setup filters):** None opened.
+- AMD (stock) — catalyst: sector-wide semi/AI rally, +7.7% Jun-30 breakout — quant **5/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✓ not_extended✓; last $580.52 at 20d high $584.62, ret_10d +6.1%, RS +7.2% vs SPY, vol 1.22×, ATR $35.33, 1.8 ATR above 20d SMA $516.92) — **REJECTED: R:R fails 2:1.** risk/sh $70.66 (2×ATR), stop $509.86. 2R objective = $721.8 (+24.3%, new-high air); a generous base measured-move (~$450–562 base → ~$674) is only ~1.3R. Wide high-ATR stop dwarfs defined upside — same trap as LRCX/AMAT. Also position would run ~24.6% eq (≈ single-name cap) in one high-beta semi at its high into Thu jobs. Watch a pullback toward the rising 20d SMA for a tighter stop.
+- SNDK (stock) — catalyst: memory/AI, +10.9% Jun-30 — quant **4/5 confirmed** (volume✗) — **REJECTED: R:R fails 2:1** (last $2272, risk/sh $434.5 → 2R needs +38%) + one-day blow-off pop.
+- LRCX (stock) — quant **4/5** (not_extended✗, now 2.4 ATR above 20d after +5.5%) — **REJECTED: R:R fails 2:1 + over-extended** (risk/sh $56.75 → 2R needs +26%).
+- AMAT (stock) — quant **4/5** (not_extended✗, 3.2 ATR above 20d after +4.1%) — **REJECTED: over-extended blow-off + R:R fails 2:1** (risk/sh $94.54 → 2R needs +26%).
+
+**Rejected (other):**
+- NVDA (stock) — quant **not confirmed 2/5** (below 20d SMA $205.7, ret_10d −5.9%). Lagging the group; no setup.
+- MRVL (stock) — quant **not confirmed 2/5** (momentum/rel_strength/volume all fail, ret_10d −3.7%). One-day pop, no trend.
+- STZ (stock) — Q1 earnings beat (+4% AH) but quant **not confirmed 1/5** (below 20d SMA $141.75, ret_10d −6.1%). Bounce in a downtrend.
+- Movers screen (FRGT +46%, JEM +37/322%, DXF +291%, ATCH +22%, CELZ +224%; ABVX +38.6% biotech binary; LAZR +26758% / GIBO / SMCC = data artifacts) — illiquid microcap spikes, binary biotech, and stale-bar artifacts; fail liquidity + not-extended. Skip per repeated lessons.
+- Inverse sleeve (SQQQ/SH) — regime risk_on; not sanctioned.
+
+**Decision: HOLD — no new trades.** Semis lead a risk_on tape at ATHs, but no name clears catalyst + quant + R:R 2:1 with conviction. The cleanest setup, AMD (5/5, not-extended), still fails R:R — its $70.66 (2×ATR) stop needs +24% to reach 2R while a generous measured-move is ~1.3R, and it would consume ~25% of equity in one high-beta semi right at its high. LRCX/AMAT are now over-extended (2.4–3.2 ATR) and still fail R:R; SNDK is a +11% blow-off (2R needs +38%); NVDA/MRVL/STZ fail quant; everything in the movers screen is microcap/binary/data-artifact. Hawkish Warsh + hot PCE + Thursday jobs binary + holiday-thin liquidity argue against chasing wide-stop breakouts at their highs. AMD/LRCX are the watch items — a pullback toward the rising 20d SMA would tighten the stop and make 2:1 work. 100% cash, 0/3 weekly trades used, heat 0%, drawdown −1.90%. Patience > activity.

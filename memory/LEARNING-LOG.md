@@ -13,6 +13,32 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-01 — Scorecard (prior session 2026-06-30)
+
+**Our picks:**
+- LRCX (stock) — decision **REJECTED** (R:R fails 2:1; risk/sh $58.95) — actual 1d Jun-30 **+5.52%** ($433.49 vs $410.82) — verdict **missed-entry** (ran again; still 4/5 but now over-extended 2.4 ATR above 20d).
+- AMAT (stock) — decision **REJECTED** (over-extended + R:R fails 2:1; risk/sh $96.54) — actual 1d Jun-30 **+4.09%** ($723.08 vs $694.66) — verdict **missed-entry** (kept running; now 3.2 ATR above 20d, more extended).
+- XLF (ETF) — decision **REJECTED** (low-conviction laggard bounce) — actual 1d Jun-30 **−0.17%** ($53.61 vs $53.70) — verdict **correct / dodged** (faded flat; the strength-buy never materialized).
+- GS / WFC / AVAV — decision **REJECTED** (fail quant, below 20d SMA) — verdict **correct** (no trend setup).
+
+**Day's top tradeable gainers (Jun-30, ≥$5, no warrants/units/rights):**
+- ABVX +38.6% ($133.30) — biotech, binary (Phase-3/analyst-forecast gap-up) — over-extended event pop, we don't chase
+- CUPR +45% ($6.51) — copper microcap, illiquid (thin bars, ~1.3k trades) — fails liquidity
+- LAZR "+26758%" ($50.60) — data artifact (reverse-split), not investable
+- GIBO / SMCC — data artifacts (Alpaca bars stale/flat $1.26 / $6.20 vs feed $22.70 / $27.03) — not investable
+- (real tradeable strength was large-cap semis outside the % screen: AMD +7.7%, SNDK +10.9%, MRVL +7.3%, INTC +6%, NVDA +2.6%)
+
+**Best realistic miss:** AMD +7.7% ($580.52) — semis — catalyst YES (sector-wide AI/chip rally, fresh breakout), would-pass-quant YES (today reads 5/5, not_extended TRUE, closed at 20d high $584.62 on volume). We'd still reject on R:R 2:1 (2×ATR stop $70.66 → 2R needs +24%). Same recurring trap; the constructive miss is not staging a tighter-stop pullback entry.
+
+**Lessons:**
+- Fourth straight session semis lead and the R:R 2:1 hard rule keeps us out: AMD now joins LRCX/AMAT as a clean-quant leader whose wide 2×ATR stop ($59–97/sh) needs +24–29% to hit 2R while a generous measured-move is only ~1.3R. Do NOT relax the rule — the fix is a pullback entry nearer the rising 20d SMA (tighter stop → real 2:1), or a lower-ATR vehicle.
+- Movers screen again all microcap spikes (FRGT/JEM/DXF/CELZ) + data artifacts (LAZR/GIBO/SMCC) + one binary biotech (ABVX) — zero liquid clean swing setups; the actual tradeable strength came from large-cap semis we already track.
+- Macro turning two-sided: Warsh hawkish (market now prices ~1.5 hikes), hot PCE, June jobs Thursday (binary) — chasing wide-stop breakouts at new highs into a binary is the wrong risk.
+
+**Rolling 7d:** recurring leading sectors = semis/semicap (AMD/LRCX/AMAT/SNDK/MRVL on AI-capex/WFE demand), Energy (YTD leader +23–38%), Industrials/Materials broadening ; recurring miss pattern = high-ATR semi leaders (AMD/LRCX/AMAT) rejected on R:R 2:1 then running — now ~4 sessions — plus perennial illiquid microcap / data-artifact spikes we correctly skip.
+
+---
+
 ## 2026-06-30 — Scorecard (prior session 2026-06-29)
 
 **Our picks:**
