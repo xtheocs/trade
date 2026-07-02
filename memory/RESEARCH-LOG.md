@@ -426,3 +426,25 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime risk_on; not sanctioned.
 
 **Decision: HOLD — no new trades.** Semis lead a risk_on tape at ATHs, but no name clears catalyst + quant + R:R 2:1 with conviction. The cleanest setup, AMD (5/5, not-extended), still fails R:R — its $70.66 (2×ATR) stop needs +24% to reach 2R while a generous measured-move is ~1.3R, and it would consume ~25% of equity in one high-beta semi right at its high. LRCX/AMAT are now over-extended (2.4–3.2 ATR) and still fail R:R; SNDK is a +11% blow-off (2R needs +38%); NVDA/MRVL/STZ fail quant; everything in the movers screen is microcap/binary/data-artifact. Hawkish Warsh + hot PCE + Thursday jobs binary + holiday-thin liquidity argue against chasing wide-stop breakouts at their highs. AMD/LRCX are the watch items — a pullback toward the rising 20d SMA would tighten the stop and make 2:1 work. 100% cash, 0/3 weekly trades used, heat 0%, drawdown −1.90%. Patience > activity.
+
+---
+
+## 2026-07-02 — Pre-market (Thu Jul 2; for today's open)
+
+**Account:** equity $1,068.31 / cash $1,068.31 (100%) / drawdown-from-peak −1.90% (peak $1,089.01) / 0 open positions / 0 week trades (3 free). Breaker inactive.
+
+**Regime:** equity **risk_on** by the letter — SPY 745.67 above its rising 50d (736.56) — BUT deteriorating under the surface: Nasdaq −3–4% off its ATH, semis reversing hard (Samsung/SK Hynix −7%, Kospi halted −5.4% at the open), AI-trade durability being reassessed. Yesterday our prior semi leaders round-tripped: AMD −6.8%, LRCX −9.7%, AMAT −10.0%, SNDK −10.5%. Money rotating into "old economy" (banks/autos/industrials/materials) — Dow at an ATH while Nasdaq bleeds. **June jobs report today at 8:30 AM ET** (forecast +110k, smallest in 4 months; unemployment 4.3%; ~50% Sept-hike odds) — a binary that resolves PRE-open, so the 9:30 open can gap violently on the print. Oil collapsing (Brent <$100, −40% quarter on US–Iran peace progress).
+
+**Leading sectors:** YTD — Energy +23.3%, Materials +17.4%, Staples +15.6%, Industrials +14.1% lead; Tech −3.3%, Financials −6.9% lag. BUT current-tape momentum diverges from the YTD table: Energy/Materials/Staples ETFs (XLE/XLB/XLP) all rolled BELOW their 20d SMAs near-term (oil crash hits energy hardest). The only sectors still confirming on the current tape are Industrials (XLI) and Health Care (XLV).
+
+**Candidates (passed catalyst + quant, but failed setup filters):** None opened.
+- XLI (ETF, Industrials) — catalyst: value/old-economy rotation, defense + capex spend — quant **3/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✗ 0.74× not_extended✓; last $183.40, sma20 $178.53, ret_10d +1.95%, ATR ≈$3.39, risk/sh $6.79, stop $176.61) — **REJECTED: R:R fails 2:1.** Range-bound $178–186 for two weeks; 20d high $186.09 is only +1.5% up (~0.4R of clean room), while a 2R objective = $196.98 (+7.4%) is unrealistic clean-air for a slow sector ETF on anemic +1.95% 10d momentum and below-avg volume.
+- XLV (ETF, Health Care) — catalyst: defensive rotation + Roche lung-cancer drug beat in late-stage trial — quant **3/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✗ 0.77× not_extended✗ — extended >2ATR above 20d; last $159.59, sma20 $153.85, ret_10d +4.35%, risk/sh $4.92, stop $154.67) — **REJECTED: over-extended + R:R fails 2:1.** Consolidating $158–161 just under its 20d high $161.22 (+1.0% up, ~0.3R of room); 2R objective = $169.43 (+6.2%) needs unrealistic breakout air. Defensive bounce into resistance on below-avg volume.
+
+**Rejected (other):**
+- AMD / LRCX / AMAT / SNDK (stocks) — prior semi leaders; reversed −7 to −10% yesterday, thesis breaking. No long setup (buying into a fresh breakdown).
+- XLE (Energy) / XLB (Materials) / XLP (Staples) — YTD leaders but quant **not confirmed** (all below 20d SMA, negative 10d returns; XLE −4.6% 10d on the oil crash). YTD leadership ≠ current momentum.
+- Movers screen (SDOT +105% $72, DSC/NBIZ/WTO +34–40%, ELTX +31% biotech binary) — illiquid microcap spikes / binary biotech; fail liquidity + not-extended. Skip per repeated lessons.
+- Inverse sleeve (SQQQ/SH) — regime is risk_on (SPY > rising 50d); not sanctioned despite the tech wobble.
+
+**Decision: HOLD — no new trades.** Yesterday vindicated the R:R discipline — the wide-stop, at-the-high semi entries we refused reversed −7 to −10% in a day. Today the only two names still confirming on the current tape (XLI 3/5, XLV 3/5) both fail R:R 2:1: each sits just under its 20d high with only ~0.3–0.4R of clean room, and a 2R objective needs an unrealistic +6–7% breakout; XLV is also over-extended. Everything else in the rotation table (Energy/Materials/Staples) has rolled below its 20d SMA, and the semis are breaking down. On top of that, the **June jobs report drops at 8:30 AM ET** — a binary that resolves before the open, so PENDING trades would execute straight into a gap. Opening fresh long risk into that, with tech under real stress and ~50% Sept-hike odds, is the wrong risk. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity.

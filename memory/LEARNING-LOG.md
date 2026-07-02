@@ -13,6 +13,31 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-02 — Scorecard (prior session 2026-07-01)
+
+**Our picks:**
+- AMD (stock) — decision **REJECTED** (R:R fails 2:1; risk/sh $70.66) — actual 1d Jul-01 **−6.83%** ($540.89 vs $580.52) — verdict **dodged-loss** (the wide-stop, at-the-high entry we passed on gave back the whole breakout).
+- SNDK (stock) — decision **REJECTED** (+11% blow-off, R:R fails 2:1) — actual 1d Jul-01 **−10.47%** ($2034.06 vs $2272.06) — verdict **dodged-loss**.
+- LRCX (stock) — decision **REJECTED** (over-extended, R:R fails 2:1) — actual 1d Jul-01 **−9.72%** ($391.36 vs $433.49) — verdict **dodged-loss**.
+- AMAT (stock) — decision **REJECTED** (over-extended blow-off, R:R fails 2:1) — actual 1d Jul-01 **−9.98%** ($650.91 vs $723.08) — verdict **dodged-loss**.
+
+**Day's top tradeable gainers (Jul-01, ≥$5, no warrants/units/rights):**
+- SDOT +105% ($72.00) — Sadot Group, recurring illiquid microcap spike — skip
+- DSC +40% ($7.71) / NBIZ +35% ($9.05) / WTO +34% ($9.60) — microcap spikes, thin liquidity — skip
+- ELTX +31% ($5.14) — Elicio biotech, binary event pop — skip
+- (real market action was RISK-OFF in tech: semis reversed hard — AMD −6.8%, LRCX/AMAT/SNDK −10% — while money rotated to old-economy: Dow at ATH, banks/autos/industrials up)
+
+**Best realistic miss:** None — this was a discipline-vindicated day, not a missed-gainer day. The R:R 2:1 rejection of AMD/LRCX/AMAT/SNDK dodged −7% to −10% single-day reversals. The 4-session "missed-entry on wide-stop semis" pattern finally paid off in our favor: the exact wide-stop, buy-the-high entries we refused blew up.
+
+**Lessons:**
+- The recurring R:R-2:1 rejection of high-ATR semi leaders (AMD/LRCX/AMAT/SNDK) — logged as "missed-entry" for four sessions — flipped to **dodged-loss** as semis reversed −7 to −10% in one day. The hard rule that felt costly was correct: buying the exact high with a 2×ATR stop is precisely the setup that round-trips. Do NOT second-guess the R:R filter next time it keeps us out of a stretched leader.
+- Regime shifting under the surface: SPY still > rising 50d (risk_on by the letter) but Nasdaq −3–4% off ATH, Samsung/SK Hynix −7%, Kospi halted −5.4%, AI-trade durability being reassessed. Money rotating into industrials/materials/staples/autos ("old economy"), Dow at ATH. Watch for the SPY 50d test if tech keeps bleeding.
+- Oil collapsing (Brent <$100, −40% quarter on US–Iran peace progress) undercuts Energy — the YTD sector leader is now a near-term laggard (XLE below 20d SMA). YTD leadership ≠ current momentum; quant the current tape, not the YTD table.
+
+**Rolling 7d:** recurring leading sectors = semis/semicap (now ROLLING OVER — leadership breaking), Energy (YTD leader but near-term down on oil crash), Industrials/Materials/Staples broadening on the value rotation ; recurring miss pattern = high-ATR semi leaders rejected on R:R 2:1 — this session vindicated the rejection (they reversed −7 to −10%); plus perennial illiquid microcap / data-artifact spikes we correctly skip.
+
+---
+
 ## 2026-07-01 — Scorecard (prior session 2026-06-30)
 
 **Our picks:**
