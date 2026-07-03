@@ -253,3 +253,14 @@ drawdown are measured from here.
 | (none — 100% cash) | | | | | | |
 
 **Notes:** Fourth straight no-trade day. Account flat at $1,068.31, no positions, no open orders. Pre-market found the only two names confirming on the current tape, XLI (3/5) and XLV (3/5), both failing 2:1 R:R with over-extended/tight-range setups; prior semi leaders (AMD/LRCX/AMAT/SNDK) round-tripped −7 to −10% the day before, vindicating the discipline to stay out. June jobs report hit at 8:30 AM ET pre-open — a binary the routine correctly avoided trading into. Phase P&L: −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from $1,089.01 peak holds at −1.90% — 20% breaker inactive. Weekly trades: 0/3. Tomorrow: pre-market rescans for fresh setups with full $1,068.31 buying power; watch whether jobs-report reaction reopens semi entries at tighter stops.
+
+---
+
+### Jul 3 — EOD Snapshot (Day 17, Friday — MARKET HOLIDAY, no session)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** NYSE/Nasdaq closed all day for Independence Day (observed) — July 4 falls on a Saturday in 2026, so the holiday is observed Friday Jul 3. Alpaca confirms `last_equity`/`balance_asof` unchanged from Jul 2 close; no orders, no positions, no fills possible. Pre-market correctly logged no PENDING trades for a session that never opened. Account unchanged at $1,068.31; Phase P&L −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from $1,089.01 peak holds at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (full week — Jun29 through Jul3 — closed with zero trades). Next session: Monday Jul 6 pre-market rescans the full catalyst + quant universe with full $1,068.31 buying power; watch whether the semi unwind (AMD/LRCX/AMAT/SNDK) finds a base and whether Health Care/Industrials pull back to a tradeable 2:1.
