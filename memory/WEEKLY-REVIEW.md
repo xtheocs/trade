@@ -222,3 +222,64 @@ Template for each entry:
 
 ### Overall Grade: C+
 *(Clean, disciplined process — correct time-stop, no forced trades, every risk rule respected — but a red week with no winners, the lone position bled out on a binary it couldn't control, and capital sat ~75% idle for a second straight week. Process A-, result D; the average is a C+. Survival intact; compounding not yet.)*
+
+---
+
+## Week ending 2026-07-03
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,068.31 (Mon Jun-29 open) |
+| Ending portfolio | $1,068.31 (Fri Jul-3 — Independence Day, mkt closed) |
+| Week return | +$0.00 (0.00%) |
+| S&P 500 week | +1.8% (7,495 → 7,483; intraweek rally, Fed-cut/jobs-driven) — FYI only |
+| Bot vs S&P | ≈ −1.8% (100% cash during the rally — FYI context, NOT the goal) |
+| Trades | 0 (W:0 / L:0 / open:0) — none opened, none closed |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A (no positions) |
+| Worst trade | N/A (no positions) |
+| Profit factor | N/A (no closed trades) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades — 100% cash entire week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| (none — 100% cash) | — | — | — | — |
+
+### What Worked
+- **The R:R 2:1 filter was actively vindicated, not just obeyed.** Passed on AMD (5/5 quant), LRCX (5/5), AMAT (4/5) — all failed the 2:1 reward:risk gate on wide 2×ATR stops. The very next day the semi leaders (AMD/LRCX/AMAT/SNDK) round-tripped −7% to −10%. Staying out was the trade.
+- **Correctly refused to trade into a binary.** June jobs report printed Thursday 8:30 ET into holiday-thin liquidity; the routine kept the bar high and took no fresh binary risk — same discipline that has protected the book every macro event this phase.
+- **Zero rule violations, zero forced activity.** 0/3 weekly trades used, heat 0%, drawdown −1.90% « 20% breaker, no chase of blow-off semis or defensive pops. Patience > activity, as written.
+- **No inverse-sleeve error.** Regime was risk-on→neutral (SPY chopping its 50-day), not a confirmed downtrend, so SQQQ/SH stayed un-sanctioned. No downside bet on a rallying tape.
+
+### What Didn't Work
+- **A flat week against a +1.8% S&P — third straight week with no compounding.** Capital 100% idle the whole week; phase P&L stuck at −$11.69 (−1.08%). Correct by the rules, but zero absolute progress toward the ~10%/month stretch.
+- **High-quant names keep dying at the R:R gate.** AMD/LRCX repeatedly cleared 5/5 quant yet failed 2:1 because 2×ATR stops on high-priced volatile semis are very wide vs the nearest resistance. The filter is working, but it means our best-confirmed sector (semis) is structurally hard to size on this tape.
+- **Three-week idle-cash pattern is now a phase, not a blip.** Wk1 one position, Wk2 one position (bled out), Wk3 zero — the book has averaged ~1 name and mostly cash. Selectivity is right; but the account isn't being put to work when clean non-semi setups may be getting screened out too coarsely.
+- **Universe felt narrow.** Nearly every candidate this week was a semiconductor/tech name; the only non-tech confirms (XLI 3/5, XLV 3/5) also failed R:R. Little breadth in the scan beyond the one hot-then-cold theme.
+
+### Key Lessons
+- **A wide 2×ATR stop turning a 5/5 setup into a sub-2:1 trade is the ATR system doing exactly its job** — it says "this name is too volatile to size for the room available." Do not fight it by tightening the stop to force the ratio; that just manufactures a stop-out. Skip and wait for a lower-volatility entry or a name with more room to resistance.
+- **When one theme (semis) dominates the scan and keeps failing R:R, widen the net.** Three weeks of semi-centric candidates that either bled out (SMH) or failed the gate suggests the pre-market catalyst scan is over-indexed on tech; deliberately source non-correlated sectors (Industrials, Materials, Healthcare, Energy) to find a setup that actually fits the risk math.
+- **Being out of a +1.8% week you couldn't have sized safely is not a loss** — the alternative (chasing AMD/LRCX at 5/5) was a −7 to −10% round-trip. Absolute-return discipline means the benchmark's up-week is genuinely irrelevant when no setup cleared the gate.
+- **Flat is the correct floor for a no-setup week.** No rule was bent to "stay invested," and there is no deployment floor — so a 0.00% week with capital preserved is a pass, not a fail, on the survival mandate. Compounding just hasn't had a qualifying entry.
+
+### Adjustments for Next Week
+- **Broaden the candidate scan beyond semis/tech.** Explicitly pull catalysts and run quant on 2–3 non-tech sectors (Industrials/XLI, Materials, Healthcare/XLV, Energy) so the book isn't hostage to one volatile theme that keeps failing R:R.
+- **Prefer lower-volatility vehicles when the best names fail R:R on width.** A sector ETF (tighter ATR-to-resistance) can clear 2:1 where a single high-beta semi (AMD/LRCX) cannot — target those when the theme is right but the single-name stop is too wide.
+- **Regime gate first Monday:** SPY chopping its 50-day = neutral → half-size / best setups only until SPY reclaims a rising 50-day. If it rolls over on the semi-cost/AI-capex worries flagged in the tape, scan SQQQ/SH for a *confirmed* downtrend — don't sit in cash if a clean trend appears.
+- **Don't force a trade to break the idle streak.** Full $1,068 buying power, 0/3 weekly trades, heat 0% — a clean slate. Add ONE uncorrelated name if it clears 3/5 quant + 2:1 R:R + allowing regime; zero remains valid if nothing qualifies.
+
+### Strategy File Changes
+- **None this week.** Three weeks of data (Wk1 +0.51%, Wk2 −1.58%, Wk3 0.00%) is still too thin — and this week's R:R filter was *vindicated* (semis round-tripped −7 to −10% right after we passed), so the hard rules are performing as designed. The recurring signals — persistent idle cash, semi-centric scan, high-quant names dying on stop-width — are **execution/sourcing biases to correct in the pre-market routine** (broaden sectors, prefer tighter-ATR vehicles), not failures of the written rules. Will revisit a possible "if the top setups keep failing R:R only on 2×ATR width, evaluate a sector-ETF proxy" refinement if the pattern holds another 1–2 weeks.
+
+### Overall Grade: B−
+*(Textbook discipline that was actively rewarded — passing 5/5 semis that then round-tripped −7 to −10% is the process working, not just idling. But it is a third straight week without compounding, 100% cash into a +1.8% tape, and a narrowing, semi-heavy scan that keeps self-eliminating on stop-width. Process A, result C (flat, capital preserved, nothing put to work). Survival fully intact; the job now is to broaden sourcing so a qualifying setup can actually appear.)*
