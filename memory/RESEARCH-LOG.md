@@ -448,3 +448,21 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime is risk_on (SPY > rising 50d); not sanctioned despite the tech wobble.
 
 **Decision: HOLD — no new trades.** Yesterday vindicated the R:R discipline — the wide-stop, at-the-high semi entries we refused reversed −7 to −10% in a day. Today the only two names still confirming on the current tape (XLI 3/5, XLV 3/5) both fail R:R 2:1: each sits just under its 20d high with only ~0.3–0.4R of clean room, and a 2R objective needs an unrealistic +6–7% breakout; XLV is also over-extended. Everything else in the rotation table (Energy/Materials/Staples) has rolled below its 20d SMA, and the semis are breaking down. On top of that, the **June jobs report drops at 8:30 AM ET** — a binary that resolves before the open, so PENDING trades would execute straight into a gap. Opening fresh long risk into that, with tech under real stress and ~50% Sept-hike odds, is the wrong risk. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity.
+
+---
+
+## 2026-07-03 — Pre-market (Fri Jul 3 — MARKET HOLIDAY, no session)
+
+**Account:** equity $1,068.31 / cash $1,068.31 (100%) / drawdown-from-peak −1.90% (peak $1,089.01) / 0 open positions / 0 week trades (3 free). Breaker inactive.
+
+**MARKET CLOSED TODAY.** July 4 falls on a Saturday in 2026, so NYSE + Nasdaq observe Independence Day on **Friday July 3 — closed all day** (bond market 2 PM ET close). Confirmed via NYSE/Nasdaq/Fidelity/FINRA holiday calendars. No pre-market, no open, no execution possible today. **Next session: Monday July 6.** Any planned trade would only execute Monday, so no PENDING is armed for a closed session.
+
+**Regime (for reference):** equity **risk_on** by the letter — SPY 744.86 above its rising 50d (737.38) — but internals still deteriorating: the semi complex is in a multi-day unwind (over Jul-01→02 AMD −7%/−4%, LRCX −10%/−10%, AMAT −10%/−7%, SNDK −10%/−14%), leadership rotating to defensive/value (Health Care, Industrials). Not actionable today (closed).
+
+**Learning scorecard (Jul-02 actuals):** Our XLI reject faded flat (+0.27%) — correct; XLV broke out +2.62% (missed-entry, but under 2R so un-tradeable by rule). Prior semi leaders fell another −4 to −14% — R:R discipline vindicated a 2nd straight day. Movers screen again all illiquid microcaps (CLRO/SLBT/MIDDV). Full detail in LEARNING-LOG.
+
+**Candidates:** None evaluated — no tradeable session. Full catalyst+quant sweep resumes at Monday's pre-market run.
+
+**Rejected:** N/A (market closed).
+
+**Decision: HOLD — market closed for Independence Day (observed). No trades possible.** Account stays 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Monday July 6 pre-market rescans the full universe. Watch: whether the semi unwind finds a base (tighter-stop re-entry) and whether the Health Care / Industrials defensive rotation pulls back to its 20d for a real 2:1.

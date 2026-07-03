@@ -13,6 +13,30 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-03 — Scorecard (prior session 2026-07-02)
+
+**Our picks:**
+- XLI (ETF) — decision **REJECTED** (R:R fails 2:1; range-bound) — actual 1d Jul-02 **+0.27%** ($183.90 vs $183.40) — verdict **correct** (faded flat; the +7% breakout to reach 2R never came).
+- XLV (ETF) — decision **REJECTED** (over-extended + R:R fails 2:1) — actual 1d Jul-02 **+2.62%** ($163.77 vs $159.59) — verdict **missed-entry** (broke out to a new 20d high, but only +2.6% — far under any 2R target; within-rule it was un-tradeable).
+- Prior semi leaders (tracked, no position): AMD **−4.19%** ($518.25), LRCX **−10.18%** ($351.50), AMAT **−7.31%** ($603.33), SNDK **−14.28%** ($1743.66) — verdict **dodged-loss** (second straight day of the unwind).
+
+**Day's top tradeable gainers (Jul-02, ≥$5, no warrants/units/rights):**
+- CLRO +101% ($6.48) — ClearOne microcap, illiquid spike — skip
+- SLBT +34.6% ($5.99) — microcap spike, thin — skip
+- MIDDV +72% ($139.52) — when-issued/data-artifact ticker, not investable — skip
+- (no liquid large-cap gainers surfaced in the % screen; the real tradeable action was the continued semi breakdown listed above)
+
+**Best realistic miss:** XLV +2.62% ($163.77) — Health Care — catalyst YES (defensive/value rotation + Roche late-stage drug), would-pass-quant 3/5 — but it moved only +2.6% (well under a 2R objective) and was flagged over-extended, so it was **un-tradeable by rule, not a true miss.** Constructive note: the live opportunity is a *pullback to the rising 20d* in the confirming defensive/health rotation → tighter stop, real 2:1.
+
+**Lessons:**
+- Semi breakdown deepened a second straight day (AMD/LRCX/AMAT/SNDK −4 to −14%). The R:R-2:1 rejection of these wide-stop, at-the-high leaders keeps paying — the multi-day unwind is exactly the round-trip the rule guards against. Do NOT chase a semi bounce without a tight-stop base.
+- Health Care (XLV) is the one liquid sector confirming AND following through (+2.6%). Defensive/value rotation is the live theme — but chase-the-high still fails R:R; the setup to want is a pullback-to-20d entry.
+- Movers screen once again pure illiquid microcap spikes / data artifacts (CLRO/SLBT/MIDDV) — zero clean liquid swing setups, as every prior session.
+
+**Rolling 7d:** recurring leading sectors = Health Care (XLV) + Industrials (XLI) confirming on the defensive/value rotation ; semis/semicap BROKEN (multi-day −7 to −14% unwind, leadership gone) ; Energy YTD leader but near-term down on the oil crash. Recurring miss pattern = confirming defensive-rotation ETFs (XLV) surfaced but rejected on over-extended/R:R — the fix is a pullback entry, not chasing the high ; plus the perennial illiquid microcap / data-artifact spikes we correctly skip.
+
+---
+
 ## 2026-07-02 — Scorecard (prior session 2026-07-01)
 
 **Our picks:**
