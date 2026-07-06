@@ -253,3 +253,12 @@ drawdown are measured from here.
 | (none — 100% cash) | | | | | | |
 
 **Notes:** Fourth straight no-trade day. Account flat at $1,068.31, no positions, no open orders. Pre-market found the only two names confirming on the current tape, XLI (3/5) and XLV (3/5), both failing 2:1 R:R with over-extended/tight-range setups; prior semi leaders (AMD/LRCX/AMAT/SNDK) round-tripped −7 to −10% the day before, vindicating the discipline to stay out. June jobs report hit at 8:30 AM ET pre-open — a binary the routine correctly avoided trading into. Phase P&L: −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from $1,089.01 peak holds at −1.90% — 20% breaker inactive. Weekly trades: 0/3. Tomorrow: pre-market rescans for fresh setups with full $1,068.31 buying power; watch whether jobs-report reaction reopens semi entries at tighter stops.
+
+### Jul 6 — EOD Snapshot (Day 17, Monday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** Fifth no-trade day (market was closed Fri Jul 3 for Independence Day observed). Account flat at $1,068.31, no positions, no open orders — market-open executed nothing since PENDING-TRADES was empty. Pre-market found only XLI (4/5 quant) and XLV (3/5 quant) still confirming on the tape, both failing the 2:1 R:R filter for a third straight session — XLI range-bound with ~0.34R of room to a sensible objective, XLV pinned at its 20d high and over-extended >2ATR above it. The semi rebound (INTC +9.2% premarket) is a gap-bounce in a broken downtrend (quant 1/5), not a tradeable base. Phase P&L: −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from $1,089.01 peak holds at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (fresh week). Tomorrow: pre-market rescans for fresh setups; watch for a pullback in XLI/XLV to the rising 20d, or a genuine semi base rather than a one-day gap.
