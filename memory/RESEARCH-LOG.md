@@ -466,3 +466,25 @@ TRADE or HOLD (default HOLD if no edge)
 **Rejected:** N/A (market closed).
 
 **Decision: HOLD — market closed for Independence Day (observed). No trades possible.** Account stays 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Monday July 6 pre-market rescans the full universe. Watch: whether the semi unwind finds a base (tighter-stop re-entry) and whether the Health Care / Industrials defensive rotation pulls back to its 20d for a real 2:1.
+
+---
+
+## 2026-07-06 — Pre-market (Mon Jul 6; for today's open)
+
+**Account:** equity $1,068.31 / cash $1,068.31 (100%) / drawdown-from-peak −1.90% (peak $1,089.01) / 0 open positions / 0 week trades (3 free). Breaker inactive. New week — trade count resets to 0/3.
+
+**Regime:** equity **risk_on** — SPY 744.86 above its rising 50d (737.38). Futures green premarket (ES Sep +0.3%, Nasdaq futures ~+1.2%); the semi complex is attempting a bounce (INTC +9.2% premarket) after last week's −7 to −14% unwind. Under the surface, breadth is narrow (only ~17% of S&P names beat the index over the past month) and the AI-buildout durability is being reassessed — a bounce inside a broken semi trend, not a resumed uptrend. ISM services + S&P services PMI at 9:45–10:00 AM ET (post-open, intraday). Warsh reiterated no forward guidance — watch data, not the Fed.
+
+**Leading sectors (H1 2026 total return):** Industrials +20.2%, Info Tech +19.76%, Energy +19.69% lead; Financials −1.18%, Consumer Discretionary −0.77% lag. On the current tape the only sectors still confirming quant are Industrials (XLI 4/5) and Health Care (XLV 3/5) — the defensive/value rotation; semis/semicap are broken below a falling 20d.
+
+**Candidates (passed catalyst + quant, but failed setup filters):** None opened.
+- XLI (ETF, Industrials) — catalyst: value/old-economy + AI-buildout capex rotation, H1 sector leader — quant **4/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✗ 0.94× not_extended✓; last $183.90, sma20 $179.02, ret_10d +2.39%, ATR $3.21, risk/sh $6.43, stop $177.47, 20d high $186.09) — **REJECTED: R:R fails 2:1.** Range-bound $178–186 for three weeks; 20d high is only +1.2% up (~0.34R of clean room) while a 2R objective = $196.76 (+7.0%) is unrealistic air for a slow sector ETF on anemic +2.39% 10d momentum and below-avg volume. Same trap that faded flat (+0.27%) on Jul 2.
+- XLV (ETF, Health Care) — catalyst: defensive rotation + Roche late-stage drug beat — quant **3/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✗ 0.92× not_extended✗ — extended >2ATR above 20d; last $163.77, sma20 $154.66, ret_10d +8.69%, risk/sh $5.20, stop $158.57, 20d high $163.84) — **REJECTED: over-extended + R:R fails 2:1.** Pinned at its 20d high (~0.0R of room up); 2R objective = $174.17 (+6.3%) needs an unrealistic breakout, and it is stretched >2ATR above the 20d. The setup to want is a pullback to the rising 20d, not a chase at the high.
+
+**Rejected (other):**
+- INTC (stock) — +9.2% premarket gap leading the chip rebound, but quant **1/5** (below 20d SMA $123.08, ret_10d −0.6%, RS −1.1%, volume 0.65×). A gap-bounce in a downtrend — precisely the setup our filter sits out. No base.
+- SMH / MU / SNDK / SOXL — semi/semicap complex quant **2/5** (all below a falling 20d, negative 10d returns −5 to −22%, RS deeply negative). Leadership broken; a one-day bounce is not a base. SOXL (leveraged) also short-hold-only.
+- Movers screen (Alpaca, stale Jul-02 bars: EVLVW/CLRO/CWD/MIDDV/YRD/USDE microcaps, warrants, when-issued/data-artifacts) — illiquid, fail liquidity + not investable. Skip per repeated lessons.
+- Inverse sleeve (SQQQ/SH) — regime risk_on (SPY > rising 50d); not sanctioned despite the tech wobble.
+
+**Decision: HOLD — no new trades.** Fresh week (0/3 trades) but nothing clears catalyst + quant + R:R 2:1. The two names still confirming on the tape (XLI 4/5, XLV 3/5) fail the setup filter for the third straight session — XLI is range-bound with ~0.34R of room to a sensible objective, XLV is pinned at its 20d high and over-extended; both need an unrealistic +6–7% breakout to reach 2R. The semi rebound (INTC +9.2% premarket) is a gap-bounce in a broken downtrend (quant 1/5), not a base — chasing it is the exact wide-stop round-trip our rules guard against, vindicated by last week's −7 to −14% unwind. Everything in the movers screen is illiquid microcap/artifact. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity. Watch: a pullback in XLI/XLV toward the rising 20d for a tighter-stop 2:1, or a real semi base rather than a gap.

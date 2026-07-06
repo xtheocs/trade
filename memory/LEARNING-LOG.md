@@ -13,6 +13,35 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-06 — Scorecard (prior session 2026-07-03 — MARKET HOLIDAY)
+
+**No tradeable session to score.** Jul 3 was closed (Independence Day observed), so there
+were no actual movers and no candidates were evaluated. Movers screen still returns stale
+Jul-02 bars (all illiquid microcaps/warrants: EVLVW, CLRO, CWD, MIDDV, YRD — skip). The last
+real session (Jul 2) was already scored in the entry below. Nothing new to grade.
+
+**Carry-forward check on the live setups (last real prints, Jul 2):** XLI 4/5 confirmed but
+still range-bound $178–186 (R:R fails); XLV 3/5 confirmed but pinned at its 20d high / over-extended
+(R:R fails). The semi complex (SMH 2/5, MU 2/5, SNDK 2/5, SOXL 2/5) remains broken below a falling
+20d after the multi-day −7 to −14% unwind — INTC's +9.2% premarket gap Jul 6 is a downtrend bounce
+(quant 1/5), not a base. Discipline holds: the R:R and no-chase-the-bounce rules keep guarding the
+exact round-trip that hit the semi leaders.
+
+**Lessons:**
+- Holiday session — no grading. Keep the prior lessons live: semis broken, defensive/value (XLI/XLV)
+  the only confirmers but both stuck failing R:R at resistance.
+- A +9% premarket gap in a name trading below a falling 20d (INTC) is not a setup — it's the bounce
+  our quant filter is built to sit out. Wait for a real base, not a gap.
+
+**Rolling 7d:** recurring leading sectors = Industrials (XLI) + Health Care (XLV) on the defensive/value
+rotation (both confirming quant but jammed at resistance, R:R never clears) ; semis/semicap BROKEN
+(multi-day −7 to −14% unwind, INTC gap-bounce ≠ base) ; Energy strong on the H1 tape but oil-crash
+noise near-term. Recurring miss pattern = confirming defensive-rotation ETFs surface but reject on
+over-extended/R:R — the fix is a pullback-to-20d entry, not chasing the high ; plus the perennial
+illiquid microcap / data-artifact spikes we correctly skip.
+
+---
+
 ## 2026-07-03 — Scorecard (prior session 2026-07-02)
 
 **Our picks:**
