@@ -253,3 +253,14 @@ drawdown are measured from here.
 | (none — 100% cash) | | | | | | |
 
 **Notes:** Fourth straight no-trade day. Account flat at $1,068.31, no positions, no open orders. Pre-market found the only two names confirming on the current tape, XLI (3/5) and XLV (3/5), both failing 2:1 R:R with over-extended/tight-range setups; prior semi leaders (AMD/LRCX/AMAT/SNDK) round-tripped −7 to −10% the day before, vindicating the discipline to stay out. June jobs report hit at 8:30 AM ET pre-open — a binary the routine correctly avoided trading into. Phase P&L: −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from $1,089.01 peak holds at −1.90% — 20% breaker inactive. Weekly trades: 0/3. Tomorrow: pre-market rescans for fresh setups with full $1,068.31 buying power; watch whether jobs-report reaction reopens semi entries at tighter stops.
+
+---
+
+### Jul 7 — EOD Snapshot (Day 18, Tuesday)
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day:** 0.00% | **Phase:** −1.08% | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | | |
+
+**Notes:** Sixth straight no-trade day (Jul 3 was a market holiday). Account flat at $1,068.31, no positions, no open orders, unchanged since Jul 2 close per Alpaca (balance_asof confirms Jul 6 was also flat at $1,068.31 — no logged EOD snapshot exists for Jul 6 in this file, a gap in the daily-summary routine that day, but account history confirms no trades or equity change occurred). Pre-market rejected XLI (4/5 quant), XLV (3/5) and XLF (3/5) — all three jammed at their 20d highs with 0–0.3R of clean room, needing an unrealistic +5.6–7% breakout for 2R; XLV/XLF also over-extended. Semis under renewed premarket pressure (−4.5 to −7%), no base. Phase P&L: −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from $1,089.01 peak holds at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (fresh week, Jul 6 start). Tomorrow: CPI print Wednesday Jul 9 is the key macro binary — watch for a pullback in XLI/XLV/XLF toward the rising 20d for a tighter-stop real 2:1 setup, or a genuine semi base rather than a gap.
