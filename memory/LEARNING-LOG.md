@@ -13,6 +13,33 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-07 — Scorecard (prior session 2026-07-06)
+
+**Our picks:**
+- XLI (ETF) — decision **REJECTED** (R:R fails 2:1; range-bound at 20d high) — actual 1d Jul-06 **+0.88%** ($185.52 vs $183.90) — verdict **correct** (small grind, no 2R breakout).
+- XLV (ETF) — decision **REJECTED** (over-extended + R:R fails 2:1) — actual 1d Jul-06 **−1.04%** ($162.07 vs $163.77) — verdict **correct** (faded off the 20d-high chase, exactly the risk flagged).
+- INTC (stock, tracked) — decision **REJECTED** (gap-bounce, quant 1/5) — actual 1d Jul-06 **+1.54%** close ($122.25) but gapped to $127.29 intraday then faded — verdict **dodged** (gap-and-fade in a downtrend, the round-trip our filter sits out).
+- SMH (tracked, no position): **+2.25%** ($604.90 vs $591.58) — semi bounce continued but still below a falling 20d — no base.
+
+**Day's top tradeable gainers (Jul-06, ≥$5, no warrants/units/rights):**
+- LHSW +277% ($6.80) — Lianhe Sowell microcap, trading-halted spike — skip
+- FXHO +171% ($19.55) — UTime microcap — skip
+- INLF +48% ($6.38) — microcap — skip
+- WBX +35% ($5.62) — Wallbox EV-charging microcap — skip
+- CRDX +30% ($9.56) — microcap — skip
+- (no liquid large-cap gainer surfaced; the only tradeable follow-through was the semi bounce above)
+
+**Best realistic miss:** None tradeable. The single follow-through was the semi rebound (SMH +2.25%, INTC gapped +~5% intraday then faded to +1.5%) — no base below a falling 20d, so a chase we correctly sit out. No clean liquid swing setup with a real 2:1 surfaced.
+
+**Lessons:**
+- XLV faded −1.04% off its 20d-high chase — the over-extended reject was right; the setup to want is still a pullback to the rising 20d, not the high.
+- Semi bounce keeps grinding (SMH +2.25%) but stays below a falling 20d and is under renewed premarket pressure today (MU −6%, INTC −4.7%, WDC −7%) — a bounce, not a base. No chase.
+- Movers screen again pure illiquid microcap/halt spikes (LHSW/FXHO/INLF/WBX) — zero liquid setups, as every prior session.
+
+**Rolling 7d:** recurring leading sectors = Health Care (XLV, weekly +1.89% leader) + Industrials (XLI) on the defensive/value rotation, now joined by Financials (XLF) as tech/AI de-risks ; semis/semicap BROKEN (below falling 20d, renewed pressure). Recurring miss pattern = confirming rotation ETFs (XLV/XLI/XLF) surface but jam at their 20d high → R:R never clears — the fix remains a pullback-to-20d entry, not chasing the high ; plus perennial illiquid microcap/halt spikes we correctly skip.
+
+---
+
 ## 2026-07-06 — Scorecard (prior session 2026-07-03 — MARKET HOLIDAY)
 
 **No tradeable session to score.** Jul 3 was closed (Independence Day observed), so there

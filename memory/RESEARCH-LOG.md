@@ -488,3 +488,28 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime risk_on (SPY > rising 50d); not sanctioned despite the tech wobble.
 
 **Decision: HOLD — no new trades.** Fresh week (0/3 trades) but nothing clears catalyst + quant + R:R 2:1. The two names still confirming on the tape (XLI 4/5, XLV 3/5) fail the setup filter for the third straight session — XLI is range-bound with ~0.34R of room to a sensible objective, XLV is pinned at its 20d high and over-extended; both need an unrealistic +6–7% breakout to reach 2R. The semi rebound (INTC +9.2% premarket) is a gap-bounce in a broken downtrend (quant 1/5), not a base — chasing it is the exact wide-stop round-trip our rules guard against, vindicated by last week's −7 to −14% unwind. Everything in the movers screen is illiquid microcap/artifact. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity. Watch: a pullback in XLI/XLV toward the rising 20d for a tighter-stop 2:1, or a real semi base rather than a gap.
+
+---
+
+## 2026-07-07 — Pre-market (Tue Jul 7; for today's open)
+
+**Account:** equity $1,068.31 / cash $1,068.31 (100%) / drawdown-from-peak −1.90% (peak $1,089.01) / 0 open positions / 0 week trades (3 free). Breaker inactive.
+
+**Regime:** equity **risk_on** — SPY 751.27 above its rising 50d (738.18); SPY firmed from 744.86 last week. But internals still rotating: money leaving tech/AI (fastest US-equity outflows since March per Bloomberg), chips under renewed premarket pressure today (MU −6%, INTC −4.7%, AMD −4.5%, WDC −7%). A rotation, not a broad breakdown — risk_on by the letter, defensive/value leading underneath.
+
+**Leading sectors (this week):** Health Care +1.89% (weekly leader), Industrials strong; Financials joining as tech de-risks. Info Tech −0.80% and Real Estate −0.74% lag. Semis broken below a falling 20d.
+
+**Macro:** **CPI Wednesday Jul 9** is the week's pivotal binary (two days out) — core inflation gauge for the Fed path; PPI + FOMC minutes Thu, jobs Fri. VIX ~20 and rising (+12% to 20.95); Brent crude −1.9%. Elevated vol + a CPI binary two days out argues against opening fresh long risk at resistance.
+
+**Candidates (passed catalyst + quant, but failed setup filters):** None opened.
+- XLI (ETF, Industrials) — catalyst: value/old-economy + capex rotation, H1 sector leader — quant **4/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✗ 0.71× not_extended✓; last $185.52, sma20 $179.49, ret_10d +2.57%, ATR $3.26, risk/sh $6.51, stop $179.01, 20d high $186.44) — **REJECTED: R:R fails 2:1.** Pinned +0.5% under its 20d high (~0.14R of room) while a 2R objective = $198.54 (+7.0%) is unrealistic clean air for a slow sector ETF on +2.57% 10d momentum and below-avg volume. Same range-bound trap for a 4th straight session (faded/ground: +0.27%, +0.88% the last two prints).
+- XLV (ETF, Health Care) — catalyst: defensive rotation + weekly sector leader (+1.89%) — quant **3/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✗ 0.94× not_extended✗ — extended >2ATR above 20d; last $162.07, sma20 $155.16, ret_10d +8.5%, risk/sh $5.45, stop $156.62, 20d high $163.84) — **REJECTED: over-extended + R:R fails 2:1.** ~1.1% under its 20d high (~0.3R of room); 2R objective = $172.97 (+6.7%) needs an unrealistic breakout, and it already faded −1.04% off its high yesterday. The setup to want is a pullback to the rising 20d.
+- XLF (ETF, Financials) — catalyst: rotation into value/financials as tech de-risks; premarket bank strength — quant **3/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✗ 0.78× not_extended✗; last $56.15, sma20 $53.63, ret_10d +4.84%, ATR $0.78, risk/sh $1.56, stop $54.59, 20d high $56.16) — **REJECTED: R:R fails 2:1 + over-extended.** Sitting AT its 20d high ($56.16) with essentially 0R of clean room; 2R objective = $59.28 (+5.6%) needs a breakout it hasn't earned. New leadership but jammed at resistance — same trap as XLI/XLV.
+
+**Rejected (other):**
+- Semis (INTC/MU/AMD/SMH/WDC) — under renewed premarket pressure (−4.5 to −7%); below a falling 20d, quant broken. Yesterday's bounce (SMH +2.25%) had no base. No long setup.
+- Premarket single-name gaps (FISV/ROP/NUE/RJF/CHRW screens) — one-day gap moves without a confirmed swing base; not pulled through quant, and chasing a gap at resistance into CPI is the wrong risk. Skip.
+- Movers screen (LHSW +277% halt spike, FXHO/INLF/WBX/CRDX microcaps) — illiquid, fail liquidity + not investable. Skip per repeated lessons.
+- Inverse sleeve (SQQQ/SH) — regime risk_on (SPY > rising 50d); not sanctioned despite the tech wobble.
+
+**Decision: HOLD — no new trades.** Nothing clears catalyst + quant + R:R 2:1. The three confirming rotation ETFs (XLI 4/5, XLV 3/5, XLF 3/5) are all jammed at their 20d highs — 0–0.3R of clean room while a 2R objective needs an unrealistic +5.6–7% breakout; XLV and XLF are also over-extended, and XLV already faded −1.04% off its high yesterday. Semis are under renewed pressure (−4.5 to −7% premarket) with no base. On top of that, **CPI drops Wednesday** — a binary two days out with VIX climbing to ~20 — so opening fresh long risk at resistance now would execute straight toward that event. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity. Watch: a pullback in XLV/XLI/XLF toward the rising 20d for a tighter-stop real 2:1, and the CPI reaction.
