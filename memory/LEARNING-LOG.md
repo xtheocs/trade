@@ -13,6 +13,32 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-08 — Scorecard (prior session 2026-07-07)
+
+**Our picks:**
+- XLI (ETF) — decision **REJECTED** (R:R fails 2:1; pinned near 20d high) — actual 1d Jul-07 **−1.68%** ($182.40 vs $185.52) — verdict **correct** (faded off resistance, exactly the trap flagged; also lost rel_strength).
+- XLV (ETF) — decision **REJECTED** (over-extended + R:R fails 2:1) — actual 1d Jul-07 **+1.51%** ($164.51 vs $162.07, new 20d high) — verdict **missed-entry but un-tradeable** (moved up but a 20d-high chase >2ATR-extended, ~0.3R room — no real 2:1 existed).
+- XLF (ETF) — decision **REJECTED** (R:R fails 2:1; at 20d high) — actual 1d Jul-07 **−0.20%** ($56.04 vs $56.15) — verdict **correct** (flat at resistance, no breakout).
+
+**Day's top tradeable gainers (Jul-07, ≥$5, no warrants/units/rights):**
+- CRNX +98.74% ($83.53) — Crinetics Pharma, biotech binary (clinical/FDA readout) — one-day pop, not a swing setup — skip
+- BRKL +126.83% ($24.84) — Brookline microcap spike/halt — skip
+- APMI +108.83% ($21.55) — microcap spike — skip
+- CLRO +97.71% ($13.84) — ClearOne, recurring illiquid microcap pump — skip
+- AKTX +42.02% ($15.48) — Akari Therapeutics microcap biotech — skip
+- (no liquid large-cap gainer surfaced; movers screen again all binary/microcap spikes)
+
+**Best realistic miss:** None tradeable. The one high-$ mover, CRNX +98.74%, is a biotech binary (FDA/clinical) — a one-day event that blows through the not-extended quant check with no swing base; we never chase those. The rest are microcap/halt spikes. No clean liquid swing setup with a real 2:1 surfaced — a 6th straight session.
+
+**Lessons:**
+- XLI faded −1.68% off resistance and lost rel_strength — the R:R reject was right; a name pinned at its 20d high with a 2R target needing +7% air is not a setup, it's a fade risk.
+- Staples XLP flipped to a clean 5/5 today (near 20d, not extended, RS+volume both ✓) — the freshest technical setup on the board — but a 2R objective (+6.4%) is unrealistic air for a slow defensive ETF, so R:R still fails. Watch it, but the 5/5 doesn't override the 2:1 filter.
+- Movers screen again pure biotech-binary/microcap spikes (CRNX/BRKL/CLRO/AKTX) — zero liquid swing setups, as every prior session.
+
+**Rolling 7d:** recurring leading sectors = defensive/value rotation — Consumer Staples (XLP 5/5 today), Health Care (XLV), Industrials (XLI), Financials (XLF); Energy the YTD leader but the ETF (XLE) is broken below a falling 20d; Tech/semis BROKEN. Recurring miss pattern = confirming rotation ETFs (XLP/XLV/XLI/XLF) surface but jam at/near their 20d highs → R:R never clears; the fix remains a pullback-to-20d entry with real room, not chasing the high; plus perennial illiquid biotech-binary/microcap spikes we correctly skip.
+
+---
+
 ## 2026-07-07 — Scorecard (prior session 2026-07-06)
 
 **Our picks:**

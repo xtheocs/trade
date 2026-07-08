@@ -513,3 +513,30 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime risk_on (SPY > rising 50d); not sanctioned despite the tech wobble.
 
 **Decision: HOLD — no new trades.** Nothing clears catalyst + quant + R:R 2:1. The three confirming rotation ETFs (XLI 4/5, XLV 3/5, XLF 3/5) are all jammed at their 20d highs — 0–0.3R of clean room while a 2R objective needs an unrealistic +5.6–7% breakout; XLV and XLF are also over-extended, and XLV already faded −1.04% off its high yesterday. Semis are under renewed pressure (−4.5 to −7% premarket) with no base. On top of that, **CPI drops Wednesday** — a binary two days out with VIX climbing to ~20 — so opening fresh long risk at resistance now would execute straight toward that event. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity. Watch: a pullback in XLV/XLI/XLF toward the rising 20d for a tighter-stop real 2:1, and the CPI reaction.
+
+---
+
+## 2026-07-08 — Pre-market (Wed Jul 8; for today's open)
+
+**Account:** equity $1,068.31 / cash $1,068.31 (100%) / drawdown-from-peak −1.90% (peak $1,089.01) / 0 open positions / 0 week trades (3 free). Breaker inactive.
+
+**Regime:** equity **risk_on** — SPY 747.77 above its rising 50d (738.97); firmed from 751 area. But internals still a defensive/value rotation, not a broad advance. Premarket soft (Dow −0.70%, Russell −0.91%); VIX elevated with the market now pricing a **>50% probability of a Dec rate HIKE** — a hawkish repricing of the Fed path. Semis/tech remain broken below a falling 20d. Risk_on by the letter, but the tape is defensive.
+
+**Leading sectors:** YTD leaders Energy, Materials, Consumer Staples, Industrials (value/hard-asset rotation); Tech and Financials lag YTD. On the current tape the confirmers are the defensive/value ETFs — Staples **XLP now 5/5**, XLV 3/5, XLI 4/5, XLF 3/5 — while Energy's ETF (XLE) is broken below a falling 20d despite the sector's YTD lead.
+
+**Macro:** **CPI (June) Friday Jul 10** is the week's pivotal binary (two days out); PPI Jul 11, FOMC minutes + jobs later. Elevated VIX + rising rate-hike odds + a CPI binary two days out argue against opening fresh long risk at resistance now.
+
+**Candidates (passed catalyst + quant, but failed setup filters):** None opened.
+- XLP (ETF, Consumer Staples) — catalyst: defensive/value rotation, YTD top-4 sector, hawkish-Fed hedge — quant **5/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✓ 1.04× not_extended✓; last $84.84, sma20 $84.27, ret_10d +3.25%, ATR $1.36, risk/sh $2.71, stop $82.13, 20d high $86.35) — **REJECTED: R:R fails 2:1.** Cleanest technical on the board (right on the rising 20d, all 5 checks) but 20d high is only +1.8% up (~0.56R of room) while a 2R objective = $90.27 (+6.4%) is unrealistic air for a slow defensive ETF. The 5/5 does not override the 2:1 setup filter.
+- XLI (ETF, Industrials) — catalyst: value/capex rotation, H1 leader — quant **4/5 confirmed** (trend✓ momentum✓ rel_strength✗ volume✓ 1.17× not_extended✓; last $182.40, sma20 $179.90, ret_10d +0.34%, ATR $3.33, risk/sh $6.67, stop $175.73, 20d high $186.44) — **REJECTED: R:R fails 2:1.** Faded −1.68% off resistance yesterday and lost rel_strength; 2R objective = $195.73 (+7.3%) is unrealistic air on +0.34% 10d momentum.
+- XLV (ETF, Health Care) — catalyst: defensive rotation — quant **3/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✗ 0.77× not_extended✗ — extended >2ATR above 20d; last $164.51, sma20 $155.74, ret_10d +9.61%, risk/sh $5.65, stop $158.86, 20d high $165.60) — **REJECTED: over-extended + R:R fails 2:1.** Made a fresh 20d high (~0.3R room); 2R objective = $175.82 (+6.9%) needs an unrealistic breakout and it is stretched >2ATR above the 20d.
+- XLF (ETF, Financials) — catalyst: value rotation — quant **3/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✗ 0.66× not_extended✗; last $56.04, sma20 $53.82, ret_10d +4.40%, risk/sh $1.56, stop $54.48, 20d high $56.58) — **REJECTED: R:R fails 2:1 + over-extended.** ~1% under its 20d high (~0.35R room); 2R objective = $59.15 (+5.5%) needs a breakout it hasn't earned.
+
+**Rejected (other):**
+- XLE (ETF, Energy) — YTD sector leader but quant **3/5, trend & momentum BROKEN** (below a falling 20d: last $54.67 < sma20 $54.93; ret_10d +1.1%; well off its $59.04 20d high). A lagging chart under a strong YTD sector — no swing setup until it reclaims the 20d.
+- XLB (ETF, Materials) — quant **2/5** (momentum✗ rel_strength✗ volume✗); not confirmed.
+- Semis/tech (SMH/INTC/MU/AMD) — below a falling 20d, quant broken; renewed pressure. No base.
+- Premarket movers (CRNX +98.7% biotech binary; BRKL/APMI/CLRO/AKTX microcap/halt spikes) — illiquid or one-day binary events; fail liquidity + not a swing setup. Skip per repeated lessons.
+- Inverse sleeve (SQQQ/SH) — regime risk_on (SPY > rising 50d); not sanctioned despite the tech wobble.
+
+**Decision: HOLD — no new trades.** Nothing clears catalyst + quant + R:R 2:1. The defensive/value ETFs are the only confirmers and every one fails the setup filter: XLP is a clean fresh 5/5 but a 2R move (+6.4%) is unrealistic air for staples; XLI faded off resistance and lost rel_strength; XLV/XLF are over-extended and jammed near their 20d highs — the same jam-at-resistance trap for a 6th straight session. Energy's chart (XLE) is broken below a falling 20d despite the sector's YTD lead. On top of that, **CPI drops Friday** — a binary two days out with VIX elevated and Dec rate-hike odds now >50% — so opening fresh long risk at resistance now would execute straight toward that event. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity. Watch: a pullback in XLP/XLI/XLV/XLF toward the rising 20d that opens real 2:1 room, and the CPI reaction.
