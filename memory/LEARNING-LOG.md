@@ -13,6 +13,32 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-09 — Scorecard (prior session 2026-07-08)
+
+**Our picks:**
+- XLP (ETF) — decision **REJECTED** (fresh 5/5 but R:R fails 2:1) — actual 1d Jul-08 **−0.51%** ($84.41 vs $84.84) — verdict **correct** (ground lower off the 20d, no breakout — the +6.4% 2R air never materialized).
+- XLI (ETF) — decision **REJECTED** (R:R fails 2:1; faded off resistance) — actual 1d Jul-08 **−1.09%** ($180.42 vs $182.40) — verdict **correct** (second straight fade; now sitting on the 20d, Industrials the week's laggard).
+- XLV (ETF) — decision **REJECTED** (over-extended + R:R fails 2:1) — actual 1d Jul-08 **−1.34%** ($162.30 vs $164.51) — verdict **correct** (faded off the 20d-high chase, exactly the risk flagged).
+- XLF (ETF) — decision **REJECTED** (R:R fails 2:1; at 20d high) — actual 1d Jul-08 **−1.91%** ($54.97 vs $56.04) — verdict **correct** (biggest fade of the four — banks hit by energy/credit worries; now back at the rising 20d).
+
+**Day's top tradeable gainers (Jul-08, ≥$5, no warrants/units/rights):**
+- PENG +25.13% ($78.47) — Penguin Solutions, AI memory/infra — record Q3 (rev +48% to $478.7M, EPS $0.84 vs $0.55 est) + FY rev-growth guide doubled 12%→22%, PT raises to $65-66 — the one liquid large-ish mover
+- NVVE +63.58% ($8.49) — Nuvve, EV/V2G microcap — thin (~2k prior-day volume) — skip
+- BKYI +53.51% ($5.31) — BIO-key, microcap — skip
+- TVRD +61.29% ($5.00) — microcap spike — skip
+- WULX +25.13% ($37.50) — microcap, ~1.8k volume — skip
+
+**Best realistic miss:** PENG +25% — the only liquid name with a real catalyst (record Q3 + doubled FY guidance on agentic-AI memory demand; analyst PTs to $65-66). But it gapped +19-25% straight to a fresh 52-week high with an $8.67 ATR → a −22% stop; quant 5/5 only because a +270%-YTD parabola drags the 20d SMA up under it. That is a blow-off earnings gap — the exact chase the not_extended rule exists to filter — and a fractional single-name into a fresh high has no overnight stop. Un-tradeable at the gap; watch for a base/pullback, not a chase.
+
+**Lessons:**
+- All four defensive/value ETFs faded Jul-08 (−0.5 to −1.9%) — the across-the-board R:R reject was vindicated a 7th straight session; a name jammed under its 20d high with a 2R target needing +6-7% air is a fade setup, not a swing entry.
+- CPI DATE CORRECTION: June CPI is **Tue Jul 14** (BLS schedule), not Fri Jul 10 as prior logs assumed — the "binary two days out" reasoning was on a wrong date. Today's stay-out case rests on setup quality (R:R), not an imminent print. The binary is 5 days out.
+- XLF pulled back to a clean 5/5 on the rising 20d (tightest stop, $1.59 risk/sh) — the pullback-to-20d we said to watch for — but the financials catalyst is weakening (banks led yesterday's selloff on energy/credit) and 2R still clears resistance, so R:R fails. Closest-to-tradeable; watch for a $56.58 break with room.
+
+**Rolling 7d:** recurring leading sectors = defensive/value rotation — Health Care (XLV, weekly leader +3.16%), Consumer Staples (XLP), Financials (XLF, now wobbling on energy/credit), Industrials (XLI, faded to week's laggard); Energy YTD-strong but XLE broken below a falling 20d; Tech/semis BROKEN (~10% below peak, AI-capex-slowdown fears). Recurring miss pattern = confirming rotation ETFs (XLP/XLI/XLV/XLF) surface but jam at/near 20d highs → R:R never clears (7th straight session); the fix is a pullback-to-20d entry with real room (XLF now closest) — plus perennial illiquid microcap spikes and blow-off earnings gaps (PENG) we correctly skip.
+
+---
+
 ## 2026-07-08 — Scorecard (prior session 2026-07-07)
 
 **Our picks:**
