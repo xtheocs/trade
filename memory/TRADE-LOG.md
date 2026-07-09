@@ -271,3 +271,10 @@ drawdown are measured from here.
 | (none — 100% cash) | | | | | | |
 
 **Notes:** Sixth straight no-trade day (fifth trading day: Jul 6, 7, 8 this week; Jul 3 was the observed July 4th holiday). Account flat at $1,068.31, no positions, no open orders. Pre-market rejected XLP (fresh 5/5 quant, cleanest technical on the board) alongside XLI (4/5), XLV (3/5, over-extended) and XLF (3/5, over-extended) — all jammed within 0–1.8% of their 20d highs, needing an unrealistic +5.5–7.3% breakout to clear the 2:1 R:R filter. Semis/tech remain broken below a falling 20d with no base. CPI (June) drops Friday Jul 10 — a binary two days out with VIX elevated and Dec rate-hike odds now priced >50% — reinforcing the case to stay in cash rather than chase resistance into it. Phase P&L: −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from $1,089.01 peak holds at −1.90% — 20% breaker inactive. Weekly trades: 0/3. Tomorrow: pre-market rescans with full $1,068.31 buying power; watch CPI Friday and whether the defensive ETFs (XLP/XLI/XLV/XLF) pull back to their rising 20d for a tighter-stop real 2:1.
+
+---
+
+### Jul 9 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (XLF 5/5 clean pullback but 2R needs +5.8% into unproven air, financials catalyst deteriorating; XLP/XLI 3/5 need +6-7.5% air; XLV 3/5 over-extended; PENG blow-off gap not chased). Weekly trades used: 0/3.
