@@ -13,6 +13,34 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-10 — Scorecard (prior session 2026-07-09)
+
+**Our picks:**
+- XLF (ETF) — decision **REJECTED** (R:R fails 2:1; 2R clears resistance) — actual 1d Jul-09 **+1.03%** ($55.535 vs $54.97) — verdict **correct (no real 2R)** (rallied back toward the $56.58 20d high but still capped; a 2R = +5.6% still sits above resistance in unproven air).
+- XLP (ETF) — decision **REJECTED** (R:R fails 2:1) — actual 1d Jul-09 **−1.42%** ($83.21 vs $84.41) — verdict **correct** (broke below its 20d, weak momentum played out — no breakout).
+- XLI (ETF) — decision **REJECTED** (R:R fails 2:1; weakening sector) — actual 1d Jul-09 **+0.39%** ($181.115 vs $180.42) — verdict **correct** (flat on the 20d, no breakout).
+- XLV (ETF) — decision **REJECTED** (over-extended + R:R fails 2:1) — actual 1d Jul-09 **−0.10%** ($162.145 vs $162.30) — verdict **correct** (flat/faded off the 20d-high chase).
+- PENG (stock) — decision **REJECTED** (blow-off gap, no chase) — actual 1d Jul-09 **+3.24%** close ($81.30 vs $78.75) BUT intraday high $89.74 → closed $81.30 — verdict **correct** (gapped to $89.74 then faded ~$8 into the close — the exact gap-and-fade the no-chase rule protects against).
+
+**Day's top tradeable gainers (Jul-09, ≥$5, no warrants/units/rights):**
+- JLHL +291% ($12.72) — micro-cap pump ($3.25→$12.72 on no base, prior vol ~2k) — skip
+- VRAX +111% ($6.39) — Virax Biolabs, biotech micro-cap — opened $11.01 → closed $6.39 (huge intraday fade) — skip
+- FBRX +78% ($36.67) — micro-cap spike (opened $22 → $37) — skip
+- TRAX +56% ($32.38) — micro-cap spike — skip
+- LASC +56% ($28.75) — vol 3,757 shares, illiquid — skip
+- (IONS −23.9% $64.28 — Ionis Pharma, large-cap biotech, the notable liquid loser — likely trial/regulatory miss)
+
+**Best realistic miss:** None tradeable. Every liquid-ish gainer was a micro-cap gap-and-fade (VRAX opened $11 → closed $6.39; JLHL a $3→$12 pump with no prior base) — the exact chases the liquidity + not-extended rules filter. No liquid large-cap name with a durable catalyst AND a quant base surfaced — a 9th straight session of the same screen.
+
+**Lessons:**
+- 8th straight session: confirming rotation ETFs (XLF/XLV/XLI/XLK all ≥3/5) jam at/near their 20d highs, so a 2R objective needs +5.6% to +13% of air above resistance — a fade setup, not a swing entry. XLF's +1.03% bounce back toward $56.58 changes nothing until it breaks with real room.
+- Semis flipped from "broken" to a sharp premarket bounce (Perplexity: AMAT +10%, INTC +4.3%, AMD +3.6%) — but on Jul-09 bars the complex is still below a falling 20d (SMH/SOXL/AMAT/INTC/NVDA all ≤2/5). A one-day gap off a broken chart is a chase, not a base. AMD is the lone confirmer (4/5, held its 20d) but sits 6.5% under its $584.62 20d high with a 2R target of +28% air — R:R fails badly. Watch for a base to form, don't chase the gap.
+- Micro-cap gap-and-fade repeated (VRAX $11→$6.39, JLHL pump) and PENG faded from $89.74 to $81.30 — all correctly skipped; the no-chase / liquidity discipline keeps paying.
+
+**Rolling 7d:** recurring leading sectors = defensive/value rotation — Health Care (XLV), Financials (XLF), Industrials (XLI), plus Tech (XLK now confirms 3/5) and a Jul-10 premarket **semi bounce** (AMAT/INTC/AMD) that is unconfirmed on bars; Consumer Staples (XLP) rolled below its 20d; Energy YTD-strong but XLE broken below a falling 20d. Recurring miss pattern = confirming ETFs jam at/near 20d highs → R:R never clears (8th straight session), plus perennial micro-cap pumps and blow-off gaps (VRAX, PENG) correctly skipped. Fix remains a pullback-to-20d entry with real room, or a semi base that actually confirms — not a gap chase.
+
+---
+
 ## 2026-07-09 — Scorecard (prior session 2026-07-08)
 
 **Our picks:**

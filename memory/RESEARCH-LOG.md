@@ -566,3 +566,30 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime risk_on (SPY > rising 50d); not sanctioned despite the tech wobble.
 
 **Decision: HOLD — no new trades.** Nothing clears catalyst + quant + R:R 2:1 — a 7th straight session. XLF is a clean 5/5 and finally pulled back to the rising 20d (the setup we wanted), but a 2R move (+5.8%) clears resistance into unproven air *and* its catalyst is deteriorating (banks leading the tape down on energy/credit). XLP/XLI 3/5 with weak momentum and 2R targets needing +6-7.5% air; XLI's sector faded to weekly laggard. XLV 3/5 but over-extended and fading. PENG is a genuine catalyst but a +20% blow-off gap at a fresh 52-week high we don't chase. Note the CPI date correction (Jul 14, not Jul 10) — the stay-out rests on setup quality, not a binary. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity. Watch: XLF breaking $56.58 with real room, and pullbacks in XLP/XLV toward the rising 20d that open a real 2:1.
+
+---
+
+## 2026-07-10 — Pre-market (Fri Jul 10; for today's open)
+
+**Account:** equity $1,068.31 / cash $1,068.31 (100%) / drawdown-from-peak −1.90% (peak $1,089.01) / 0 open positions / 0 week trades (3 free). Breaker inactive.
+
+**Regime:** equity **risk_on** — SPY 751.55 above its rising 50d ($740.33); firmed +0.8% off the 745 area. Headlines flag a sharp premarket **semiconductor bounce** (AMAT +10%, INTC +4.3%, AMD +3.6% per Perplexity — qualitative only), but on Jul-9 bars the semi complex is still below a falling 20d. Risk_on by the letter; a one-day semi gap off a broken chart, not a confirmed base.
+
+**Leading sectors:** Defensive/value rotation persists — Health Care (XLV) and Financials (XLF) confirming; Industrials (XLI) and Tech (XLK) now confirm 3/5; Consumer Staples (XLP) rolled below its 20d. YTD leader Info Tech (+20.8%) attempting a premarket semi bounce that is unconfirmed on bars. Energy YTD-strong but XLE broken below a falling 20d.
+
+**Macro:** June CPI prints **Tue Jul 14** at 8:30 ET — a binary now 2 trading days out (Fri Jul 10 → Mon Jul 13 → Tue Jul 14). BofA warns of a "snapback"; Yardeni bullish to 8,250. No major release today. VIX/futures not notably moving into today's Friday open.
+
+**Candidates (passed catalyst + quant, but failed setup filters):** None opened.
+- XLF (ETF, Financials) — catalyst: value rotation + risk-on firming — quant **3/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✗ not_extended✓; last $55.535, sma20 $54.12, ret_10d +3.38%, ATR $0.78, risk/sh $1.55, stop $53.98, hi_20d $56.58) — **REJECTED: R:R fails 2:1.** Rallied +1.03% back toward the $56.58 20d high (~0.67R of room) while a 2R objective = $58.64 (+5.6%) sits *above* resistance in unproven breakout air. Closest-to-tradeable; watch for a clean $56.58 break with room.
+- XLV (ETF, Health Care) — catalyst: defensive rotation, weekly leader — quant **3/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✗ not_extended✓ — no longer >2ATR extended; last $162.145, sma20 $156.60, ret_10d +5.73%, risk/sh $5.57, stop $156.58, hi_20d $165.60) — **REJECTED: R:R fails 2:1.** ~0.62R of room to the $165.60 high; 2R objective = $173.28 (+6.9%) is unrealistic air above resistance.
+- XLI (ETF, Industrials) — catalyst: value/capex rotation — quant **3/5 confirmed** (trend✓ momentum✓ rel_strength✗ volume✗ not_extended✓; last $181.115, sma20 $180.52, ret_10d +0.47%, risk/sh $6.67, stop $174.44, hi_20d $186.44) — **REJECTED: R:R fails 2:1 + weak momentum.** ~0.80R to the high; 2R = $194.46 (+7.4%) is unrealistic air on +0.47% 10d momentum.
+- XLK (ETF, Technology) — catalyst: semi bounce narrative — quant **3/5 confirmed** (trend✓ momentum✓ rel_strength✗ volume✗ not_extended✓; last $185.315, sma20 $184.81, ret_10d +1.19%, risk/sh $11.93, stop $173.39) — **REJECTED: R:R fails 2:1 + rel_strength weak.** Right on its 20d; 2R = $209.17 (+12.9%) is fantasy air, and it lags SPY.
+- AMD (stock, semis) — catalyst: premarket semi surge (+3.6% headline) — quant **4/5 confirmed** (trend✓ momentum✗ rel_strength✓ volume✓ not_extended✓; last $546.51, sma20 $525.54, ret_10d +5.25%, ATR $38.09, risk/sh $76.19, stop $470.32, hi_20d $584.62) — **REJECTED: R:R fails 2:1 + chasing a gap.** The lone semi that held its 20d, but it's 6.5% *below* its $584.62 20d high (momentum✗) and a 2R objective = $698.89 (+27.9%) is fantasy air; $76 risk/sh is a huge ATR. Bouncing off a broken complex, not a base.
+
+**Rejected (other):**
+- XLP (ETF, Consumer Staples) — quant **2/5**, broke below its 20d ($83.21 < $84.29), momentum negative. Rotation leadership rolling over.
+- Semis SMH/SOXL/AMAT/INTC/NVDA — all ≤2/5 on Jul-9 bars, below a falling 20d. The +10% AMAT / +4% INTC premarket gaps are a one-day bounce off broken charts — the exact gap-chase we don't take. Watch for a base to actually confirm.
+- Jul-9 movers screen (JLHL +291%, VRAX +111%, FBRX/TRAX/LASC) — micro-cap pumps / gap-and-fades (VRAX opened $11 → closed $6.39); fail liquidity, not swing setups. Skip per repeated lessons.
+- Inverse sleeve (SQQQ/SH) — regime risk_on (SPY > rising 50d); not sanctioned.
+
+**Decision: HOLD — no new trades.** Nothing clears catalyst + quant + R:R 2:1 — an 8th straight session. The confirming ETFs (XLF/XLV/XLI/XLK) all jam at/near their 20d highs, so a 2R objective needs +5.6% to +12.9% of air above resistance — a fade setup, not a swing entry. Today's headline is a sharp premarket semi bounce (AMAT +10%, INTC +4.3%), but on bars the complex is still broken below a falling 20d; AMD is the lone semi confirmer yet sits 6.5% under its 20d high with a 2R target of +28% air — a gap chase, not a base. CPI (June) is Tue Jul 14, now 2 trading days out. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity. Watch: XLF breaking $56.58 with real room, XLV pulling back to its rising 20d ($156.60), and whether the semi bounce builds a confirmable base rather than a one-day gap.
