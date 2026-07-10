@@ -147,6 +147,14 @@ hard rule (3% risk, quant ≥3/5, 12% heat, position/sleeve caps, regime gate).
 2. For each catalyst name, pull Alpaca bars and run the quant confirmation.
 3. Check regime. Rank survivors by catalyst strength × quant score; take the best that
    fit open slots and the heat budget.
+   - **Room-to-target (prioritization, not a new gate):** because the entry needs ≥2R of
+     room and 2R = 2×(2×ATR) = 4×ATR, a name already pinned just under its 20-day high can
+     almost never clear 2:1 — its 2R objective lands in unproven breakout *air* above
+     resistance. Prefer candidates whose 2R target sits *below* the next real resistance:
+     early-stage moves, fresh breakouts holding above a retested level, or pullbacks to a
+     rising 20-day with clear air overhead. Deprioritize (don't re-surface daily) confirming
+     names that have failed 2:1 on stop-width alone unless their *setup* changes. This is a
+     selection guideline to feed the R:R filter tradeable names — it never overrides §5.
 4. **If the equity regime is risk-off:** also scan for inverse-ETF setups (SQQQ/SH) — a
    confirmed broad downtrend is the catalyst for the downside sleeve. Don't just sit in
    cash if a clean downtrend is in play.
