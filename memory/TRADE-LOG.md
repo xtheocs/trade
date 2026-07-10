@@ -289,3 +289,14 @@ drawdown are measured from here.
 | (none — 100% cash) | | | | | | |
 
 **Notes:** Seventh straight no-trade day. Account flat at $1,068.31, no positions, no open orders. Pre-market found only XLF (5/5 quant, clean pullback) confirming on the tape, but the 2:1 R:R filter still needed a +5.8% breakout into unproven air, and the financials catalyst is deteriorating; XLP/XLI (3/5) needed +6–7.5% air and XLV (3/5) remains over-extended. PENG's blow-off gap was noted but not chased (no quant confirmation, extended). Midday scan was a no-op — nothing to manage. Phase P&L: −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from $1,089.01 peak holds at −1.90% — 20% breaker inactive. Weekly trades: 0/3. Tomorrow: CPI (June) prints Friday Jul 10 — a binary macro catalyst; pre-market will rescan for fresh setups with full $1,068.31 buying power, watching whether CPI reopens tighter-stop entries in XLF/XLP/XLI or reverses the defensive rotation.
+
+---
+
+### Jul 10 — EOD Snapshot (Day 21, Friday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** Eighth straight no-trade day. Account flat at $1,068.31, no positions, no open orders. CPI (June) printed today — the binary macro catalyst the routine had been watching all week — but no fresh setup cleared the 2:1 R:R filter, so the account stayed in cash through the print rather than pre-positioning into it. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 for the second straight week (Jul 6–10 all no-trade). Zero trades in 15 trading days since the SMH time-stop exit (Jun 26) — patience discipline holding, but capital sits fully idle. Next week: pre-market rescans with full $1,068.31 buying power; watch whether CPI's reaction reopens tighter-stop entries in XLF/XLP/XLI/XLV or shifts the regime.
