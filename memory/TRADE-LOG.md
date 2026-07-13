@@ -307,3 +307,14 @@ drawdown are measured from here.
 **Positions:** None. 0 orders live.
 **Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (NVDA 5/5 clean confirm but AT 20d high, R:R fails 2:1 + stacked binary tomorrow — CPI/ADP/NFIB/Warsh/5 bank earnings; META 4/5 over-extended blow-off; XLF 4/5 fails R:R + bank-earnings binary; XLV 4/5 rolled to weekly laggard). Weekly trades used: 0/3.
+
+---
+
+### Jul 13 — EOD Snapshot (Day 22, Monday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** Ninth straight no-trade day, first day of a fresh week (0/3 used). Account flat at $1,068.31, no positions, no open orders. Pre-market rejected NVDA (5/5 quant, cleanest confirm on the board but sitting at a 20d high with R:R failing 2:1 into tomorrow's stacked binary — CPI, ADP, NFIB, a Warsh speech, and 5 bank earnings), META (4/5, over-extended blow-off), XLF (4/5, fails R:R plus bank-earnings binary risk), and XLV (4/5, rolled to weekly laggard). Midday scan was a no-op. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Ten trading days now since the SMH time-stop exit (Jun 26) with zero new positions — discipline holding, capital fully idle. Tomorrow: heavy macro/earnings binary day (CPI, ADP, NFIB, Warsh, bank earnings) — pre-market will watch whether the reaction reopens tighter-stop entries in NVDA/XLF or shifts the regime.
