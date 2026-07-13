@@ -593,3 +593,31 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime risk_on (SPY > rising 50d); not sanctioned.
 
 **Decision: HOLD — no new trades.** Nothing clears catalyst + quant + R:R 2:1 — an 8th straight session. The confirming ETFs (XLF/XLV/XLI/XLK) all jam at/near their 20d highs, so a 2R objective needs +5.6% to +12.9% of air above resistance — a fade setup, not a swing entry. Today's headline is a sharp premarket semi bounce (AMAT +10%, INTC +4.3%), but on bars the complex is still broken below a falling 20d; AMD is the lone semi confirmer yet sits 6.5% under its 20d high with a 2R target of +28% air — a gap chase, not a base. CPI (June) is Tue Jul 14, now 2 trading days out. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity. Watch: XLF breaking $56.58 with real room, XLV pulling back to its rising 20d ($156.60), and whether the semi bounce builds a confirmable base rather than a one-day gap.
+
+---
+
+## 2026-07-13 — Pre-market (Mon Jul 13; for today's open)
+
+**Account:** equity $1,068.31 / cash $1,068.31 (100%) / drawdown-from-peak −1.90% (peak $1,089.01) / 0 open positions / 0 week trades (3 free). Breaker inactive.
+
+**Regime:** equity **risk_on** — SPY 754.94 above its rising 50d ($741.19). Tape firm but cautious: S&P slipped −0.28% Fri (called "worst day of 2026" on headlines, though small) and oil is bid on Strait-of-Hormuz escalation. Risk_on by the letter.
+
+**Leading sectors:** Rotation shifting — Materials the week's leader (+1.2%, industrial demand/commodities); Energy the YTD leader (+23% on oil); a **firming AI/semi bounce** (NVDA now confirms 5/5, Meta AI-chip + SK Hynix's $26.5B US debut) taking leadership back. Health Care now the weekly **laggard** (XLV rolled over); Financials/Info Tech YTD laggards.
+
+**Macro:** **Stacked binary tomorrow (Tue Jul 14):** June CPI + ADP + NFIB at 8:30 ET, Fed Chair Warsh testimony to Congress, AND Q2 bank earnings (Citi, GS, WFC, JPM, BAC). Oil higher on Strait-of-Hormuz/US-Iran escalation. Opening fresh rate-sensitive long risk today runs straight into that cluster with fractional = no overnight stop.
+
+**Candidates (passed catalyst + quant, but failed setup filters):** None opened.
+- NVDA (stock, semis) — catalyst: AI-chip demand firming (Meta new AI chip due Sept, SK Hynix $26.5B US debut +12.8%, NVDA +4% Fri) — quant **5/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume 1.58×✓ not_extended✓; last $210.99, sma20 $201.88 rising, ret_10d +7.7%, ATR $6.75, risk/sh $13.50, stop $197.49, hi_20d $213.98) — **REJECTED: R:R fails 2:1 + binary event risk.** The first genuinely clean 5/5 momentum confirmer in weeks (semis finally basing on bars, not just a headline gap) — the real watch item. But price sits AT its 20d high ($210.99 vs $213.98 → 0.22R of room), so a 2R objective = $237.99 (+12.8%) is unproven breakout air; and CPI + Warsh + 5 bank earnings all land tomorrow, so a fractional entry now (no overnight stop) buys resistance straight into a stacked binary. Watch: a clean $213.98 break with room *after* the CPI reaction, or a pullback to the rising 20d (~$202).
+- META (stock, mega-cap tech) — catalyst: new AI chip (production Sept per Reuters), +3% today/+4% Thu — quant **4/5** (trend✓ momentum✓ rel_strength✓ volume 2.53×✓ **not_extended ✗**; last $669.25, sma20 $584.55, +14.5% above the 20d, ATR $26.74, risk/sh $53.48, hi_20d $677.86) — **REJECTED: over-extended + R:R fails 2:1.** A blow-off run >2ATR above the 20d; 2R = +16% air. The exact chase the not_extended rule filters.
+- XLF (ETF, Financials) — quant **4/5 confirmed** (last $55.705, sma20 $54.29, hi_20d $56.58, risk/sh $1.48) — **REJECTED: R:R fails 2:1 + bank-earnings binary tomorrow.** ~0.6R to the 20d high; 2R = $58.67 (+5.3%) is air above resistance, and Citi/GS/WFC/JPM/BAC all report Tue Jul 14 — a binary we don't hold into.
+- XLV (ETF, Health Care) — quant **4/5 confirmed** (last $160.88, hi_20d $165.595, risk/sh $5.57) — **REJECTED: R:R fails 2:1 + sector rolled to weekly laggard.** 2R = $172.02 (+6.9%) is air; Health Care now the week's laggard.
+- XLK (ETF, Technology) — quant **3/5 confirmed** (last $185.81 right on its 20d, volume 0.47× weak, risk/sh $11.45) — **REJECTED: R:R fails 2:1.** 2R = $208.72 (+12.3%) is fantasy air.
+
+**Rejected (other):**
+- AMD (stock) — quant **4/5** but volume 0.59× (fails) and 4.6% under its $584.62 20d high; 2R = +26.9% air. Broken-chart bounce, not a base.
+- SMH / XLE — not confirmed (SMH 2/5 below a falling 20d; XLE 2/5 below its 20d despite the oil bid + YTD energy lead). No swing setup.
+- CRCL (+13%, crypto-focused "Circle National Trust" bank) — **banned theme (crypto). Skip.** JBHT (+4%, Bernstein upgrade) — only **1/5** on bars (below a falling 20d). DAL beat but sold off −3% (negative reaction).
+- Movers screen (GMM +203%, HSAI +707%, MGNM, ZBAO, NVVE, AARD) — micro-cap AI-name/biotech pumps; fail liquidity, not swing setups. Skip per repeated lessons.
+- Inverse sleeve (SQQQ/SH) — regime risk_on; not sanctioned.
+
+**Decision: HOLD — no new trades.** A 9th straight session with nothing clearing catalyst + quant + R:R 2:1. The genuine development: semis are finally confirming on bars — NVDA is a clean 5/5 (real volume, not extended, RS-positive) as the AI-chip narrative firms, a real improvement over the ETF-jam pattern. But NVDA sits AT its 20d high (2R = +12.8% unproven air, R:R < 2:1), and tomorrow (Tue Jul 14) stacks CPI + Warsh testimony + 5 big-bank earnings — a fractional entry now buys resistance straight into that binary with no overnight stop. META is a blow-off chase (>2ATR extended); XLF faces bank earnings; XLV rolled to weekly laggard. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity. Watch: NVDA breaking $213.98 with room *after* the CPI reaction (or a pullback to its rising 20d ~$202), and whether the CPI print reopens tighter-stop setups.

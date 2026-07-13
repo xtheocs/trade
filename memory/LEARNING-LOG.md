@@ -13,6 +13,34 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-13 — Scorecard (prior session 2026-07-10)
+
+**Our picks:**
+- XLF (ETF) — decision **REJECTED** (R:R fails 2:1; 2R clears resistance) — actual 1d Jul-10 **+0.31%** ($55.705 vs $55.535) — verdict **correct** (capped near the $56.58 20d high, no breakout).
+- XLV (ETF) — decision **REJECTED** (over-extended + R:R fails 2:1) — actual 1d Jul-10 **−0.78%** ($160.88 vs $162.145) — verdict **correct** (faded off the 20d-high chase, as flagged).
+- XLI (ETF) — decision **REJECTED** (R:R fails 2:1) — actual 1d Jul-10 **+0.47%** ($181.97 vs $181.115) — verdict **correct** (flat, no breakout).
+- XLK (ETF) — decision **REJECTED** (R:R fails 2:1; rel_strength weak) — actual 1d Jul-10 **+0.27%** ($185.81 vs $185.315) — verdict **correct** (flat on its 20d).
+- AMD (stock) — decision **REJECTED** (gap chase; R:R fails 2:1) — actual 1d Jul-10 **+2.08%** ($557.85 vs $546.51) — verdict **correct-per-rules** (bounce, but still 4.6% under its $584.62 20d high, R:R never cleared — a broken-chart bounce, not a base).
+
+**Day's top tradeable gainers (Jul-10, ≥$5, no warrants/units/rights):**
+- NVVE +55.69% ($13.67) — Nuvve, EV/V2G micro-cap (recurring pump) — skip
+- AARD +52% ($7.60) — Aardvark Therapeutics, biotech micro-cap — skip
+- PLBL +26.48% ($8.12) — micro-cap spike — skip
+- FGI +24.44% ($5.04) — micro-cap — skip
+- SNAL +26.67% ($4.94) — sub-$5 micro-cap — skip
+- (MRNX −21.77% $38.99 — the notable liquid loser, biotech; likely trial/regulatory miss)
+
+**Best realistic miss:** None tradeable. Every liquid-ish gainer was a micro-cap AI/biotech pump (NVVE recurring, AARD/PLBL/FGI thin) — the exact chases the liquidity + not-extended rules filter. No liquid large-cap with a durable catalyst AND a quant base at a tradeable R:R surfaced — a 9th straight session of the same screen. AMD +2.08% (our own pick) was the only liquid name that moved but is a broken-chart bounce, not a base.
+
+**Lessons:**
+- **Semis are finally confirming on bars.** NVDA is now a fresh **5/5** (trend✓ momentum✓ rel_strength✓ volume 1.58×✓ not_extended✓) as the AI-chip narrative firms (Meta's new AI chip due Sept, SK Hynix's $26.5B US debut +12.8%, NVDA +4% Fri) — a real shift from prior sessions when the complex sat below a falling 20d (SMH still 2/5). But NVDA is pinned AT its 20d high ($210.99 vs $213.98 → 0.22R of room) so a 2R objective = +12.8% air, and CPI + 5 big-bank earnings + Warsh testimony all land Tue Jul 14 — a stacked binary one session out. Wait for the break-with-room *after* the CPI reaction; don't buy at resistance into the event.
+- META is 4/5 but +14.5% above its 20d (not_extended ✗, $669 vs sma20 $584.5) — a blow-off momentum chase, correctly filtered.
+- CRCL +13% is a crypto-focused bank (banned theme — skip); JBHT +4% on a Bernstein upgrade but only **1/5** on bars (below a falling 20d, rel_strength✗). Micro-cap AI-name pumps (GMM/HSAI/MGNM/ZBAO) — the usual skips.
+
+**Rolling 7d:** recurring leading sectors = hard assets (Energy +23% YTD, Materials the week's leader) plus a **firming AI/semi rotation** (NVDA now confirms 5/5, XLK 3/5) taking back leadership; defensive/value ETFs fading — XLV rolled to weekly laggard, XLF faces a bank-earnings binary Tue. Recurring miss pattern = confirming names jam at/near their 20d highs → 2R lands in unproven air, R:R never clears (9th straight session); micro-cap pumps + blow-off gaps (META now) correctly skipped. Fix = a break-with-room or pullback-to-20d entry (NVDA the cleanest watch) — not a chase at resistance into a binary.
+
+---
+
 ## 2026-07-10 — Scorecard (prior session 2026-07-09)
 
 **Our picks:**
