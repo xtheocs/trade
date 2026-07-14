@@ -13,6 +13,33 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-14 — Scorecard (prior session 2026-07-13)
+
+**Our picks:**
+- NVDA (stock) — decision **REJECTED** (R:R fails 2:1 at 20d high + stacked binary) — actual 1d Jul-13 **−3.56%** ($203.485 vs $210.99) — verdict **dodged-loss** (the 5/5 confirmer sold off hard; sma20 has now rolled from rising to falling, quant slipped to 3/5 — buying at that 20d high would have stopped near breakeven).
+- META (stock) — decision **REJECTED** (over-extended blow-off; R:R fails 2:1) — actual 1d Jul-13 **−1.85%** ($656.865 vs $669.25) — verdict **dodged-loss** (the >2ATR blow-off faded, exactly as the not_extended rule flagged).
+- XLF (ETF) — decision **REJECTED** (R:R fails 2:1 + bank-earnings binary) — actual 1d Jul-13 **+0.63%** ($56.055 vs $55.705) — verdict **correct-per-rules** (crept toward the $56.58 20d high but no breakout; bank earnings land today Jul-14).
+- XLV (ETF) — decision **REJECTED** (R:R fails 2:1 + weekly laggard) — actual 1d Jul-13 **+0.31%** ($161.38 vs $160.88) — verdict **correct** (flat, no breakout).
+
+**Day's top tradeable gainers (Jul-13, ≥$5, no warrants/units/rights):**
+- VEEE +415.77% ($24.86) — Twin Vee PowerCats, boat maker merger/marine-spin (USFM) — real catalyst but micro-cap pump — skip
+- QTTB +90.72% ($21.38) — Q32 Bio, biotech micro-cap catalyst — skip
+- AGEN +82.69% ($6.12) — Agenus, biotech micro-cap spike — skip
+- SLMT +35.58% ($6.63) — micro-cap spike — skip
+- FIGG +24.84% ($23.38) — micro-cap — skip
+- (DWSN −41.61% $4.42 / FAC −35.62% $6.00 — micro-cap losers)
+
+**Best realistic miss:** None tradeable. Every liquid-ish gainer was a micro-cap pump (VEEE a real merger catalyst but a +400% boat-maker spike, QTTB/AGEN biotech gaps) — the exact chases the liquidity + not-extended rules filter. No liquid large-cap with a durable catalyst AND a quant base at a tradeable R:R surfaced — a 10th straight session of the same screen.
+
+**Lessons:**
+- **The NVDA 5/5 correctly stayed on the watchlist, not in the book.** It fell −3.56% the next session and its sma20 has now rolled from rising to falling (quant down to 3/5) — proof the "wait for break-with-room after the CPI reaction, don't buy at the 20d high into a binary" discipline paid. Buying the clean 5/5 at resistance would have stopped near breakeven.
+- **TSM beat big (record Q2 rev +36% YoY on AI) but the stock is broken on bars** — last $421.59 sits BELOW a rising 20d ($441), 2/5, rel_strength negative. A great fundamental catalyst on a broken chart is not a swing entry; the quant gate correctly blocks it.
+- **AXP is a fresh 5/5** (JPM Overweight upgrade) — the cleanest confirmer on the board — but pinned 0.26R under its $358.77 20d high, so a 2R objective (+8% above resistance) is unproven air (R:R fails 2:1), and it reports into today's CPI + 5-big-bank binary. Same jam-at-20d-high pattern; watch for a break-with-room after the earnings dust settles.
+
+**Rolling 7d:** recurring leading sectors = a firming AI/semi rotation that just cooled (NVDA rolled 5/5→3/5, sma20 now falling; META blow-off faded) plus Financials (XLF 4/5, AXP 5/5) leading into today's bank-earnings binary; hard assets (Energy/Materials) still YTD-strong; defensive Health Care (XLV) the weekly laggard. Recurring miss pattern = confirming names jam at/near their 20d highs → 2R lands in unproven air, R:R never clears (10th straight session); micro-cap pumps (VEEE/QTTB/AGEN) + blow-off gaps (META) correctly skipped. Fix = a break-with-room or pullback-to-20d entry — never a chase at resistance into a stacked binary.
+
+---
+
 ## 2026-07-13 — Scorecard (prior session 2026-07-10)
 
 **Our picks:**

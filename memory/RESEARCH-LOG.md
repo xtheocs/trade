@@ -621,3 +621,30 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime risk_on; not sanctioned.
 
 **Decision: HOLD — no new trades.** A 9th straight session with nothing clearing catalyst + quant + R:R 2:1. The genuine development: semis are finally confirming on bars — NVDA is a clean 5/5 (real volume, not extended, RS-positive) as the AI-chip narrative firms, a real improvement over the ETF-jam pattern. But NVDA sits AT its 20d high (2R = +12.8% unproven air, R:R < 2:1), and tomorrow (Tue Jul 14) stacks CPI + Warsh testimony + 5 big-bank earnings — a fractional entry now buys resistance straight into that binary with no overnight stop. META is a blow-off chase (>2ATR extended); XLF faces bank earnings; XLV rolled to weekly laggard. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity. Watch: NVDA breaking $213.98 with room *after* the CPI reaction (or a pullback to its rising 20d ~$202), and whether the CPI print reopens tighter-stop setups.
+
+---
+
+## 2026-07-14 — Pre-market (Tue Jul 14; for today's open)
+
+**Account:** equity $1,068.31 / cash $1,068.31 (100%) / drawdown-from-peak −1.90% (peak $1,089.01) / 0 open positions / 0 week trades (3 free). Breaker inactive.
+
+**Regime:** equity **risk_on** — SPY 749.13 above its rising 50d ($741.94). Tape firm; today is the heavy binary day the routine had flagged all week.
+
+**Leading sectors:** Financials firming into bank earnings (XLF 4/5, AXP a fresh 5/5 on a JPM upgrade); AI/semi rotation just cooled (NVDA rolled 5/5→3/5, sma20 now falling; META blow-off faded −1.85%); Health Care (XLV) the weekly laggard. TSM posted record Q2 (+36% YoY on AI) but trades broken on bars.
+
+**Macro:** **Binary day is TODAY (Tue Jul 14):** June CPI (8:30 ET), plus Q2 earnings from JPM, Citi, BAC, WFC, GS — a full big-bank slate — plus ADP/NFIB and Warsh testimony. Opening fresh rate-sensitive / financial long risk this morning buys straight into that cluster, and a fractional entry carries no overnight stop.
+
+**Candidates (passed catalyst + quant, but failed setup filters):** None opened.
+- AXP (stock, Financials) — catalyst: JPM upgrade to Overweight (resilient affluent customer base) — quant **5/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✓ not_extended✓; last $354.38, sma20 $342.72 rising, ret_10d +4.08%, ATR $8.43, risk/sh $16.86, stop $337.52, hi_20d $358.77) — **REJECTED: R:R fails 2:1 + earnings-day binary.** The cleanest 5/5 on the board, but pinned 0.26R under its $358.77 20d high, so a 2R objective = $388.10 (+9.5%, ~+8% above resistance) is unproven breakout air; and AXP reports into today's CPI + 5-big-bank slate. Watch: a $358.77 break with room after the earnings dust settles.
+- XLF (ETF, Financials) — catalyst: value rotation + bank earnings — quant **4/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume✓ **not_extended ✗**; last $56.055, sma20 $54.47, ATR $0.75, risk/sh $1.49, stop $54.56, hi_20d $56.58) — **REJECTED: R:R fails 2:1 + bank-earnings binary today.** Only 0.35R to the $56.58 high; 2R = $59.04 (+5.3%) is air above resistance, and JPM/C/BAC/WFC/GS all report today — a binary we don't hold into.
+- NVDA (stock, semis) — catalyst: AI-chip demand — quant **3/5 confirmed** (trend✗ momentum✓ rel_strength✓ volume✗ not_extended✓; last $203.485, sma20 $201.81 **now falling**, ret_10d +0.06%, ATR $6.85, risk/sh $13.70, stop $189.79, hi_20d $213.98) — **REJECTED: quant deteriorating + R:R fails 2:1.** Fell −3.56% Jul-13; the 5/5 has slipped to 3/5 as sma20 rolls over and momentum flattens to +0.06%. 2R = $230.9 (+13.5%) is fantasy air. The watch item cooled — wait for a real base.
+- XLV (ETF, Health Care) — quant **3/5 confirmed** (trend✓ momentum✓ rel_strength✗ volume✗ not_extended✓; last $161.38, risk/sh $5.62, hi_20d $165.60) — **REJECTED: R:R fails 2:1 + weekly laggard.** 2R = $172.6 (+7%) is air; sector lagging.
+
+**Rejected (other):**
+- TSM (stock) — record Q2 (+36% YoY on AI) but only **2/5** (last $421.59 below a rising 20d $441.16, rel_strength ✗, ret_10d −2.4%). Great catalyst, broken chart — no swing entry.
+- META (stock) — **4/5** but +11.5% above its 20d (not_extended ✗, blow-off); faded −1.85% Jul-13. The chase the rule filters.
+- XLK (ETF) — **1/5**, below a falling 20d. AGEN (+62-82%, biotech micro-cap gap, 3/5 but momentum/not_extended ✗, vol 15×) — micro-cap pump, liquidity skip.
+- Movers screen (VEEE +416% boat-maker merger, QTTB +91% biotech, SLMT/FIGG) — micro-cap pumps; VEEE a real catalyst but a +400% spike we never chase. Skip per repeated lessons.
+- Inverse sleeve (SQQQ/SH) — regime risk_on; not sanctioned.
+
+**Decision: HOLD — no new trades.** A 10th straight session with nothing clearing catalyst + quant + R:R 2:1. Financials are the freshest leadership (AXP a clean 5/5, XLF 4/5) but both jam under their 20d highs so 2R lands +5–9% in unproven air, and both report/react into today's stacked binary — June CPI plus JPM/Citi/BAC/WFC/GS earnings, ADP/NFIB, and Warsh testimony. Buying resistance into that cluster with a fractional (no overnight stop) is the exact trap the rules block. The prior NVDA 5/5 correctly stayed on watch — it fell −3.56% and its 20d is now rolling over. TSM's record beat sits on a broken chart. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity. Watch: AXP/XLF breaking their 20d highs with real room *after* today's CPI + bank-earnings reaction.
