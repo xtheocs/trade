@@ -325,3 +325,14 @@ drawdown are measured from here.
 **Positions:** None. 0 orders live.
 **Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (AXP 5/5 clean confirm but pinned under 20d high + earnings-day binary today — CPI/ADP/NFIB/Warsh + 5 bank earnings; XLF 4/5 over-extended + bank-earnings binary; NVDA quant deteriorated 5/5→3/5, sma20 rolling over; XLV 3/5 weekly laggard). Weekly trades used: 0/3.
+
+---
+
+### Jul 14 — EOD Snapshot (Day 23, Tuesday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** Tenth straight no-trade day. Account flat at $1,068.31, no positions, no open orders. Pre-market rejected AXP (5/5 quant, clean confirm but pinned under its 20d high into today's stacked macro/earnings binary — CPI, ADP, NFIB, a Warsh speech, and 5 bank earnings), XLF (4/5, over-extended plus bank-earnings binary risk), and XLV (3/5, weekly laggard); NVDA's quant score deteriorated from 5/5 to 3/5 as its 20d SMA rolled over. Midday scan was a no-op with nothing to manage. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Eleven trading days since the SMH time-stop exit (Jun 26) with zero new positions; weekly trades 0/3. Tomorrow: pre-market rescans for fresh setups with full $1,068.31 buying power; watch today's CPI/bank-earnings reaction for whether it reopens tighter-stop entries in AXP/XLF or shifts the regime.
