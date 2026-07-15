@@ -648,3 +648,31 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime risk_on; not sanctioned.
 
 **Decision: HOLD — no new trades.** A 10th straight session with nothing clearing catalyst + quant + R:R 2:1. Financials are the freshest leadership (AXP a clean 5/5, XLF 4/5) but both jam under their 20d highs so 2R lands +5–9% in unproven air, and both report/react into today's stacked binary — June CPI plus JPM/Citi/BAC/WFC/GS earnings, ADP/NFIB, and Warsh testimony. Buying resistance into that cluster with a fractional (no overnight stop) is the exact trap the rules block. The prior NVDA 5/5 correctly stayed on watch — it fell −3.56% and its 20d is now rolling over. TSM's record beat sits on a broken chart. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%. Patience > activity. Watch: AXP/XLF breaking their 20d highs with real room *after* today's CPI + bank-earnings reaction.
+
+---
+
+## 2026-07-15 — Pre-market (Wed Jul 15; for today's open)
+
+**Account:** equity $1,068.31 / cash $1,068.31 (100%) / drawdown-from-peak −1.90% (peak $1,089.01) / 0 open positions / 0 week trades (3 free). Breaker inactive.
+
+**Regime:** equity **risk_on** — SPY 751.94 above its rising 50d ($742.61). The big binary cleared: June CPI printed soft Tue Jul-14 (shut the door on a Fed hike this month), stocks moved higher, semis led early.
+
+**Leading sectors:** AI/semi rotation re-firming after a one-day cool — NVDA bounced +4.08% back to a 4/5, and premarket Jul-15 AMD +6%, MU +5.3%, INTC +4.9%, AVGO +2.5%, NVDA +2.4% (chips leading). Financials beat but muted: GS +7%, Citi/BAC beat, JPM record Q2, yet XLF crept +0.22% and IBM cratered −22% on a miss. Energy/Materials still YTD leaders (oil at a 1-month high on the Strait-of-Hormuz blockade + 20% cargo fee). Health Care (XLV −1.92%) the laggard.
+
+**Macro:** CPI cleared benign. Today (Wed Jul 15) carries a lighter binary set: **June PPI (8:30 ET)**, Q2 earnings from Morgan Stanley / BlackRock / BNY / ASML / United Airlines, and Warsh testimony day 2. Not the stacked cluster of yesterday, but still live event risk for a fractional entry with no overnight stop.
+
+**Candidates (passed catalyst + quant, but failed setup filters):** None opened.
+- XLF (ETF, Financials) — catalyst: bank-earnings beats (GS/C/BAC) + value rotation — quant **5/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume 1.3×✓ not_extended✓; last $56.18, sma20 $54.61 rising, ret_10d +4.62%, ATR $0.79, risk/sh $1.59, stop $54.59, hi_20d $56.80) — **REJECTED: R:R fails 2:1.** The first clean 5/5 on the board, but pinned only 0.39R under its $56.80 20d high, so a 2R objective = $59.36 (+5.7%) is unproven air above resistance. It poked $56.80 intraday Jul-14 and closed back at $56.18 — no breakout hold. Watch a $56.80 break-with-room.
+- NVDA (stock, semis) — catalyst: AI-chip demand + softer-CPI relief, semis re-leading — quant **4/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume 0.79×✗ not_extended✓; last $211.79, sma20 $202.14 re-rising, ret_10d +8.65%, ATR $6.88, risk/sh $13.76, stop $198.03, hi_20d $213.98) — **REJECTED: R:R fails 2:1.** Snapped back +4.08% to a 4/5, but sits $2.19 (0.16R) under its 20d high, so 2R = $239.32 (+13.0%) is fantasy breakout air. The live watch item as the AI/semi bid resumes — needs a clean $213.98 break-and-hold or a pullback to the rising 20d (~$202).
+- AXP (stock, Financials) — catalyst: JPM Overweight upgrade — quant **4/5 confirmed** (trend✓ momentum✓ rel_strength✓ volume 0.93×✗ not_extended✓; last $355.22, sma20 $344.21 rising, ret_10d +4.21%, ATR $8.69, risk/sh $17.38, stop $337.84, hi_20d $360.76) — **REJECTED: R:R fails 2:1.** Poked its $360.76 20d high intraday Jul-14, closed back at $355.22; 0.32R of room, 2R = $389.98 (+9.8%) is air above resistance.
+- AMD (stock, semis) — quant **3/5 confirmed** (trend✓ momentum✗ rel_strength✓ volume✗ not_extended✓; last $548.16, hi_20d $584.62, ATR $37.57, risk/sh $75.14) — **REJECTED: R:R fails 2:1.** Enormous ATR; 2R = +27% air, and 0.03×equity buys only ~0.43 sh. Broad-chart bounce, not a base.
+- AVGO (stock, semis) — quant **3/5 confirmed** (momentum✗ volume✗; last $389.09, hi_20d $414.63, risk/sh $29.86) — **REJECTED: R:R fails 2:1.** 2R = $448.81 (+15.4%) air above resistance.
+- XLE (ETF, Energy) — quant **3/5 confirmed** (trend✗ sma20 falling; not_extended✗ 2.4 ATR above sma20; last $56.96, hi_20d $57.22, risk/sh $2.12) — **REJECTED: over-extended + R:R fails 2:1.** 0.12R to its high; 2R = $61.20 (+7.4%) air. Riding the oil spike but over its skis.
+
+**Rejected (other):**
+- SMH (ETF, semis) — only **1/5** (last $600.05 below a falling 20d $619.33, ret_10d −5.05%, rel_strength ✗). The semi-ETF chart is still broken even as single-name chips bid — no swing entry.
+- IBM — cratered −22% on an earnings miss; broken, not a long.
+- Movers screen (NXTC +202% biotech binary, VEEE +55% boat-maker, FXHO/BMGL/AXTC micro-caps) — micro-cap pumps; fail liquidity, not swing setups. Skip per repeated lessons.
+- Inverse sleeve (SQQQ/SH) — regime risk_on; not sanctioned.
+
+**Decision: HOLD — no new trades.** An 11th straight session with nothing clearing catalyst + quant + R:R 2:1. The binary that had frozen the week resolved benign — soft June CPI took a Fed hike off the table and banks beat — and the AI/semi rotation is re-firming (NVDA +4.08% back to a 4/5, chips bid hard premarket). But every confirmed leader still jams at/near its 20d high: XLF is a clean 5/5 yet only 0.39R under its high (2R = +5.7% air), NVDA sits 0.16R under its high (2R = +13% air), AXP 0.32R (2R = +9.8% air) — all three poked those highs intraday Jul-14 and closed back below. AMD/AVGO are 3/5 with 2R in +15–27% air; XLE is over-extended on the oil spike; SMH's ETF chart is still broken. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%, regime risk_on. Patience > activity. Watch: XLF breaking $56.80, or NVDA clearing $213.98 with real room (or pulling back to its rising ~$202 20d) — a break-with-room, never a chase at resistance into today's PPI/earnings.

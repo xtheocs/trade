@@ -13,6 +13,33 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-15 — Scorecard (prior session 2026-07-14)
+
+**Our picks:**
+- AXP (stock) — decision **REJECTED** (R:R fails 2:1 at 20d high + earnings-day binary) — actual 1d Jul-14 **+0.24%** ($355.22 vs $354.38) — verdict **correct** (poked its $358.77 20d high intraday to $360.76 but closed back below at $355.22 — no breakout hold, exactly the "wait for break-with-room" call).
+- XLF (ETF) — decision **REJECTED** (R:R fails 2:1 + bank-earnings binary) — actual 1d Jul-14 **+0.22%** ($56.18 vs $56.055) — verdict **correct** (touched $56.80 intraday, faded; no breakout close despite banks beating).
+- NVDA (stock) — decision **REJECTED** (quant deteriorated 3/5, sma20 rolling; R:R fails 2:1) — actual 1d Jul-14 **+4.08%** ($211.79 vs $203.485) — verdict **missed-entry (per-rules-correct)** — it snapped back to a 4/5 (sma20 re-rising, ret_10d +8.65%) as the AI/semi bid resumed; but it was 3/5 and at its 20d high into a stacked CPI/bank-earnings binary, so passing was correct. The single liquid large-cap that actually moved — semis re-leading.
+- XLV (ETF) — decision **REJECTED** (R:R fails 2:1 + weekly laggard) — actual 1d Jul-14 **−1.92%** ($158.28 vs $161.38) — verdict **dodged-loss** (the defensive laggard sold off, as flagged).
+
+**Day's top tradeable gainers (Jul-14, ≥$5, no warrants/units/rights):**
+- NXTC +201.83% ($6.58) — NextCure, biotech micro-cap binary spike (300%+ premkt Jul-15) — skip
+- VEEE +54.91% ($38.51) — Twin Vee PowerCats, boat-maker merger spike (recurring pump, +415% Jul-13) — skip
+- FXHO +33.72% ($20.86) — micro-cap spike — skip
+- BMGL +32.25% ($8.12) — micro-cap spike — skip
+- AXTC +29.84% ($19.59) — micro-cap spike — skip
+- (IBX −50.38% $15.48 / LESL −41.07% $3.30 — the notable liquid losers)
+
+**Best realistic miss:** NVDA +4.08% — semis — real catalyst (AI-chip demand, softer CPI relief), and it was our own watch item. But per-rules-correct to pass: it was 3/5 (sma20 rolling over) sitting at its $213.98 20d high into a stacked CPI + 5-bank-earnings binary — buying resistance into that cluster with a fractional (no overnight stop) is exactly what the rules block. Among the *fresh* gainers list, none tradeable — all micro-cap pumps (NXTC/VEEE/FXHO). 11th straight session of the same screen.
+
+**Lessons:**
+- **The R:R-2:1 gate keeps working as a filter, not just a nuisance.** AXP and XLF both poked their 20d highs intraday Jul-14 (AXP $360.76, XLF $56.80) and both closed back below — no breakout hold. Buying the "clean" confirmer at resistance would have bought the fade; the discipline to demand a break-*with-room* (not a poke) paid again.
+- **NVDA is the live watch item as semis re-lead.** It bounced +4.08% back to a 4/5 (sma20 re-rising, ret_10d +8.65%) and now sits $2.19 (0.16R) under its $213.98 20d high — the AI/semi rotation that "cooled" Jul-13 is bidding again (AMD +6%, MU +5.3% premkt Jul-15). Still un-tradeable at R:R until it clears $213.98 with real room. Watch a clean break-and-hold or a pullback to the rising 20d (~$202).
+- **CPI cleared soft (Fed hike off the table) and banks beat — but Financials didn't break out.** GS/C/BAC beat, JPM record, yet XLF only crept +0.22% and IBM cratered −22%. The macro binary resolving benign is not itself a setup; still need a name with a base AND room. Nothing offered both.
+
+**Rolling 7d:** recurring leading sectors = AI/semi rotation re-firming (NVDA back to 4/5 +4.08%, AMD/AVGO 3/5, MU/AMD bid hard premkt) after a one-day cool; Financials clean-but-capped post-earnings (XLF now a 5/5, AXP 4/5 — both jam under 20d highs); Energy/Materials still YTD-strong (oil at 1-month high on Strait-of-Hormuz blockade). Laggards = Health Care (XLV −1.92%), broad Info-Tech YTD. Recurring miss pattern = confirming leaders jam at/near their 20d highs → 2R lands in unproven air, R:R never clears (11th straight session); intraday pokes of the high fade back (AXP/XLF Jul-14); micro-cap pumps (NXTC/VEEE) + blow-offs correctly skipped. Fix = a break-with-room or pullback-to-20d entry — never a chase at resistance.
+
+---
+
 ## 2026-07-14 — Scorecard (prior session 2026-07-13)
 
 **Our picks:**
