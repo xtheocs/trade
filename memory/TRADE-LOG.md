@@ -325,3 +325,10 @@ drawdown are measured from here.
 **Positions:** None. 0 orders live.
 **Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (AXP 5/5 clean confirm but pinned under 20d high + earnings-day binary today — CPI/ADP/NFIB/Warsh + 5 bank earnings; XLF 4/5 over-extended + bank-earnings binary; NVDA quant deteriorated 5/5→3/5, sma20 rolling over; XLV 3/5 weekly laggard). Weekly trades used: 0/3.
+
+---
+
+### Jul 15 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (XLI 4/5 confirm but R:R fails 2:1, range-bound 3wks; XLV 3/5 over-extended >2ATR above 20d, R:R fails; semis/tech broken below falling 20d). Weekly trades used: 0/3.
