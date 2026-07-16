@@ -343,3 +343,10 @@ drawdown are measured from here.
 | (none — 100% cash) | | | | | | |
 
 **Notes:** Eleventh straight no-trade day. Account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. (Note: the Jul 14 EOD snapshot routine did not run; Jul 14's midday scan already confirmed 100% cash/no positions at $1,068.31, so no equity movement was missed.) Pre-market rejected XLI (4/5 confirm but R:R fails 2:1, range-bound 3wks) and XLV (3/5, over-extended >2ATR above 20d); semis/tech remain broken below a falling 20d. Midday scan was a no-op. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Jul 13–15 all no-trade). Twelve trading days now since the SMH time-stop exit (Jun 26) with zero new positions — discipline holding, capital fully idle. Tomorrow: pre-market rescans with full $1,068.31 buying power, watching for setups that clear both quant confirmation and the 2:1 R:R filter.
+
+---
+
+### Jul 16 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (XLE 5/5 quant but R:R fails 2:1, 0.36R under 20d high; PYPL 4/5 but +16% earnings gap over-extended; NVDA 4/5 fails volume, R:R fails 2:1). Weekly trades used: 0/3.
