@@ -676,3 +676,35 @@ TRADE or HOLD (default HOLD if no edge)
 - Inverse sleeve (SQQQ/SH) — regime risk_on; not sanctioned.
 
 **Decision: HOLD — no new trades.** An 11th straight session with nothing clearing catalyst + quant + R:R 2:1. The binary that had frozen the week resolved benign — soft June CPI took a Fed hike off the table and banks beat — and the AI/semi rotation is re-firming (NVDA +4.08% back to a 4/5, chips bid hard premarket). But every confirmed leader still jams at/near its 20d high: XLF is a clean 5/5 yet only 0.39R under its high (2R = +5.7% air), NVDA sits 0.16R under its high (2R = +13% air), AXP 0.32R (2R = +9.8% air) — all three poked those highs intraday Jul-14 and closed back below. AMD/AVGO are 3/5 with 2R in +15–27% air; XLE is over-extended on the oil spike; SMH's ETF chart is still broken. 100% cash, 0/3 weekly trades, heat 0%, drawdown −1.90%, regime risk_on. Patience > activity. Watch: XLF breaking $56.80, or NVDA clearing $213.98 with real room (or pulling back to its rising ~$202 20d) — a break-with-room, never a chase at resistance into today's PPI/earnings.
+
+## 2026-07-16 — Pre-market
+
+### Account
+- Equity: $1,068.31 / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak ($1,089.01): −1.90% — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **risk_on** (SPY 754.77 > rising 50-day SMA 743.30)
+
+### Market Context
+- Leading sectors: Energy (+22% YTD, +5.78% last week — oil at 1-mo high, Strait-of-Hormuz), Materials, Consumer Staples, Industrials; AI/semi re-firming (NVDA/AMD/AVGO/MU/AMAT bid)
+- Laggards: broad Info-Tech YTD, Health Care, Financials YTD
+- Catalyst of the day: PYPL Q2 earnings beat + raised guidance → +16% premarket gap
+- Econ calendar: mid-month, no first-tier print flagged (post-CPI/PPI week)
+
+### Candidates (catalyst + quant checked)
+- **XLE** (sector ETF) — catalyst: Energy sector leadership, oil at 1-mo high — quant **5/5** (only all-pass name) — entry ~$56.48 | stop $54.40 (−2ATR) | risk/sh $2.09 | 2R target $60.65 (+7.4%) — **R:R fails 2:1**: only 0.36R under its $57.22 20d high, so 2R lands in unproven breakout air above resistance.
+- **PYPL** (stock) — catalyst: Q2 beat + guidance raise (strong, fresh) — quant **4/5** (fails not_extended) — entry ~$55.52 | stop $51.56 | risk/sh $3.96 | 2R target $63.45 (+14.3%) — **rejected**: +16% earnings gap sits 5+ ATR above 20d SMA (blow-off, don't chase); 2R in pure air.
+- **NVDA** (stock) — catalyst: AI/semi rotation re-firming — quant **4/5** (fails volume, vol_ratio 0.91) — entry ~$212.50 | stop $198.34 | risk/sh $14.16 | 2R target $240.82 (+13%) — **R:R fails 2:1**: 0.21R under its $213.98 20d high, volume fading; 2R in air.
+
+### Rejected
+- XLE — R:R fails 2:1 (jammed 0.36R under 20d high)
+- PYPL — over-extended earnings gap (+16%, >2ATR above 20d) + R:R in air
+- NVDA — R:R fails 2:1 at 20d high + volume fading
+- ELVA/NVVE/AEHG/LCID/PYPU — micro-cap/EV-energy spikes & leveraged ETNs (liquidity + not-extended)
+
+### Decision
+**HOLD** — 12th straight no-trade session. Regime risk_on and Energy is now a clean 5/5, but every confirmed leader still jams at/under its 20d high (XLE 0.36R, NVDA 0.21R) so 2R lands in unproven air; PYPL's fresh catalyst is a +16% gap too extended to chase. No break-with-room or pullback-to-20d entry available today. Capital stays intact; watch XLE > $57.22 with room, PYPL basing after the gap, or NVDA clearing $213.98.
+
+---

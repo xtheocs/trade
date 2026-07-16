@@ -13,6 +13,31 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-16 — Scorecard (prior session 2026-07-15)
+
+**Our picks:**
+- XLI (ETF) — decision **REJECTED** (4/5 confirm but R:R fails 2:1, range-bound 3wks) — actual 1d Jul-15 **−0.20%** ($180.05 vs $180.41) — verdict **correct** (drifted lower, no breakout; the range-bound-at-highs read held).
+- XLV (ETF) — decision **REJECTED** (3/5, over-extended >2ATR above 20d, R:R fails) — actual 1d Jul-15 **+0.03%** ($158.33 vs $158.28) — verdict **correct** (dead flat after its Jul-14 −1.92% flush; defensive laggard offered nothing).
+
+**Day's top tradeable gainers (Jul-15, ≥$5, no warrants/units/rights):**
+- ELVA +49.05% ($11.76) — Electrovaya, battery/EV-energy small-cap contract spike — micro-cap, skip
+- AEHG +42.21% ($10.23) — micro-cap spike — skip
+- NVVE +36.46% ($21.56) — Nuvve, V2G EV-charging small-cap — speculative spike, skip
+- PYPU +35.00% ($35.95) / PYPG +34.37% ($8.21) — leveraged single-stock PayPal ETNs front-running PYPL earnings — un-identifiable pre-move, skip
+- LCID +28.79% ($5.95) — Lucid, EV; but Jul-14 was a wild 2.39→5.76 range (split/halt artifact), erratic — not tradeable
+- (VEEE −30.95% $26.59 — the recurring boat-maker pump finally crashing; GRRR −29.1% $11.89 the notable liquid loser)
+
+**Best realistic miss:** None tradeable. Every Jul-15 gainer was a micro-cap/EV-energy spike (ELVA/NVVE/AEHG) or a leveraged ETN (PYPU/PYPG front-running PayPal's after-close beat — not identifiable before the print). The one large-cap catalyst that mattered, PYPL's Q2 beat + guidance raise, landed after Jul-15's close and gaps +16% into TODAY (Jul-16) — captured live below, not a miss. 12th straight session with no liquid large-cap offering a durable catalyst AND a quant base at tradeable R:R.
+
+**Lessons:**
+- **The real catalyst arrived after the bell, not in the movers list.** PYPL's +16% earnings gap is the first fresh large-cap catalyst in weeks — but an earnings gap is not automatically a trade: it prints 5+ ATR above its 20d SMA (not_extended = false) and its 2R objective (+14%) lands in pure air. Chasing the gap open is exactly the blow-off the not-extended rule blocks. Wait for a base/retest, don't buy the gap.
+- **Energy quietly became the cleanest chart on the board.** XLE is a 5/5 today (only name all week to pass all five) on the sector's +5.78% week and oil at a 1-month high — but it too jams 0.36R under its 20d high, so R:R still fails. The leadership is real; the entry timing isn't there yet. Watch a break of $57.22 with room or a pullback to the rising ~$54.50 20d.
+- **Discipline scoreboard stays clean.** XLI/XLV both rejected and both went nowhere (−0.20% / +0.03%). Rejecting confirmers pinned at/under highs keeps paying — no whipsaw, no stop-out, capital intact.
+
+**Rolling 7d:** recurring leading sectors = Energy (XLE now 5/5, sector +5.78% on the week, oil at 1-mo high on Strait-of-Hormuz), Materials/Consumer Staples/Industrials firm; AI/semi re-firming (NVDA 4/5, AMD/AVGO/MU/AMAT bid). Laggards = broad Info-Tech YTD, Health Care (XLV flat/−), Financials YTD (though PYPL's beat is a payments bright spot). Recurring miss pattern = confirmed leaders jam at/near 20d highs → 2R lands in unproven air, R:R never clears (12th straight session); fresh catalysts arrive as either earnings gaps too extended to chase (PYPL +16%) or micro-cap pumps (ELVA/NVVE/VEEE). Fix unchanged = demand a break-with-room or a pullback-to-20d entry — never a chase at resistance or into a gap.
+
+---
+
 ## 2026-07-15 — Scorecard (prior session 2026-07-14)
 
 **Our picks:**
