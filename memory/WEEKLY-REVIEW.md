@@ -345,3 +345,64 @@ Template for each entry:
 
 ### Overall Grade: C+
 *(Process still A− — every risk rule respected, the R:R filter vindicated a fourth week running, no chase of the Friday semi gap. But the result is a fourth straight week without compounding and a second straight zero-trade week: 15 trading days fully idle, 100% cash into a +1.7% tape. Discipline this clean producing this little means the problem has moved from risk (fine) to sourcing (too narrow, too late-stage) — hence a codified room-to-target sourcing rule this week. Survival fully intact; the mandate now is to make a qualifying setup actually appear, not to relax the gate.)*
+
+---
+
+## Week ending 2026-07-17
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,068.31 (Mon Jul-13 open) |
+| Ending portfolio | $1,068.31 (Fri Jul-17) |
+| Week return | +$0.00 (0.00%) |
+| S&P 500 week | −1.6% (~7,593 → 7,475.69; first losing week in 3, semis dumped mid-week on AI-valuation fears) — FYI only |
+| Bot vs S&P | ≈ +1.6% (100% cash *beat* a down tape — FYI context, NOT the goal) |
+| Trades | 0 (W:0 / L:0 / open:0) — none opened, none closed |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A (no positions) |
+| Worst trade | N/A (no positions) |
+| Profit factor | N/A (no closed trades) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades — 100% cash entire week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| (none — 100% cash) | — | — | — | — |
+
+### What Worked
+- **Idle cash was actively rewarded this week, not just defensible.** The S&P fell −1.6% (semis dumped mid-week on AI-valuation fears — the exact NVDA/AMD/AVGO names the routine kept passing on at their 20d highs), so 100% cash *beat* the tape by ~+1.6%. The first week this phase where staying out avoided real downside, not just missed upside.
+- **The R:R 2:1 filter vindicated a fifth straight week.** Every confirmed leader jammed at/near its 20d high — XLF 5/5 (0.39R under high), NVDA 4/5 (0.16R), AXP 5/5 (0.32R), XLP 5/5 (0.05R), XLE (0.14–0.36R) — so each 2R objective landed +5.7% to +13% in unproven breakout air. All correctly refused; the semis that would have been chased then round-tripped lower.
+- **Refused every binary and every gap.** Held through a stacked Tue Jul-14 cluster (June CPI + JPM/C/BAC/WFC/GS earnings + Warsh testimony) without pre-positioning; passed the ATAI/Lilly buyout, MAN/CDNA +30% event gaps, and the recurring micro-cap pumps (VEEE, NXTC, AGEN). No fractional-with-no-overnight-stop entry into event risk.
+- **Zero rule violations for a fifth week.** 0/3 weekly trades, heat 0%, drawdown −1.90% « 20% breaker, no inverse-sleeve error (regime stayed risk_on: SPY ~751 > rising 50d ~744 all week). Patience > activity, as written.
+
+### What Didn't Work
+- **A flat week — fifth straight with no compounding, third straight zero-trade week.** Phase P&L stuck at −$11.69 (−1.08%); 20 trading days now idle since the SMH time-stop exit (Jun 26). Correct by the rules and rewarded vs a down tape, but still zero absolute progress toward the ~10%/month stretch.
+- **The "jam at resistance" wall is now 5+ weeks deep.** Last week's codified room-to-target sourcing rule did not surface a single tradeable name — the scan still fed the same over-extended ETFs (XLF/XLE/XLP/XLU) pinned under their 20d highs. One week of the new rule in effect with no qualifying setup produced.
+- **Defensive rotation appeared Friday but too late to size.** As mega-cap tech cracked (Alphabet −4.44%, Meta −2.46% premarket Jul-17), Staples XLP went 5/5 and Utilities XLU 4/5 — but both were already pinned at their 20d highs (XLP 0.05R of room), so the rotation surfaced names with the *least* room to a 2R target, exactly the pattern room-to-target is meant to avoid.
+- **Capital 100% idle for a fifth week running.** The book has averaged ~1 name across the entire phase and is currently zero. Selectivity is right and this week it dodged a drawdown, but the account is still not being put to work.
+
+### Key Lessons
+- **Cash is a position, and this week it was the winning one.** For four weeks "flat vs an up tape" was the cost of discipline; this week the tape fell −1.6% led by the very semis the routine kept refusing, so the same discipline turned into relative outperformance. The R:R gate wasn't just avoiding fades — it was avoiding the actual drawdown.
+- **A codified sourcing rule is not a switch that produces trades — it's a filter that waits for the market to offer the right shape.** Room-to-target's first week yielded nothing because the market simply didn't present an early-stage / fresh-breakout / pullback-to-rising-20d setup. That is the rule working (it refused to relabel over-extended ETFs as tradeable), not failing — but it means the idle streak can persist until the *market* offers room, which no rule can manufacture.
+- **Defensive rotation that arrives already-extended is not an entry.** XLP/XLU going 5/5 and 4/5 at their 20d highs is late-cycle confirmation, not a fresh base; buying defensives pinned at resistance is the same breakout-air trade as buying semis there. Wait for a pullback to the rising 20d, not the confirmation candle.
+- **Five weeks of clean process, one real trade, capital preserved through a down week — survival is fully intact; the constraint is entirely the tape, not the rules.** No hard rule has been violated or has failed; the market has not offered a setup that clears catalyst + quant + 2:1 R:R with room. The job remains sourcing, not relaxing the gate.
+
+### Adjustments for Next Week
+- **Keep sourcing for room-to-target — and specifically hunt pullbacks, not breakouts.** With leaders pinned at their 20d highs for 5+ weeks, the qualifying setup is far more likely to be a *pullback to a rising 20d with air overhead* than a fresh high-break. Prioritize names retracing to support in an uptrend (2R target sits below the next resistance) over anything already at its high.
+- **If mega-cap tech's Friday crack extends into a confirmed downtrend, scan the inverse sleeve.** Regime held risk_on this week (SPY > rising 50d), so SQQQ/SH stayed un-sanctioned — correctly. But if SPY loses a rising 50d on the semi/AI-valuation unwind, a *confirmed* broad downtrend is the catalyst for the downside sleeve; don't sit in cash through a clean risk-off trend.
+- **Regime gate first Monday:** SPY ~751 > rising 50d (~744) = risk_on but with deteriorating internals (semis dumping, defensives bid). Trade long normally only if a real pullback-setup clears; watch for a 50d loss that would flip the scan to inverse candidates.
+- **Don't force a trade to break the streak.** Full $1,068.31 buying power, 0/3 weekly trades, heat 0%, drawdown −1.90%. Add ONE name only if it clears catalyst + 3/5 quant + 2:1 R:R + allowing regime; zero remains valid — this week's down tape is fresh proof that forcing a semi entry at resistance would have lost money.
+
+### Strategy File Changes
+- **None this week.** Last week's room-to-target sourcing refinement is only one week old — amending or strengthening it now would be churning a rule on a single week of data, exactly what STEP 5 warns against. The hard risk rules (3% risk, 2×ATR stop, 2:1 minimum, heat/sleeve caps, regime gate) were not merely respected but *rewarded* — 100% cash beat a −1.6% tape led by the names the R:R gate kept refusing. The five-week idle streak is a **market/sourcing condition, not a rule failure**: the rules keep vetoing correctly and this week the veto avoided a real loss. Will re-evaluate the room-to-target rule's effectiveness after it has had 2–3 weeks to either produce a qualifying pullback setup or demonstrably keep missing them.
+
+### Overall Grade: B−
+*(Process A — every risk rule respected a fifth week, and for the first time this phase the discipline was directly rewarded: 100% cash beat a −1.6% down tape led by the exact semis the R:R gate kept refusing at their 20d highs. Result still zero compounding (fifth flat week, third zero-trade week, 20 sessions idle), which caps the grade — but avoiding a down week while fully preserving capital is a materially better outcome than the prior four "flat vs an up tape" weeks. Survival fully intact; the constraint is a tape that keeps offering only over-extended names, which no rule can fix — only patience for a pullback with room can.)*
