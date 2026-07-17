@@ -13,6 +13,32 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-17 — Scorecard (prior session 2026-07-16)
+
+**Our picks:**
+- XLE (ETF) — decision **REJECTED** (5/5 quant but R:R fails 2:1, 0.36R under 20d high) — actual 1d Jul-16 **+0.94%** ($57.01 vs $56.48) — verdict **correct** (drifted up, no breakout run; the R:R-at-highs read held).
+- PYPL (stock) — decision **REJECTED** (over-extended +16% earnings gap, not chased) — actual 1d Jul-16 **+2.22%** ($56.75 vs $55.52) — verdict **correct** (based higher but no chase-able retest; not-extended block was right — no blow-off unwind, but no clean entry either).
+- NVDA (stock) — decision **REJECTED** (R:R fails 2:1 at 20d high, volume fading) — actual 1d Jul-16 **−2.37%** ($207.46 vs $212.50) — verdict **dodged-loss** (faded off the $213.98 high exactly as the "don't buy resistance" call flagged).
+
+**Day's top tradeable gainers (Jul-16, ≥$5, no warrants/units/rights):**
+- CDNA +35.6% ($40.34) — CareDx, transplant-diagnostics — gapped open $35.98 from $29.75, event spike — skip (gap)
+- VEEE +36.1% ($36.18) — Twin Vee PowerCats boat-maker — recurring pump — skip
+- ATAI +33.4% ($7.15) — Atai, **Eli Lilly to buy for up to $3.8B** (psychedelics M&A) — buyout, pinned to deal price (arb-only), gapped — skip
+- MAN +32.4% ($51.65) — ManpowerGroup staffing — huge one-day gap (open $46.99 from $39.00), event/buyout-type — skip (gap)
+- BEZ +28.3% / NBIZ +28.2% / SKDD +26.6% / MAAS +26.4% — small-cap spikes, gapped — skip
+- (NVVE −61% $8.38 the notable liquid loser; ASTx cluster −34% en masse)
+
+**Best realistic miss:** None tradeable. Every Jul-16 gainer was a gap: ATAI is an M&A buyout (Lilly $3.8B — pins to deal price, arb-only, not a swing), MAN/CDNA gapped 30%+ open (blow-off, un-tradeable pre-move), VEEE the recurring boat-maker pump. No liquid large-cap offered a durable catalyst AND a quant base at tradeable R:R. 13th straight session of the same screen.
+
+**Lessons:**
+- **Mega-cap catalysts keep arriving as gaps, not setups.** ATAI's Lilly buyout and MAN's +32% gap are exactly the events the rules can't trade — a buyout pins the stock to the deal (arb spread only), and a 30%+ gap open leaves nothing to enter pre-move. Not a miss, a non-trade.
+- **The R:R-2:1 gate paid again, hard.** NVDA rejected at its $213.98 20d high, then faded −2.37% the next day. Buying "the cleanest 4/5" at resistance would have bought the drop. Dodged-loss.
+- **Defensives quietly rotated to leadership as mega-cap tech cracked.** XLP (staples) is a 5/5 today and XLU (utilities) a 4/5, while Alphabet −4.44% / Meta −2.46% pull Comm-Services down premarket. But XLP/XLU are both pinned within 0.05–0.66R of their 20d highs → 2R in air, R:R still fails. The rotation is real; the entry timing isn't.
+
+**Rolling 7d:** recurring leading sectors = Energy (XLE 3/5, weekly leader, oil firm) + defensives firming (XLP 5/5, XLU 4/5) as Comm-Services/mega-cap tech pulls back; AI/semi choppy (NVDA 4/5 but fading off highs). Laggards = Financials YTD, Comm-Services (Alphabet/Meta down today). Recurring miss pattern = confirmed leaders jam at/near their 20d highs → 2R lands in unproven air, R:R never clears (13th straight session); fresh catalysts arrive as M&A/earnings gaps too extended to chase (ATAI buyout, MAN/CDNA +30% gaps) or micro-cap pumps (VEEE). Fix unchanged = demand a break-with-room or a pullback-to-20d entry — never chase resistance or a gap.
+
+---
+
 ## 2026-07-16 — Scorecard (prior session 2026-07-15)
 
 **Our picks:**

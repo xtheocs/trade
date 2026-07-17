@@ -708,3 +708,36 @@ TRADE or HOLD (default HOLD if no edge)
 **HOLD** — 12th straight no-trade session. Regime risk_on and Energy is now a clean 5/5, but every confirmed leader still jams at/under its 20d high (XLE 0.36R, NVDA 0.21R) so 2R lands in unproven air; PYPL's fresh catalyst is a +16% gap too extended to chase. No break-with-room or pullback-to-20d entry available today. Capital stays intact; watch XLE > $57.22 with room, PYPL basing after the gap, or NVDA clearing $213.98.
 
 ---
+
+## 2026-07-17 — Pre-market
+
+### Account
+- Equity: $1,068.31 / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak ($1,089.01): −1.90% — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **risk_on** (SPY 750.87 > rising 50-day SMA 743.95)
+
+### Market Context
+- Leading sectors: Energy (weekly leader, +5.78% prior wk, oil firm) + **defensives rotating up** (Staples XLP 5/5, Utilities XLU 4/5); Tech/Capital-Goods YTD leaders
+- Laggards / today: **mega-cap tech + Comm-Services cracking premarket** — Alphabet −4.44%, Meta −2.46% (MSFT +1.38%); Nasdaq-100 futures soft; Financials YTD laggard
+- Catalysts of the day: **ATAI** — Eli Lilly to buy Atai for up to $3.8B (psychedelics M&A); **MAN** +32% & **CDNA** +36% event gaps — all buyout/gap plays, not swing setups
+- Econ calendar: mid-month, no first-tier print flagged (post-CPI/PPI week)
+
+### Candidates (catalyst + quant checked — all confirmed ≥3/5 but fail R:R filter)
+- **XLP** (Staples ETF) — catalyst: defensive rotation as mega-cap tech cracks — quant **5/5** (only all-pass name; last $85.81, sma20 $83.98 rising, ret_10d +3.0%, ATR $1.38, risk/sh $2.75, stop $83.06, hi_20d $85.945) — **R:R fails 2:1**: pinned 0.05R under its 20d high, 2R target $91.32 (+6.4%) is unproven air above resistance.
+- **XLE** (Energy ETF) — catalyst: energy weekly leadership, oil firm — quant **3/5** (fails volume 0.89×, not_extended; last $57.01, hi_20d $57.30, risk/sh $2.02) — **R:R fails 2:1**: 0.14R under 20d high, 2R = $61.04 (+7.1%) air.
+- **NVDA** (stock) — catalyst: AI/semi — quant **4/5** (fails volume 0.87×; last $207.46, sma20 $202.15, hi_20d $213.98, risk/sh $13.88) — **R:R fails 2:1** + faded −2.37% off its high yesterday; tech selling off today. 2R = $235.22 (+13.4%) air above the high.
+- **XLU** (Utilities ETF) — quant **4/5** (fails volume 0.66×; last $45.47, hi_20d $46.31, risk/sh $1.28) — **R:R fails 2:1**: 0.66R under high, 2R = $48.03 (+5.6%) air; defensive laggard, RS barely positive (0.0088).
+- **XLF** (Financials ETF) — quant **3/5** (fails volume 0.79×, not_extended; last $56.75, hi_20d $56.835, risk/sh $1.48) — **R:R fails 2:1**: pinned 0.06R under its 20d high; Financials YTD laggard.
+
+### Rejected
+- All five confirmers above — R:R fails 2:1 (every name jams at/near its 20d high → 2R lands in unproven breakout air).
+- ATAI — Lilly $3.8B buyout, pinned to deal price (arb-only, not a swing); gapped.
+- MAN / CDNA / BEZ / NBIZ / SKDD / MAAS — event/gap spikes (30%+ gap opens), un-tradeable pre-move / no quant base.
+- VEEE — recurring boat-maker pump (liquidity/blow-off).
+- Inverse sleeve (SQQQ/SH) — regime risk_on; not sanctioned.
+
+### Decision
+**HOLD** — 13th straight no-trade session. Regime risk_on; the notable shift is a defensive rotation (Staples XLP now a clean 5/5, Utilities XLU 4/5) as mega-cap tech/Comm-Services crack premarket (Alphabet −4.44%, Meta −2.46%). But the recurring wall holds: every confirmed name is pinned at/near its 20d high, so 2R lands in unproven air and R:R fails 2:1 — XLP 0.05R under its high (2R +6.4% air), XLE 0.14R (2R +7.1%), NVDA faded −2.37% off its high (2R +13.4%). Today's fresh large-cap catalysts (ATAI/Lilly buyout, MAN/CDNA +30% gaps) are buyout/gap events the rules can't trade. No break-with-room or pullback-to-20d entry available. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: XLP/XLE breaking their highs with room, or NVDA pulling back to its rising ~$202 20d.
