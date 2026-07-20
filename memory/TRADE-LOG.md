@@ -379,3 +379,10 @@ drawdown are measured from here.
 | (none — 100% cash) | | | | | | |
 
 **Notes:** Fourteenth straight no-trade day. Account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Pre-market rejected XLP (5/5 clean confirm but R:R fails 2:1, only 0.05R under 20d high), XLE (3/5, fails volume, 0.14R under high), NVDA (4/5, fails volume, faded −2.37% off high), XLU (4/5, fails volume, R:R fails), and XLF (3/5, fails volume plus extension). Defensive rotation building in XLP/XLU as mega-cap tech cracked premarket, but nothing cleared the entry filter. Midday scan was a no-op. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Jul 13–17 all no-trade). Fifteen trading days now since the SMH time-stop exit (Jun 26) with zero new positions — discipline holding, capital fully idle. Next week: pre-market rescans with full $1,068.31 buying power, watching whether the defensive rotation (XLP/XLU) firms into a clean setup or mega-cap tech's premarket crack becomes a broader risk-off catalyst.
+
+---
+
+### Jul 20 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (XLE 4/5 but 2.79 ATR extended, R:R fails; XOP 3/5 fails volume+extension; DPZ 5/5 pre-gap but +7.4% earnings gap opens above 20d high, chasing; MU/AMD/NVDA counter-trend bounce inside a semi bear market — not sanctioned). Weekly trades used: 0/3.
