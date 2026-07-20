@@ -13,6 +13,31 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-20 — Scorecard (prior session 2026-07-17)
+
+**Our picks:**
+- XLP (ETF) — decision **REJECTED** (5/5 but R:R fails, 0.05R under 20d high) — actual 1d Jul-17 **−0.71%** ($85.20 vs $85.81) — verdict **correct** (defensive rotation stalled, drifted down; R:R-at-highs read held).
+- XLE (ETF) — decision **REJECTED** (3/5, fails volume, 0.14R under 20d high) — actual 1d Jul-17 **+1.18%** ($57.68 vs $57.01) — verdict **the break finally arrived** — XLE cleared its $57.30 20d high intraday, the energy breakout we'd flagged for weeks. Not chase-able pre-market that day (jammed under the high at the run), but the leadership played out.
+- NVDA (stock) — decision **REJECTED** (R:R fails at 20d high, volume fading) — actual 1d Jul-17 **−2.25%** ($202.80 vs $207.46) — verdict **dodged-loss** (faded again off the $213.98 high; semis rolling into a bear market).
+- XLU (ETF) — decision **REJECTED** (4/5, fails volume, R:R fails) — actual 1d Jul-17 **−0.70%** ($45.15 vs $45.47) — verdict **correct** (defensive laggard, sold off with tech).
+- XLF (ETF) — decision **REJECTED** (3/5, fails volume+extension) — actual 1d Jul-17 **−0.88%** ($56.25 vs $56.75) — verdict **correct** (YTD laggard offered nothing).
+
+**Day's top tradeable gainers (Jul-17, ≥$5, no warrants/units/rights):**
+- SHOT +2408% ($9.83) — extreme low-float pump, un-tradeable — skip
+- SDOT +77% ($25.30) — Sadot Group micro-cap spike — skip
+- (BIYA/SLND/CJMB and the rest sub-$5 or warrants; QMLS −33% $14.28 / ISUL −29% $12.27 the notable liquid losers)
+
+**Best realistic miss:** XLE — the persistent energy leader we'd flagged for ~3 weeks finally broke its $57.30 20d high on Jul-17 (+1.18%, closed $57.68). Honest read: it jammed 0.14R under the high at that morning's pre-market run, so it wasn't surfaceable *that* pre-market — the break happened intraday. But it's the closest thing to a real miss all month, and the lesson is that endlessly deprioritizing the strongest-catalyst leader on "R:R at the old high" risks never owning the eventual break. Tension: by Jul-20 XLE is now 2.79 ATR above its 20d = over-extended, so the clean window (the break itself) has already passed.
+
+**Lessons:**
+- **The energy break we waited weeks for finally printed — and we still couldn't enter it.** XLE cleared $57.30 intraday Jul-17; by Monday it's 2.79 ATR extended, 2R in air. The break was the entry, and a pre-market routine that only sees prior-close data can't buy an intraday breakout. Fix: when a top-catalyst leader is coiled 0.1–0.2R under its 20d high, treat a *confirmed* break with room as buyable on the next open — don't re-reject it as "at highs" once the break is real (but respect not_extended: a 3-ATR-extended chase is still a chase).
+- **NVDA's third fade validated the semis-bear-market read.** Rejected at resistance Jul-16 and Jul-17, faded both times; SOX now >20% off its June peak. Counter-trend semi bounces (MU +4.6% premarket today) are not swing longs while the sector's 20d is falling.
+- **Movers list stayed pure junk.** Jul-17's gainers were a +2408% pump (SHOT) and micro-cap spikes — zero durable large-cap catalysts with a quant base. Nothing to learn from noise.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE broke out Jul-17, oil +~5% on Mideast risk; XOP/energy the cleanest theme) + defensives (Staples/Utilities firmed then faded Fri); **Info-Tech/semis now in a technical bear market** (SOX >20% off peak — rotation *out* of tech). Laggards = Semis, Financials, Utilities (Fri). Recurring miss pattern = confirmed leaders jam 0.05–0.2R under their 20d high → 2R lands in unproven air, R:R fails; when the break finally comes it prints intraday (XLE) and by the next open the name is 2–3 ATR extended (chase). Fresh catalysts keep arriving as earnings gaps too extended to chase (DPZ +7% today, PYPL +16% last wk) or penny/M&A spikes. Fix = demand break-with-room *or* pullback-to-20d; act on a confirmed break the next open before it extends, never chase the gap.
+
+---
+
 ## 2026-07-17 — Scorecard (prior session 2026-07-16)
 
 **Our picks:**

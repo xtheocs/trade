@@ -741,3 +741,36 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 13th straight no-trade session. Regime risk_on; the notable shift is a defensive rotation (Staples XLP now a clean 5/5, Utilities XLU 4/5) as mega-cap tech/Comm-Services crack premarket (Alphabet −4.44%, Meta −2.46%). But the recurring wall holds: every confirmed name is pinned at/near its 20d high, so 2R lands in unproven air and R:R fails 2:1 — XLP 0.05R under its high (2R +6.4% air), XLE 0.14R (2R +7.1%), NVDA faded −2.37% off its high (2R +13.4%). Today's fresh large-cap catalysts (ATAI/Lilly buyout, MAN/CDNA +30% gaps) are buyout/gap events the rules can't trade. No break-with-room or pullback-to-20d entry available. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: XLP/XLE breaking their highs with room, or NVDA pulling back to its rising ~$202 20d.
+
+---
+
+## 2026-07-20 — Pre-market
+
+### Account
+- Equity: $1,068.31 / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak ($1,089.01): −1.90% — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 (new week) / Daytrade count: 0
+
+### Regime
+- Equity: **neutral** (SPY 743.28 < 50-day SMA 744.345, SMA still rising) → half size, best setups only
+
+### Market Context
+- Leading sectors: **Energy** (sole clean leader — oil +~5% on Mideast/Strait risk; XLE broke its 20d high Fri) + defensives (Staples/Real Estate); Transport
+- Laggards: **Info-Tech / Semiconductors in a technical bear market** (SOX >20% off June peak — rotation *out* of AI/tech on monetization skepticism); Utilities faded Fri
+- Catalysts of the day: **DPZ** Q2 earnings beat → +7.4% gap premarket; GPC +5.3%, CAH +4.8% (earnings); MU +4.6% / AMD +3.1% (semi counter-trend bounce)
+- Econ calendar: none today. Next FOMC Jul 29. Q2 earnings accelerating this week
+
+### Candidates (catalyst + quant checked — all confirmed ≥3/5 but fail entry filter)
+- **XLE** (sector ETF) — catalyst: energy leadership, oil firm — quant **4/5** (fails not_extended; last $57.68, sma20 $54.74 rising, ret_10d +8.3%, ATR $1.05, risk/sh $2.11, stop $55.57, hi_20d $58.115) — **rejected**: now **2.79 ATR above its 20d** (chasing the breakout run); entry 0.21R under $58.115 high, 2R target $61.90 (+7.3%) lands in unproven air. The clean entry was Fri's intraday break — window passed.
+- **XOP** (oil E&P ETF) — catalyst: same energy theme — quant **3/5** (fails volume 0.91×, not_extended; last $170.26, sma20 $158.40, hi_20d $170.80, risk/sh $7.42) — **rejected**: 3.2 ATR extended, 0.15R under 20d high, 2R in air.
+- **DPZ** (stock) — catalyst: Q2 beat — quant **5/5** on Fri's *pre-gap* close ($322.18, sma20 $303.58, ATR $10.58, risk/sh $21.16, hi_20d $335.16) — **rejected**: +7.4% earnings gap opens ~$346, **above** the $335 20d high → chasing the gap, over-extended on the open, 2R ($388, +12%) in pure air. Same PYPL pattern (don't chase earnings gaps).
+
+### Rejected
+- XLE / XOP — over-extended (2.8–3.2 ATR above 20d) + R:R fails 2:1 (2R in breakout air)
+- DPZ / GPC / CAH — earnings gaps opening above their highs; chase-only, 2R in air
+- MU / AMD / NVDA — semiconductors in a bear market (20d falling, SOX >20% off peak); counter-trend bounce, not a swing long
+- SHOT/SDOT/BIYA/SLND/CJMB — penny/micro-cap pumps (liquidity/blow-off)
+- Inverse sleeve (SQQQ/SH) — regime neutral, not risk-off; not sanctioned
+
+### Decision
+**HOLD** — 15th straight no-trade session. Regime neutral (SPY just under its rising 50d → half size, best setups only). The energy breakout we tracked for weeks finally printed Fri (XLE cleared $57.30), but by today XLE/XOP are 2.8–3.2 ATR extended — the entry was the intraday break, not the chase. Today's fresh large-cap catalysts (DPZ/GPC/CAH) are earnings gaps opening above their highs (2R in air), and semis (MU/AMD/NVDA) are bouncing counter-trend inside a bear market. No break-with-room or pullback-to-20d entry available. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: XLE/XOP pulling back toward their rising 20d for a re-entry with room; DPZ basing after the gap.
