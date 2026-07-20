@@ -386,3 +386,14 @@ drawdown are measured from here.
 **Positions:** None. 0 orders live.
 **Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (XLE 4/5 but 2.79 ATR extended, R:R fails; XOP 3/5 fails volume+extension; DPZ 5/5 pre-gap but +7.4% earnings gap opens above 20d high, chasing; MU/AMD/NVDA counter-trend bounce inside a semi bear market — not sanctioned). Weekly trades used: 0/3.
+
+---
+
+### Jul 20 — EOD Snapshot (Day 27, Monday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** Sixteenth straight no-trade day, first day of a fresh week (0/3 used). Account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Pre-market rejected XLE (4/5 but 2.79 ATR extended, R:R fails), XOP (3/5, fails volume plus extension), and DPZ (5/5 pre-gap but +7.4% earnings gap opening above the 20d high — chasing); the MU/AMD/NVDA counter-trend bounce inside a broader semi bear market was not sanctioned. Midday scan was a no-op. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3. Sixteen trading days now since the SMH time-stop exit (Jun 26) with zero new positions — discipline holding, capital fully idle. Tomorrow: pre-market rescans with full $1,068.31 buying power, watching whether semis stabilize enough to sanction a counter-trend entry or the defensive rotation (XLP/XLU) firms into a clean setup.
