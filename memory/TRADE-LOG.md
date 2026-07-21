@@ -386,3 +386,10 @@ drawdown are measured from here.
 **Positions:** None. 0 orders live.
 **Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (XLE 4/5 but 2.79 ATR extended, R:R fails; XOP 3/5 fails volume+extension; DPZ 5/5 pre-gap but +7.4% earnings gap opens above 20d high, chasing; MU/AMD/NVDA counter-trend bounce inside a semi bear market — not sanctioned). Weekly trades used: 0/3.
+
+---
+
+### Jul 21 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (XOP 4/5 but 2.88 ATR extended, R:R fails; SHOP 4/5 fails volume, R:R fails; XLE 3/5 fails volume+extension; NVDA 3/5 counter-trend inside semi downtrend — not sanctioned). Weekly trades used: 0/3.
