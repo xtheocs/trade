@@ -13,6 +13,31 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-21 — Scorecard (prior session 2026-07-20)
+
+**Our picks:**
+- XLE (ETF) — decision **REJECTED** (over-extended 2.79 ATR, R:R fails) — actual 1d Jul-20 **+0.48%** ($57.955 vs $57.68) — verdict **correct** (drifted up marginally, no breakout run; still 2.83 ATR extended today, entry window was the Jul-17 break).
+- XOP (ETF) — decision **REJECTED** (over-extended 3.2 ATR, R:R fails) — actual 1d Jul-20 **−0.14%** ($170.03 vs $170.26) — verdict **correct** (flat; the extended-chase read held).
+- DPZ (stock) — decision **REJECTED** (don't chase the +7.4% earnings gap) — actual 1d Jul-20 opened **$342.75** then closed **$329.15** (prior close $322.18) — verdict **dodged-loss**: the gap open faded −4.0% intraday to $329; buying the open would have bought the top.
+
+**Day's top tradeable gainers (Jul-20, ≥$5, no warrants/units/rights):**
+- ZYBT +1047% ($8.01) — extreme low-float pump — skip
+- ADVB +77% ($8.90) — Advanced Biomed micro-cap spike — skip
+- IREC/IREG/IRE/IREX +39% ($9–$26) — a multi-share-class ticker *family* all spiking together (structured listing/SPAC event, not a durable catalyst) — skip
+- ACHX +39% ($30.43) / ARCX +38% ($12.68) / CIFG-CIFC-CIFU +34% ($8–$21) — same multi-class cluster pattern — skip
+- LVLU +32% ($16.62), NUAI +26% ($5.15) — micro-cap spikes — skip
+
+**Best realistic miss:** None tradeable. Every Jul-20 gainer was a micro-cap pump or a multi-share-class listing cluster (IRE*/CIF*/ACH*) with no durable catalyst and no quant base. The real large-cap movers (DPZ gap, energy leaders) we analyzed correctly and rejected on rules. 16th straight session of the same junk screen.
+
+**Lessons:**
+- **Perplexity's "AI/semis recovering" narrative is NOT confirmed by the tape.** Headlines had NVDA/AVGO surging on "AWS capex," but Alpaca bars show semis still in a downtrend: NVDA sma20 *falling* (3/5, counter-trend), AVGO 2/5, SMH 1/5 (last $558 vs $606 sma20), SOXL −29.6% 10d, XLK 1/5. The recovery is stretched-valuation *hope*, not price. Trust the tape — this is exactly why every number comes from Alpaca, never Perplexity.
+- **Energy leaders remain over-extended, and oil is now easing.** XLE 2.83 ATR / XOP 2.88 ATR above their 20d; the entry was the mid-July break, long passed. Oil trending lower (Energy now a *weekly* laggard despite YTD lead) — no pullback-to-20d re-entry yet.
+- **SHOP was the only fresh clean-trend name (4/5, sma20 rising, not extended) but still un-buyable**: volume 0.70× (no participation behind the layoff "catalyst" — a cost cut, not demand) and 0.54R under its 20d high, so 2R lands +12% in breakout air. Same R:R-at-highs wall.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (YTD leader, XLE broke out Jul-17 but now 2.8+ ATR extended and fading weekly as oil eases) ; **Tech/semis lead the *narrative* but the tape disagrees** — NVDA counter-trend, SMH/SOXL/XLK 1/5 on Alpaca (headline-vs-price divergence to distrust). Laggards = Semis, Financials, Utilities, Staples (faded). Recurring miss pattern = confirmed leaders are either **over-extended** (energy 2.8+ ATR chases) or **pinned 0.1–0.5R under their 20d high** with 2R in unproven air (SHOP, NVDA, XLP prior wk); fresh catalysts keep arriving as earnings gaps too extended to chase (DPZ +7%) or micro-cap/multi-class listing pumps. Fix = demand break-with-room *or* pullback-to-20d, act on a confirmed break the next open before it extends, never chase; and never let a bullish headline override a weak Alpaca quant read.
+
+---
+
 ## 2026-07-20 — Scorecard (prior session 2026-07-17)
 
 **Our picks:**

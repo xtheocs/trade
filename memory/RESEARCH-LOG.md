@@ -774,3 +774,38 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 15th straight no-trade session. Regime neutral (SPY just under its rising 50d → half size, best setups only). The energy breakout we tracked for weeks finally printed Fri (XLE cleared $57.30), but by today XLE/XOP are 2.8–3.2 ATR extended — the entry was the intraday break, not the chase. Today's fresh large-cap catalysts (DPZ/GPC/CAH) are earnings gaps opening above their highs (2R in air), and semis (MU/AMD/NVDA) are bouncing counter-trend inside a bear market. No break-with-room or pullback-to-20d entry available. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: XLE/XOP pulling back toward their rising 20d for a re-entry with room; DPZ basing after the gap.
+
+---
+
+## 2026-07-21 — Pre-market
+
+### Account
+- Equity: $1,068.31 / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak ($1,089.01): −1.90% — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 (new week) / Daytrade count: 0
+
+### Regime
+- Equity: **neutral** (SPY 742.15 < 50-day SMA 744.51, SMA still rising) → half size, best setups only
+
+### Market Context
+- Leading sectors: **Energy** (YTD leader but now a *weekly laggard* as oil eases — WTI ~$82, Brent ~$88, both softening on US-Iran diplomacy); Tech/semis lead the *headlines* (AWS-capex "AI recovery") but NOT the tape
+- Laggards / weak on Alpaca: **Semis** (SMH 1/5, SOXL −29.6% 10d, XLK 1/5, NVDA sma20 falling) — the "recovery" narrative is stretched-valuation hope, price still in a downtrend
+- Catalysts of the day: NVDA/AVGO AWS-capex chatter; TSLA-Panasonic battery contract; SHOP 8% layoffs (cost cut); LLY −4% (failed GLP-1 trial). Alphabet earnings Wed Jul-22
+- Macro: VIX ~18.6 (calm). No econ release today (FOMC was Jul 19–20). Q2 earnings accelerating
+
+### Candidates (catalyst + quant checked — all confirmed ≥3/5 but fail the entry filter)
+- **XOP** (oil E&P ETF) — catalyst: energy YTD leadership — quant **4/5** (fails not_extended; last $170.03, sma20 $159.23 rising, ret_10d +10.4%, ATR $3.76, risk/sh $7.51, stop $162.52, hi_20d $171.92) — **rejected**: 2.88 ATR above its 20d (chasing), 0.25R under the high, 2R target $185.05 (+8.8%) in unproven air; oil now easing.
+- **SHOP** (stock) — catalyst: restructuring/8% layoffs (margin-expansion signal) — quant **4/5** (fails volume 0.70×; last $124.52, sma20 $119.08 rising, ret_10d +3.6%, ATR $5.67, risk/sh $11.33, stop $113.18, hi_20d $130.63) — **rejected**: no volume behind a cost-cut "catalyst", 0.54R under its 20d high → 2R target $147.18 (+18%) lands in breakout air; R:R fails 2:1.
+- **XLE** (sector ETF) — catalyst: energy leadership — quant **3/5** (fails volume 0.79×, not_extended; last $57.955, hi_20d $58.38, risk/sh $2.13) — **rejected**: 2.83 ATR extended, 2R = $62.22 (+7.3%) air. Entry was the Jul-17 break.
+- **NVDA** (stock) — catalyst: AI/AWS-capex headlines — quant **3/5** (trend false/sma20 falling, fails volume 0.76×; last $203.33, hi_20d $213.98, risk/sh $14.44) — **rejected**: counter-trend inside a semi downtrend (faded off $213.98 twice), 2R = $232.21 (+14%) air.
+
+### Rejected
+- XOP / XLE — over-extended (2.8–2.9 ATR above 20d) + R:R fails 2:1 (2R in breakout air); oil easing
+- SHOP — volume-less cost-cut catalyst, 2R in air above its 20d high
+- NVDA / AVGO / SMH / SOXL / XLK — semis still in a downtrend on Alpaca (AVGO 2/5, SMH/SOXL/XLK 1/5, NVDA counter-trend 3/5); headline "recovery" not confirmed by price
+- TSLA (2/5, sma20 falling), LLY (−4% failed trial) — no setup
+- ZYBT/ADVB/IRE*/CIF*/ACH*/LVLU/NUAI — micro-cap pumps & multi-share-class listing clusters (un-tradeable)
+- Inverse sleeve (SQQQ/SH) — regime neutral, not risk-off; not sanctioned
+
+### Decision
+**HOLD** — 16th straight no-trade session. Regime neutral (SPY $742.15 just under its rising 50d → half size, best setups only). The same recurring wall holds: energy leaders (XLE/XOP) are 2.8–2.9 ATR over-extended with oil now easing (the break was mid-July, window passed), and the day's bullish AI/semi headlines are flatly contradicted by Alpaca — NVDA counter-trend (sma20 falling), SMH/SOXL/XLK 1/5, so no sanctioned tech long. SHOP was the one fresh clean-trend name (4/5, sma20 rising, not extended) but has no volume behind a cost-cut catalyst and sits 0.54R under its 20d high → 2R in air, R:R fails 2:1. No break-with-room or pullback-to-20d entry available. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: XLE/XOP pulling back toward their rising 20d for re-entry with room; SHOP breaking $130.63 on real volume; semis actually turning up on the tape, not just in headlines.
