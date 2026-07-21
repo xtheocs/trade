@@ -393,3 +393,14 @@ drawdown are measured from here.
 **Positions:** None. 0 orders live.
 **Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (XOP 4/5 but 2.88 ATR extended, R:R fails; SHOP 4/5 fails volume, R:R fails; XLE 3/5 fails volume+extension; NVDA 3/5 counter-trend inside semi downtrend — not sanctioned). Weekly trades used: 0/3.
+
+---
+
+### Jul 21 — EOD Snapshot (Day 28, Tuesday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** Sixteenth straight no-trade day. Account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. (Note: no EOD snapshot routine ran Jul 20; Jul 20's midday scan already confirmed 100% cash/no positions at $1,068.31, so no equity movement was missed.) Pre-market rejected XOP (4/5 but 2.88 ATR extended, R:R fails), SHOP (4/5, fails volume, R:R fails), XLE (3/5, fails volume plus extension), and NVDA (3/5, counter-trend bounce inside a semi bear market — not sanctioned). Midday scan was a no-op. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Jul 20–21 all no-trade). Seventeen trading days now since the SMH time-stop exit (Jun 26) with zero new positions — discipline holding, capital fully idle. Tomorrow: pre-market rescans with full $1,068.31 buying power, watching for setups that clear both quant confirmation and the 2:1 R:R filter.
