@@ -809,3 +809,39 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 16th straight no-trade session. Regime neutral (SPY $742.15 just under its rising 50d → half size, best setups only). The same recurring wall holds: energy leaders (XLE/XOP) are 2.8–2.9 ATR over-extended with oil now easing (the break was mid-July, window passed), and the day's bullish AI/semi headlines are flatly contradicted by Alpaca — NVDA counter-trend (sma20 falling), SMH/SOXL/XLK 1/5, so no sanctioned tech long. SHOP was the one fresh clean-trend name (4/5, sma20 rising, not extended) but has no volume behind a cost-cut catalyst and sits 0.54R under its 20d high → 2R in air, R:R fails 2:1. No break-with-room or pullback-to-20d entry available. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: XLE/XOP pulling back toward their rising 20d for re-entry with room; SHOP breaking $130.63 on real volume; semis actually turning up on the tape, not just in headlines.
+
+---
+
+## 2026-07-22 — Pre-market
+
+### Account
+- Equity: $1,068.31 / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak ($1,089.01): −1.90% — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 (new week) / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY 748.16 > 50-day SMA 744.85, SMA rising) → full size allowed. First risk_on read after ~2 weeks neutral — SPY reclaimed its rising 50d.
+
+### Market Context
+- Leading sectors: **Info-Tech / Semis recovering** (Reuters "chips roar back", NVDA 3rd up day) + **Energy** (XLE/XOP at new 20d highs, still extended) + **Industrials** (MMM/GM earnings strength)
+- Laggards (daily): Real Estate −2.2%, Financials −0.6%
+- Catalysts of the day: **MMM** +9% beat-and-raise (China sales, dividend); **GM** beat ($3.57 vs $3.20) + raised FY guidance; **DHR** −11% soft Q3 guide; **Nebius/NBIS** +18.8% (NVDA discloses 9.3% stake); **SMCI** +17% premarket; **TGT** raised outlook. **TSLA & GOOGL earnings after close today; IBM before open** — binary tech events tonight.
+- Macro: VIX ~18.2 (calm). S&P futures −0.3% premarket (chip caution ahead of Big Tech earnings). No major econ release. FOMC was Jul 19–20; next Jul 29.
+
+### Candidates (catalyst + quant checked — all confirmed ≥3/5 but fail the entry filter)
+- **MMM** (stock) — catalyst: 9% beat-and-raise, huge volume — quant **4/5** (fails not_extended; last $170.72, sma20 $160.79 rising, ret_10d +8.1%, ATR $4.47, risk/sh $8.94, stop $161.78, hi_20d $176.11, vol 4.02×) — **rejected**: 2.22 ATR extended after the gap, trades *above* consensus analyst target; entry 0.60R under $176.11 high, 2R target $188.6 (+10.5%) lands in air. Don't chase the earnings gap.
+- **GM** (stock) — catalyst: Q2 beat + raised FY guidance — quant **4/5** (fails trend, sma20 not rising; last $79.56, sma20 $77.27, ret_10d +4.7%, ATR $2.03, risk/sh $4.06, stop $75.50, hi_20d $80.55, vol 2.02×) — **rejected**: pinned 0.24R under its 20d high, sma20 flat (recovery bounce, not established uptrend), 2R target $87.67 (+10.2%) in breakout air. R:R fails 2:1.
+- **XLE** (sector ETF) — catalyst: energy leadership — quant **3/5** (fails volume 0.74×, not_extended; last $58.52 = new 20d high $58.53, risk/sh $2.08) — **rejected**: 3.22 ATR extended, 2R = $62.69 (+7.1%) air. Chronic chase.
+- **XOP** (oil E&P ETF) — catalyst: same energy theme — quant **3/5** (fails volume 0.78×, not_extended; last $173.79 = new high $173.84, risk/sh $7.64) — **rejected**: 3.57 ATR extended, 2R = $189.06 (+8.8%) air.
+- **NVDA** (stock) — catalyst: chips roaring back / Nebius-stake halo — quant **3/5** (fails trend sma20 falling, volume 0.67×; last $207.24, sma20 $201.63 falling, hi_20d $213.78, risk/sh $14.38, stop $192.87) — **rejected**: counter-trend bounce (sma20 still falling), no volume behind the 3-day pop, 0.45R under 20d high, 2R = $235.99 (+13.9%) air. Also TSLA/GOOGL earnings tonight = whipsaw risk on semis.
+
+### Rejected
+- MMM / GM — confirmed 4/5 but pinned at/under 20d highs (2R in air); MMM also 2.2 ATR extended, above analyst PT
+- XLE / XOP — over-extended (3.2–3.6 ATR above 20d), 2R in breakout air
+- NVDA — counter-trend (sma20 falling), volume-less bounce, 2R in air, earnings whipsaw risk tonight
+- SMH 2/5, SOXL 2/5, SMCI 1/5, QQQ 1/5 — semis ETFs / broad Nasdaq still below falling 20d, not confirmed
+- Nebius cluster (NBIL/NBIG/NEBX) — multi-class listing spike on NVDA stake, no quant base, un-tradeable
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned
+
+### Decision
+**HOLD** — 17th straight no-trade session. Regime turned **risk_on** for the first time in ~2 weeks (SPY reclaimed its rising 50d) and semis are recovering (NVDA 3 up days, chips "roaring back") — the backdrop is improving. But every confirmed name still fails the entry filter: MMM/GM confirm on fresh earnings beats yet sit at/under their 20d highs with 2R in air (MMM also 2.2 ATR extended, above its analyst target); XLE/XOP are 3+ ATR extended chases at new highs; NVDA's pop is counter-trend (sma20 still falling) on weak volume. No break-with-room or pullback-to-20d entry available, and TSLA/GOOGL earnings tonight add binary whipsaw risk. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: GM basing above $80.55 on volume for a clean break; NVDA's sma20 turning up on real volume as the semi recovery matures; XLE/XOP pulling back toward their rising 20d.

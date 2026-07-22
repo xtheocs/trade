@@ -13,6 +13,30 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-22 — Scorecard (prior session 2026-07-21)
+
+**Our picks:**
+- XOP (ETF) — decision **REJECTED** (over-extended 2.88 ATR, R:R fails) — actual 1d Jul-21 **+2.21%** ($173.79 vs $170.03) — verdict **ran without us** (rules-correct: still 3.57 ATR extended today, no pullback-to-20d entry ever came — the leader keeps grinding up while we watch).
+- XLE (ETF) — decision **REJECTED** (over-extended 2.83 ATR, R:R fails) — actual 1d Jul-21 **+0.97%** ($58.52 vs $57.955) — verdict **ran without us** (new 20d high $58.53; 3.22 ATR extended, same chase read held).
+- NVDA (stock) — decision **REJECTED** (counter-trend, sma20 falling, R:R fails) — actual 1d Jul-21 **+1.92%** ($207.24 vs $203.33) — verdict **the semi turn is materializing** — 3rd straight up day, chips "roaring back" (Reuters), regime flipped risk_on today. But sma20 STILL falling and volume 0.67× → the bounce is real on the tape yet not a clean long yet.
+- SHOP (stock) — decision **REJECTED** (volume-less cost-cut catalyst, R:R fails) — actual 1d Jul-21 **−1.18%** ($123.04 vs $124.515) — verdict **dodged-loss** (faded, the no-volume read held).
+
+**Day's top tradeable gainers (Jul-21, ≥$5, no warrants/units/rights):**
+- HLTH +5822200%?? ($25.31) — impossible print, data artifact — skip
+- CPHI +790% ($8.10) — China micro-cap pump — skip
+- UTZ +88.7% ($14.06) — snack small-cap, only ~800K vol, thin/glitchy spike — skip
+- NBIL +37.5% ($30.72) / NBIG +37.1% ($21.26) / NEBX +37.8% ($31.59) — Nebius-related multi-class cluster spiking on NVDA's disclosed 9.3% stake in Nebius — same structured-listing cluster pattern — skip
+- CBRX +36% ($13.98), OUSL +33% ($19.42), AEHG +56% ($12.32), AXTX +32% ($7.57) — micro-cap spikes — skip
+
+**Best realistic miss:** None cleanly tradeable. The one fresh large-cap catalyst was **NVDA's 9.3% Nebius stake** (a real strategic-investment M&A signal, +18.78% on NBIS), but on Alpaca it surfaced only as an odd multi-class cluster (NBIL/NBIG/NEBX) with no quant base — same un-buyable listing-cluster shape we keep flagging. The durable leaders we analyzed (XOP/XLE +1–2%, NVDA +1.92%) were all rejected on rules (extension / counter-trend / 2R-in-air) and those reads held; they just kept grinding without offering a clean entry.
+
+**Lessons:**
+- **Regime flipped to risk_on today (SPY $748.16 reclaimed its rising 50d $744.85) and chips are recovering** — NVDA's 3rd straight up day, Reuters "chips roar back," semis finally lifting the tape. The multi-week semi-bear read is softening. But NVDA's bounce is still **counter-trend on the internals** (sma20 falling, volume 0.67×), so it's not yet a sanctioned long — wait for sma20 to turn up on real volume, don't front-run it.
+- **The R:R-at-highs wall survives even fresh, strong, high-volume earnings catalysts.** MMM (4/5, vol **4.02×** on a 9% beat-and-raise) and GM (4/5, beat + raised guidance, vol 2.02×) both quant-confirm but sit **at/just under their 20d highs** with 2R landing in unproven air → still un-buyable. MMM is also 2.2 ATR extended and now trades *above* its consensus analyst target (capped upside). Strong catalyst + confirmed quant ≠ a valid entry when there's no room to a sensible 2:1 objective.
+- **Energy (XLE/XOP) keeps compounding while we sit** (+1–2%/day, both at new 20d highs) — 3.2–3.6 ATR extended, no pullback-to-20d re-entry has arrived in three weeks. The leadership call is right; the discipline (don't chase a 3-ATR extension) has cost some upside but avoids buying the top. Live with it — a clean pullback entry is still the only sanctioned way in.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (persistent leader, XLE/XOP at new highs but chronically 3+ ATR extended — never a clean entry) ; **Info-Tech / semis now RECOVERING** (regime risk_on today, chips roaring back, NVDA 3 up days — the tape is finally confirming the headline, but internals still counter-trend) ; **Industrials** (MMM/GM earnings-driven strength). Laggards = Real Estate, Financials, Energy on a *daily* basis (rotation churn). Recurring miss pattern = confirmed leaders are either **over-extended chases** (energy 3+ ATR) or **pinned 0.2–0.5R under their 20d high** with 2R in air (GM, NVDA, MMM, SHOP prior); fresh catalysts keep arriving as un-chasable earnings gaps (MMM 2.2 ATR over 20d, above PT) or micro-cap/multi-class listing pumps (Nebius cluster). Fix unchanged = demand break-with-room *or* pullback-to-20d; act on a *confirmed* break the next open before it extends; never let a bullish headline (or a fresh risk_on regime) override a weak internal read (NVDA sma20 still falling).
+
 ## 2026-07-21 — Scorecard (prior session 2026-07-20)
 
 **Our picks:**
