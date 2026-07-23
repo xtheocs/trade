@@ -845,3 +845,37 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 17th straight no-trade session. Regime turned **risk_on** for the first time in ~2 weeks (SPY reclaimed its rising 50d) and semis are recovering (NVDA 3 up days, chips "roaring back") — the backdrop is improving. But every confirmed name still fails the entry filter: MMM/GM confirm on fresh earnings beats yet sit at/under their 20d highs with 2R in air (MMM also 2.2 ATR extended, above its analyst target); XLE/XOP are 3+ ATR extended chases at new highs; NVDA's pop is counter-trend (sma20 still falling) on weak volume. No break-with-room or pullback-to-20d entry available, and TSLA/GOOGL earnings tonight add binary whipsaw risk. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: GM basing above $80.55 on volume for a clean break; NVDA's sma20 turning up on real volume as the semi recovery matures; XLE/XOP pulling back toward their rising 20d.
+
+---
+
+## 2026-07-23 — Pre-market
+
+### Account
+- Equity: $1,068.31 / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak ($1,089.01): −1.90% — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY 747.49 > 50-day SMA 745.04, SMA rising) → full size allowed.
+
+### Market Context
+- Leading sectors: **Energy, Consumer Staples, Industrials, Materials** (SSGA/rotation reads). Laggards: **Technology, Comm Services, Consumer Discretionary, Financials** — Tech stretched and now selling off.
+- Catalysts of the day: **TSLA −5.9%** & **GOOGL −4%** premarket on heavy-capex earnings reactions (NVDA −0.65% in sympathy); **AT&T** & **RPM** beat; **DOMO** +24% ($400M business sale to Progress Software — small-cap software); **SMCI** +19.85% Jul-22 gap but mixed premarket (−6.88% one feed), no verified catalyst; micro-cap pumps (LGCL +95%, PLAG +38%, PN, ADVB).
+- Macro: VIX calm; no major econ release today. SPX closed >7,500 first time. Mag-7 earnings the dominant driver — tech tape hostile this morning.
+
+### Candidates (catalyst + quant checked — all confirmed ≥3/5 but fail the entry filter)
+- **GM** (stock) — catalyst: Q2 beat + raised FY guidance, broke 20d high +3.2% Jul-22 — quant **4/5** (fails not_extended; last $82.12, sma20 $77.43 rising, ret_10d +7.7%, ATR $2.203, risk/sh $4.41, stop $77.71, hi_20d $84.315, vol 1.79×) — **rejected**: 2.13 ATR extended after yesterday's breakout run; hi_20d only 0.5R above; 2R target $90.93 (+10.7%) in air. R:R fails 2:1 — chasing the breakout day.
+- **NVDA** (stock) — catalyst: semi recovery complete, sma20 turned up — quant **5/5** (last $212.07, sma20 $202.23 rising, ret_10d +3.9%, ATR $7.395, risk/sh $14.79, stop $197.28, hi_20d $214.39, vol 1.26×) — **rejected**: pinned 0.16R ($2.32) under its 20d high; 2R target $241.65 (+13.9%) in unproven air → R:R fails 2:1. Also TSLA/GOOGL earnings selloff + Tech a lagging sector = hostile same-day tape.
+- **SMCI** (stock) — catalyst: +19.85% Jul-22 gap (no verified catalyst) — quant **3/5** (fails trend sma20 falling, momentum; last $30.55, sma20 $27.81 falling, hi_20d $33.97, risk/sh $3.825) — **rejected**: counter-trend (sma20 falling), no identifiable catalyst per Perplexity, chasing a +20% gap already reversing premarket. Unexplained spike — not chased.
+- **XLE** (ETF) — catalyst: energy leadership — quant **3/5** (fails volume 0.88×, not_extended; last $59.18, hi_20d $59.52, risk/sh $2.112) — **rejected**: 3.58 ATR extended chase, 2R in air.
+- **XOP** (ETF) — catalyst: same energy theme — quant **4/5** (fails not_extended; last $176.61, hi_20d $177.92, risk/sh $7.836) — **rejected**: 3.92 ATR extended, 2R = $192.28 (+8.9%) air.
+
+### Rejected
+- GM / NVDA — confirmed 4–5/5 but 2R in breakout air (GM 2.1 ATR extended off its break; NVDA pinned 0.16R under 20d high); NVDA also into a Mag-7 earnings selloff on a lagging-sector tape
+- XLE / XOP — 3.6–3.9 ATR over-extended, 2R in air (chronic chase, no pullback)
+- SMCI — counter-trend (sma20 falling), no verified catalyst, +20% gap reversing premarket
+- DOMO — 1/5, $3.14 (<$5 floor), M&A on a broken chart
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned
+
+### Decision
+**HOLD** — 18th straight no-trade session. Regime risk_on but the tape is hostile to the one confirmed theme (semis): TSLA −5.9% / GOOGL −4% premarket on capex-heavy Mag-7 earnings, Tech now a lagging sector. NVDA completed its turn to a clean 5/5 (sma20 finally rising) yet ran to pin 0.16R under its 20d high → 2R +13.9% in air, R:R fails. GM broke its $80.55 high on our exact trigger but the move fired intraday and it's now 2.1 ATR extended, 2R in air. Energy (XLE/XOP) is 3.6–3.9 ATR extended — no pullback in 3+ weeks. SMCI is a catalyst-less counter-trend gap. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: NVDA breaking $214.39 on real volume with air overhead (only if the tech tape stabilizes); GM basing/pulling back to its rising 20d for a clean re-entry; XLE/XOP pulling back toward their rising 20d.

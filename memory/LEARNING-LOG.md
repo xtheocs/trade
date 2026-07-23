@@ -13,6 +13,31 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-23 — Scorecard (prior session 2026-07-22)
+
+**Our picks:**
+- GM (stock) — decision **REJECTED** (pinned 0.24R under 20d high, sma20 flat, R:R fails) — actual 1d Jul-22 **+3.22%** ($82.12 vs $79.56) — verdict **ran without us** — GM broke its $80.55 20d high on volume (vol 1.79×), *exactly* the "watch GM break $80.55 on volume" trigger we logged. The break came intraday; our premarket read (pinned under the high) was rules-correct at premarket but the move fired after. Now 4/5 confirmed and sma20 rising — but already 2.13 ATR extended, so the entry window closed intraday again.
+- NVDA (stock) — decision **REJECTED** (counter-trend, sma20 falling, R:R fails) — actual 1d Jul-22 **+2.33%** ($212.07 vs $207.24) — verdict **the semi turn completed** — sma20 finally turned UP, now a clean **5/5** confirm. But it ran straight to pin $2.32 (0.16R) under its 20d high $214.39, so 2R still lands +13.9% in air → R:R wall holds.
+- XLE (ETF) — decision **REJECTED** (3.22 ATR extended, R:R fails) — actual 1d Jul-22 **+1.13%** ($59.18 vs $58.52) — verdict **ran without us** (new 20d high, now 3.58 ATR extended — chronic chase, no pullback entry).
+- XOP (ETF) — decision **REJECTED** (3.57 ATR extended, R:R fails) — actual 1d Jul-22 **+1.62%** ($176.61 vs $173.79) — verdict **ran without us** (now 3.92 ATR extended).
+- MMM (stock) — decision **REJECTED** (2.2 ATR extended above analyst PT, R:R fails) — actual 1d Jul-22 **+0.05%** ($170.81 vs $170.72) — verdict **correct** (gap stalled flat; the extended-above-target read held, no chase).
+
+**Day's top tradeable gainers (Jul-22, ≥$5, no warrants/units/rights):**
+- PN +131.8% ($9.34) — micro-cap pump, no durable catalyst — skip
+- ADVB +73.0% ($12.25) — Advanced Biomed micro-cap spike — skip
+- SMCC +39.8% ($27.72) / SMCL +39.3% ($12.44) / SMCX +39.4% ($8.99) — Super Micro leveraged single-stock ETF cluster, all on SMCI +19.85% — skip (leveraged single-name, un-sanctioned; the underlying is the read)
+- QMLS +34.5% ($9.16) — leveraged single-stock ETF — skip
+- MF +36.7% ($5.70) — micro-cap spike — skip
+
+**Best realistic miss:** **GM +3.22%** — Industrials/Autos — real catalyst (Q2 beat + raised FY guidance) AND it broke its 20d high $80.55 on volume, the precise trigger we'd flagged. It would have passed quant on the break (now 4/5, sma20 rising). We missed it because the break fired *intraday*, after our premarket read had it pinned under the high — a genuine mechanism gap, not a wrong call. (SMCI +19.85% was the day's biggest liquid single-name mover but had NO identifiable catalyst per Perplexity and was counter-trend on the tape (sma20 falling) — an unexplained spike we correctly don't chase.)
+
+**Lessons:**
+- **Our own "watch for the break" triggers keep firing intraday, past our premarket-only window.** GM (+3.2%) and NVDA (+2.3%) both did *exactly* what we said to watch for (GM broke $80.55; NVDA's sma20 turned up) — but both moves happened during the session, and by the next premarket read the name is already 1.3–2.1 ATR extended with 2R back in air. The premarket routine structurally can't catch an intraday break at a clean price. Real fix is only partial: act on a *confirmed* break at the very next open before it extends — but that requires the break to still be near entry, which a same-day +3% run kills.
+- **NVDA completed the semi turn (now 5/5, sma20 rising) yet is STILL un-buyable** — it ran to pin 0.16R under its 20d high, so 2R = +13.9% air. The R:R-at-highs wall survives even a perfect 5/5 confirm. A momentum name only clears 2:1 from a *fresh break with air overhead* or a *pullback to the rising 20d* — never pinned right under the high.
+- **Mag-7 earnings turned the tech tape hostile the morning after.** TSLA −5.9% / GOOGL −4% premarket on heavy-capex reactions; NVDA −0.65%. Tech/Comm-Services are this week's *lagging* sectors (leaders: Energy, Staples, Industrials, Materials). Buying any semi long into a Mag-7 selloff is bad timing regardless of quant — confirms staying flat on NVDA today.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (persistent, XLE/XOP now 3.6–3.9 ATR extended — never a clean entry in 3+ weeks) ; **Industrials** (GM/MMM earnings strength, GM broke out) ; **Semis/Info-Tech** turned up then STALLED (NVDA completed its turn to 5/5 but Mag-7 earnings selloff + lagging-sector read now caps it). Laggards = Technology, Comm Services, Consumer Discretionary, Financials. Recurring miss pattern = confirmed leaders are either **over-extended chases** (energy 3.6+ ATR) or **pinned 0.2–0.5R under their 20d high** with 2R in air (GM, NVDA, MMM), and the actual breakout fires **intraday**, past our premarket window, then extends before the next open. Fix unchanged = demand break-with-room *or* pullback-to-rising-20d; act on a confirmed break the very next open; never let a bullish headline (or a fresh 5/5) override the R:R-at-highs gate or a hostile same-day tape.
+
 ## 2026-07-22 — Scorecard (prior session 2026-07-21)
 
 **Our picks:**
