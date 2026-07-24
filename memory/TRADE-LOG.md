@@ -415,3 +415,10 @@ drawdown are measured from here.
 | (none — 100% cash) | | | | | | |
 
 **Notes:** Seventeenth straight no-trade day. Account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Regime flipped to risk_on today for the first time in ~2 weeks (SPY $748.16 reclaimed its rising 50d SMA $744.85) and semis showed signs of recovering (NVDA 3rd up day), but every confirmed name still failed the entry filter: MMM (4/5, 9% beat-and-raise) sat 2.2 ATR extended above its analyst target with 2R in air; GM (4/5, beat + raised guidance) was pinned 0.24R under its 20d high with a flat sma20; XLE/XOP were 3.2–3.6 ATR extended chases at new highs; NVDA's bounce was counter-trend (sma20 still falling) on weak volume. TSLA and GOOGL report after today's close, adding binary whipsaw risk that reinforced staying flat. Midday scan was a no-op. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Jul 20–22 all no-trade). Eighteen trading days now since the SMH time-stop exit (Jun 26) with zero new positions — discipline holding, capital fully idle. Tomorrow: pre-market weighs TSLA/GOOGL earnings reactions and whether the risk_on regime + semi recovery produces a setup that finally clears both quant confirmation and the 2:1 R:R filter.
+
+---
+
+### Jul 24 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (Jul 23: GM/NVDA confirmed 4–5/5 but 2R in breakout air, NVDA also into TSLA/GOOGL earnings selloff on lagging-sector tape; XLE/XOP 3.6–3.9 ATR over-extended; SMCI counter-trend no-catalyst gap). Weekly trades used: 0/3.
