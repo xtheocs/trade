@@ -406,3 +406,66 @@ Template for each entry:
 
 ### Overall Grade: B−
 *(Process A — every risk rule respected a fifth week, and for the first time this phase the discipline was directly rewarded: 100% cash beat a −1.6% down tape led by the exact semis the R:R gate kept refusing at their 20d highs. Result still zero compounding (fifth flat week, third zero-trade week, 20 sessions idle), which caps the grade — but avoiding a down week while fully preserving capital is a materially better outcome than the prior four "flat vs an up tape" weeks. Survival fully intact; the constraint is a tape that keeps offering only over-extended names, which no rule can fix — only patience for a pullback with room can.)*
+
+---
+
+## Week ending 2026-07-24
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,068.31 (Mon Jul-20 open) |
+| Ending portfolio | $1,068.31 (Fri Jul-24) |
+| Week return | +$0.00 (0.00%) |
+| S&P 500 week | ~flat (≈0%; ~7,476 → ~7,483, chopped both sides of 7,500 on Mag-7 earnings — sources noisy, Investopedia had it −0.7% intraweek recovering Fri) — FYI only |
+| Bot vs S&P | ≈ 0% (100% cash into a ~flat tape — FYI context, NOT the goal) |
+| Trades | 0 (W:0 / L:0 / open:0) — none opened, none closed |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A (no positions) |
+| Worst trade | N/A (no positions) |
+| Profit factor | N/A (no closed trades) |
+| Avg R multiple | N/A (no closed trades) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades — 100% cash entire week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| (none — 100% cash) | — | — | — | — |
+
+### What Worked
+- **Regime gate flipped correctly and on time.** SPY reclaimed its rising 50d Wed Jul-22 ($748.16 > $744.85) → the routine read risk_on for the first time in ~2 weeks and *widened* the long scan accordingly (semis, industrials back in play) rather than staying defensively narrow. The regime filter is computed from Alpaca bars, updated daily, and drove the posture change exactly as written.
+- **The R:R 2:1 filter vindicated a sixth straight week.** Every confirmed leader was either pinned at/under its 20d high (GM 4/5 at 0.24–0.5R under, NVDA 4–5/5 at 0.16–0.45R under, MMM 4/5) with a 2R target +10–14% in unproven breakout air, or 2.8–3.9 ATR over-extended (XLE/XOP chasing new highs). All correctly refused — chasing any of them was a fade dressed as a swing.
+- **Refused the earnings-gap chase and the counter-trend bounce, repeatedly.** DPZ (+7.4% gap above its high), MMM (+9% beat-and-raise above its analyst PT), SMCI (+20% catalyst-less gap already reversing), and NVDA's counter-trend pop (sma20 still falling early week) were all filtered by the not-extended / room-to-target / trend gates. No chasing the print.
+- **Zero rule violations for a sixth week.** 0/3 weekly trades, heat 0%, drawdown −1.90% « 20% breaker, no inverse-sleeve error (regime was neutral→risk_on, never a confirmed downtrend). No fractional entry into the TSLA/GOOGL/IBM binary earnings cluster Wed night. Patience > activity, as written.
+
+### What Didn't Work
+- **A flat week — sixth straight with no compounding, fourth straight zero-trade week.** Phase P&L stuck at −$11.69 (−1.08%); ~20 trading days now idle since the SMH time-stop exit (Jun 26). Correct by the rules, but zero absolute progress toward the ~10%/month stretch, and this week — unlike last — there was no down-tape to make cash the *winning* position; the S&P was roughly flat-to-up, so idle cash simply missed neutral-to-mild upside.
+- **Risk_on + a semi recovery arrived, and STILL nothing cleared.** The two conditions the last five reviews kept waiting for — a supportive regime and the leadership theme (semis) turning up — both materialized this week (SPY reclaimed the 50d, NVDA completed its turn to 5/5 with sma20 rising). Yet every name that confirmed had already run to pin under its 20d high (2R in air). The setup shape the market offered didn't change even when the backdrop did.
+- **Room-to-target's second full week produced zero qualifying setups.** The codified pullback-to-rising-20d / fresh-break-with-room shape simply was not offered: strong names gapped or ran intraday to their highs and stayed extended; energy (XLE/XOP) has not pulled back to its rising 20d in 3+ weeks. The rule keeps refusing over-extended names correctly, but the market has not presented the shape it prioritizes.
+- **The "watch" items never convert.** Every research log this week closed with "watch: GM basing/pulling back to its rising 20d; NVDA breaking $214.39 on volume; XLE/XOP pulling back to their 20d." None fired within the session, and each next day's scan re-derived the same rejections from scratch — there is no standing trigger/limit-entry level that would let the routine *act* on a flagged pullback the moment it tags support intraday.
+
+### Key Lessons
+- **A supportive regime does not manufacture a setup.** For five weeks the story was "waiting for risk_on and a semi turn." Both came this week and the book still couldn't enter — proof that the binding constraint was never the regime or the theme; it is the *entry geometry* (a confirmed name with 2R of room below the next resistance), which the market has withheld for a month regardless of macro backdrop.
+- **When leaders only ever confirm *at* their highs, the tape is in a "buy-the-breakout-or-miss-it" mode that the 2×ATR/2:1 math structurally can't size.** A name that gaps or runs to its 20d high intraday and closes there never offers the pullback the room-to-target rule needs. This is not the rule failing — it is the correct output for a market that isn't giving pullbacks. The lever, if any, is *catching the intraday tag of support* (a standing trigger), not loosening the ratio.
+- **Cash is only a "winning position" when the tape falls.** Last week's −1.6% S&P made 100% cash a relative win; this week's ~flat-to-up tape made the same cash a mild opportunity cost. The discipline is identical — the scoreboard just depends on the tape, which underscores that the goal is absolute return, and six flat weeks is a real (if survivable) drag, not a victory.
+- **Six weeks is now a phase, and the honest read is: process A, outcome D.** No rule has been violated or has failed, capital is fully intact, and every rejection was defensible — but the account has compounded nothing in six weeks and the room-to-target fix has not yet produced a single trade. Discipline this clean producing this little means the next lever is *execution* (a standing pullback-trigger to convert the "watch" items), not any relaxation of the risk gates.
+
+### Adjustments for Next Week
+- **Pre-define standing pullback triggers for the recurring "watch" names.** For the strong-trend names that keep confirming but run extended (GM, NVDA, XLE/XOP), the pre-market routine should record the *exact* level where a pullback to the rising 20d would clear 2:1 with room (e.g. GM tags its rising 20d/prior-break level and holds; XLE/XOP retrace to their rising 20d) — so market-open/midday can act on the tag intraday instead of re-scanning and re-rejecting the extended name each day. (Execution/sourcing refinement, not a hard-rule change — see Strategy File Changes.)
+- **Keep hunting the pullback shape, not the breakout.** With leaders pinned at their 20d highs for 6+ weeks, the qualifying setup remains far more likely to be a retrace to a rising 20d with air overhead than a fresh high-break into air. Prioritize names *coming back to* support in an uptrend over anything at its high.
+- **FOMC Wed Jul-29 next week — a binary two days in.** Don't pre-position fresh long risk into it without a genuine edge; watch whether its reaction finally opens tighter-stop / pullback entries or shifts the regime.
+- **Regime gate first Monday:** SPY ~$747–748 > rising 50d (~$745) = risk_on but thin (only just reclaimed). Trade long normally if a real pullback-setup clears; only scan SQQQ/SH if SPY loses a rising 50d into a confirmed downtrend — not on chop.
+- **Don't force a trade to break the streak.** Full $1,068.31 buying power, 0/3 weekly trades, heat 0%, DD −1.90%. Add ONE name only if it clears catalyst + 3/5 quant + 2:1 R:R + allowing regime; zero remains valid — but next week is the week to *convert a watched pullback*, not to keep re-rejecting the same extended names.
+
+### Strategy File Changes
+- **None to the hard rules this week.** Six weeks of clean, rewarded discipline (3% risk, 2×ATR stop, 2:1 minimum, heat/sleeve caps, regime gate) is not a case for loosening anything — the R:R filter was vindicated a sixth time (every confirmed name that would have been chased was at its high or over-extended). The room-to-target sourcing rule is now two full weeks old with zero qualifying setups, but concluding it "failed" would be exactly the single-signal churn STEP 5 warns against: it correctly refused over-extended names both weeks, and the market simply did not offer the pullback shape it prioritizes. **The lever the data now points to is execution, not the written rules** — the recurring failure mode is that flagged "watch: pullback to the rising 20d" items never convert because there is no standing trigger to act on the intraday tag. That is a *routine* refinement (pre-defined pullback-entry levels carried across sessions), not a hard-rule amendment. If a standing-trigger approach is added to the routines and still no trade converts over the next 2–3 weeks, *then* revisit whether the 2×ATR/2:1 geometry is structurally un-satisfiable on this tape and warrants a rule-level look. Not before — the rules keep protecting the capital exactly as designed.
+
+### Overall Grade: C+
+*(Process A — a sixth week with every risk rule respected, the regime gate flipping to risk_on on cue, and the R:R filter vindicated again as leaders confirmed only at their highs. But the result is a sixth straight flat week and fourth zero-trade week with no down-tape to make cash a relative win, and — most tellingly — the two conditions the prior reviews kept waiting for (risk_on + a semi turn) both arrived this week and the book still couldn't find an entry. That isolates the constraint to entry geometry the market has withheld for a month, and points the next lever at execution (standing pullback triggers) rather than the rules. Survival fully intact; compounding still absent — process A, outcome D, average C+.)*
