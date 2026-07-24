@@ -422,3 +422,14 @@ drawdown are measured from here.
 **Positions:** None. 0 orders live.
 **Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (Jul 23: GM/NVDA confirmed 4–5/5 but 2R in breakout air, NVDA also into TSLA/GOOGL earnings selloff on lagging-sector tape; XLE/XOP 3.6–3.9 ATR over-extended; SMCI counter-trend no-catalyst gap). Weekly trades used: 0/3.
+
+---
+
+### Jul 24 — EOD Snapshot (Day 30, Friday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** Nineteenth straight no-trade day. Account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Midday scan was a no-op, reaffirming the pre-market HOLD (GM/NVDA confirmed 4–5/5 but 2R in breakout air, NVDA also facing TSLA/GOOGL earnings-selloff drag on a lagging semis tape; XLE/XOP 3.6–3.9 ATR over-extended; SMCI a counter-trend no-catalyst gap). Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Jul 20–24 all no-trade). Twenty trading days now since the SMH time-stop exit (Jun 26) with zero new positions — discipline holding, capital fully idle. Monthly progress vs the ~10% stretch target: currently −1.08%, well off pace, informational only. Next week: pre-market rescans with full $1,068.31 buying power, watching whether TSLA/GOOGL earnings fallout or the risk_on regime + semi recovery finally produces a setup clearing both quant confirmation and the 2:1 R:R filter.
