@@ -422,3 +422,10 @@ drawdown are measured from here.
 **Positions:** None. 0 orders live.
 **Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (Jul 23: GM/NVDA confirmed 4–5/5 but 2R in breakout air, NVDA also into TSLA/GOOGL earnings selloff on lagging-sector tape; XLE/XOP 3.6–3.9 ATR over-extended; SMCI counter-trend no-catalyst gap). Weekly trades used: 0/3.
+
+---
+
+### Jul 27 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime neutral, SPY under falling-back 50d; XLE 4/5 but 3.25 ATR extended + oil −5% breaking the catalyst; GM 3/5 pinned 0.37R under 20d high, 2.1 ATR extended; NVDA 3/5 momentum faded, pinned 0.49R under high; semis rolled over; binary week ahead — FOMC Wed, GDP/PCE Thu, MSFT/META/AAPL/AMZN earnings). Weekly trades used: 0/3.
