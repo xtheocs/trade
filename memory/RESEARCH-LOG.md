@@ -879,3 +879,37 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 18th straight no-trade session. Regime risk_on but the tape is hostile to the one confirmed theme (semis): TSLA −5.9% / GOOGL −4% premarket on capex-heavy Mag-7 earnings, Tech now a lagging sector. NVDA completed its turn to a clean 5/5 (sma20 finally rising) yet ran to pin 0.16R under its 20d high → 2R +13.9% in air, R:R fails. GM broke its $80.55 high on our exact trigger but the move fired intraday and it's now 2.1 ATR extended, 2R in air. Energy (XLE/XOP) is 3.6–3.9 ATR extended — no pullback in 3+ weeks. SMCI is a catalyst-less counter-trend gap. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: NVDA breaking $214.39 on real volume with air overhead (only if the tech tape stabilizes); GM basing/pulling back to its rising 20d for a clean re-entry; XLE/XOP pulling back toward their rising 20d.
+
+---
+
+## 2026-07-27 — Pre-market
+
+### Account
+- Equity: $1,068.31 / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak ($1,089.01): −1.90% — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **NEUTRAL** (SPY $738.90 < 50-day SMA $745.04, SMA still rising — pulled back from risk_on) → half size, best setups only. Inverse sleeve NOT sanctioned (neutral, not risk-off).
+
+### Market Context
+- Leading sectors: **Industrials, Materials, Technology (rank-based), Financials**; Energy persistent but now facing an oil headwind. Laggards: **Consumer Discretionary, Comm Services**.
+- Catalysts of the day: **Oil −5%** (Brent $81.80, −4.35%) on US-Iran de-escalation → energy sleeve headwind. Chip-equipment/semis bid premarket on one feed (AMAT, LRCX, AVGO, AMD, INTC) but SMH quant shows the group rolled over hard (−8.2% 10d, below falling 20d). Movers list = micro-cap pumps (STAK +602%) + Nebius cluster churn + SAFT M&A pop — nothing tradeable.
+- Macro wall this week: **FOMC Wed Jul-29** (hold at 3.75% expected), **Q2 GDP + June core PCE Thu Jul-30**, **MSFT/META earnings Wed**, **AAPL/AMZN earnings Thu**. Four stacked binary events — do not initiate into them.
+
+### Candidates (catalyst + quant checked — all confirmed ≥3/5 but fail the entry filter)
+- **XLE** (sector ETF) — catalyst: energy leadership — quant **4/5** (fails not_extended; last $59.61, sma20 $55.97 rising, ret_10d +8.2%, ATR $1.119, risk/sh $2.237, stop $57.37, hi_20d $60.445, vol 1.15×) — **rejected**: 3.25 ATR extended; hi_20d only 0.37R above; 2R target $64.08 (+7.5%) in air. AND oil −5% today flips the catalyst to a headwind — thesis breaking, not confirming.
+- **GM** (stock) — catalyst: Q2 beat + raised FY guidance — quant **3/5** (fails not_extended, volume; last $82.625, sma20 $77.72 rising, ret_10d +6.2%, ATR $2.299, risk/sh $4.598, stop $78.03, hi_20d $84.315, vol 0.77×) — **rejected**: 2.13 ATR extended; pinned 0.37R under its 20d high; 2R target $91.82 (+11.1%) in air. R:R fails 2:1 — same extended-and-pinned wall for a week.
+- **NVDA** (stock) — catalyst: AI/semis, Nvidia-OpenAI $250B financing chatter — quant **3/5** (fails momentum, volume; last $207.07, sma20 $203.28 rising, ret_10d −1.9%, ATR $7.534, risk/sh $15.07, stop $192.00, hi_20d $214.39, vol 0.94×) — **rejected**: pinned 0.49R under its 20d high; 2R target $237.21 (+14.6%) in air; momentum faded (ret_10d negative). Also into the Fed + AAPL/AMZN earnings whipsaw. R:R fails.
+
+### Rejected
+- XLE — 4/5 but 3.25 ATR extended, 2R in air, AND oil −5% today breaks the energy catalyst
+- GM / NVDA — confirmed 3/5 but pinned under 20d highs with 2R in air (GM also 2.1 ATR extended; NVDA momentum faded) — plus binary-event week
+- AMD 1/5, AVGO 2/5, SMH 2/5, INTC 2/5 — semis rolled over (below falling 20d, negative 10d returns) — recovery failed, not confirmed
+- XOP — energy, same 3+ ATR extension + oil headwind
+- SAFT +41% — M&A buyout pop, thin/illiquid (76K sh), no swing — un-tradeable
+- Micro-cap pumps (STAK/BIOT/NIPG/JEM/BEZ/YYAI) + Nebius cluster (NBIZ) — no durable catalyst, un-buyable
+- Inverse sleeve (SQQQ/SH) — regime neutral (not risk-off), not sanctioned
+
+### Decision
+**HOLD** — 19th straight no-trade session. Regime slipped back to **neutral** (SPY under its 50d) → half size, best setups only, and there are none. Every confirmed name fails the entry filter: XLE 4/5 but 3.25 ATR extended with its catalyst now breaking (oil −5% on US-Iran de-escalation); GM 3/5 but 2.1 ATR extended and pinned 0.37R under its 20d high (2R in air); NVDA 3/5 but pinned 0.49R under its high with faded momentum, into a semi group that has rolled over. Layered on top: a stacked binary week (FOMC Wed, GDP+PCE Thu, MSFT/META Wed + AAPL/AMZN Thu earnings) — strategy forbids opening fresh risk into unplanned binary events. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: GM pulling back to its rising 20d ($77.72) for a clean re-entry; NVDA reclaiming momentum and breaking $214.39 with air overhead *after* the earnings/Fed dust settles; energy only if oil stabilizes and XLE/XOP reset toward a rising 20d.

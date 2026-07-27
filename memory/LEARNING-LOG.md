@@ -13,6 +13,32 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-27 — Scorecard (prior session 2026-07-23)
+
+**Our picks (1d = Jul-23 → Jul-24 close, the move since that read):**
+- GM (stock) — decision **REJECTED** (2.1 ATR extended, pinned 0.16R under 20d high, 2R in air) — actual 1d **+2.34%** ($82.625 vs $80.735) — verdict **ran without us / still no entry** — kept grinding to $82.625, now 2.13 ATR extended and STILL 0.37R under its $84.315 20d high. The entry window never opened; extended-and-pinned read held.
+- NVDA (stock) — decision **REJECTED** (5/5 but pinned 0.16R under 20d high, hostile Mag-7 tape) — actual 1d **−0.81%** ($207.07 vs $208.76) — verdict **dodged the pullback** — faded with the tech tape; now only 3/5 (momentum + volume dropped out). Staying out into the Mag-7 earnings selloff was correct.
+- XLE (ETF) — decision **REJECTED** (3.6 ATR extended, 2R in air) — actual 1d **+0.35%** ($59.61 vs $59.4) — verdict **correct/stalled** — flat, still 3.25 ATR extended; and oil −5% today now turns the energy catalyst into a headwind.
+- XOP (ETF) — decision **REJECTED** (3.9 ATR extended, 2R in air) — actual 1d **−0.86%** ($174.13 vs $175.64) — verdict **correct** — faded; oil de-escalation confirms the extended chase was rightly skipped.
+- SMCI (stock) — decision **REJECTED** (counter-trend, no verified catalyst, +20% gap reversing) — actual 1d **−3.56%** ($30.11 vs $31.22) — verdict **dodged-loss** — the catalyst-less gap kept reversing exactly as flagged.
+
+**Day's top tradeable gainers (Jul-24, ≥$5, no warrants/units/rights):**
+- STAK +602% ($9.27) — micro-cap pump, no durable catalyst — skip
+- BIOT +52.7% ($15.50) — biotech single-day spike — skip
+- NIPG +47.2% ($15.50) — micro-cap spike — skip
+- SAFT +41.5% ($103.24) — Safety Insurance — M&A/buyout pop on thin volume (76K sh vs ~3K normal) — un-tradeable (illiquid, one-day M&A repricing, no swing)
+- JEM +34.0% ($6.35) / BEZ +30.8% ($21.97) / YYAI +28.7% ($11.33) — micro-cap spikes — skip
+- NBIZ +30.3% ($28.58) — Nebius multi-class cluster (its NBIL/NBIG/NEBX siblings −30% same day) — un-buyable structured-listing churn
+
+**Best realistic miss:** None cleanly tradeable. SAFT +41.5% was the biggest liquid-ish single-name but is an M&A buyout repricing on a thin insurer (76K shares) — no momentum swing, illiquid — correctly not chased. Everything else was micro-cap pumps or the recurring Nebius cluster. Same "no durable large-cap catalyst on the movers list" pattern as all week.
+
+**Lessons:**
+- **The pullback finally came — to the market, not to our names at a clean price.** SPY fell from $747 back under its 50d ($738.9, regime now NEUTRAL) on the Mag-7 earnings selloff. Our two confirmed leaders diverged: NVDA faded −0.8% (dodged), GM ran another +2.3% and is still extended-and-pinned. Neither offered the break-with-room or pullback-to-20d entry we keep waiting for.
+- **Energy's leadership just lost its fuel.** Oil −5% today (Brent $81.8, US-Iran de-escalation) flips the XLE/XOP catalyst from tailwind to headwind. The 3+ ATR extension we rejected for weeks is now compounded by a broken catalyst — don't re-surface energy longs until oil stabilizes and the ETFs reset toward a rising 20d.
+- **Do not initiate into this week's binary wall.** FOMC Wed (rate hold expected), Q2 GDP + June PCE Thu, and MSFT/META (Wed) + AAPL/AMZN (Thu) earnings. Strategy §Sell-side: don't hold into unplanned binary events — and don't open fresh risk 1–2 days ahead of four of them stacked in a neutral tape.
+
+**Rolling 7d:** recurring leading sectors = **Industrials** (GM breakout, still the cleanest confirm but extended); **Energy** (persistent leader now facing an oil −5% headwind — leadership at risk); **Materials**. **Semis/Info-Tech turned up then rolled over hard** (SMH $561 now −8.2% 10d, below a falling 20d; AMD 1/5, INTC crashed −15.9% 10d) — the semi recovery failed. Laggards = Consumer Discretionary, Comm Services. Recurring miss pattern = confirmed leaders are perpetually **extended or pinned 0.2–0.5R under their 20d high (2R in air)** — GM/NVDA/XLE all again today — while the movers list is micro-cap pumps + Nebius clusters we correctly never chase. Fix unchanged: demand break-with-room *or* pullback-to-rising-20d; never override the R:R-at-highs gate; and this week, respect the FOMC/PCE/megacap-earnings binary wall.
+
 ## 2026-07-23 — Scorecard (prior session 2026-07-22)
 
 **Our picks:**
