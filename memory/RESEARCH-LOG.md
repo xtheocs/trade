@@ -913,3 +913,34 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 19th straight no-trade session. Regime slipped back to **neutral** (SPY under its 50d) → half size, best setups only, and there are none. Every confirmed name fails the entry filter: XLE 4/5 but 3.25 ATR extended with its catalyst now breaking (oil −5% on US-Iran de-escalation); GM 3/5 but 2.1 ATR extended and pinned 0.37R under its 20d high (2R in air); NVDA 3/5 but pinned 0.49R under its high with faded momentum, into a semi group that has rolled over. Layered on top: a stacked binary week (FOMC Wed, GDP+PCE Thu, MSFT/META Wed + AAPL/AMZN Thu earnings) — strategy forbids opening fresh risk into unplanned binary events. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: GM pulling back to its rising 20d ($77.72) for a clean re-entry; NVDA reclaiming momentum and breaking $214.39 with air overhead *after* the earnings/Fed dust settles; energy only if oil stabilizes and XLE/XOP reset toward a rising 20d.
+
+---
+
+## 2026-07-28 — Pre-market
+
+### Account
+- Equity: $1,068.31 / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak ($1,089.01): −1.90% — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_OFF** (SPY $738.85 < 50-day SMA $744.97, 50d no longer rising). No new long equity. Inverse sleeve (SQQQ/SH) sanctioned — but only on a confirmed downtrend with a clean, non-extended setup.
+
+### Market Context
+- Broad tape: Jul-27 S&P −1.55%, Nasdaq −2.90% (cooling AI sentiment, Alphabet/Tesla earnings concerns). Futures premarket barely soft (S&P −0.1%, Nasdaq −0.5%). Perplexity: "under pressure, NOT yet a confirmed breakdown."
+- Leadership: defensives least-weak; Semis/Info-Tech now leading the DOWNSIDE (NVDA −5%). Energy leadership broken by oil de-escalation.
+- Binary wall: **FOMC Wed Jul-29** (hold expected), **Q2 GDP + June PCE Thu Jul-30**, **MSFT/META earnings Wed**, **AAPL/AMZN Thu**. Four stacked binaries — no fresh risk into them.
+
+### Candidates (inverse sleeve — risk_off sanctioned; all fail the entry filter)
+- **SQQQ** (inverse ETF, 3x) — catalyst: risk_off, Nasdaq −2.9% AI-leadership breakdown — quant **4/5** (fails not_extended; last $45.21, sma20 $40.26 rising, ret_10d +13.2%, ATR $2.236, risk/sh $4.471, stop $40.74, hi_20d $46.42, vol 1.0×) — **rejected**: 2.21 ATR extended, pinned 0.27R under its 20d high; 2R target $54.15 (+19.8%) in air → R:R fails 2:1. Already ran +13% in 10d; initiating a 3x inverse the day before FOMC + megacap earnings = fresh binary risk.
+- **SH** (inverse ETF, 1x) — catalyst: same risk_off — quant **3/5** (fails trend sma20 falling, volume; last $33.49, sma20 $33.08 falling, ret_10d +1.6%, ATR $0.303, risk/sh $0.605, stop $32.89, hi_20d $33.63, vol 0.97×) — **rejected**: sma20 still falling (inverse not in a clean uptrend → SPY not in a confirmed downtrend); pinned 0.23R under 20d high. Unconfirmed setup.
+- **SPXU** (inverse ETF, 3x) — catalyst: same — quant **3/5** (fails trend, volume; last $38.51, sma20 $37.22 falling, risk/sh $2.099) — **rejected**: sma20 falling, weak volume — unconfirmed downtrend.
+
+### Rejected
+- SQQQ — 4/5 but 2.21 ATR extended, pinned 0.27R under 20d high, 2R in air; +13% run into a binary week
+- SH / SPXU — 3/5, sma20 still falling (no confirmed downtrend), pinned near highs
+- Long equity — regime risk_off, not sanctioned. GM ran +5.3% to $87 (hopelessly extended); NVDA broke down −5% (unconfirmed); XLE faded on oil
+- Movers (DFNS/QUA/QBTX/NIPG micro-cap pumps; FBRX = argenx M&A buyout capped at $77) — un-tradeable
+
+### Decision
+**HOLD** — 20th straight no-trade session. Regime flipped risk_off but on a shallow break (SPY ~0.8% under a flat 50d; "not yet a confirmed breakdown"), and the inverse sleeve that would express it fails the filter: SQQQ 4/5 but 2.21 ATR extended and pinned 0.27R under its 20d high (2R +19.8% in air) after a +13% run; SH/SPXU 3/5 with sma20 still falling (SPY not in a confirmed downtrend). Layered on: FOMC Wed + GDP/PCE Thu + MSFT/META/AAPL/AMZN earnings — initiating a 3x leveraged inverse the day before four stacked binaries is exactly the fresh-binary-risk the strategy forbids; a Fed hold or a megacap beat could snap the tape up and gut the short. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: a decisive SPY close below the 50d with follow-through (real confirmed downtrend) AFTER the Fed/earnings dust settles → then a non-extended inverse setup with room; on the long side, GM basing/pulling back to its rising 20d, NVDA reclaiming its 20d only if the tape stabilizes.

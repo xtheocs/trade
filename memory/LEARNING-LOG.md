@@ -13,6 +13,29 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-28 — Scorecard (prior session 2026-07-27)
+
+**Our picks (1d = Jul-24 → Jul-27 close, the move since that read):**
+- GM (stock) — decision **REJECTED** (2.1 ATR extended, pinned 0.37R under 20d high, 2R in air) — actual 1d **+5.34%** ($87.04 vs $82.625) — verdict **ran without us (again)** — blew clean through its $84.315 20d high on volume (461K sh) and closed $87.04, now FAR more extended. The entry window never opened at a clean price; the extended-and-pinned read stayed rules-correct but GM just keeps running vertical.
+- NVDA (stock) — decision **REJECTED** (3/5, pinned 0.49R under 20d high, momentum faded, semis rolled over) — actual 1d **−5.08%** ($196.555 vs $207.07) — verdict **dodged-loss** — cracked with the Nasdaq (−2.90% on cooling AI sentiment), broke its rising 20d, now quant-UNconfirmed. Staying out was correct.
+- XLE (ETF) — decision **REJECTED** (3.25 ATR extended, oil −5% breaking catalyst) — actual 1d **−2.07%** ($58.375 vs $59.61) — verdict **correct** — faded as the oil headwind played out, exactly as flagged.
+
+**Day's top tradeable gainers (Jul-27, ≥$5, no warrants/units/rights):**
+- DFNS +201% ($13.10) — T3 Defense micro-cap, 1-for-125 reverse-split float contraction — speculative technical, no fresh catalyst — skip
+- QUA +40.2% ($20.01) — no verified catalyst — skip
+- QBTX +40.1% ($9.23) — quantum micro-cap, no verified catalyst — skip
+- FBRX +39.7% ($76.50) — Forte Biosciences — argenx all-cash M&A buyout at $77/sh — repriced to deal, no swing left — un-tradeable
+- NIPG +28.3% ($19.88) — recurring micro-cap spike — skip
+
+**Best realistic miss:** None cleanly tradeable. FBRX +39.7% was the biggest liquid single-name but is an argenx all-cash buyout capped at $77 (closed $76.50) — a one-day M&A repricing with no momentum swing. Everything else was reverse-split/quantum micro-cap pumps. Same "no durable large-cap catalyst on the movers list" pattern as all week.
+
+**Lessons:**
+- **Regime flipped risk_off — but on a shallow break, not a confirmed washout.** SPY $738.85 sits only ~0.8% under its now-flat 50d ($744.97); Perplexity = "under pressure, NOT yet a confirmed breakdown," futures barely soft (S&P −0.1%, Nasdaq −0.5%). Jul-27's −1.55% S&P / −2.90% Nasdaq was the crowded AI-leadership group getting stress-tested, not broad panic. Don't rush the inverse sleeve on a wobble.
+- **The inverse sleeve fails the filter too.** SQQQ 4/5 but 2.21 ATR extended and pinned 0.27R under its 20d high (2R +19.8% in air) after already running +13.2% in 10d; SH/SPXU 3/5 with sma20 still FALLING — the inverse ETFs aren't in a clean confirmed uptrend, so SPY isn't in a confirmed downtrend. Same extended-or-unconfirmed R:R wall, now on the short side.
+- **Binary wall forbids fresh leveraged risk regardless.** FOMC Wed Jul-29, Q2 GDP+PCE Thu, MSFT/META (Wed) + AAPL/AMZN (Thu). A Fed hold or a megacap beat could snap the tape up and gut a 3x inverse. Don't initiate leveraged shorts the day before four stacked binaries.
+
+**Rolling 7d:** recurring leading sectors = **Industrials** (GM — cleanest confirm, now ran +5.3% to $87, hopelessly extended); **Energy** (leadership broken by oil de-escalation); **Materials**. **Semis/Info-Tech rolled over hard and now lead the risk_off** (NVDA −5% Jul-27, Nasdaq −2.9%). Laggards = Comm Services, Consumer Discretionary. Recurring miss pattern = confirmed leaders perpetually **extended or pinned 0.2–0.5R under their 20d high (2R in air)** — GM the poster child for 2+ weeks — while the movers list is reverse-split/quantum micro-cap pumps + M&A buyouts we correctly never chase. New wrinkle: the inverse sleeve shows the SAME extended/unconfirmed pattern. Fix unchanged: demand break-with-room or pullback-to-rising-20d (or, short side, a confirmed rising inverse with room); never override the R:R-at-highs gate; respect the FOMC/PCE/megacap-earnings binary wall this week.
+
 ## 2026-07-27 — Scorecard (prior session 2026-07-23)
 
 **Our picks (1d = Jul-23 → Jul-24 close, the move since that read):**
