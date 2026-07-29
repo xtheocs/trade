@@ -440,3 +440,10 @@ drawdown are measured from here.
 | (none — 100% cash) | | | | | | |
 
 **Notes:** Nineteenth-ish straight no-trade day (no EOD/midday routine logged for Jul 23 or 28's own midday, but account confirmed flat both times). Account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Jul 27–28 all no-trade). FOMC Wednesday and GDP/PCE Thursday are the near-term catalysts, alongside MSFT/META/AAPL/AMZN earnings this week — capital stays fully idle awaiting a setup that clears both quant confirmation and the 2:1 R:R filter. Tomorrow: pre-market weighs FOMC positioning and any fresh earnings reactions.
+
+---
+
+### Jul 29 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime risk_off but shallow, SPY ~0.5% under a flat 50d; SQQQ 4/5 but 2.54 ATR extended, pinned 0.33R under high; SH 4/5 fails volume; SPXU 5/5 non-extended but pinned 0.35R under high, 2R in breakout air; FOMC decision 2pm ET + MSFT/META/QCOM earnings tonight + GDP/PCE tomorrow — no fresh leveraged risk into stacked binaries). Weekly trades used: 0/3.
