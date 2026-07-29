@@ -944,3 +944,33 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 20th straight no-trade session. Regime flipped risk_off but on a shallow break (SPY ~0.8% under a flat 50d; "not yet a confirmed breakdown"), and the inverse sleeve that would express it fails the filter: SQQQ 4/5 but 2.21 ATR extended and pinned 0.27R under its 20d high (2R +19.8% in air) after a +13% run; SH/SPXU 3/5 with sma20 still falling (SPY not in a confirmed downtrend). Layered on: FOMC Wed + GDP/PCE Thu + MSFT/META/AAPL/AMZN earnings — initiating a 3x leveraged inverse the day before four stacked binaries is exactly the fresh-binary-risk the strategy forbids; a Fed hold or a megacap beat could snap the tape up and gut the short. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: a decisive SPY close below the 50d with follow-through (real confirmed downtrend) AFTER the Fed/earnings dust settles → then a non-extended inverse setup with room; on the long side, GM basing/pulling back to its rising 20d, NVDA reclaiming its 20d only if the tape stabilizes.
+
+---
+
+## 2026-07-29 — Pre-market
+
+### Account
+- Equity: $1,068.31 / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak ($1,089.01): −1.90% — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_OFF** (SPY $740.795 < 50-day SMA $744.82, 50d not rising). No new long equity. Inverse sleeve (SQQQ/SH/SPXU) sanctioned — but only on a confirmed downtrend with a clean, non-extended setup and 2:1 room.
+
+### Market Context
+- Broad tape: shallow risk_off. SPY only ~0.5% under a flat 50d; Perplexity reads it as a **leadership unwind, NOT a confirmed breakdown**. S&P futures inching UP premarket (+0.2%) ahead of the Fed. NVDA/semis cracked again on China chip-progress fears (Nasdaq 100 −1%) while Dow rose ~1% — crowded-AI-trade unwind, not panic.
+- Leadership: Info-Tech / Comm Services / Consumer Discretionary (growth tilt) lead the week; Semis lead the DOWNSIDE. Laggards: Utilities, Healthcare. Energy leadership broken by oil de-escalation.
+- Binary wall — TODAY: **FOMC decision Wed Jul-29 2pm ET** (hold expected), **MSFT/META/QCOM earnings tonight**, **Q2 GDP + June PCE Thu Jul-30**. Stacked binaries — no fresh (leveraged) risk into them.
+
+### Candidates (inverse sleeve — risk_off sanctioned; all confirmed but fail the entry filter)
+- **SQQQ** (inverse ETF, 3x) — catalyst: risk_off, Nasdaq/semis leadership unwind — quant **4/5** (fails not_extended; last $46.54, sma20 $40.68 rising, ret_10d +20.5%, ATR $2.303, risk/sh $4.606, stop $41.93, hi_20d $48.05, vol 1.10×) — **rejected**: 2.54 ATR extended; pinned 0.33R under its 20d high; 2R target $55.75 (+19.8%) in air → R:R fails 2:1. Already ran +20% in 10d; initiating a 3x inverse on FOMC day into megacap earnings = fresh binary risk.
+- **SH** (inverse ETF, 1x) — catalyst: same risk_off — quant **4/5** (fails volume 0.88×; last $33.42, sma20 $33.09 rising, ret_10d +1.8%, ATR $0.300, risk/sh $0.599, stop $32.82, hi_20d $33.63) — **rejected**: pinned 0.35R under its 20d high; 2R target $34.62 above the high in air; weak volume = no conviction. R:R fails.
+- **SPXU** (inverse ETF, 3x) — catalyst: same — quant **5/5** (last $38.235, sma20 $37.24 rising, ret_10d +5.0%, ATR $1.037, risk/sh $2.074, stop $36.16, hi_20d $38.97, vol 1.93×) — **rejected**: pinned 0.35R under its 20d high; 2R target $42.38 (+10.8%) in unproven breakout air → R:R fails 2:1. Otherwise the cleanest inverse setup — but on FOMC/earnings day the binary wall forbids the leveraged entry.
+
+### Rejected
+- SQQQ / SH / SPXU — confirmed 4–5/5 but each pinned 0.33–0.35R under its 20d high (2R in air); SQQQ also 2.54 ATR extended; plus FOMC + megacap-earnings binary wall today
+- Long equity — regime risk_off, not sanctioned
+- Movers (VRAX/MWG/SLND premarket pumps; DFNS reverse-split day-2; INLF/BIYA micro-cap spikes; TRIB illiquid 846 sh; SNDQ structured-fund churn) — un-tradeable
+
+### Decision
+**HOLD** — 21st straight no-trade session. Regime risk_off but shallow (SPY ~0.5% under a flat 50d; "leadership unwind, not a confirmed breakdown"; S&P futures up premarket). The inverse sleeve that would express it fails the filter: SQQQ 4/5 but 2.54 ATR extended and pinned 0.33R under its high (2R +19.8% in air) after a +20% run; SH 4/5 but weak volume and pinned near its high; SPXU 5/5 and non-extended but pinned 0.35R under its high with the 2R target (+10.8%) in unproven breakout air. Layered on: **FOMC decision today 2pm ET + MSFT/META/QCOM earnings tonight + GDP/PCE tomorrow** — initiating a 3x inverse into four stacked binaries is exactly the fresh-binary-risk the strategy forbids; a Fed hold or a megacap beat could snap the tape up and gut the short. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: a decisive SPY close below the 50d with follow-through (confirmed downtrend) AFTER the Fed/earnings dust settles → a non-extended inverse setup with real room; on the long side, GM basing/pulling back to its rising 20d, semis stabilizing.

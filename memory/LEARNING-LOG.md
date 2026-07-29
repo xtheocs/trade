@@ -13,6 +13,29 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-29 — Scorecard (prior session 2026-07-28)
+
+**Our picks (1d = Jul-27 → Jul-28 close, the move since that read):**
+- SQQQ (inverse ETF) — decision **REJECTED** (2.21 ATR extended, pinned 0.27R under 20d high, 2R in air) — actual 1d **+2.94%** ($46.54 vs $45.21) — verdict **ran without us** — risk_off deepened (Nasdaq 100 −1% on China chip-progress/NVDA selloff), SQQQ pushed to $46.54 and is now even MORE extended (2.54 ATR over its 20d). The entry never opened at a non-extended price — exactly the setup we don't chase.
+- SH (inverse ETF, 1x) — decision **REJECTED** (3/5, sma20 falling) — actual 1d **−0.21%** ($33.42 vs $33.49) — verdict **correct/flat** — the 1x inverse barely moved; skipping an unconfirmed setup was right.
+- SPXU (inverse ETF, 3x) — decision **REJECTED** (3/5, sma20 falling) — actual 1d **−0.71%** ($38.235 vs $38.51) — verdict **correct** — S&P held firmer than Nasdaq, so the 3x S&P inverse faded even as SQQQ rose.
+
+**Day's top tradeable gainers (Jul-28, ≥$5, no warrants/units/rights):**
+- DFNS +83.2% ($24.00) — T3 Defense — day-2 of a 1-for-125 reverse-split float-contraction pump ($4.55 Jul-24 → $13.83 Jul-27 → $24 Jul-28) — no fresh catalyst — skip
+- INLF +61.6% ($5.30) — micro-cap spike off $3, no verified catalyst — skip
+- BIYA +54.4% ($6.44) — micro-cap spike, no durable catalyst — skip
+- TRIB +36.1% ($12.45) — Trinity Biotech — only 846 shares traded — un-tradeable (illiquid)
+- SNDQ +29.0% ($53.20) — structured/leveraged fund churn (a 29% single-day move ≠ diversified ETF) — un-buyable
+
+**Best realistic miss:** None cleanly tradeable. The entire ≥$5 gainer list is reverse-split pumps (DFNS), micro-cap spikes (INLF/BIYA), an illiquid biotech (TRIB, 846 sh), and structured-fund churn (SNDQ). No durable large-cap catalyst on the movers list — the same pattern as the whole month.
+
+**Lessons:**
+- **risk_off deepened but stayed a leadership unwind, not a broad breakdown.** NVDA/semis cracked again on China chip-progress fears (Nasdaq 100 −1%) while the Dow rose ~1% and the S&P was flat-to-up — a crowded-AI-trade unwind, not panic. Our SQQQ read (extended, don't chase) held: it ran +2.9% only because it was already extended.
+- **The inverse sleeve is STILL pinned under its 20d high with 2R in air.** SQQQ 4/5 but now 2.54 ATR extended, 0.33R under its high; SH 4/5 and SPXU 5/5 but each pinned ~0.35R under its 20d high → 2R target lands in unproven breakout air. Same R:R-at-highs wall, short side.
+- **FOMC + megacap-earnings day forbids fresh leveraged risk.** Fed decision today 2pm ET (hold expected), MSFT/META/QCOM tonight, GDP/PCE tomorrow — a hold or a megacap beat could snap the tape up and gut a 3x inverse. Don't initiate into stacked binaries.
+
+**Rolling 7d:** recurring leading sectors = **Info-Tech / Comm Services / Consumer Discretionary** (growth tilt this week) but **Semis lead the DOWNSIDE** (NVDA/chip selloff on China progress — 3rd stress-test in a week); Energy leadership broken by oil de-escalation; Industrials (GM) hopelessly extended. Laggards = Utilities, Healthcare. Recurring miss pattern = confirmed leaders (long AND inverse) perpetually **extended or pinned 0.2–0.5R under their 20d high (2R in air)**, while the movers list stays reverse-split/micro-cap pumps + structured-fund churn we correctly never chase. Fix unchanged: demand break-with-room or pullback-to-rising-20d; never override the R:R-at-highs gate; respect the FOMC/PCE/megacap-earnings binary wall.
+
 ## 2026-07-28 — Scorecard (prior session 2026-07-27)
 
 **Our picks (1d = Jul-24 → Jul-27 close, the move since that read):**
