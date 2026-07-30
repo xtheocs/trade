@@ -458,3 +458,10 @@ drawdown are measured from here.
 **Notes:** Another no-trade day, account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Midday scan held the pre-market decision: regime risk_off but shallow (SPY ~0.5% under a flat 50d SMA); SQQQ 4/5 confirmed but 2.54 ATR extended and pinned 0.33R under its high; SH 4/5 failed volume; SPXU 5/5 clean but pinned 0.35R under high with 2R already in breakout air — none cleared the 2:1 R:R filter, and no fresh leveraged risk was taken into stacked binaries (FOMC decision 2pm ET today, MSFT/META/QCOM earnings tonight, GDP/PCE tomorrow). Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Jul 27–29 all no-trade). Tomorrow: pre-market weighs the FOMC reaction and overnight MSFT/META/QCOM earnings prints, plus GDP/PCE data, for any setup that finally clears both quant confirmation and the 2:1 R:R filter.
 
 ---
+
+### Jul 30 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime decisive risk_off post Jul-29 hawkish-Fed selloff; SDOW 5/5 non-extended but pinned 0.09R under high, 2R in air; SQQQ/SPXU/SH 4/5 but 2.3–3.4 ATR extended after the pop; GDP/PCE today + AAPL/AMZN earnings tonight — no fresh leveraged risk into stacked binaries). Weekly trades used: 0/3.
+
+---
