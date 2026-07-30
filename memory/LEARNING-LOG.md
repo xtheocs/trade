@@ -13,6 +13,31 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-30 — Scorecard (prior session 2026-07-29)
+
+**Our picks (1d = Jul-28 → Jul-29 close, the move since that read):**
+- SQQQ (inverse ETF, 3x) — decision **REJECTED** (2.54 ATR extended, pinned 0.33R under 20d high, 2R in air) — actual 1d **+6.28%** ($49.46 vs $46.54) — verdict **ran without us** — hawkish Fed cracked the tape; SQQQ punched to a new 20d high $49.46 and is now 3.35 ATR extended. Entry never opened non-extended — the setup we don't chase.
+- SH (inverse ETF, 1x) — decision **REJECTED** (4/5, weak volume, pinned near high) — actual 1d **+1.56%** ($33.94 vs $33.42) — verdict **ran (modest)** — the 1x moved but only to its 20d high; still no non-extended entry.
+- SPXU (inverse ETF, 3x) — decision **REJECTED** (5/5 but pinned 0.35R under 20d high, 2R in air) — actual 1d **+4.43%** ($39.93 vs $38.235) — verdict **ran without us** — the cleanest read ran to a new high; R:R-at-highs kept us out on FOMC day (correct process, missed the move).
+
+**Day's top tradeable gainers (Jul-29, ≥$5, no warrants/units/rights):**
+- TSIB +140.6% ($24.21) — micro-cap pump, no durable catalyst — skip
+- DFNS +109.3% ($50.22) — T3 Defense reverse-split float-contraction pump (now day 4+, $4.55→$50) — no fresh catalyst — skip
+- SPRC +70.5% ($9.09) — micro-cap spike, no verified catalyst — skip
+- HURN +40.4% ($170.37) — Huron Consulting — earnings/guidance beat (prof services) — real name but a +40% one-day gap
+- IREZ +27.1% ($39.22) — micro-cap spike, no verified catalyst — skip
+
+**Losers (≥$5):** PSN −35.0% ($40.32, Parsons — guidance/earnings miss); LMNX −48.2% ($7.30); VRTL −34.3% ($21.26); VRC −34.2% ($12.57); HIMC −30.1% ($11.97).
+
+**Best realistic miss:** HURN +40.4% — prof services — earnings beat is a real catalyst, but a +40% single-day gap is wildly over-extended (2R in air, fails not_extended and R:R) → correctly un-chaseable. And the day was risk_off / long-only forbids the short side. No clean miss.
+
+**Lessons:**
+- **Hawkish Fed = the breakdown catalyst.** Fed held but 3 dissents favored a HIKE; 30yr yields hit a ~2-decade high; Iran/oil added pressure → Dow −2.19% (worst in 15mo, −1,150pts, CAT −7%), S&P −1.52%, Nasdaq 100 into correction (>11% off peak). Regime now decisively risk_off (SPY $729.57, ~2% under a falling 50d). Our inverse read was directionally right (SQQQ/SPXU/SH +1.6–6.3%).
+- **Inverse sleeve STILL fails R:R-at-highs.** After the pop all four (SQQQ/SPXU/SH/SDOW) sit AT their 20d highs → 2R lands in breakout air. SDOW alone is 5/5 + non-extended (the Dow led the drop) but is pinned 0.09R under its high — same 2R-in-air wall, short side. Never chased them extended, never overrode §5.
+- **A one-day drop isn't a confirmed downtrend.** Futures bounced Wed night on MSFT earnings (S&P +0.3%); GDP/PCE today + AAPL/AMZN tonight are live binaries. Don't initiate a 3x inverse at its high into a possible reversal.
+
+**Rolling 7d:** recurring leading sectors = now a **DEFENSIVE tilt** (Energy, Consumer Defensive least-weak) as **Industrials (Dow/CAT) and Tech/Semis lead the DOWNSIDE** (Nasdaq 100 in correction); the growth leadership of last week fully unwound. Laggards = Industrials, Technology, Semis. Recurring miss pattern = confirmed leaders (long AND inverse) perpetually **pinned 0–0.4R under their 20d high with 2R in breakout air**; movers list stays reverse-split/micro-cap pumps (DFNS/TSIB/SPRC) + the occasional real earnings gap too extended to chase (HURN +40%). Fix unchanged: demand break-with-room or pullback-to-rising-20d; never override the R:R-at-highs gate; respect the GDP/PCE + AAPL/AMZN binary wall.
+
 ## 2026-07-29 — Scorecard (prior session 2026-07-28)
 
 **Our picks (1d = Jul-27 → Jul-28 close, the move since that read):**

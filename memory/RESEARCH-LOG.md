@@ -974,3 +974,35 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 21st straight no-trade session. Regime risk_off but shallow (SPY ~0.5% under a flat 50d; "leadership unwind, not a confirmed breakdown"; S&P futures up premarket). The inverse sleeve that would express it fails the filter: SQQQ 4/5 but 2.54 ATR extended and pinned 0.33R under its high (2R +19.8% in air) after a +20% run; SH 4/5 but weak volume and pinned near its high; SPXU 5/5 and non-extended but pinned 0.35R under its high with the 2R target (+10.8%) in unproven breakout air. Layered on: **FOMC decision today 2pm ET + MSFT/META/QCOM earnings tonight + GDP/PCE tomorrow** — initiating a 3x inverse into four stacked binaries is exactly the fresh-binary-risk the strategy forbids; a Fed hold or a megacap beat could snap the tape up and gut the short. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: a decisive SPY close below the 50d with follow-through (confirmed downtrend) AFTER the Fed/earnings dust settles → a non-extended inverse setup with real room; on the long side, GM basing/pulling back to its rising 20d, semis stabilizing.
+
+---
+
+## 2026-07-30 — Pre-market
+
+### Account
+- Equity: $1,068.31 / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak ($1,089.01): −1.90% — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_OFF** (SPY $729.57 < 50-day SMA $744.63, falling). Now a decisive break (~2% under the 50d) after Jul-29's hawkish-Fed selloff. No new long equity. Inverse sleeve (SQQQ/SH/SPXU/SDOW) sanctioned — but only on a non-extended setup with real 2:1 room.
+
+### Market Context
+- Jul-29 sharp selloff: **hawkish Fed** (held, but 3 dissents favored a HIKE) + **30yr yields to a ~2-decade high** + **Iran/Middle-East tension & oil up** → Dow **−2.19%** (worst day in 15 months, −1,150pts; CAT −7%), S&P **−1.52%** (index ~7,316 / SPY $729.57), Nasdaq Composite −1.74%; **Nasdaq 100 entered correction** (>11% off its June peak).
+- Leadership: **defensive** — Energy / Consumer Defensive least-weak; **Industrials −3.42% and Technology −2.36% weakest**, chips/semis leading the decline. Growth leadership fully unwound.
+- Caveat: **futures bounced Wed night** on MSFT earnings (S&P futures +0.3%); Jul-29 was nearly the biggest Fed-day intraday reversal since 2003. Perplexity: "**not yet a confirmed downtrend**" — one sharp day, needs follow-through.
+- Binary wall TODAY: **Q2 GDP + June PCE** this morning; **AAPL / AMZN earnings tonight**. No fresh leveraged risk into stacked binaries.
+
+### Candidates (inverse sleeve — risk_off sanctioned; all confirmed but fail the entry filter)
+- **SDOW** (inverse ETF, 3x Dow) — catalyst: risk_off, Dow led the selloff (−2.19%, industrials weakest) — quant **5/5** (last $25.24, sma20 $24.17 rising, ret_10d +6.1%, ATR $0.768, risk/sh $1.536, stop $23.70, hi_20d $25.38, vol 1.93×) — **rejected**: cleanest read but pinned 0.09R under its 20d high; 2R target $28.31 (+12%) in unproven breakout air → R:R fails 2:1. A 3x inverse at its high into GDP/PCE + AAPL/AMZN, with futures already bouncing on MSFT.
+- **SQQQ** (inverse ETF, 3x) — catalyst: same, Nasdaq 100 in correction — quant **4/5** (fails not_extended; last $49.46 = new 20d high, sma20 $41.34 rising, ret_10d +26.9%, ATR $2.427, risk/sh $4.854, stop $44.61, vol 1.14×) — **rejected**: 3.35 ATR extended after a +6.3% pop; 2R $59.17 in air. Textbook don't-chase.
+- **SPXU** (inverse ETF, 3x) — catalyst: same — quant **4/5** (fails not_extended; last $39.93, sma20 $37.38 rising, ret_10d +10.6%, ATR $1.119, risk/sh $2.237, stop $37.69, hi_20d $40.065, vol 1.27×) — **rejected**: 2.28 ATR extended, pinned 0.06R under high, 2R $44.40 in air.
+- **SH** (inverse ETF, 1x) — catalyst: same — quant **4/5** (fails not_extended; last $33.94, sma20 $33.14 rising, ret_10d +3.6%, ATR $0.323, risk/sh $0.645, stop $33.30, hi_20d $33.95, vol 1.03×) — **rejected**: at its 20d high, 2R $35.23 above the high in air.
+
+### Rejected
+- SDOW / SQQQ / SPXU / SH — confirmed 4–5/5 but each pinned 0–0.09R at/under its 20d high (2R in breakout air → fails 2:1); SQQQ/SPXU/SH also 2.3–3.4 ATR extended after the pop; plus GDP/PCE + AAPL/AMZN binary wall today and futures bouncing on MSFT
+- Long equity — regime risk_off, not sanctioned
+- Movers (TSIB/SPRC/IREZ micro-cap pumps; DFNS reverse-split pump day-4; HURN +40% real earnings gap but wildly over-extended, un-chaseable) — un-tradeable
+
+### Decision
+**HOLD** — 22nd straight no-trade session. Regime finally decisive risk_off (SPY $729.57 ~2% under a falling 50d) after Jul-29's hawkish-Fed selloff — but the inverse sleeve that would express it fails the filter: SDOW 5/5 and non-extended (Dow led the drop) yet pinned 0.09R under its high with the 2R target (+12%) in unproven breakout air; SQQQ/SPXU/SH 4/5 but 2.3–3.4 ATR extended after a +1.6–6.3% one-day pop, all at/near their highs with 2R in air. Layered on: futures already bounced Wed night on MSFT earnings (not yet a confirmed downtrend), and GDP/PCE this morning + AAPL/AMZN tonight are stacked binaries — chasing a 3x inverse at its high into a possible reversal is exactly the fresh-binary-risk the strategy forbids. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: follow-through lower today/tomorrow that pulls an inverse ETF back to its rising 20d (or breaks cleanly above with real 2R room), AFTER the GDP/PCE data and AAPL/AMZN prints settle.
