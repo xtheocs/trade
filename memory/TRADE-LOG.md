@@ -476,3 +476,10 @@ drawdown are measured from here.
 **Notes:** No-trade day, account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Midday scan held the pre-market decision: regime decisive risk_off following Jul-29's hawkish-Fed selloff; SDOW confirmed 5/5 non-extended but pinned 0.09R under its high with 2R already in breakout air; SQQQ/SPXU/SH confirmed 4/5 but 2.3–3.4 ATR extended after the pop — none cleared the 2:1 R:R filter, and no fresh leveraged risk was taken into stacked binaries (GDP/PCE today, AAPL/AMZN earnings tonight). Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Jul 27–30 all no-trade). Tomorrow: pre-market weighs the GDP/PCE prints and overnight AAPL/AMZN earnings reactions, plus whether the risk_off regime holds or reverses, for any setup that finally clears both quant confirmation and the 2:1 R:R filter.
 
 ---
+
+### Jul 31 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime neutral post Jul-30 MSFT/AMZN-driven rebound; XLV/XLF 5/5 non-extended but pinned 0.4–0.9R under 20d high, 2R in breakout air; GEHC 4/5 same wall; TER/MANH +10% earnings gaps with broken/stalled trends, ~1R to resistance — none clear 2:1 R:R). Weekly trades used: 0/3.
+
+---
