@@ -469,3 +469,67 @@ Template for each entry:
 
 ### Overall Grade: C+
 *(Process A — a sixth week with every risk rule respected, the regime gate flipping to risk_on on cue, and the R:R filter vindicated again as leaders confirmed only at their highs. But the result is a sixth straight flat week and fourth zero-trade week with no down-tape to make cash a relative win, and — most tellingly — the two conditions the prior reviews kept waiting for (risk_on + a semi turn) both arrived this week and the book still couldn't find an entry. That isolates the constraint to entry geometry the market has withheld for a month, and points the next lever at execution (standing pullback triggers) rather than the rules. Survival fully intact; compounding still absent — process A, outcome D, average C+.)*
+
+---
+
+## Week ending 2026-07-31
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,068.31 (Mon Jul-27 open) |
+| Ending portfolio | $1,068.31 (Fri Jul-31) |
+| Week return | +$0.00 (0.00%) |
+| Peak equity (week) | $1,068.31 · max intra-week DD 0.00% |
+| S&P 500 week | +1.0% (7,412 → 7,489.72; −1.5% FOMC drop Jul-29, fully recovered by Fri) — FYI only |
+| Bot vs S&P | ≈ −1.0% (100% cash into a modestly-up, whippy tape — FYI context, NOT the goal) |
+| Trades | 0 (W:0 / L:0 / open:0) — none opened, none closed |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A (no positions) |
+| Worst trade | N/A (no positions) |
+| Profit factor | N/A (no closed trades) |
+| Avg R multiple | N/A (no closed trades) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades — 100% cash entire week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| (none — 100% cash) | — | — | — | — |
+
+### What Worked
+- **Held cash straight through the FOMC binary and every mega-cap print — and it was the correct read.** The Jul-29 Fed decision was hawkish; SPY fell −1.5% intraday (7,428 → 7,316) and the routine took zero fresh leveraged risk into the stacked cluster (FOMC 2pm + MSFT/META/QCOM Wed night + GDP/PCE Thu + AAPL/AMZN Thu night). No fractional entry with no overnight stop into a week of binaries.
+- **The regime gate flipped risk_off on cue and the routine correctly rotated its scan to the inverse sleeve** — SQQQ/SPXU/SDOW/SH — rather than forcing a long into a falling tape or sitting blind. The gate did exactly its job: risk_on → neutral → decisive risk_off across the week as SPY lost its flat 50d post-FOMC.
+- **The R:R 2:1 filter vindicated a seventh straight week — now in BOTH directions.** Every inverse name that confirmed was either pinned under its 20d high with 2R in breakout air (SPXU 5/5 at 0.35R, SDOW 5/5 at 0.09R under high) or 2.3–3.4 ATR over-extended after the post-FOMC pop (SQQQ/SH 4/5). The same "confirms only at the extreme, 2R lands in air" geometry that blocked longs for six weeks blocked the shorts too — so the filter kept the book out of a chase in a direction where a whipsaw-recovery Friday would have hurt.
+- **Zero rule violations for a seventh week.** 0/3 weekly trades, heat 0%, drawdown −1.90% « 20% breaker. No inverse-sleeve error despite risk_off (the sleeve requires a *tradeable* setup, not just a down regime — none cleared R:R). Patience > activity, as written.
+
+### What Didn't Work
+- **A flat week — seventh straight with no compounding, fifth straight zero-trade week.** Phase P&L stuck at −$11.69 (−1.08%); ~25 trading days now idle since the SMH time-stop exit (Jun 26). Correct by the rules, but zero absolute progress toward the ~10%/month stretch, and unlike the −1.6% week (Jul-17) there was no sustained down-tape to make cash a relative win — the FOMC drop recovered by Friday and the S&P closed +1.0%.
+- **The regime finally turned risk_off and the downside sleeve STILL produced no entry.** For weeks the note was "if SPY loses a rising 50d into a confirmed downtrend, the inverse sleeve is the catalyst." That condition arrived post-FOMC — and every inverse ETF confirmed either pinned under its high (2R in air) or over-extended off the pop. The same entry-geometry wall that blocks longs blocks shorts; a supportive *direction* no more manufactures a setup than a supportive regime did.
+- **Standing-pullback-trigger idea (codified last week) again produced nothing.** The "watch" items (GM/NVDA pullbacks; inverse-sleeve pullbacks to a rising 20d) never tagged a level that cleared 2:1 intraday. Second week of the execution refinement in effect, still zero conversions — the market simply did not offer the shape in either direction.
+- **Capital 100% idle for a seventh week running.** The book has averaged ~1 name across the entire phase and is currently zero. Selectivity is right and it dodged the FOMC air-pocket, but the account is still not being put to work, and a whippy-but-net-up week is the least flattering backdrop for that.
+
+### Key Lessons
+- **The binding constraint is entry geometry, and it is now proven symmetric.** Six weeks of longs failing 2:1 "at the 20d high, 2R in air" could be read as a semis/tech-leadership quirk. This week the tape flipped, the scan flipped to inverse ETFs, and they failed 2:1 for the *identical* structural reason. That rules out "wrong sector / wrong direction" — the market is in a mode where names confirm only *at* their extreme, so a 4×ATR (2R) objective always lands in unproven air, long or short. No rule and no regime fixes that; only a pullback/base with room does.
+- **A hawkish-Fed air-pocket that recovers by Friday is exactly why we don't chase the inverse sleeve at the extreme.** Had the routine bought SQQQ/SPXU into the Jul-29 drop (already 2.3–3.4 ATR extended), the Jul-30/31 recovery would have stopped or bled it. Risk_off is a *permission*, not a *setup* — the same R:R discipline that governs longs governs the downside, and it was right again.
+- **Cash was neither hero nor villain this week — it was a mild opportunity cost.** −1.0% vs a whippy +1.0% S&P is the cost of no qualifying entry in a week that both dropped hard and recovered hard. The absolute-return mandate says seven flat weeks is a real (survivable) drag; the honest read stays "process A, outcome D."
+- **Seven weeks isolates the diagnosis to a single, now-symmetric fact: the 2×ATR/2:1 geometry is structurally hard to satisfy on a tape that only confirms at extremes.** This is the strongest signal yet that the *next* lever — if the standing-trigger execution fix keeps converting nothing — is a rule-level look at the geometry, not another sourcing tweak. Not this week (see Strategy File Changes), but the threshold is now explicit and close.
+
+### Adjustments for Next Week
+- **Keep the standing pullback/breakout triggers, and apply them to BOTH sleeves.** If risk_off persists, pre-record the exact inverse-ETF level where a *pullback to a rising 20d* (not the post-FOMC extreme) clears 2:1 with room; if the tape re-firms risk_on, do the same for the long leaders. The qualifying setup — long or short — is a retrace-to-support with air, never the confirmation candle at the extreme.
+- **Regime gate first Monday.** SPY closed ~7,489, chopping around a flat 50d after the FOMC round-trip — read neutral/uncertain, not cleanly risk_off. Trade long only on a real pullback-setup; scan the inverse sleeve only if SPY loses the 50d into a *confirmed, sustained* downtrend (this week's one-day drop that recovered is not that). Don't whipsaw the sleeve on chop.
+- **Watch the post-earnings dust.** MSFT/META/AAPL/AMZN/QCOM all reported this week — next week's bases/pullbacks off those reactions are the most likely place a clean room-to-target long finally appears. Prioritize names that *based* after the print over anything gapping to a new high.
+- **Explicit rule-review threshold set.** The standing-trigger execution fix is now two weeks old with zero conversions in either direction. If it converts nothing over the next 2–3 weeks *while continuing to correctly refuse extended names*, the Jul-31 review is the point of record that a rule-level look at the 2×ATR/2:1 geometry (e.g. whether a slightly tighter structural stop or a 1.75:1 floor on the tightest-ATR vehicles is warranted) becomes the agenda — not a loosening done in haste, a deliberate, data-backed evaluation.
+- **Don't force a trade to break the streak.** Full $1,068.31 buying power, 0/3 weekly trades, heat 0%, DD −1.90%. Add ONE name only if it clears catalyst + 3/5 quant + 2:1 R:R + allowing regime; zero remains valid — this week's FOMC air-pocket-then-recovery is fresh proof that forcing an entry (either direction) at an extreme loses money.
+
+### Strategy File Changes
+- **None to the hard rules this week — but the case for a future rule-level review is now materially stronger and its threshold is written down.** Seven weeks of clean, repeatedly-rewarded discipline (3% risk, 2×ATR stop, 2:1 minimum, heat/sleeve caps, regime gate) is still not grounds to loosen anything *this* week — the R:R filter was vindicated a seventh time, and for the first time in *both* directions (longs at their highs for six weeks; inverse ETFs at their highs / over-extended this week). Amending the geometry now, on the very week the filter kept the book out of a hawkish-Fed chase that recovered by Friday, would be textbook single-week churn. **What changed is the diagnosis, not the verdict:** the constraint is no longer plausibly "wrong sector" or "wrong direction" — it is proven *symmetric* entry geometry, i.e. a tape that confirms names only at their extremes so a 4×ATR (2R) target always sits in unproven air. The execution fix (standing pullback triggers) is two weeks old with zero conversions. **The rule this week is: hold the line one more evaluation window.** If the standing-trigger approach converts nothing over the next 2–3 weeks while still correctly refusing extended names, *that* is the trigger — set explicitly here — to evaluate a narrow geometry refinement (a structural-support stop tighter than a blind 2×ATR on the lowest-ATR vehicles, or a 1.75:1 floor reserved for those vehicles), never a broad loosening of the 3%/2:1/heat framework that has kept the account fully intact through seven weeks and a hawkish Fed.
+
+### Overall Grade: C+
+*(Process A — a seventh week with every risk rule respected, the regime gate flipping risk_off on the hawkish FOMC exactly as written, and the R:R filter vindicated a seventh time and now in BOTH directions: it kept the book out of an inverse-sleeve chase into a Jul-29 air-pocket that fully recovered by Friday. But the result is a seventh straight flat week and fifth zero-trade week, with no sustained down-tape to make cash a relative win — −1.0% vs a whippy +1.0% S&P is a mild opportunity cost, not a victory. The one genuinely new datapoint: the regime finally turned risk_off, the scan correctly rotated to the inverse sleeve, and it STILL found no entry — proving the constraint is symmetric entry geometry, not sector or direction. Survival fully intact; compounding still absent — process A, outcome D, average C+. The rule-review threshold is now explicit and two weeks from firing.)*
