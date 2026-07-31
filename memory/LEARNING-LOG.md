@@ -13,6 +13,31 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-07-31 — Scorecard (prior session 2026-07-30)
+
+**Our picks (1d = Jul-29 → Jul-30 close, the move since that read):**
+- SDOW (inverse ETF, 3x Dow) — decision **REJECTED** (5/5 but pinned 0.09R under 20d high, 2R in air) — actual 1d **−3.39%** ($24.385 vs $25.24) — verdict **dodged-loss** — market rebounded; the 3x inverse faded off its high. R:R-at-highs gate kept us out of a loss.
+- SQQQ (inverse ETF, 3x) — decision **REJECTED** (3.35 ATR extended, 2R in air) — actual 1d **−9.95%** ($44.54 vs $49.46) — verdict **dodged-loss** — biggest reversal; MSFT/AMZN earnings snapped the tape up, gutting the 3x short exactly as feared. Not chasing extended = a real loss avoided.
+- SPXU (inverse ETF, 3x) — decision **REJECTED** (4/5, 2.28 ATR extended) — actual 1d **−4.78%** ($38.02 vs $39.93) — verdict **dodged-loss** — faded with the rebound.
+- SH (inverse ETF, 1x) — decision **REJECTED** (4/5, weak volume, at high) — actual 1d **−1.62%** ($33.39 vs $33.94) — verdict **dodged-loss** — 1x inverse eased off its high.
+
+**Day's top tradeable gainers (Jul-30, ≥$5, no warrants/units/rights):**
+- PN +120.8% ($23.67) — one-day +120% gap, no verified durable catalyst — un-chaseable, skip
+- DFNS +69.2% ($84.98) — T3 Defense reverse-split float-contraction pump, now day 5+ ($4.55→$85) — skip
+- IREX +61.3% ($13.40) / IREG +60.3% ($7.55) / IRE +59.7% ($9.42) / IREC +57.9% ($20.38) — structured leveraged single-stock ETN family churn (mirrored by IREZ −61% loser) — skip
+- CIFG +59.5% ($9.50) / BEC +55.6% ($11.62) / NBIC +54.9% ($16.62) / KEEX +54.8% ($44.58) / WYFL +54.7% ($10.98) / AXTC +54.3% ($10.89) — same structured-ETN pair churn (mirrored by BEZ/NBIZ −52/−54% losers) — skip
+
+**Losers (≥$5):** IREZ −61.2% ($15.20); NBIZ −54.1% ($19.54); BEZ −53.0% ($12.65); SNDQ −52.4% ($28.93); CCB −43.5% ($39.91) — the structured-ETN short legs + one bank.
+
+**Best realistic miss:** None clean. PN +120.8% is the only large non-structured gainer but a +120% one-day gap is wildly over-extended (fails not_extended + R:R) with no verified durable catalyst → correctly un-chaseable. Real single-name earnings catalysts (TER/GEHC/MANH ~+10%) print Jul-31, not Jul-30. No miss.
+
+**Lessons:**
+- **Regime snapped risk_off→neutral and vindicated the R:R-at-highs gate.** SPY rebounded to $741.63 (from $729.57) on MSFT +16% (Azure) and AMZN +9% earnings; all four inverse ETFs we rejected FELL 1.6–9.9% (SQQQ −9.95%). Refusing to chase a 3x inverse at its high into stacked binaries dodged real losses — best validation of the process yet.
+- **Movers list = structured leveraged-ETN pair churn** (IREX/IREG/IRE/IREC/CIFG/BEC/NBIC/KEEX/WYFL/AXTC all ~+55–61%, mirrored by −50%+ short legs) plus a day-5 reverse-split pump (DFNS). Zero real single-name catalysts — same un-tradeable garbage, just a new family.
+- **The rebound recreates the 2R-in-air wall on the LONG side.** Everything snapped back near its 20d high, so the confirmed leaders (XLV/XLF 5/5, GEHC 4/5) are now pinned 0.4–0.9R under their highs with 2R in breakout air — the same R:R wall, flipped from inverse to long.
+
+**Rolling 7d:** recurring leading sectors = leadership rotated hard — last week's defensive/inverse risk_off tilt flipped back to **Financials + Health Care + Industrials** leading (Reuters: healthcare +14% / financials +12% since the June high), with **Tech (MSFT/AMZN) re-leading on AI-cloud earnings**; growth-vs-defensive whipsawing week to week. Recurring miss pattern = confirmed leaders perpetually **pinned 0–0.9R under their 20d high (2R in air)** — now on BOTH the long snap-back and the faded inverse side; movers list stays structured-ETN churn + reverse-split pumps (DFNS) + occasional +10–120% earnings/unexplained gaps too extended to chase. Fix unchanged: demand break-with-room or pullback-to-rising-20d; never override R:R-at-highs; respect the jobs-report + heavy-earnings binary week ahead.
+
 ## 2026-07-30 — Scorecard (prior session 2026-07-29)
 
 **Our picks (1d = Jul-28 → Jul-29 close, the move since that read):**

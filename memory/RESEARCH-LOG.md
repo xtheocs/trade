@@ -1006,3 +1006,35 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 22nd straight no-trade session. Regime finally decisive risk_off (SPY $729.57 ~2% under a falling 50d) after Jul-29's hawkish-Fed selloff — but the inverse sleeve that would express it fails the filter: SDOW 5/5 and non-extended (Dow led the drop) yet pinned 0.09R under its high with the 2R target (+12%) in unproven breakout air; SQQQ/SPXU/SH 4/5 but 2.3–3.4 ATR extended after a +1.6–6.3% one-day pop, all at/near their highs with 2R in air. Layered on: futures already bounced Wed night on MSFT earnings (not yet a confirmed downtrend), and GDP/PCE this morning + AAPL/AMZN tonight are stacked binaries — chasing a 3x inverse at its high into a possible reversal is exactly the fresh-binary-risk the strategy forbids. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: follow-through lower today/tomorrow that pulls an inverse ETF back to its rising 20d (or breaks cleanly above with real 2R room), AFTER the GDP/PCE data and AAPL/AMZN prints settle.
+
+## 2026-07-31 — Pre-market
+
+### Account
+- Equity: $1,068.31 / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak ($1,089.01): −1.90% — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **NEUTRAL** (SPY $741.63 vs rising 50-day SMA $744.69 — just under it, sma50 rising). Rebounded from Jul-29's $729.57 hawkish-Fed selloff on MSFT +16% / AMZN +9% earnings. Neutral → half size, best setups only. Inverse sleeve no longer sanctioned (regime not risk_off).
+
+### Market Context
+- Sharp rebound Jul-30: **MSFT +16%** (Azure cloud beat) and **AMZN +9% AH** (revenue/cloud beat) drove a broad snap-back; AAPL mixed (rev beat, iPhone +22%, but soft services, −3% AH). Nasdaq/S&P futures ~flat premarket (S&P −0.15%), VIX ~18.8.
+- Leadership rotated back to **Financials + Health Care** (Reuters: +12% / +14% since the June high), **Industrials** firm; **Comm Services / Consumer Discretionary** weakest. Broadening breadth (8–9 of 11 sectors up) — rebound "real but tentative," index still below the June high.
+- Today's data: **ECI (Q2) 8:30, Chicago PMI 9:45, Michigan Sentiment 10:00** — wage/inflation reads that matter post-hawkish-Fed. **Jobs report + heavy earnings next week** (the bigger binary wall).
+- Real single-name catalysts premarket: TER +10.7% (Teradyne earnings), GEHC +10.2% (GE HealthCare), MANH +10.6% (Manhattan Assoc) — all ~+10% one-day earnings gaps.
+
+### Candidates (catalyst + quant confirmed — all fail the 2:1 R:R filter)
+- **XLV** (ETF, Health Care) — catalyst: leading sector (healthcare +14% since June high) — quant **5/5** non-extended (last $163.49, sma20 $162.00 rising, ret_10d +1.0%, ATR $2.88, risk/sh $5.77, stop $157.73, hi_20d $168.51, vol 1.37×) — **rejected**: cleanest read but pinned 0.87R under its 20d high; 2R target $175.02 sits ~$6.5 in unproven breakout air → R:R fails 2:1 for a slow-grinding ETF (ret_10d +1%).
+- **XLF** (ETF, Financials) — catalyst: leading sector (+12%) — quant **5/5** non-extended (last $57.00, sma20 $56.22 rising, ATR $0.69, risk/sh $1.39, stop $55.62, hi_20d $57.60, vol 1.15×) — **rejected**: essentially AT its 20d high (0.43R under); 2R target $59.77 in air → fails 2:1.
+- **GEHC** (stock) — catalyst: Q2 earnings, healthcare leader — quant **4/5** (fails not_extended; last $69.96, sma20 $64.21 rising, ret_10d +6.5%, ATR $2.74, risk/sh $5.47, stop $64.48, hi_20d $72.02, vol 1.53×) — **rejected**: +10% earnings gap pinned 0.38R under its high; 2R $80.90 in air → fails 2:1.
+
+### Rejected
+- XLV / XLF / GEHC — confirmed 4–5/5 but each pinned 0.4–0.9R under its 20d high (2R in breakout air) → fails 2:1 after the rebound snapped everything back near its high
+- TER — 3/5, trend false (below a falling 20d, −15% off its 20d high); +10.7% one-day earnings bounce with only ~1R room to resistance → dead-cat risk, fails 2:1
+- MANH — 3/5 (fails momentum + not_extended); +10.6% earnings gap, ~1R to its 20d high → fails 2:1
+- GNRC — 2/5, not confirmed (trend/momentum/RS all false, −11% ret_10d)
+- Inverse sleeve (SQQQ/SPXU/SH/SDOW) — regime neutral, no longer sanctioned; all faded 1.6–9.9% Jul-30
+- Movers (PN +120% one-day gap; DFNS reverse-split day-5; IREX/IREG/CIFG/BEC/NBIC/KEEX structured-ETN pair churn) — un-tradeable
+
+### Decision
+**HOLD** — 23rd straight no-trade session. Regime rebounded to neutral (SPY $741.63, just under a rising 50d) after Jul-29's Fed selloff, on MSFT/AMZN cloud beats. The snap-back pushed every confirmed leader back to its 20d high: XLV/XLF are 5/5 and non-extended (Financials + Healthcare, the recurring leaders) but pinned 0.4–0.9R under their highs with 2R in breakout air; GEHC 4/5 same wall; TER/MANH are +10% one-day earnings gaps with broken/stalled trends and ~1R to resistance. None clears the 2:1 R:R filter, and neutral regime demands best-setups-only. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: a pullback of XLV/XLF to their rising 20d (clean 2R room), or a leader that breaks its 20d high with real follow-through — after today's ECI/Chicago PMI/Michigan data and ahead of next week's jobs report + earnings.
