@@ -487,3 +487,10 @@ drawdown are measured from here.
 **Notes:** No-trade day, account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Jul 27–31 all no-trade, week closes flat). Capital fully idle awaiting a setup that clears both quant confirmation and the 2:1 R:R filter. Tomorrow: pre-market rescans for FOMC/GDP/PCE/earnings aftermath into a fresh week.
 
 ---
+
+### Aug 3 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime risk_on; XLF 4/5 pinned 0.49R under high, R:R fails; XLV 3/5 trend rolled over; AMZN 4/5 but 3.0 ATR extended post-earnings, R:R fails; semis "rally" a Perplexity mirage — Alpaca shows downtrend). Weekly trades used: 0/3.
+
+---
