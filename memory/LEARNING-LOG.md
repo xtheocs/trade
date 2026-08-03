@@ -13,6 +13,32 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-03 — Scorecard (prior session 2026-07-31)
+
+**Our picks (1d = Jul-30 → Jul-31 close, the move since that read):**
+- XLV (ETF, Health Care) — decision **REJECTED** (5/5 non-extended but pinned ~0.9R under 20d high, 2R in air) — actual 1d **−0.58%** ($162.55 vs $163.49) — verdict **dodged-loss (minor)** — slow grinder drifted lower off its high; R:R-at-highs kept us out of a small bleed.
+- XLF (ETF, Financials) — decision **REJECTED** (5/5 but ~0.4R under 20d high, 2R in air) — actual 1d **−0.12%** ($56.93 vs $57.00) — verdict **correct/flat** — chopped sideways at its high; skipping a 2R-in-air setup was right.
+- GEHC (stock) — decision **REJECTED** (4/5, +10% earnings gap 0.4R under high, 2R in air) — actual 1d **−2.75%** ($68.03 vs $69.955) — verdict **dodged-loss** — the earnings gap faded; not chasing a gap into resistance avoided the loss.
+
+**Day's top tradeable gainers (Jul-31, ≥$5, no warrants/units/rights):**
+- FCUV +517% ($11.60) — micro-cap pump, no durable catalyst — skip
+- REPL +107% ($11.20) — Replimune, biotech — +107% one-day clinical/regulatory gap — real name but wildly over-extended — skip
+- TCX +59.2% ($15.44) — Tucows-type small-cap — +59% one-day spike — skip
+- FWAC +63.1% ($9.87) — acquisition-corp/SPAC churn — skip
+- AXTC +57.9% ($17.20) / AXTX +56.2% ($7.34) — structured leveraged single-stock ETN family churn — skip
+- AMAA +31.5% ($34.73) — acquisition-corp/SPAC — skip
+
+**Losers (≥$5):** JDZG −88.0% ($6.01); DFNS −67.4% ($27.68, the reverse-split pump finally collapsed $85→$27.68); BIOA −63.6% ($9.04); INHD −54.4% ($18.00); GYGY −43.2% ($9.08); RDDC/RDTL −42–43% (leveraged ETN legs).
+
+**Best realistic miss:** None clean. REPL +107% is the only sizeable non-structured gainer with a plausible (biotech clinical) catalyst, but a +107% one-day gap is wildly over-extended (fails not_extended + R:R) → correctly un-chaseable. The real earnings names (TER/AMAT/LRCX semis group) are in DOWNTRENDS on Alpaca bars despite the Perplexity "chip rally" hype. No miss.
+
+**Lessons:**
+- **Perplexity "semiconductor rally" was a data mirage — Alpaca bars say semis are BROKEN.** The screener hyped AMAT/LRCX/KLAC/MU/TER "+8–11%," but real bars show SMH 2/5 (−15% off high, below falling 20d), MU 2/5, AMAT 1/5, SOXL 2/5 (−15% ret_10d). Quant-confirming from Alpaca (never Perplexity numbers) kept us from chasing a phantom theme into a Micron-earnings binary (MU reports Aug-4).
+- **R:R-at-highs gate vindicated a 4th straight session:** all three Jul-31 rejects (XLV/XLF/GEHC) fell or chopped (−0.12% to −2.75%). Refusing 2R-in-air setups at 20d highs keeps dodging small losses.
+- **Regime flipped risk_off→risk_on** (SPY $746.79 > rising 50d $744.95) on oil −5–7% (Iran diplomacy) + 85% earnings-beat rate, but the snap-back re-pins every confirmed leader (XLF 4/5, XLV 3/5, AMZN 4/5) at its high with 2R in breakout air — same wall, now on the long side. AMZN is +11% and 3 ATR extended = textbook don't-chase.
+
+**Rolling 7d:** recurring leading sectors = **Financials + Health Care + Industrials** persist as the confirmed-but-pinned leaders; this session adds **Info Tech + Materials** leading intraday (lower yields/oil) while **Energy + Consumer Staples lag** on the oil drop; semis remain a laggard/downtrend despite headline hype. Recurring miss pattern = confirmed leaders perpetually **pinned 0–1R under their 20d high (2R in breakout air → fails 2:1)**, now on the long side after the rebound; movers list stays structured-ETN churn + reverse-split pumps (DFNS collapsed) + occasional +50–500% micro-cap/biotech gaps too extended to chase. Fix unchanged: demand break-with-room or pullback-to-rising-20d; never trust Perplexity prices — confirm every number on Alpaca; respect the Aug-7 jobs report + MU/heavy-earnings binaries this week.
+
 ## 2026-07-31 — Scorecard (prior session 2026-07-30)
 
 **Our picks (1d = Jul-29 → Jul-30 close, the move since that read):**

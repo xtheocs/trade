@@ -1038,3 +1038,34 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 23rd straight no-trade session. Regime rebounded to neutral (SPY $741.63, just under a rising 50d) after Jul-29's Fed selloff, on MSFT/AMZN cloud beats. The snap-back pushed every confirmed leader back to its 20d high: XLV/XLF are 5/5 and non-extended (Financials + Healthcare, the recurring leaders) but pinned 0.4–0.9R under their highs with 2R in breakout air; GEHC 4/5 same wall; TER/MANH are +10% one-day earnings gaps with broken/stalled trends and ~1R to resistance. None clears the 2:1 R:R filter, and neutral regime demands best-setups-only. 100% cash, 0/3 weekly trades, heat 0%, DD −1.90%. Watch: a pullback of XLV/XLF to their rising 20d (clean 2R room), or a leader that breaks its 20d high with real follow-through — after today's ECI/Chicago PMI/Michigan data and ahead of next week's jobs report + earnings.
+
+## 2026-08-03 — Pre-market
+
+### Account
+- Equity: $1,068.31 / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak ($1,089.01): −1.90% — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 (fresh week) / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $746.79 > 50-day SMA $744.95, rising). Flipped up from Jul-31 neutral on oil −5–7% (Iran diplomacy) + 85% S&P earnings-beat rate. New long equity allowed at full size. Inverse sleeve no longer sanctioned.
+
+### Market Context
+- Trump pivoted back to Iran diplomacy → oil tumbled ~5–7% (Strait of Hormuz reopening hopes); US futures up, bond yields eased. Yen strengthened on first US–Japan joint FX intervention in 15 years. ~85% of the ~300 S&P names reported have beaten.
+- Leadership (intraday heatmap): **Info Tech, Industrials, Materials** leading; **Energy, Consumer Staples, Comm Services** lagging (oil drop hits energy). Weekly note: Tech/Comm-Services led as lower yields helped growth.
+- Binary wall this week: **MU (Micron) earnings Aug-4**, **July nonfarm payrolls Aug-7**, plus SNAP/ON Semi/DJT tonight. S&P Global Mfg PMI final today.
+- Perplexity floated a "semiconductor rally" (AMAT/LRCX/KLAC/MU/TER "+8–11%") — CONTRADICTED by Alpaca bars: semis are in a downtrend (see rejects). Perplexity prices not used for any decision.
+
+### Candidates (catalyst + quant confirmed — all fail the 2:1 R:R filter)
+- **XLF** (ETF, Financials) — catalyst: recurring leader, risk_on rotation — quant **4/5** (fails volume; last $56.93, sma20 $56.28 rising, ret_10d +1.2%, ATR $0.684, risk/sh $1.369, stop $55.56, hi_20d $57.60, vol 0.79×) — **rejected**: pinned 0.49R under its 20d high; 2R target $59.67 sits ~$2 in unproven breakout air → R:R fails 2:1. Same wall as Jul-31.
+- **XLV** (ETF, Health Care) — catalyst: recurring leader — quant **3/5** (fails trend + volume; last $162.55, sma20 $161.94 now FALLING, ret_10d +0.9%, ATR $2.943, risk/sh $5.886, stop $156.66, hi_20d $168.51, vol 0.97×) — **rejected**: trend rolled over (below a falling 20d), slow grinder, ~1R under high with 2R (+$11.8) in air → fails 2:1.
+- **AMZN** (stock) — catalyst: blow-out earnings, mega-cap tech leader — quant **4/5** (fails not_extended; last $271.47, sma20 $243.84 rising, ret_10d +9.8%, ATR $9.15, risk/sh $18.30, stop $253.17, hi_20d $273.22, vol 2.84×) — **rejected**: +11% earnings gap, **3.0 ATR extended** above its 20d, pinned 0.10R under its high; 2R target $308 in blow-off air → textbook don't-chase, fails 2:1.
+
+### Rejected
+- XLF / XLV / AMZN — confirmed 3–4/5 but each pinned 0.1–1R at/under its 20d high (2R in breakout air) → fails 2:1; XLV trend rolled over, AMZN 3 ATR extended after +11% gap
+- Semis (SMH 2/5, MU 2/5, AMAT 1/5, SOXL 2/5) — Perplexity "chip rally" is a mirage; Alpaca bars show a downtrend (below falling 20d, −15% off highs); MU earnings Aug-4 binary anyway
+- XLI 2/5 / XLB 2/5 — Industrials/Materials lead intraday but not quant-confirmed (below falling 20d)
+- Inverse sleeve (SQQQ/SH/SPXU/SDOW) — regime risk_on, not sanctioned
+- Movers (FCUV +517%/REPL +107%/TCX +59%/FWAC/AXTC/AXTX structured-ETN churn/AMAA SPAC) — micro-cap pumps, +50–500% gaps, un-tradeable
+
+### Decision
+**HOLD** — 24th straight no-trade session (fresh week, 0/3 trades). Regime flipped back to risk_on (SPY $746.79 over a rising 50d) on the oil drop + strong earnings, but every confirmed leader fails the 2:1 R:R filter at its high: XLF 4/5 pinned 0.49R under its 20d high (2R in air), XLV 3/5 with trend rolling over, AMZN 4/5 but +11% and 3 ATR extended into blow-off air. The day's hyped semis theme is a Perplexity data mirage — Alpaca bars show semis in a downtrend, and MU earnings Aug-4 is a binary anyway. 100% cash, heat 0%, DD −1.90%. Watch: a pullback of XLF/XLV to a rising 20d with clean 2R room, or a fresh breakout holding above a retested level — after MU earnings (Aug-4) and into the Aug-7 jobs report.
