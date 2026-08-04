@@ -13,6 +13,32 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-04 — Scorecard (prior session 2026-08-03)
+
+**Our picks (1d = Aug-3 close vs Jul-31 close, the move since that read):**
+- XLF (ETF, Financials) — decision **REJECTED** (4/5, pinned 0.49R under 20d high, 2R in air) — actual 1d **+0.76%** ($57.365 vs $56.93) — verdict **missed-entry (minor)** — drifted up modestly but the 2R-in-air setup never offered a clean entry.
+- XLV (ETF, Health Care) — decision **REJECTED** (3/5, trend rolling over) — actual 1d **−0.18%** ($162.25 vs $162.55) — verdict **dodged-loss/correct** — kept bleeding at its high.
+- AMZN (stock) — decision **REJECTED** (4/5 but +11% & 3 ATR extended post-earnings) — actual 1d **+4.66%** ($284.125 vs $271.465) — verdict **ran-without-us** — kept ripping (now ~+25% off earnings). Strong megacap post-earnings momentum persisted, but chasing 3 ATR extended still violates not_extended.
+
+**Day's top tradeable gainers (Aug-3, ≥$5, no warrants/units/rights):**
+- DFNS +122.2% ($61.50) — T3 Defense reverse-split float-contraction pump, day 6+ ($4.55→$61.5) — skip
+- UPC +105.1% ($6.48) — micro-cap spike, no durable catalyst — skip
+- ULH +36.1% ($18.21) — Universal Logistics Holdings — trucking/logistics earnings gap, real name — but +36% one-day = wildly over-extended
+- CRWU +38.9% ($3.84, <$5) / CRWG +38.7% ($20.09) / CWVX +38.8% ($16.61) / CRWX +37.9% ($21.70) — structured leveraged single-stock ETN family churn — skip
+- CWVX/CRWG group mirrored by no clean single-name — skip
+
+**Losers (≥$5):** PN −51.2% ($8.43, the +120% gap collapsed); IPCX −48.8% ($4.45); INHD −47.7% ($9.42); CORD −39.0% ($4.32); JDZG −35.8% ($3.86); AAOZ −34.1% ($19.48); GYGY −31.3% ($6.24); NBIZ −23.2% ($14.60) — micro-cap/structured-ETN churn.
+
+**Best realistic miss:** ULH +36% — Industrials/trucking — real earnings catalyst, confirmed 4/5 on Alpaca (trend+momentum+RS+volume) — BUT a +36% one-day gap fails not_extended (+26% 10d, +24% above 20d SMA) and puts 2R in air → correctly un-chaseable. No clean miss.
+
+**Lessons:**
+- **"Semiconductor rally" is a Perplexity mirage for the 3rd+ session.** The screener hyped AMAT +10.3% / LRCX +9.86% / KLAC +8.26% / MU +7.2% / TER +10.7% on Lam Research's AI-capex guidance, but Alpaca bars show AMAT 1/5, LRCX 2/5, KLAC 1/5, MU 1/5, SMH 1/5 — all BELOW falling 20d SMAs with negative 10d returns. Confirming every number on Alpaca (never Perplexity premarket quotes) again blocked chasing a phantom into the MU-earnings binary. Only AVGO actually confirmed (4/5).
+- **The risk-on rip to new highs re-pinned EVERY confirmed leader at its 20d high:** AVGO 0.47R, XLF 0.18R, XLI 0.54R, NVDA 0.49R, XLB 0.95R under resistance — every 2R target in breakout air → all fail 2:1. The recurring wall, now market-wide.
+- **AMZN ran +4.66% more after our extended-reject** (now ~+25% off earnings) — strong megacap post-earnings momentum can persist; note it, but chasing 3+ ATR extended still violates not_extended. Process held.
+
+**Rolling 7d:** recurring leading sectors = **Info Tech/AI-hardware** headline-bid (but equipment names Alpaca-unconfirmed — AVGO the lone confirmer), **Industrials + Materials** leading intraday, **Financials + Health Care** persistent; **Energy + Consumer Staples** lag on soft oil. Recurring miss pattern = confirmed leaders perpetually **pinned 0–1R under their 20d high (2R in breakout air → fails 2:1)** after the market ripped to new highs; movers list stays structured-ETN churn (CRW*/IRE* families) + reverse-split pumps (DFNS day 6+) + occasional +30–120% micro-cap/earnings gaps too extended to chase. Fix unchanged: demand break-with-room or pullback-to-rising-20d; never trust Perplexity prices — confirm every number on Alpaca; respect the Aug-7 jobs report.
+
+
 ## 2026-08-03 — Scorecard (prior session 2026-07-31)
 
 **Our picks (1d = Jul-30 → Jul-31 close, the move since that read):**

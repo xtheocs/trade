@@ -1,3 +1,3 @@
-# Pending Trades — 2026-08-03
+# Pending Trades — 2026-08-04
 
-No trades. Reason: Risk_on regime restored, but every confirmed leader fails the 2:1 R:R filter at its high — XLF 4/5 pinned 0.49R under its 20d high (2R in air), XLV 3/5 with trend rolling over, AMZN 4/5 but +11% & 3 ATR extended into blow-off air. Semis "rally" is a Perplexity mirage (Alpaca bars show downtrend); MU earnings Aug-4 binary.
+No trades. Reason: Risk_on and the tape at new highs, but the rip re-pinned every confirmed leader at its 20d high — AVGO 0.47R, XLF 0.18R, XLI 0.54R, NVDA 0.49R, XLB 0.95R under resistance (2R targets in breakout air → all fail 2:1). The hyped semis rally is a Perplexity mirage (Alpaca bars show AMAT/LRCX/KLAC/MU below falling 20d SMAs); AMZN/ULH confirm but are extended blow-offs. Watch a pullback-to-rising-20d or a fresh breakout with clean 2R room after Aug-7 jobs.

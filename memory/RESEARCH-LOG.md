@@ -1069,3 +1069,37 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 24th straight no-trade session (fresh week, 0/3 trades). Regime flipped back to risk_on (SPY $746.79 over a rising 50d) on the oil drop + strong earnings, but every confirmed leader fails the 2:1 R:R filter at its high: XLF 4/5 pinned 0.49R under its 20d high (2R in air), XLV 3/5 with trend rolling over, AMZN 4/5 but +11% and 3 ATR extended into blow-off air. The day's hyped semis theme is a Perplexity data mirage — Alpaca bars show semis in a downtrend, and MU earnings Aug-4 is a binary anyway. 100% cash, heat 0%, DD −1.90%. Watch: a pullback of XLF/XLV to a rising 20d with clean 2R room, or a fresh breakout holding above a retested level — after MU earnings (Aug-4) and into the Aug-7 jobs report.
+
+## 2026-08-04 — Pre-market Research
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 (fresh week) / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $757.72 > 50-day SMA $745.28, rising). Broad market ripped to new highs (SPY +1.5% since Aug-3). New long equity allowed at full size; inverse sleeve not sanctioned.
+
+### Market Context
+- Leadership (intraday heatmap): **Info Tech +0.66%, Industrials +0.42%, Materials +0.38%, Health Care +0.19%** leading; **Energy −0.79%, Consumer Staples −0.61%, Comm Services −0.39%** lagging (oil soft).
+- Perplexity floated a broad "semiconductor/chip-equipment rally" (AMAT +10.3%, LRCX +9.86%, KLAC +8.26%, WDC +8.5%, STX +7.8%, MU +7.2%, TER +10.7%, MRVL +7.1%) tied to Lam Research's AI-capex guidance — **CONTRADICTED by Alpaca bars again**: every equipment name is BELOW a falling 20d SMA with negative 10d returns (see rejects). Perplexity premarket quotes not used for any decision.
+- MU (Micron) earnings (Aug-4 binary) now passing — Alpaca shows MU $829 vs $904 20d SMA (1/5, −4.3% 10d), no bullish confirmation. July nonfarm payrolls **Aug-7** ahead.
+
+### Candidates (catalyst + quant confirmed — all fail the 2:1 R:R filter)
+- **AVGO** (stock, semis/AI) — catalyst: AI-capex/chip-demand group bid — quant **4/5** (fails volume; last $392.32, sma20 $385.61 rising, ret_10d +3.79%, risk/sh $31.99, stop $360.33, hi_20d $407.45) — **rejected**: pinned 0.47R under its 20d high; 2R target $456 sits ~$49 in unproven breakout air → fails 2:1. (The only chip name that actually confirms on Alpaca.)
+- **XLF** (ETF, Financials) — recurring leader — quant **4/5** (fails volume; last $57.37, sma20 $56.34 rising, ret_10d +2.35%, risk/sh $1.29, stop $56.08, hi_20d $57.60) — **rejected**: pinned 0.18R under its 20d high (2R in air) → fails 2:1. Same wall as Jul-31/Aug-3.
+- **XLI** (ETF, Industrials) — leading sector today — quant **4/5** (last $183.11, sma20 $180.50, ret_10d +2.79%, risk/sh $6.18, stop $176.93, hi_20d $186.44) — **rejected**: 0.54R under its 20d high; 2R target $195.5 in air → fails 2:1.
+- **NVDA** (stock, semis) — quant **3/5** (fails rel_strength + volume; last $206.72, sma20 $203.87, risk/sh $15.60, stop $191.12, hi_20d $214.39) — **rejected**: 0.49R under its 20d high; 2R $238 in air → fails 2:1.
+- **XLV** (ETF, Health Care) — quant **4/5** (last $162.25, sma20 $161.95, risk/sh $5.85, stop $156.40, hi_20d $168.51) — **rejected**: 0.9R under a stalling high, still recovering off the Jul-30 rollover; 2R $174 above the $168.5 high → fails 2:1.
+- **XLB** (ETF, Materials) — quant **3/5** (last $51.02, sma20 $50.85, risk/sh $1.82, stop $49.20, hi_20d $52.75) — **rejected**: 0.95R under high; 2R $54.66 in air → fails 2:1.
+
+### Rejected
+- AVGO / XLF / XLI / NVDA / XLV / XLB — confirmed 3–4/5 but each pinned 0.18–0.95R under its 20d high (2R in breakout air) → fails 2:1. The risk-on rip to new highs re-pinned every leader at resistance.
+- **AMZN** (stock) — quant 4/5 but **not_extended fails**: $284.13 vs $245.84 20d SMA = +15.6% above, ~+25% off earnings, at all-time highs; ran +4.66% MORE after our Aug-3 extended-reject → textbook don't-chase, 2R in blow-off air.
+- **ULH** (stock) — quant 4/5 but **not_extended fails**: +36% one-day earnings gap ($18.36 vs $14.80 20d SMA, +26% 10d) → wildly extended, un-chaseable.
+- Semis complex (AMAT 1/5, LRCX 2/5, KLAC 1/5, MU 1/5, SMH 1/5, SOXL 2/5, MRVL 1/5, TER 2/5, WDC 2/5, GLW 1/5) — Perplexity "chip rally" is a data mirage; Alpaca bars show a downtrend (below falling 20d, negative 10d returns).
+- Movers (DFNS +122% day-6 reverse-split pump / UPC +105% micro-cap / CRWU-CRWG-CRWX-CWVX structured-ETN churn) — un-tradeable pumps and +30–120% gaps.
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD** — 25th straight no-trade session (0/3 trades this week). Regime is risk_on (SPY $757.72 over a rising 50d) and the tape is at new highs, but that rip re-pinned every confirmed leader at its 20d high: AVGO 0.47R, XLF 0.18R, XLI 0.54R, NVDA 0.49R under resistance — every 2R target lands in unproven breakout air → all fail the 2:1 R:R filter. The hyped semis theme is (again) a Perplexity mirage not corroborated by Alpaca bars; AMZN/ULH confirm but are extended blow-offs. 100% cash, heat 0%, DD −1.90%. Watch: a pullback of a confirmed leader (AVGO/XLF/XLI) to a rising 20d with clean 2R room, or a fresh breakout that holds above a retested high — after the MU-earnings dust settles and into the Aug-7 jobs report.
