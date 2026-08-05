@@ -523,3 +523,14 @@ drawdown are measured from here.
 **Notes:** No-trade day, account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Midday scan held the pre-market HOLD decision: regime risk_on with SPY at new highs, but every confirmed leader (AVGO, XLF, XLI, NVDA) sat pinned under its 20d high and failed the 2:1 R:R filter; AMZN/ULH were extended blow-offs, and the reported semis "rally" was again a Perplexity mirage not corroborated by Alpaca price data. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Aug 3–4 both no-trade). Twenty-plus consecutive no-trade day — discipline holding, capital fully idle awaiting a setup that clears both quant confirmation and the 2:1 R:R filter. Tomorrow: pre-market rescans for fresh catalysts, continues verifying any Perplexity-flagged momentum against actual Alpaca price/volume data before acting.
 
 ---
+
+### Aug 5 — EOD Snapshot (Day 39, Wednesday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** No-trade day, account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Aug 3–5 all no-trade). Capital fully idle awaiting a setup that clears both quant confirmation and the 2:1 R:R filter. Tomorrow: pre-market rescans for fresh catalysts and continues verifying any Perplexity-flagged momentum against actual Alpaca price/volume data before acting.
+
+---
