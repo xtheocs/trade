@@ -1103,3 +1103,36 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 25th straight no-trade session (0/3 trades this week). Regime is risk_on (SPY $757.72 over a rising 50d) and the tape is at new highs, but that rip re-pinned every confirmed leader at its 20d high: AVGO 0.47R, XLF 0.18R, XLI 0.54R, NVDA 0.49R under resistance — every 2R target lands in unproven breakout air → all fail the 2:1 R:R filter. The hyped semis theme is (again) a Perplexity mirage not corroborated by Alpaca bars; AMZN/ULH confirm but are extended blow-offs. 100% cash, heat 0%, DD −1.90%. Watch: a pullback of a confirmed leader (AVGO/XLF/XLI) to a rising 20d with clean 2R room, or a fresh breakout that holds above a retested high — after the MU-earnings dust settles and into the Aug-7 jobs report.
+
+## 2026-08-05 — Pre-market Research
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 (fresh week) / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $771.11 > 50-day SMA $745.85, rising). S&P closed at a new all-time high Tue (Aug-4, +1.8%); chipmakers logged their best 4-day rally since 2020. New long equity allowed at full size; inverse sleeve not sanctioned.
+
+### Market Context
+- Broad risk-on: record highs on the AI/chip trade + oil down (US-Iran deal hopes, Brent −5.3% to ~$79). ~85% of S&P names beating earnings.
+- Leadership this week: **Comm Services +2.9%, Industrials +1.9%, Consumer Discretionary +1.8%**, Info Tech/AI-hardware bid; **Energy −1.3%** lagging (soft oil).
+- **Under-the-surface crack:** **AMD −9%** after close on a weak outlook; **SpaceX −7.5%** on higher AI spend. NVDA firmer on Musk backing its Vera Rubin chips. The semis rally is stretched.
+- Blow-off earnings gaps (un-tradeable): **PLTR +29%**, **IBTA +52%** — topped the movers via the PLT* leveraged-ETN family.
+- **Binary wall:** **ADP employment (8:15 ET) + Services PMI (9:45 ET) today**, and **July nonfarm payrolls Aug-7 (Fri)** — a macro binary squarely inside any new hold window.
+
+### Candidates (catalyst + quant confirmed — all fail the 2:1 R:R filter at extended highs)
+- **AVGO** (stock, semis/AI) — catalyst: AI-chip trade — quant **5/5** (last $418.06, sma20 $387.99 rising, ret_10d +8.23%, ATR $17.26, risk/sh $34.52, stop $383.54, hi_20d $422.04, vol 1.65×) — **rejected**: just +6.56% one-day, **1.74 ATR extended**, at its high; 2R target ~$487 (+16.5%) in blue-sky air → fails 2:1, and it's chasing a vertical bar into the AMD-crack semis trade.
+- **XLI** (ETF, Industrials) — catalyst: recurring leader, Caterpillar/industrials strength — quant **5/5** (last $186.34, sma20 $180.70 rising, ret_10d +4.3%, ATR $3.14, risk/sh $6.27, stop $180.07, hi_20d $186.86, vol 1.65×) — **rejected**: right at its high after a +1.76% day; 2R target $198.88 (+6.7%) in unproven breakout air → fails 2:1.
+- **XLK** (ETF, Tech) — catalyst: AI-hardware leadership — quant **5/5** (last $186.86 = new high, sma20 $178.54, ret_10d +3.4%, ATR $5.72, risk/sh $11.44, stop $175.42, hi_20d $187.70, vol 1.45×) — **rejected**: 2R target $209.74 (+12.2%) far in air; heavily weighted to extended semis flashing the AMD warning → fails 2:1.
+
+### Rejected
+- AVGO / XLI / XLK — confirmed 5/5 but each at/near its 20d high after a vertical 2-day market rip; every 2R target lands in blue-sky air → fails the 2:1 R:R filter. Chasing one-day breakout bars into a record-high tape 2 days before the jobs report.
+- **NVDA** (stock) — quant **3/5** (fails rel_strength + volume; last $211.96, pinned 0.32R under $214.39 high) → not confirmed enough, R:R weak.
+- **XLF** (ETF) — quant **3/5** (fails not_extended + volume; last $57.86 at $58.01 high) → weak.
+- **SMH** (semis ETF) — quant **1/5** (below a falling 20d, −1.4% 10d, −16% off highs) → not confirmed despite the "chip rally" headline.
+- **PLTR +29% / IBTA +52% / AMD −9%** — earnings gaps, blow-off or broken → un-tradeable. PLT* / AMIX / micro-cap movers — structured-ETN churn and pumps.
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD** — 26th straight no-trade session (0/3 trades this week). Regime is risk_on (SPY $771.11 over a rising 50d) at record highs, and the AVGO/XLI/XLK leaders finally broke out — but they did so as one-day vertical bars at their highs with every 2R target in blue-sky air (fails 2:1), after the best 4-day chip rally since 2020. AMD's −9% guide-down is a crack under the AI-hardware leadership, and ADP/Services-PMI today plus the Aug-7 jobs report put a macro binary squarely inside any new hold window. Not chasing a vertical tape into that. 100% cash, heat 0%, DD −1.90%. Watch: a breakout that **holds and retests** with clean 2R room, or a pullback of a confirmed leader to a rising 20d — after the jobs report clears.

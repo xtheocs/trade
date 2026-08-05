@@ -13,6 +13,35 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-05 — Scorecard (prior session 2026-08-04)
+
+**Our picks (1d = Aug-4 close vs Aug-3 close, the move since that read):**
+- AVGO (stock, semis/AI) — decision **REJECTED** (4/5, pinned 0.47R under 20d high, 2R in air) — actual 1d **+6.56%** ($418.06 vs $392.32) — verdict **ran-without-us / breakout-missed** — the confirmed leader we passed on broke out on 2.2× volume and ripped. The clean breakout finally came; the 2R-in-air filter kept us out.
+- XLI (ETF, Industrials) — decision **REJECTED** (4/5, 0.54R under high) — actual 1d **+1.76%** ($186.34 vs $183.11) — verdict **missed-entry** — broke to a new high with the tape.
+- NVDA (stock, semis) — decision **REJECTED** (3/5) — actual 1d **+2.53%** ($211.96 vs $206.72) — verdict **missed-entry** — Musk-backed-Vera-Rubin tailwind.
+- XLB (ETF, Materials) — decision **REJECTED** (3/5) — actual 1d **+1.94%** ($52.01 vs $51.02) — verdict **missed-entry (minor)**.
+- XLF (ETF, Financials) — decision **REJECTED** (4/5, 0.18R under high) — actual 1d **+0.86%** ($57.86 vs $57.365) — verdict **missed-entry (minor)** — drifted up at its high.
+- XLV (ETF, Health Care) — decision **REJECTED** (4/5, stalling at high) — actual 1d **−0.10%** ($162.08 vs $162.25) — verdict **correct/flat** — kept chopping at its high.
+
+**Day's top tradeable gainers (Aug-4, ≥$5, no warrants/units/rights):**
+- AMIX +434% ($19.50) — micro-cap pump, no durable catalyst — skip
+- PLTG +58% ($15.94) / PLTL +58% ($52.43) / PTIR +58% ($16.72) / PLTA +58% ($17.16) / PLTU +58% ($44.82) — leveraged single-stock **Palantir ETN** family churn (mirrors PLTR earnings) — skip
+- IBTA +51.9% ($37.34) — Ibotta — real earnings gap but +52% one-day blow-off — un-chaseable
+- VELL +41% ($5.43) / AAOX +39.7% ($19.36) / AEHG +38.4% ($13.29) — micro-cap spikes — skip
+- **Underlying real mover: PLTR +29.2%** ($162.61 vs $125.89) — Palantir blow-out earnings (the catalyst behind the PLT* ETNs)
+
+**Losers (≥$5):** PLTZ −58.7% ($11.87, inverse-Palantir ETN); AAOZ −38.2% ($12.04); AHCO −38.2% ($6.71); BETR −36.7% ($17.27); CIFC −31.4% ($12.93); REZI −27.8% ($26.17) — micro-cap / structured-ETN / single-name earnings misses.
+
+**Best realistic miss:** **AVGO +6.56%** — semis/AI — real catalyst (AI-chip trade, best 4-day chip rally since 2020, Musk backing Nvidia's Vera Rubin), confirmed **5/5** on Alpaca today and broke out on 2.2× volume — the clean breakout we flagged and passed on due to 2R-in-air. (PLTR +29% and IBTA +52% were the day's real gainers but both earnings blow-offs → un-chaseable.)
+
+**Lessons:**
+- **The "pinned under high, 2R in air" wall finally resolved UP.** AVGO/XLI/NVDA/XLB all broke out and ran (+1.8% to +6.6%) the day after we rejected them on R:R-at-highs. Our filter systematically misses vertical breakouts in a strong tape — a recurring, real cost. But chasing a 1.74-ATR-extended one-day spike at the high still violates the process; the fix stays break-and-**retest**-with-room or pullback-to-rising-20d, not buying the vertical bar.
+- **Semis best 4-day rally since 2020 — but AMD guided down −9% after the close.** Leadership crack under the surface; be wary of chasing the extended AI-hardware trade (AVGO/NVDA/XLK) into that.
+- **PLTR +29% and IBTA +52% were blow-off earnings gaps.** The PLT* leveraged-ETN family topped the movers list — structured churn, not a tradeable single name.
+
+**Rolling 7d:** recurring leading sectors = **Info Tech/AI-hardware** (now extended, AMD −9% crack), **Industrials + Comm Services + Consumer Discretionary** leading, **Financials + Health Care** persistent; **Energy** lagging on soft oil (Brent −5% Iran-deal hopes). Recurring miss pattern = confirmed leaders **breaking out from under their 20d highs and running while our 2R-in-air filter keeps us out**; movers list stays structured single-stock ETN churn (PLT*/CRW* families) + earnings blow-offs (PLTR/IBTA/AMZN) too extended to chase. Fix unchanged: demand a held breakout with room or a pullback-to-rising-20d; confirm every number on Alpaca; respect the Aug-7 jobs report.
+
+
 ## 2026-08-04 — Scorecard (prior session 2026-08-03)
 
 **Our picks (1d = Aug-3 close vs Jul-31 close, the move since that read):**
