@@ -541,3 +541,14 @@ drawdown are measured from here.
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime risk_on, SPY near record highs, but every confirmed leader — NVDA 4/5, XLV 5/5, AVGO/XLI/XLK/XLB 4/5 — pinned 0.17–0.77R under its 20d high, 2R target in breakout air, fails 2:1 R:R; Aug-7 jobs report tomorrow a macro binary). Weekly trades used: 0/3.
 
 ---
+
+### Aug 6 — EOD Snapshot (Day 40, Thursday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** No-trade day, account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Midday scan held the pre-market HOLD decision: regime risk_on with SPY near record highs, but every confirmed leader (NVDA, XLV, AVGO, XLI, XLK, XLB) sat pinned 0.17–0.77R under its 20d high with 2R still in breakout air, failing the 2:1 R:R filter. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Aug 3–6 all no-trade). Capital fully idle awaiting a setup that clears both quant confirmation and the 2:1 R:R filter. Tomorrow: the August jobs report is a macro binary — pre-market weighs the reaction for any setup that finally clears both quant confirmation and R:R.
+
+---
