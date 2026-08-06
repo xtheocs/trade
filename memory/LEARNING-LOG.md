@@ -13,6 +13,37 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-06 — Scorecard (prior session 2026-08-05)
+
+**Our picks (1d = Aug-5 close vs Aug-4 close, the move since that read):**
+- AVGO (stock, semis/AI) — decision **REJECTED** (5/5, extended one-day vertical, 2R blue-sky) — actual 1d **+0.10%** ($418.49 vs $418.06) — verdict **correct/flat** — the vertical breakout bar stalled at its high; the not_extended reject was right this session.
+- XLK (ETF, Tech) — decision **REJECTED** (5/5, 2R in air) — actual 1d **−0.52%** ($185.89 vs $186.86) — verdict **correct/flat** — faded slightly off the high.
+- XLI (ETF, Industrials) — decision **REJECTED** (5/5, at high) — actual 1d **−0.01%** ($186.32 vs $186.34) — verdict **correct/flat** — dead flat at resistance.
+- XLF (ETF, Financials) — decision **REJECTED** (3/5) — actual 1d **+0.26%** ($58.01 vs $57.86) — verdict **correct/flat** — drifted at its high.
+- NVDA (stock, semis) — decision **REJECTED** (3/5, pinned under high) — actual 1d **+3.40%** ($219.16 vs $211.96) — verdict **missed-entry / ran** — Vera-Rubin/AI-chip momentum broke it to a new 20d high ($222.22). The confirmed name we under-scored, not the extended ones.
+
+**Day's top tradeable gainers (Aug-5, ≥$5, no warrants/units/rights):**
+- ATTO +4544% ($21.90) — reverse-split/float pump — skip
+- YXT +801% ($23.43) — micro-cap pump — skip
+- OESX +54% ($16.06) — Orion Energy — small-cap earnings gap — extended blow-off
+- APPS +38.5% ($13.17) — Digital Turbine — earnings gap — extended blow-off
+- GTE +38% ($9.44) — Gran Tierra Energy — energy small-cap earnings gap — extended
+- VRM +35% ($9.54) — Vroom — earnings gap — extended
+- BLMN +32.8% ($11.85) — Bloomin' Brands — restaurant earnings gap — extended
+- MTRN +30.8% ($297.08) — Materion — materials earnings — extended blow-off
+
+**Losers (≥$5):** TDCL −48.6% ($12.79); SUJA −46.2% ($6.14); AMIX −38.0% ($12.10, inverse-Palantir ETN unwind cont.); LMB −35.5% ($49.73); USNA −34.2% ($14.99) — micro-cap / structured-ETN / single-name earnings misses.
+
+**Best realistic miss:** **NVDA +3.40%** — semis/AI — real catalyst (Vera Rubin / AI-chip trade), confirmed **4/5** on Alpaca today and broke to a new 20d high on continuation. Our own 3/5 reject that ran — a process-compatible name we under-scored. (The day's big % gainers — APPS/GTE/VRM/BLMN/MTRN — were all +30–54% one-day earnings blow-offs → un-chaseable, fail not_extended.)
+
+**Lessons:**
+- **The extended-at-high rejects STALLED this session.** AVGO/XLI/XLK (rejected 5/5 as vertical bars at their highs) went −0.5% to +0.1% — the not_extended filter was correct this time, unlike Aug-4 when it ran. The name that actually paid was NVDA, which we rejected only on the 3/5 count — the miss is under-scoring the confirmed continuation leader, not the extended one.
+- **"Energy leadership" is a rotation/YTD narrative — the tape disagrees.** Multiple sources called Energy/Materials/Staples the week's leaders, but Alpaca shows XLE **2/5** (below a falling-relative 20d, −3.2% 10d, RS −6.2%). Same discipline that filtered the semis mirage: trade the price data, not the sector-rotation headline.
+- **Movers list again all earnings blow-offs (+30–54% one-day gaps).** No process-compatible entry — every name violates not_extended. The tradeable universe keeps offering only vertical gaps or pumps.
+
+**Rolling 7d:** recurring leading sectors = **Info Tech/AI-hardware** (NVDA broke to new highs; AVGO/XLK stalling at theirs), **Industrials** (XLI), **Financials** (XLF), **Materials** (XLB), **Health Care** (XLV firming to 5/5); **Energy** lags on the tape despite the value-rotation narrative. Recurring miss pattern = confirmed leaders pinned **0.17–0.77R under their 20d highs** → every 2R target lands in unproven breakout air → fails 2:1; the movers list = earnings blow-offs (+30–50%) too extended to chase. Fix unchanged: demand a **held breakout with room** or a **pullback to a rising 20d**; verify every number on Alpaca; the **Aug-7 jobs report** is a binary inside any new hold window.
+
+
 ## 2026-08-05 — Scorecard (prior session 2026-08-04)
 
 **Our picks (1d = Aug-4 close vs Aug-3 close, the move since that read):**

@@ -1136,3 +1136,37 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 26th straight no-trade session (0/3 trades this week). Regime is risk_on (SPY $771.11 over a rising 50d) at record highs, and the AVGO/XLI/XLK leaders finally broke out — but they did so as one-day vertical bars at their highs with every 2R target in blue-sky air (fails 2:1), after the best 4-day chip rally since 2020. AMD's −9% guide-down is a crack under the AI-hardware leadership, and ADP/Services-PMI today plus the Aug-7 jobs report put a macro binary squarely inside any new hold window. Not chasing a vertical tape into that. 100% cash, heat 0%, DD −1.90%. Watch: a breakout that **holds and retests** with clean 2R room, or a pullback of a confirmed leader to a rising 20d — after the jobs report clears.
+
+## 2026-08-06 — Pre-market Research
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $769.79 > 50-day SMA $746.33, rising). New long equity allowed at full size; inverse sleeve not sanctioned.
+
+### Market Context
+- SPY holding near record highs after Tue's all-time high. Tech led Aug-5 (PLTR +30%, MU +6.9%) but the AI-hardware leaders are stalling at their highs post-rip.
+- Sector-rotation narrative (Perplexity/press): Energy/Materials/Staples/Industrials "leading" (value over growth) — **partly contradicted by Alpaca bars**: XLE is 2/5 (below 20d, −3.2% 10d, RS −6.2%). The tape shows AI-hardware + Industrials + Financials + Health Care as the actual price leaders.
+- Movers (Aug-5) all un-tradeable: ATTO +4544% / YXT +801% pumps; APPS +38.5%, GTE +38%, VRM +35%, BLMN +32.8%, MTRN +30.8%, OESX +54% — one-day earnings blow-offs (fail not_extended).
+- **Binary wall: July nonfarm payrolls Aug-7 (Fri) — tomorrow.** A macro binary squarely inside any new hold window.
+
+### Candidates (catalyst + quant confirmed — all fail the 2:1 R:R filter)
+- **XLV** (ETF, Health Care) — catalyst: defensive/health-care bid, volume kicked in — quant **5/5** (last $164.16, sma20 $161.92 rising, ret_10d +2.99%, ATR $2.81, risk/sh $5.61, stop $158.55, hi_20d $168.51, vol 1.36×) — **rejected**: 0.77R under its stalling $168.5 high; 2R target $175.4 sits ~$7 above unproven resistance → fails 2:1.
+- **NVDA** (stock, semis/AI) — catalyst: Vera Rubin / AI-chip trade, new 20d high — quant **4/5** (fails volume; last $219.16, sma20 $205.38 rising, ret_10d +3.34%, risk/sh $15.91, stop $203.25, hi_20d $222.22) — **rejected**: 0.19R under its high; 2R target $251 in blue-sky air → fails 2:1.
+- **AVGO** (stock, semis/AI) — quant **4/5** (fails volume; last $418.49, sma20 $389.47, risk/sh $32.74, stop $385.75, hi_20d $426.89) — **rejected**: 0.26R under high; 2R $484 in air → fails 2:1.
+- **XLI** (ETF, Industrials) — quant **4/5** (fails volume; last $186.32, sma20 $180.99, risk/sh $6.30, stop $180.02, hi_20d $188.18) — **rejected**: 0.30R under high → fails 2:1.
+- **XLK** (ETF, Tech) — quant **4/5** (fails volume; last $185.89, sma20 $178.76, risk/sh $11.11, stop $174.78, hi_20d $188.54) — **rejected**: 0.24R under high → fails 2:1.
+- **XLB** (ETF, Materials) — quant **4/5** (fails volume; last $52.63, sma20 $51.00, risk/sh $1.91, stop $50.72, hi_20d $52.96) — **rejected**: 0.17R under high → fails 2:1.
+- **XLF** (ETF, Financials) — quant **3/5** (fails volume + not_extended; last $58.01, hi_20d $58.40) — **rejected**: 0.29R under high → fails 2:1.
+
+### Rejected
+- XLV/NVDA/AVGO/XLI/XLK/XLB/XLF — confirmed 3–5/5 but each pinned 0.17–0.77R under its 20d high (2R in breakout air) → fails 2:1. Same wall, 27th session.
+- **XLE** (ETF, Energy) — quant **2/5** (below 20d, −3.2% 10d, RS −6.2%) → the "energy leadership" narrative is a data mirage; Alpaca shows a downtrend.
+- Movers (ATTO +4544% / YXT +801% pumps; APPS/GTE/VRM/BLMN/MTRN/OESX +30–54% one-day earnings blow-offs) — un-tradeable, all fail not_extended.
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD** — 27th straight no-trade session (0/3 trades this week). Regime is risk_on (SPY $769.79 over a rising 50d) near record highs, but every confirmed leader is again pinned 0.17–0.77R under its 20d high — every 2R target lands in unproven breakout air → all fail the 2:1 R:R filter. The best name, NVDA (4/5, new high), still has only 0.19R of room. The "energy leadership" narrative is contradicted by Alpaca bars (XLE 2/5); the movers are all earnings blow-offs. And the **Aug-7 jobs report (tomorrow)** is a macro binary squarely inside any new hold window — no reason to open marginal risk into it. 100% cash, heat 0%, DD −1.90%. Watch: a held breakout with clean 2R room or a pullback of a confirmed leader (NVDA/XLV/XLI) to a rising 20d — after the jobs report clears.
