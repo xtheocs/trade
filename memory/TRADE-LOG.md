@@ -534,3 +534,10 @@ drawdown are measured from here.
 **Notes:** No-trade day, account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Aug 3–5 all no-trade). Capital fully idle awaiting a setup that clears both quant confirmation and the 2:1 R:R filter. Tomorrow: pre-market rescans for fresh catalysts and continues verifying any Perplexity-flagged momentum against actual Alpaca price/volume data before acting.
 
 ---
+
+### Aug 6 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime risk_on, SPY near record highs, but every confirmed leader — NVDA 4/5, XLV 5/5, AVGO/XLI/XLK/XLB 4/5 — pinned 0.17–0.77R under its 20d high, 2R target in breakout air, fails 2:1 R:R; Aug-7 jobs report tomorrow a macro binary). Weekly trades used: 0/3.
+
+---
