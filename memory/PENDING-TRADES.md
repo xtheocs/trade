@@ -1,3 +1,3 @@
-# Pending Trades — 2026-08-06
+# Pending Trades — 2026-08-07
 
-No trades. Reason: Regime risk_on near record highs, but every confirmed leader (XLV 5/5, NVDA/AVGO/XLI/XLK/XLB 4/5) is pinned 0.17–0.77R under its 20d high → 2R target in breakout air → fails 2:1; "energy leadership" contradicted by Alpaca (XLE 2/5); movers all earnings blow-offs. Aug-7 jobs report (tomorrow) is a binary inside any hold window. Waiting for a held-breakout-with-room or a pullback to a rising 20d.
+No trades. Reason: Regime risk_on near record highs, but every confirmed leader (NVDA 4/5, XLV 3/5) is pinned 0.3–0.7R under its 20d high → 2R target in breakout air → fails 2:1; AMZN's +11% earnings gap is a 2/5 blow-off. July jobs report prints 8:30 ET before the open — a macro binary inside any bell-open window. Waiting for the post-NFP tape: a held-breakout-with-room or a pullback to a rising 20d.

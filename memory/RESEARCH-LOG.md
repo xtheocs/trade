@@ -1170,3 +1170,32 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 27th straight no-trade session (0/3 trades this week). Regime is risk_on (SPY $769.79 over a rising 50d) near record highs, but every confirmed leader is again pinned 0.17–0.77R under its 20d high — every 2R target lands in unproven breakout air → all fail the 2:1 R:R filter. The best name, NVDA (4/5, new high), still has only 0.19R of room. The "energy leadership" narrative is contradicted by Alpaca bars (XLE 2/5); the movers are all earnings blow-offs. And the **Aug-7 jobs report (tomorrow)** is a macro binary squarely inside any new hold window — no reason to open marginal risk into it. 100% cash, heat 0%, DD −1.90%. Watch: a held breakout with clean 2R room or a pullback of a confirmed leader (NVDA/XLV/XLI) to a rising 20d — after the jobs report clears.
+
+## 2026-08-07 — Pre-market Research
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $768.64 > 50-day SMA $746.70, rising). New long equity allowed at full size; inverse sleeve not sanctioned.
+
+### Market Context
+- **BINARY TODAY: July nonfarm payrolls print 8:30 AM ET, before the open.** Consensus ~83–97K, unemployment 4.2% (ADP came in soft at +44K). The reaction — not the number — is the risk squarely inside any new hold window opened at the bell.
+- SPY $768.64, drifted slightly off its record high (from $769.79) as the tape coiled ahead of NFP. Leaders faded modestly Aug-6 (NVDA −0.17%, XLI −0.82%, XLB −0.87%).
+- Premarket movers: **AMZN +11% (earnings)** the one real mega-cap catalyst; INTC +5%, MU +4.5%. Everything else — HSAI +708%, CUPR, SER, CHNR, WYHG/CLRO/AMEM — micro-cap pumps.
+- Leading sectors (weekly, per heatmap): Info Tech +0.66%, Industrials +0.42%, Materials +0.38%, Health Care +0.19%; Energy −0.79% and Staples lag.
+
+### Candidates (catalyst + quant confirmed — all fail the 2:1 R:R filter)
+- **NVDA** (stock, semis/AI) — catalyst: Vera Rubin / AI-chip trade — quant **4/5** (fails volume; last $218.79, sma20 $206.18 rising, ret_10d +4.8%, ATR $7.73, risk/sh $15.46, stop $203.33, hi_20d $223.61, vol 0.72×) — **rejected**: 0.31R under its high; 2R target $249.71 (+14.1%) in blue-sky air → fails 2:1.
+- **XLV** (ETF, Health Care) — catalyst: defensive/health-care bid — quant **3/5** (fails rel_strength + volume; last $164.42, sma20 $162.03 rising, ret_10d +1.85%, ATR $2.87, risk/sh $5.73, stop $158.69, hi_20d $168.51) — **rejected**: 0.71R under its stalling $168.5 high; 2R target $175.88 above unproven resistance → fails 2:1.
+
+### Rejected
+- NVDA / XLV — confirmed 3–4/5 but each pinned 0.3–0.7R under its 20d high (2R in breakout air) → fails 2:1. Same wall, 28th session.
+- **AMZN** (stock) — quant **2/5** (fails momentum + volume + not_extended; last $272.35, +11% premarket earnings gap) → extended blow-off, un-chaseable.
+- Movers (HSAI +708% / CUPR / SER pumps; IOVA/HNST +40%+ earnings blow-offs) — un-tradeable, fail not_extended.
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD** — 28th straight no-trade session (0/3 trades this week). Regime is risk_on (SPY $768.64 over a rising 50d) near record highs, but every confirmed leader (NVDA 4/5, XLV 3/5) is again pinned 0.3–0.7R under its 20d high → every 2R target lands in unproven breakout air → fails 2:1. AMZN's +11% earnings gap is an extended blow-off (2/5). Decisively, the **July jobs report prints at 8:30 ET this morning, before the open** — a macro binary whose reaction lands squarely inside any bell-open risk; no reason to open marginal risk into it. 100% cash, heat 0%, DD −1.90%. Watch: the post-NFP tape for a held breakout with clean 2R room or a pullback of a confirmed leader (NVDA/XLV/XLI) to a rising 20d.

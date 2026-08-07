@@ -13,6 +13,38 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-07 — Scorecard (prior session 2026-08-06)
+
+**Our picks (1d = Aug-6 close vs Aug-5 close, the move since that read):**
+- NVDA (stock, semis/AI) — decision **REJECTED** (4/5, 0.19R under high, 2R in air) — actual 1d **−0.17%** ($218.79 vs $219.16) — verdict **correct/flat** — drifted at its high ahead of NFP.
+- AVGO (stock, semis/AI) — decision **REJECTED** (4/5, 0.26R under high) — actual 1d **+0.52%** ($420.68 vs $418.49) — verdict **correct/flat**.
+- XLI (ETF, Industrials) — decision **REJECTED** (4/5, at high) — actual 1d **−0.82%** ($184.80 vs $186.32) — verdict **correct** — faded off resistance.
+- XLK (ETF, Tech) — decision **REJECTED** (4/5) — actual 1d **−0.31%** ($185.32 vs $185.89) — verdict **correct**.
+- XLB (ETF, Materials) — decision **REJECTED** (4/5) — actual 1d **−0.87%** ($52.17 vs $52.63) — verdict **correct**.
+- XLF (ETF, Financials) — decision **REJECTED** (3/5) — actual 1d **−0.34%** ($57.81 vs $58.01) — verdict **correct**.
+- XLV (ETF, Health Care) — decision **REJECTED** (5/5, 0.77R under high) — actual 1d **+0.16%** ($164.42 vs $164.16) — verdict **correct/flat**.
+
+**Day's top tradeable gainers (Aug-6, ≥$5, no warrants/units/rights):**
+- WYHG +194% ($9.83) — micro-cap pump — skip
+- CLRO +166% ($9.80) — ClearOne micro-cap pump — skip
+- AMEM +116% ($53.00) — micro-cap spike — skip
+- ZTG +47.8% ($10.05) — micro-cap — skip
+- IOVA +43.1% ($6.21) — Iovance Biotherapeutics — biotech one-day spike — extended blow-off
+- HNST +40.8% ($5.42) — Honest Company — consumer earnings gap — extended blow-off
+- PAVS +40.1% ($6.88) — micro-cap — skip
+
+**Losers (≥$5):** YXT −66% ($7.95, pump unwind); TDUP −50% ($3.11); APPX −39% ($15.20); BLLN −39% ($91.65); APPC −36% ($13.01); UTI −34% ($27.87); ONT −33% ($15.09) — micro-cap/earnings-miss gaps.
+
+**Best realistic miss:** **None** — every filtered gainer was a micro-cap pump or a +40%+ one-day earnings/biotech blow-off (fails not_extended). No process-compatible entry existed.
+
+**Lessons:**
+- **Every reject drifted flat-to-down into the jobs binary** (−0.17% to −0.87%; XLV/AVGO barely green). The 2R-in-air filter *and* the don't-open-marginal-risk-into-a-binary discipline were both correct — the tape drifted lower ahead of NFP, exactly as a cautious hold expected.
+- **Movers list again all pumps/blow-offs (+40–194%).** IOVA/HNST are real names but +40%+ one-day spikes → un-chaseable. The tradeable universe keeps offering only vertical gaps or micro-pumps.
+- **The Aug-7 jobs report is the binary the last week's holds were waiting on.** It prints 8:30 ET, before the open — wait for the post-print reaction, don't open marginal risk into it.
+
+**Rolling 7d:** recurring leading sectors = **Info Tech/AI-hardware** (NVDA holding new-high area; AVGO/XLK firm), **Industrials** (XLI), **Materials** (XLB), **Health Care** (XLV 5/5); **Financials** (XLF) drifting; **Energy** lags on the tape despite the value-rotation narrative. Recurring miss pattern = confirmed leaders pinned **0.2–0.8R under their 20d highs** → every 2R target lands in unproven breakout air → fails 2:1; movers = +40%+ earnings blow-offs/pumps too extended to chase. Fix unchanged: demand a **held breakout with room** or a **pullback to a rising 20d**; verify every number on Alpaca; act only after the **Aug-7 NFP** reaction is on the tape.
+
+
 ## 2026-08-06 — Scorecard (prior session 2026-08-05)
 
 **Our picks (1d = Aug-5 close vs Aug-4 close, the move since that read):**
