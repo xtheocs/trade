@@ -559,3 +559,14 @@ drawdown are measured from here.
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime risk_on, SPY $768.64 over rising 50d, but NVDA 4/5 and XLV 3/5 both pinned 0.3–0.7R under their 20d highs, 2R in breakout air, fail 2:1 R:R; AMZN +11% earnings gap an extended blow-off 2/5; July NFP printed pre-open, no fresh risk taken into the reaction). Weekly trades used: 0/3.
 
 ---
+
+### Aug 7 — EOD Snapshot (Day 41, Friday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** No-trade day, account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Midday scan held the pre-market HOLD decision: regime risk_on, SPY $768.64 over its rising 50d, but NVDA and XLV both pinned 0.3–0.7R under their 20d highs with 2R still in breakout air, failing the 2:1 R:R filter; AMZN's post-earnings +11% gap was an extended blow-off, and July NFP printed pre-open with no fresh risk taken into the reaction. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Aug 3–7 all no-trade, week closes flat). Capital fully idle awaiting a setup that clears both quant confirmation and the 2:1 R:R filter. Tomorrow: weekly review Friday afternoon; Monday's pre-market rescans for fresh catalysts into a new week.
+
+---
