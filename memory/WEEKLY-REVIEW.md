@@ -533,3 +533,67 @@ Template for each entry:
 
 ### Overall Grade: C+
 *(Process A — a seventh week with every risk rule respected, the regime gate flipping risk_off on the hawkish FOMC exactly as written, and the R:R filter vindicated a seventh time and now in BOTH directions: it kept the book out of an inverse-sleeve chase into a Jul-29 air-pocket that fully recovered by Friday. But the result is a seventh straight flat week and fifth zero-trade week, with no sustained down-tape to make cash a relative win — −1.0% vs a whippy +1.0% S&P is a mild opportunity cost, not a victory. The one genuinely new datapoint: the regime finally turned risk_off, the scan correctly rotated to the inverse sleeve, and it STILL found no entry — proving the constraint is symmetric entry geometry, not sector or direction. Survival fully intact; compounding still absent — process A, outcome D, average C+. The rule-review threshold is now explicit and two weeks from firing.)*
+
+---
+
+## Week ending 2026-08-07
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,068.31 (Mon Aug-3 open) |
+| Ending portfolio | $1,068.31 (Fri Aug-7) |
+| Week return | +$0.00 (0.00%) |
+| Peak equity (week) | $1,068.31 · max intra-week DD 0.00% |
+| S&P 500 week | ≈ +3.4% (7,489.72 Jul-31 → ~7,745 Aug-7; **best week since April**; sources noisy — WSJ had +2.9% through Thu) — FYI only |
+| Bot vs S&P | ≈ −3.4% (100% cash into the strongest up-week of the phase — FYI context, NOT the goal) |
+| Trades | 0 (W:0 / L:0 / open:0) — none opened, none closed |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A (no positions) |
+| Worst trade | N/A (no positions) |
+| Profit factor | N/A (no closed trades) |
+| Avg R multiple | N/A (no closed trades) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades — 100% cash entire week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| (none — 100% cash) | — | — | — | — |
+
+### What Worked
+- **Regime read cleanly all week and the scan stayed long-side, correctly.** SPY held above a rising 50d (Aug-3 $746.79 > $744.95 → Aug-7 $768.64 > $746.70, new record highs) → risk_on throughout, inverse sleeve un-sanctioned. No inverse-sleeve error into a tape that rose ~3.4%.
+- **Verified every Perplexity "semi rally" against Alpaca bars and refused the mirage.** Perplexity floated AMAT/LRCX/KLAC/MU/TER "+8–11%" Aug-3; Alpaca bars showed semis in a downtrend (below a falling 20d, −15% off highs). The rule "every price comes from Alpaca, never Perplexity" caught a fabricated catalyst that would have led to a losing chase.
+- **Did not chase the AMZN +11% earnings gap.** AMZN blew out earnings but printed 3.0 ATR extended above its 20d, pinned 0.10R under its high (2/5–4/5 depending on day) — a textbook blow-off. The not-extended / R:R gates filtered it; chasing the gap would have been the worst kind of entry.
+- **Held cash through the July NFP binary (Aug-7, 8:30 ET pre-open).** No fresh risk taken into a macro print landing squarely inside any bell-open hold window. Zero rule violations for an eighth week: 0/3 weekly trades, heat 0%, DD −1.90% « 20% breaker.
+
+### What Didn't Work
+- **Flat into the best S&P week since April — the single least-flattering backdrop of the phase.** The S&P rose ~+3.4% (post-NFP relief rally to record highs) and the book was 100% cash: a ≈−3.4% relative miss, the largest opportunity cost of the eight-week phase. Unlike the Jul-17 down-week where cash *won*, this week cash was pure drag.
+- **Eighth straight flat week, sixth zero-trade week.** Phase P&L stuck at −$11.69 (−1.08%); ~30 trading days now idle since the SMH time-stop exit (Jun 26). Zero absolute progress toward the ~10%/month stretch for two full months.
+- **The "jam at resistance" wall held an eighth week — even at new record highs.** Every confirmed leader (XLF 4/5, XLV 3/5, NVDA 4/5, AVGO/XLI/XLK/XLB 4/5) sat pinned 0.1–0.77R under its 20d high, so each 2R (4×ATR) target landed +10–14% in unproven breakout air. A tape making record highs offered breakouts-into-air, not pullbacks-with-room — the exact shape the geometry can't size.
+- **Standing pullback triggers converted nothing for a third week.** The recurring "watch: XLF/XLV/NVDA pullback to a rising 20d with 2R room" items never tagged a qualifying level intraday. Three weeks of the execution fix in effect, still zero conversions in either direction — the market simply did not offer the pullback shape.
+
+### Key Lessons
+- **A record-high tape is the hardest tape for a 2×ATR/2:1 swing entry, not the easiest.** When the index prints new highs every day, leaders confirm *at* their own highs — so the 4×ATR (2R) objective is always breakout air. Eight weeks now confirm this is structural, not sector- or direction-specific: leaders-at-highs (Jun–Jul), inverse-ETFs-at-highs (Jul-31 risk_off), and now leaders-at-record-highs (Aug) all failed 2:1 for the identical reason. The tape gives momentum-chasers a green week and swing-with-room traders nothing.
+- **Cash's scoreboard is entirely tape-dependent, and this week it lost.** Jul-17's −1.6% tape made 100% cash a +1.6% relative win; this week's +3.4% tape made the same cash a −3.4% drag. The discipline was identical both weeks — which is exactly why "cash beat the tape" was never worth celebrating and "cash lagged the tape" isn't worth panicking over. The honest read of both is the same: no qualifying entry appeared.
+- **Verifying catalysts against Alpaca bars remains the highest-value habit.** The Aug-3 "semiconductor rally" was fabricated by Perplexity; only pulling the actual bars exposed a downtrend dressed as a breakout. On a small account, one avoided losing chase preserves more than a marginal win adds.
+- **Eight weeks: process A, outcome F this week (a big up-week fully missed).** No rule violated, capital fully intact — but the account has compounded nothing in two months and just sat out the strongest week of the phase. Discipline this clean producing this little, now through *both* a down-tape and a record-high up-tape, means the binding constraint is the entry geometry the market keeps withholding — and the pre-set rule-review window is now open (see below).
+
+### Adjustments for Next Week
+- **This is week 1 of the pre-set 2–3 week rule-review window (opened Jul-31).** The threshold written down last week: if standing triggers convert nothing over the next 2–3 weeks while still correctly refusing extended names, evaluate a *narrow* geometry refinement (a structural-support stop tighter than a blind 2×ATR on the lowest-ATR vehicles, or a 1.75:1 floor reserved for those vehicles). This week met the "converts nothing / still refuses correctly" condition and *strengthened* the case (a +3.4% week fully missed) — but it is one week of the window, not the whole window. **Hold the hard rules; sharpen, don't fire, the review.**
+- **Do one piece of concrete prep for that review now:** next week's pre-market should log, for the 2–3 recurring "watch" names (XLF/NVDA/XLV/XLI), what a *structural-support* stop (below the last swing low / rising 20d) would have been versus the blind 2×ATR stop, and whether that tighter stop would have cleared 2:1 with room. Build the evidence base so an Aug-14/Aug-21 decision is data-backed, not eyeballed.
+- **Keep hunting the pullback, not the breakout.** With leaders at record highs for 8+ weeks, the qualifying long remains a retrace to a rising 20d with air overhead, far more than a fresh high-break into air. Prioritize names *coming back to* support in an uptrend over anything at its high.
+- **Regime gate first Monday.** SPY $768.64 > rising 50d ($746.70) = risk_on at record highs. Trade long only on a real pullback-setup; the inverse sleeve stays un-sanctioned unless SPY loses a rising 50d into a confirmed downtrend — a record-high tape is the opposite of that.
+- **Don't force a trade to break the streak.** Full $1,068.31 buying power, 0/3 weekly trades, heat 0%, DD −1.90%. Add ONE name only if it clears catalyst + 3/5 quant + 2:1 R:R + allowing regime; zero remains valid — but the mandate next week is to *build the geometry-review evidence* and to convert a watched pullback if one finally appears, not to keep re-rejecting the same extended names.
+
+### Strategy File Changes
+- **None to the hard rules this week — the pre-set review window has opened, but firing a change on its first week would be the exact single-week churn STEP 5 forbids.** Eight weeks of clean, repeatedly-rewarded discipline (3% risk, 2×ATR stop, 2:1 minimum, heat/sleeve caps, regime gate) is not grounds to loosen anything on the strength of one big up-week missed. The genuinely new datapoint — the constraint held even at *record highs*, in a +3.4% tape — does not change the diagnosis (symmetric entry geometry: names confirm only at their extremes, so a 4×ATR target is always in air); it only *raises the cost* of that constraint, which is a reason to build the review evidence faster, not to amend in haste. Per the threshold set Jul-31, the geometry evaluation fires only if the standing-trigger fix converts nothing across the *full* 2–3 week window (through ~Aug-14/Aug-21) while still refusing extended names correctly. This week is window-week 1: condition met, case strengthened, **verdict held.** Concrete new action (a routine refinement, not a hard-rule change): starting next week the pre-market logs the structural-support-stop vs 2×ATR-stop comparison for the recurring watch names, so the eventual decision is data-backed. If week 2–3 also convert nothing, the Aug-14/Aug-21 review is the point of record to adopt a narrow, vehicle-specific geometry refinement — never a broad loosening of the framework that has kept the account fully intact for two months across a hawkish Fed and a record-high melt-up alike.
+
+### Overall Grade: C−
+*(Process A — an eighth week with every risk rule respected, the regime read correctly as risk_on at record highs, the Perplexity "semi rally" caught as a bar-checked mirage, the AMZN +11% gap not chased, and no risk taken into the July NFP binary. But the outcome is the worst *relative* week of the phase: flat into the best S&P week since April (~+3.4%), a ≈−3.4% opportunity cost, eighth straight flat week and sixth zero-trade week with no compounding in two months. Where Jul-17's cash beat a down tape, this week's identical discipline simply missed a big up tape — process A, outcome F, and with the drag now this large the average lands C−, a notch below the prior flat weeks. Survival fully intact; the pre-set geometry-review window has now opened, but the conservative, self-consistent call is to hold the hard rules one more window and build the evidence — fire on data, not on a single missed melt-up.)*
