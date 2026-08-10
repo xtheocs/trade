@@ -570,3 +570,14 @@ drawdown are measured from here.
 **Notes:** No-trade day, account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Midday scan held the pre-market HOLD decision: regime risk_on, SPY $768.64 over its rising 50d, but NVDA and XLV both pinned 0.3–0.7R under their 20d highs with 2R still in breakout air, failing the 2:1 R:R filter; AMZN's post-earnings +11% gap was an extended blow-off, and July NFP printed pre-open with no fresh risk taken into the reaction. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Aug 3–7 all no-trade, week closes flat). Capital fully idle awaiting a setup that clears both quant confirmation and the 2:1 R:R filter. Tomorrow: weekly review Friday afternoon; Monday's pre-market rescans for fresh catalysts into a new week.
 
 ---
+
+### Aug 10 — EOD Snapshot (Day 42, Monday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** 30th straight no-trade day, fresh week opens flat. Account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Pre-market rejected NVDA (3/5, pinned 0.05R under its high, 2R target in blue-sky air above the all-time high) and XLK (4/5, pinned 0.07R under its high, same wall); MCHP (+13.7% Fri on raised guidance) and TEAM (+32% earnings gap), plus DOCS/TWLO/NET software blow-offs, were all extended one-day gaps, un-chaseable. Regime remains risk_on (SPY $773.16, fresh record high, over a rising 50d). Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (fresh week). CPI/PPI print later this week — a macro binary to respect on any new hold window. Tomorrow: pre-market rescans for a pullback in a confirmed leader (NVDA/XLK/XLV) to a rising 20d, or a held breakout with clean 2R room.
+
+---
