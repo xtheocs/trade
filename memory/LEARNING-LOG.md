@@ -13,6 +13,33 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-10 — Scorecard (prior session 2026-08-07)
+
+**Our picks (1d = Aug-7 close vs Aug-6 close, the move since that read):**
+- NVDA (stock, semis/AI) — decision **REJECTED** (4/5, 0.31R under high, 2R in air) — actual 1d **+2.35%** ($223.93 vs $218.79) — verdict **missed-entry / ran** — broke to a fresh 20d high ($224.76) on continued AI-chip momentum. The confirmed leader we keep filtering on stop-width, not direction.
+- XLV (ETF, Health Care) — decision **REJECTED** (3/5, 0.71R under high) — actual 1d **+0.76%** ($165.67 vs $164.42) — verdict **correct/flat-up**.
+- AMZN (stock) — decision **REJECTED** (2/5, extended earnings gap) — actual 1d **+0.74%** ($274.37 vs $272.35) — verdict **correct** — the +11% gap stalled, no follow-through.
+
+**Day's top tradeable gainers (Aug-7, ≥$5, no warrants/units/rights):**
+- MB +137.9% ($8.92) — MasterBeef micro-cap pump — skip
+- RCEL +63.6% ($7.77) — Avita Medical — biotech one-day spike — extended blow-off
+- VATE +63.4% ($12.11) — small-cap spike — skip
+- QNST +38.5% ($21.08) — QuinStreet — earnings gap — extended blow-off
+- AXTL +36.4% ($5.77) — micro-cap — skip
+- SENS +36.3% ($7.02) — Senseonics — biotech spike — extended blow-off
+
+**Losers (≥$5):** AMEM −53% ($24.82); LASC −48% ($14.61); INHD −42% ($5.15); SEZL −34% ($118.02); SNK −32% ($21.00) — micro-cap / single-name earnings-miss gaps.
+
+**Best realistic miss:** **NVDA +2.35%** — semis/AI — our own reject that ran to a new 20d high; a process-compatible name we keep passing on the 2R-in-air R:R filter. Among the filtered gainers, every name was a +36–138% one-day earnings/biotech blow-off or micro-cap pump → un-chaseable (fails not_extended). No new process-compatible entry existed.
+
+**Lessons:**
+- **NVDA keeps grinding higher** (+3.40% Aug-5, −0.17% Aug-6, +2.35% Aug-7) while we reject it on stop-width. The R:R filter protects against a wide stop into blue-sky, not against direction — it's costing us the leader. The fix isn't to relax 2:1; it's to wait for a **pullback to the rising 20d** that tightens the stop, or a **held breakout with real air** above.
+- **Filtered universe still all blow-offs** (+36–138% one-day gaps/pumps). Tradeable movers keep offering only vertical spikes — none process-compatible.
+- **Post-NFP tape stayed risk-on** into the weekend; no binary damage, SPY closed at a new high ($773 Mon regime read).
+
+**Rolling 7d:** recurring leading sectors = **Info Tech/AI-hardware** (NVDA fresh highs, XLK/TEAM firm, semis-software earnings strong), **Materials** (XLB), **Health Care** (XLV), **Industrials** (XLI); **Energy** lags on the Alpaca tape despite the value-rotation headlines. Recurring miss pattern = confirmed leaders pinned **0.1–0.8R under their 20d highs** → every 2R target lands in unproven breakout air → fails 2:1; day's movers = +36%+ earnings/biotech blow-offs too extended to chase. Fix unchanged: demand a **held breakout with 2R room** or a **pullback of a confirmed leader to a rising 20d**; verify every number on Alpaca; **CPI/PPI land this week** — a macro binary to respect.
+
+
 ## 2026-08-07 — Scorecard (prior session 2026-08-06)
 
 **Our picks (1d = Aug-6 close vs Aug-5 close, the move since that read):**

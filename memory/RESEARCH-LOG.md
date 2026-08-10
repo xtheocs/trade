@@ -1199,3 +1199,34 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 28th straight no-trade session (0/3 trades this week). Regime is risk_on (SPY $768.64 over a rising 50d) near record highs, but every confirmed leader (NVDA 4/5, XLV 3/5) is again pinned 0.3–0.7R under its 20d high → every 2R target lands in unproven breakout air → fails 2:1. AMZN's +11% earnings gap is an extended blow-off (2/5). Decisively, the **July jobs report prints at 8:30 ET this morning, before the open** — a macro binary whose reaction lands squarely inside any bell-open risk; no reason to open marginal risk into it. 100% cash, heat 0%, DD −1.90%. Watch: the post-NFP tape for a held breakout with clean 2R room or a pullback of a confirmed leader (NVDA/XLV/XLI) to a rising 20d.
+
+## 2026-08-10 — Pre-market
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $773.16 > 50-day SMA $747.15, rising — new record high). New long equity allowed at full size; inverse sleeve not sanctioned. Futures +0.62%, VIX 14.90 (calm).
+
+### Market Context
+- SPY closed Fri at a fresh record ($773). Light macro Monday; **CPI + PPI land later this week** — a binary to respect on any hold window.
+- Software/tech earnings blowouts dominate the tape: **TEAM +32–35%, DOCS +89%, TWLO +21–24%, NET, DV +13%, NTRA +21%, AKAM** (beat). **MCHP +13.7% Fri** on raised guidance; AMD +6.5%. All are one-day gaps — extended, un-chaseable at day-2.
+- Leading sectors (weekly, Alpaca-corroborated): **Info Tech/AI-hardware, Materials, Health Care, Industrials**. Energy lags on the tape despite value-rotation headlines.
+
+### Candidates (catalyst + quant confirmed — all fail the entry filter)
+- **NVDA** (stock, semis/AI) — catalyst: AI-chip momentum, fresh 20d high — quant **3/5** (fails volume + not_extended; last $223.93, sma20 $206.83 rising, ret_10d +8.14%, ATR $7.77, risk/sh $15.54, stop $208.39, hi_20d $224.76, vol 0.96×) — **rejected**: 0.05R under its high; 2R target ~$255 sits in blue-sky air above the all-time high → fails 2:1. Same wall, 29th session.
+- **XLK** (ETF, Tech) — catalyst: tech-earnings leadership — quant **4/5** (fails volume; last $187.96, sma20 $178.87 rising, ret_10d +6.84%, ATR $5.44, risk/sh $10.88, stop $177.08, hi_20d $188.71) — **rejected**: 0.07R under its high; 2R target ~$210 in breakout air → fails 2:1.
+- **MCHP** (stock, semis) — catalyst: raised guidance — quant **4/5** (fails trend, sma20 not rising; last $84.70, sma20 $79.81, ret_10d +7.36%, ATR $4.58, risk/sh $9.15, stop $75.55, hi_20d $88.59, vol 1.76×) — **rejected**: already gapped **+13.7% Fri** — an extended one-day blow-off; entering Mon is chasing day-2, and 2R target ~$103 sits ~16% above the 20d high in air → fails not-chasing + 2:1.
+- **TEAM** (stock, software) — catalyst: earnings blowout — quant **4/5** (fails not_extended; last $149.03, +32% one-day gap, ret_10d +71.8%, vol 3.25×) — **rejected**: vertical earnings blow-off, un-chaseable.
+
+### Rejected
+- NVDA / XLK — confirmed 3–4/5 but pinned 0.05–0.07R under their 20d highs (2R in air) → fails 2:1. Same wall, 29th session.
+- MCHP / TEAM — real catalysts but extended one-day earnings gaps (+13.7% / +32%) → chasing blow-offs, rejected.
+- AMD (1/5, below a falling 20d, RS −12%), SMH (2/5) — not confirmed.
+- Movers (MB/DOCS/TWLO/RCEL/SENS pumps + biotech/software blow-offs +36–138%) — un-tradeable, fail not_extended.
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD** — 29th straight no-trade session (0/3 trades this week, fresh week). Regime is risk_on (SPY at a new record $773 over a rising 50d), but the same wall holds: confirmed leaders (NVDA 3/5, XLK 4/5) are pinned <0.1R under their 20d highs → every 2R target lands in unproven breakout air → fails 2:1. The day's fresh catalysts (MCHP +13.7%, TEAM +32%, DOCS/TWLO/NET software earnings) are all extended one-day blow-offs — chasing day-2 violates not-chasing. CPI/PPI land later this week — a macro binary. 100% cash, heat 0%, DD −1.90%. Watch: a pullback of a confirmed leader (NVDA/XLK/XLV) to a rising 20d that tightens the stop, or a held breakout with clean 2R room.
