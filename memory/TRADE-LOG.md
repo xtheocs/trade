@@ -577,3 +577,14 @@ drawdown are measured from here.
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime risk_on, SPY $773.02 over rising 50d; NVDA/XLK/XLE/AVGO all 4/5 confirmed but each pinned <0.5R under its 20d high — 2R target lands in breakout air — fails 2:1 R:R; premarket movers all one-day M&A/earnings/biotech blow-offs, un-chaseable; CPI/PPI land this week). Weekly trades used: 0/3.
 
 ---
+
+### Aug 11 — EOD Snapshot (Day 42, Tuesday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** No-trade day, account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Midday scan held the pre-market HOLD decision: regime risk_on, SPY $773.02 over rising 50d, but NVDA/XLK/XLE/AVGO all pinned <0.5R under their 20d highs with 2R still in breakout air, failing the 2:1 R:R filter; premarket movers were all one-day M&A/earnings/biotech blow-offs, un-chaseable. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Aug 10–11 both no-trade). Capital fully idle awaiting a setup that clears both quant confirmation and the 2:1 R:R filter. CPI/PPI land later this week — a likely catalyst window. Tomorrow: pre-market rescans for fresh catalysts and CPI positioning.
+
+---
