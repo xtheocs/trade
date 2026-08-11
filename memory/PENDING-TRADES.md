@@ -1,3 +1,3 @@
-# Pending Trades — 2026-08-10
+# Pending Trades — 2026-08-11
 
-No trades. Reason: 29th straight no-trade session — regime risk_on (SPY new record $773), but confirmed leaders (NVDA/XLK) pinned <0.1R under their 20d highs → 2R in breakout air, fails 2:1; day's fresh catalysts (MCHP +13.7%, TEAM +32%, DOCS/TWLO software earnings) are extended one-day blow-offs, un-chaseable. CPI/PPI land later this week.
+No trades. Reason: 30th straight no-trade session — regime risk_on (SPY $773, near record), but every confirmed leader (NVDA/XLK/XLE/AVGO 4/5) pinned <0.5R under its 20d high → 2R target in breakout air, fails 2:1; day's movers are one-day M&A/biotech/earnings blow-offs, un-chaseable. CPI/PPI land this week — macro binary.

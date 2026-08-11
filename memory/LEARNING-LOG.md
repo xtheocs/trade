@@ -13,6 +13,33 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-11 — Scorecard (prior session 2026-08-10)
+
+**Our picks (1d = Aug-10 close vs Aug-7 close, the move since that read):**
+- NVDA (stock, semis/AI) — decision **REJECTED** (4/5, 0.05R under high, 2R in air) — actual 1d **−2.87%** ($217.49 vs $223.93) — verdict **dodged-loss / correct** — faded off its $224.76 high instead of breaking out. First clean payoff for the R:R filter: the pinned-under-high reject dropped, it didn't run.
+- XLK (ETF, Tech) — decision **REJECTED** (4/5, 0.07R under high) — actual 1d **−0.87%** ($186.32 vs $187.96) — verdict **correct/flat**.
+- MCHP (stock, semis) — decision **REJECTED** (4/5, extended +13.7% gap) — actual 1d **−3.91%** ($81.39 vs $84.70) — verdict **correct/dodged** — the earnings gap faded; chasing day-2 would have lost.
+- TEAM (stock, software) — decision **REJECTED** (4/5, +32% blow-off) — actual 1d **+1.86%** ($151.81 vs $149.03) — verdict **correct** — minor follow-through, still an un-chaseable vertical gap.
+
+**Day's top tradeable gainers (Aug-10, ≥$5, no warrants/units/rights):**
+- BWMN +55.8% ($42.42) — Bowman Consulting — engineering/consulting — one-day M&A/acquisition pop
+- VREX +48.8% ($18.46) — Varex Imaging — medical imaging — earnings/guidance gap
+- HZO +46.1% ($52.12) — MarineMax — boat retail — one-day M&A/takeover pop
+- ALGS +36.9% ($7.65) — Aligos Therapeutics — biotech spike
+- ABCL +34.8% ($9.34) — AbCellera Biologics — biotech spike
+
+**Losers (≥$5):** VATE −41% ($7.13); BTDL −40% ($10.54); NABL −36% ($3.21→>$5 prior); AXTC −34% ($23.29); AIRS −45% ($2.75) — micro-cap / earnings-miss / leveraged-ETN gaps.
+
+**Best realistic miss:** **None process-compatible.** Every Aug-10 tradeable gainer was a one-day M&A pop (BWMN, HZO) or a biotech/earnings blow-off (VREX, ABCL, ALGS) → all fail not_extended, un-chaseable. Our own repeat reject NVDA actually **faded −2.87%**, so the R:R filter dodged a loss rather than missing a run — no miss to log.
+
+**Lessons:**
+- **The R:R filter paid off, not just protected.** NVDA (−2.87%) and MCHP (−3.91%) — both names we rejected for being pinned under a high / an extended gap — dropped the next day. Rejecting the "2R-in-air" setup dodged real losses this session, the first hard evidence the filter isn't only costing us NVDA runs.
+- **Tradeable movers still all blow-offs** — M&A pops and biotech/earnings spikes (+35–56% one-day). None process-compatible; nothing to chase.
+- **Energy (XLE) now confirms 4/5** and leads YTD (+34%) — a fresh process-compatible sector to watch, though it too sits at its 20d high with 2R in air today.
+
+**Rolling 7d:** recurring leading sectors = **Info Tech/AI-hardware** (NVDA/XLK/AVGO firm but extended), **Energy** (XLE now confirming 4/5, +34% YTD leader), **Materials** (XLB), **Health Care** (XLV). Recurring miss pattern = confirmed leaders pinned **<0.5R under their 20d highs** → every 2R target lands in unproven breakout air → fails 2:1 (30th session); day's movers = M&A/biotech/earnings one-day blow-offs too extended to chase. Fix unchanged: demand a **held breakout with 2R room** or a **pullback of a confirmed leader to a rising 20d** that tightens the stop — NVDA's fade toward its 20d is the first hint that setup may finally develop. **CPI/PPI land this week — a macro binary.**
+
+
 ## 2026-08-10 — Scorecard (prior session 2026-08-07)
 
 **Our picks (1d = Aug-7 close vs Aug-6 close, the move since that read):**

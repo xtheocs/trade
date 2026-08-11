@@ -1230,3 +1230,34 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 29th straight no-trade session (0/3 trades this week, fresh week). Regime is risk_on (SPY at a new record $773 over a rising 50d), but the same wall holds: confirmed leaders (NVDA 3/5, XLK 4/5) are pinned <0.1R under their 20d highs → every 2R target lands in unproven breakout air → fails 2:1. The day's fresh catalysts (MCHP +13.7%, TEAM +32%, DOCS/TWLO/NET software earnings) are all extended one-day blow-offs — chasing day-2 violates not-chasing. CPI/PPI land later this week — a macro binary. 100% cash, heat 0%, DD −1.90%. Watch: a pullback of a confirmed leader (NVDA/XLK/XLV) to a rising 20d that tightens the stop, or a held breakout with clean 2R room.
+
+## 2026-08-11 — Pre-market
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $773.02 > 50-day SMA $747.51, rising — near record high). New long equity allowed at full size; inverse sleeve not sanctioned.
+
+### Market Context
+- SPY $773.02, holding just under record highs. Leaders cooled Aug-10: NVDA −2.87%, XLK −0.87%, MCHP −3.91% — the extended names faded, exactly the setup the R:R filter was built to dodge.
+- Premarket movers (Alpaca): all one-day blow-offs — BWMN +55.8% (M&A), HZO +46.1% (M&A), VREX +48.8% (earnings), ABCL/ALGS +35–37% (biotech). None process-compatible (fail not_extended).
+- Leading sectors (weekly, corroborated): **Energy (XLE +34% YTD, leads daily RRG), Info Tech/AI-hardware (NVDA/XLK/AVGO), Materials, Health Care.**
+- **CPI/PPI land this week — a macro binary to respect on any hold window.**
+
+### Candidates (catalyst + quant confirmed — all fail the 2:1 R:R filter)
+- **NVDA** (stock, semis/AI) — catalyst: AI-chip momentum — quant **4/5** (fails volume; last $217.49, sma20 $207.53 rising, ret_10d +10.7%, ATR $7.92, risk/sh $15.83, stop $201.66, hi_20d $224.76, vol 1.0×) — **rejected**: 0.46R under high; 2R target ~$249 (+14.6%) in blue-sky air above the all-time high → fails 2:1. Faded −2.87% Aug-10 — watch for a pullback to the rising 20d ($207.53) that tightens the stop.
+- **XLK** (ETF, Tech) — catalyst: tech-earnings leadership — quant **4/5** (fails volume; last $186.32, sma20 $179.12 rising, ret_10d +6.9%, ATR $5.24, risk/sh $10.49, stop $175.83, hi_20d $188.82) — **rejected**: 0.24R under high; 2R target ~$207 (+11%) in breakout air → fails 2:1.
+- **XLE** (ETF, Energy) — catalyst: energy sector leadership (YTD leader) — quant **4/5** (fails rel_strength; last $60.21, sma20 $58.32 rising, ret_10d +3.1%, ATR $1.44, risk/sh $2.88, stop $57.33, hi_20d $60.45, vol 1.27×) — **rejected**: 0.08R under high; 2R target ~$66 (+9.6%) in breakout air → fails 2:1. New process-compatible name to watch.
+- **AVGO** (stock, semis/AI) — catalyst: AI-chip momentum — quant **4/5** (fails volume; last $422.38, sma20 $393.77 rising, ret_10d +10.2%, ATR $15.96, risk/sh $31.92, stop $390.46, hi_20d $432.66) — **rejected**: 0.32R under high; 2R target ~$486 (+15%) in air → fails 2:1.
+
+### Rejected
+- NVDA / XLK / XLE / AVGO — confirmed 4/5 but each pinned <0.5R under its 20d high → 2R target lands in unproven breakout air → fails 2:1. Same wall, 30th session.
+- SMH 1/5 (below a falling 20d), XLV 2/5 (extended, at its high) — not confirmed.
+- Movers (BWMN/HZO M&A pops, VREX earnings, ABCL/ALGS biotech spikes +35–56%) — un-tradeable, fail not_extended.
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD** — 30th straight no-trade session (0/3 trades this week). Regime risk_on (SPY $773 over a rising 50d), but the same wall holds: every confirmed leader (NVDA/XLK/XLE/AVGO 4/5) is pinned <0.5R under its 20d high → every 2R target lands in unproven breakout air → fails 2:1. The day's fresh catalysts are all one-day M&A/biotech/earnings blow-offs, un-chaseable. Notably the extended leaders faded Aug-10 (NVDA −2.87%, MCHP −3.91%) — the R:R filter dodged losses, not just runs. CPI/PPI land this week — a macro binary. 100% cash, heat 0%, DD −1.90%. Watch: NVDA's fade toward its rising 20d ($207.53) for the pullback setup, or a held breakout (XLE above $60.45) with clean 2R room.
