@@ -578,6 +578,13 @@ drawdown are measured from here.
 
 ---
 
+### Aug 12 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime risk_on; XLE/NVDA/XLK all 4/5 confirmed but each <0.5R under its 20d high, 2R in breakout air, fails 2:1 R:R; XLI/XLV 3/5 lagging SPY; CPI cleared in-line, PPI still ahead). Weekly trades used: 0/3.
+
+---
+
 ### Aug 11 — EOD Snapshot (Day 42, Tuesday)
 **Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
 
