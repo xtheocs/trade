@@ -1261,3 +1261,35 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 30th straight no-trade session (0/3 trades this week). Regime risk_on (SPY $773 over a rising 50d), but the same wall holds: every confirmed leader (NVDA/XLK/XLE/AVGO 4/5) is pinned <0.5R under its 20d high → every 2R target lands in unproven breakout air → fails 2:1. The day's fresh catalysts are all one-day M&A/biotech/earnings blow-offs, un-chaseable. Notably the extended leaders faded Aug-10 (NVDA −2.87%, MCHP −3.91%) — the R:R filter dodged losses, not just runs. CPI/PPI land this week — a macro binary. 100% cash, heat 0%, DD −1.90%. Watch: NVDA's fade toward its rising 20d ($207.53) for the pullback setup, or a held breakout (XLE above $60.45) with clean 2R room.
+
+## 2026-08-12 — Pre-market
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $770.52 > 50-day SMA $747.80, rising). New long equity allowed at full size; inverse sleeve not sanctioned.
+
+### Market Context
+- **July core CPI printed in-line (+0.2% m/m vs +0.2% exp)** — the week's macro binary cleared supportive: no upside inflation surprise, a bid for rate-sensitive tech/semis. PPI still ahead this week.
+- Semis firm premarket on the CPI read (MU top premarket $-volume, +2.8%; NVDA +1.2%). Software earnings blow-offs (DOCS/TEAM/TWLO) all day-2+ extended, un-chaseable.
+- Leading sectors (weekly, Alpaca-corroborated): **Energy (XLE broke out, +40%+ YTD, momentum 0.88), Info Tech/AI-hardware (NVDA/XLK), Industrials (XLI), Health Care (XLV).**
+
+### Candidates (catalyst + quant confirmed — all fail the 2:1 R:R filter)
+- **XLE** (ETF, Energy) — catalyst: energy sector leadership, fresh breakout — quant **4/5** (fails volume; last $60.91, sma20 $58.51 rising, ret_10d +5.85%, ATR $1.44, risk/sh $2.88, stop $58.03, hi_20d $61.07, vol 0.89×) — **rejected**: broke out but sits 0.06R under its fresh 20d high; 2R target ~$66.7 (+9.4%) in blue-sky air → fails 2:1. Best-developing watch name.
+- **NVDA** (stock, semis/AI) — catalyst: AI-chip momentum + in-line CPI — quant **4/5** (fails volume; last $217.45, sma20 $207.81 rising, ret_10d +10.4%, ATR $7.66, risk/sh $15.31, stop $202.14, hi_20d $224.76, vol 0.89×) — **rejected**: 0.48R under high; 2R target ~$248 in blue-sky air above the all-time high → fails 2:1.
+- **XLK** (ETF, Tech) — catalyst: tech leadership + CPI — quant **4/5** (fails volume; last $186.12, sma20 $179.25 rising, ret_10d +8.79%, ATR $5.19, risk/sh $10.37, stop $175.74, hi_20d $188.82) — **rejected**: 0.26R under high; 2R target ~$207 in breakout air → fails 2:1.
+- **XLI** (ETF, Industrials) — catalyst: industrials leadership — quant **3/5** (fails rel_strength + volume; last $185.71, sma20 $181.82 rising, ret_10d +1.75%, risk/sh $5.94, stop $179.77, hi_20d $188.18) — **rejected**: lags SPY (rs −2.3%); 2R target ~$197.6 in air → fails 2:1.
+- **XLV** (ETF, Health Care) — catalyst: defensive rotation — quant **3/5** (fails rel_strength + volume; last $167.98, sma20 $163.11 rising, ret_10d +0.41%, risk/sh $5.80, stop $162.18, hi_20d $169.65) — **rejected**: lags SPY (rs −3.6%); 2R target ~$179.6 in air → fails 2:1.
+
+### Rejected
+- XLE / NVDA / XLK — confirmed 4/5 but each pinned <0.5R under its 20d high → 2R target lands in unproven breakout air → fails 2:1. Same wall, 31st session.
+- XLI / XLV — 3/5, lagging SPY (rel_strength false), 2R in air.
+- MU 2/5 (below a falling 20d, −14% off high), SMH 2/5 (below falling 20d) — not confirmed.
+- Movers (WXM/QMCO/NIQ/TISI one-day earnings/micro spikes +30–97%) — un-tradeable, fail not_extended.
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD** — 31st straight no-trade session (0/3 trades this week). Regime risk_on (SPY $770.52 over a rising 50d), and July CPI cleared in-line (supportive), but the same wall holds: every confirmed leader (XLE/NVDA/XLK 4/5) is pinned <0.5R under its 20d high → every 2R target lands in unproven breakout air → fails 2:1. The day's fresh catalysts are all extended one-day earnings/micro blow-offs, un-chaseable. Notably XLE broke out above its $60.45 20d high (+1.17% Aug-11) — the first watch-item breakout to trigger; watch for it to hold above $61 and open 2R room, or a confirmed leader's pullback to a rising 20d that tightens the stop. 100% cash, heat 0%, DD −1.90%. PPI still ahead this week.

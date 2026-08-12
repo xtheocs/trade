@@ -13,6 +13,33 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-12 — Scorecard (prior session 2026-08-11)
+
+**Our picks (1d = Aug-11 close vs Aug-10 close, the move since that read):**
+- NVDA (stock, semis/AI) — decision **REJECTED** (4/5, 0.46R under high) — actual 1d **−0.02%** ($217.45 vs $217.49) — verdict **correct/flat**.
+- XLK (ETF, Tech) — decision **REJECTED** (4/5, 0.24R under high) — actual 1d **−0.11%** ($186.12 vs $186.32) — verdict **correct/flat**.
+- XLE (ETF, Energy) — decision **REJECTED** (4/5, 0.08R under high) — actual 1d **+1.17%** ($60.91 vs $60.21) — verdict **missed-entry / broke out** — closed above its $60.45 20d high, the first watch-item breakout to actually trigger.
+- AVGO (stock, semis/AI) — decision **REJECTED** (4/5, 0.32R under high) — actual 1d **−1.51%** ($416.02 vs $422.38) — verdict **dodged-loss** — faded off its high, no run lost.
+
+**Day's top tradeable gainers (Aug-11, ≥$5, no warrants/units/rights):**
+- WXM +97.5% ($7.90) — WF International — micro-cap spike — skip
+- QMCO +64.7% ($19.40) — Quantum Corp — data storage — one-day earnings/news blow-off
+- NIQ +41.9% ($16.58) — NielsenIQ — consumer intelligence — earnings gap
+- TISI +37.2% ($22.71) — Team Inc — industrial services — one-day spike
+- ALMR +30.7% ($36.57) — one-day spike
+
+**Losers (≥$5):** BODI −38.5% ($6.29); CDNL −36.2% ($38.27); PAL −29.6% ($5.10); CLRO −29.3% ($6.35) — earnings-miss / micro-cap gaps.
+
+**Best realistic miss:** **None process-compatible.** Every Aug-11 tradeable gainer was a one-day earnings/micro spike (WXM, QMCO, NIQ, TISI) → all fail not_extended, un-chaseable. Our own reject **XLE broke out +1.17%** above its $60.45 20d high — the first watch-item breakout to actually trigger, though its 2R objective still lands in blue-sky air today.
+
+**Lessons:**
+- **XLE breakout finally triggered** (+1.17%, closed $60.91 above the $60.45 20d high) — the "held breakout" watch condition is developing; but its fresh 20d high is now $61.07 and the 2R target (~$66.7) still lands in unproven air, so the R:R filter still holds it.
+- **R:R filter again avoided the extended leaders** — AVGO −1.51%, NVDA/XLK flat-to-down. No run lost by rejecting the pinned-under-high names.
+- **Tradeable movers still all one-day blow-offs** (earnings/micro spikes +30–97%) — nothing chaseable.
+
+**Rolling 7d:** recurring leading sectors = **Info Tech/AI-hardware** (NVDA/XLK/AVGO firm but pinned under highs), **Energy** (XLE now broke out, +40%+ YTD leader, momentum score 0.88), **Industrials** (XLI), **Health Care** (XLV). Recurring miss pattern = confirmed leaders pinned **<0.5R under their 20d highs** → every 2R target lands in unproven breakout air → fails 2:1 (31st session); day's movers = one-day earnings/M&A/biotech blow-offs, un-chaseable. **July core CPI printed in-line (+0.2% m/m)** — the macro binary cleared supportive for tech/semis; PPI still ahead. Fix unchanged: demand a **held breakout with 2R room below resistance** or a **pullback of a confirmed leader to a rising 20d** that tightens the stop — XLE's breakout is the first sign that setup may finally mature.
+
+
 ## 2026-08-11 — Scorecard (prior session 2026-08-10)
 
 **Our picks (1d = Aug-10 close vs Aug-7 close, the move since that read):**
