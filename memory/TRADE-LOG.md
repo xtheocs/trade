@@ -599,3 +599,10 @@ drawdown are measured from here.
 **Notes:** 32nd straight no-trade day. Account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Pre-market held: regime risk_on (SPY $770.52 over a rising 50d), July core CPI printed in-line/supportive, but XLE/NVDA/XLK all confirmed 4/5 remained pinned <0.5R under their 20d highs — 2R targets in unproven breakout air — failing the 2:1 R:R filter; XLI/XLV only 3/5, lagging SPY. Day's movers were one-day earnings/micro blow-offs, un-chaseable. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Aug 10–12 all no-trade). XLE's breakout above $60.45 is the best-developing watch name — needs to hold above $61 to open 2R room. PPI still ahead this week. Tomorrow: pre-market rescans for fresh catalysts and PPI positioning.
 
 ---
+
+### Aug 13 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime risk_on, SPY $772.54 over rising 50d; NVDA/AVGO pinned under 20d highs — 2R in blue-sky air; XLK printed a day-1 breakout close, not yet held/retested; XLE lags SPY; PPI + Retail Sales tomorrow 8:30 ET — no new position held into that binary). Weekly trades used: 0/3.
+
+---
