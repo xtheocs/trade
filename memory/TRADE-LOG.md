@@ -606,3 +606,14 @@ drawdown are measured from here.
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime risk_on, SPY $772.54 over rising 50d; NVDA/AVGO pinned under 20d highs — 2R in blue-sky air; XLK printed a day-1 breakout close, not yet held/retested; XLE lags SPY; PPI + Retail Sales tomorrow 8:30 ET — no new position held into that binary). Weekly trades used: 0/3.
 
 ---
+
+### Aug 13 — EOD Snapshot (Day 44, Thursday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** 33rd straight no-trade day. Account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Midday scan held the pre-market HOLD decision: regime risk_on, SPY $772.54 over its rising 50d, but NVDA/AVGO stayed pinned under their 20d highs with 2R in blue-sky air, and XLK's day-1 breakout close hadn't been held/retested; XLE continued lagging SPY. No new risk was taken into tomorrow's PPI + Retail Sales print at 8:30 ET. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (Aug 10–13 all no-trade). Capital fully idle awaiting a setup that clears both quant confirmation and the 2:1 R:R filter. Tomorrow: PPI + Retail Sales at 8:30 ET is the key catalyst — pre-market weighs the reaction for any setup that finally clears both quant confirmation and R:R.
+
+---
