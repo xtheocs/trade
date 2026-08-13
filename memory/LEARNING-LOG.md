@@ -13,6 +13,31 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-13 — Scorecard (prior session 2026-08-12)
+
+**Our picks (1d = Aug-12 close vs Aug-11 close, the move since that read):**
+- NVDA (stock, semis/AI) — decision **REJECTED** (4/5, 0.48R under high, 2R in air) — actual 1d **+3.06%** ($224.11 vs $217.45) — verdict **missed-entry / ran** — cleared toward its $224.76 high; the R:R filter cost a run.
+- XLK (ETF, Tech) — decision **REJECTED** (4/5, 0.26R under high) — actual 1d **+1.49%** ($188.88 vs $186.12) — verdict **missed-entry / broke out** — closed $188.88 above its $188.82 20d high, first confirmed breakout close; R:R filter cost a run.
+- XLE (ETF, Energy) — decision **REJECTED** (4/5, 0.06R under high) — actual 1d **+0.18%** ($61.02 vs $60.91) — verdict **correct/flat** — held its breakout but barely progressed.
+
+**Day's top tradeable gainers (Aug-12, ≥$5, no warrants/units/rights):**
+- BOXL +168.6% ($7.87) — Boxlight — micro-cap spike — skip
+- NEBX +68.5% ($35.74) / NBIL +68.3% / NBIG +68.1% / NBIC +66.5% — leveraged single-stock ETN family (Nebius-linked) — one-day spikes, decaying products — un-chaseable
+- QNTU +53.3% ($16.52) — micro spike
+- CRWX +40.6% ($32.98) / CRWG +37.9% / CWVX +38.5% / SMCC +38.2% — leveraged single-stock ETNs (CRWD/SMCI-linked) — un-chaseable
+
+**Losers (≥$5):** NBIZ −67.8% ($5.31, inverse leveraged ETN); NCMI −41.4% ($2.22→<$5); WXM −39.8% ($4.76, prior spike unwind); CORD −38.7%; SMCZ −38.6% — inverse-ETN / micro-cap unwinds.
+
+**Best realistic miss:** **None among fresh movers** — every Aug-12 tradeable gainer was a leveraged single-stock ETN (NEBX/NBIL/CRWX/SMCC families) or a micro-cap one-day spike → all fail not_extended, un-chaseable. The real miss this session was **our own rejects: NVDA +3.06% and XLK +1.49% ran** — the confirmed leaders we keep rejecting on the "2R-in-air" rule finally broke out and paid. XLK printed a confirmed breakout CLOSE above its $188.82 20d high.
+
+**Lessons:**
+- **The R:R filter cost real runs this session** (NVDA +3.06%, XLK +1.49%) — 2nd instance of leaders running *after* rejection (vs earlier sessions where it dodged losses). The pinned-under-high names are resolving UP, not fading. Flag for weekly review: the "2R target in breakout air = reject" reading may be too strict for confirmed all-time-high momentum leaders in a risk_on tape.
+- **XLK confirmed its breakout** (+1.49%, closed $188.88 > $188.82 prior high) — the "held breakout" watch condition triggered; still day-1, not yet retested/held, and PPI lands Fri.
+- **Movers all leveraged ETNs / micro spikes** — nothing chaseable, consistent 33rd-session pattern.
+
+**Rolling 7d:** recurring leading sectors = **Info Tech / Semis / AI-hardware** (XLK +1.59% wk, SMH +2.08%, NVDA +3%; now breaking out, not just pinned), **Energy** (XLE held its breakout, +40%+ YTD), **Health Care** (XLV +2.6% wk). Recurring miss pattern = confirmed leaders pinned **<0.5R under their 20d highs** → 2R targets in blue-sky air → fails 2:1 (now 33rd session) — BUT this session those same names (NVDA/XLK) **broke out and ran**, so the pattern may be inverting from "dodged-loss" to "missed-run." Day's movers = leveraged single-stock ETNs / micro spikes, un-chaseable. Soft-bias fix: watch XLK's breakout to HOLD above $188.82 (ideally a retest) to become a clean buy with clear air overhead; watch NVDA to clear $225.10 convincingly. PPI + Retail Sales land Fri Aug-14 — a macro binary before any new hold.
+
+
 ## 2026-08-12 — Scorecard (prior session 2026-08-11)
 
 **Our picks (1d = Aug-11 close vs Aug-10 close, the move since that read):**
