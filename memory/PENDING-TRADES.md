@@ -1,3 +1,3 @@
-# Pending Trades — 2026-08-13
+# Pending Trades — 2026-08-14
 
-No trades. Reason: 33rd straight no-trade session — regime risk_on (SPY $772.54), tech/semis leading, but NVDA/AVGO pinned at/under their 20d highs (2R in blue-sky air), XLK only a day-1 breakout close (not held/retested) with PPI + Retail Sales landing tomorrow (Fri) — won't open a swing into a macro binary. NVDA (+3.06%) and XLK (+1.49%) ran Aug-12; watch XLK to hold above $188.82 post-PPI for a clean entry.
+No trades. Reason: 34th straight no-trade session — regime risk_on (SPY $777.84, S&P record close on flat/disinflationary PPI), tech/semis leading. But the breakout leaders XLK ($190.77) and NVDA ($225.36) are now >2×ATR extended (not_extended false, 3/5) — chasing records into today's 8:30 ET Retail Sales; AVGO/SMH remain pinned under their 20d highs (2R in blue-sky air). No clean entry + 2:1 room. Primary watch: XLK retest of $188.82 for a tighter-stop entry with clear air overhead.

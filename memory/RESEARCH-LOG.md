@@ -1325,3 +1325,36 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 33rd straight no-trade session (0/3 trades this week). Regime risk_on (SPY $772.54 over a rising 50d), leadership firmly in tech/semis. But: NVDA/AVGO remain pinned at/under their 20d highs (2R in blue-sky air); XLK printed its first confirmed breakout close ($188.88 > $188.82) yet it's day-1, not held/retested, 2R in open air, and **PPI + Retail Sales land tomorrow (Fri)** — a macro binary I won't open a new swing into. XLE lags SPY and stalled. **Notable:** our own rejects NVDA (+3.06%) and XLK (+1.49%) ran Aug-12 — the R:R filter cost runs this session (flagged for weekly review). 100% cash, heat 0%, DD −1.90%. Watch: XLK to HOLD above $188.82 (a retest that opens clean 2R runway) post-PPI, or NVDA to clear $225.10 convincingly.
+
+## 2026-08-14 — Pre-market
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $777.84 > 50-day SMA $748.45, rising; S&P closed at a record post-PPI). New long equity allowed at full size; inverse sleeve not sanctioned.
+
+### Market Context
+- **July PPI printed flat** (below +0.2% est; core +0.2% below +0.3%) — mild disinflationary surprise, trimmed Sept-hike odds, lifted tech; **S&P 500 closed at a record.** Constructive risk_on tape.
+- **July Retail Sales lands today, Fri Aug-14, 8:30 ET** (fcst +0.2–0.3% MoM) — the week's last macro binary, but it prints BEFORE the 9:30 open, so a position taken at today's open is post-print (binary resolved). Michigan sentiment 10:00 ET.
+- Leading sectors (Alpaca-corroborated): **Info Tech / Semis / AI-hardware** (XLK broke out & held $188.82, now $190.77; NVDA cleared its $225.10 high; SMH/AVGO firm), **Energy** (XLE holding $61 but now lagging SPY), **Health Care** (XLV, lags SPY). Laggards vs SPY: Energy, Health Care on rel-strength.
+
+### Candidates (catalyst + quant confirmed)
+- **XLK** (ETF, Tech) — catalyst: tech leadership + flat PPI record close — quant **3/5** (fails volume 0.54×, not_extended; last $190.77, sma20 $180.28 rising, ret_10d +8.6%, ATR $5.14, risk/sh $10.28, stop $180.49, hi_20d $191.71, rs +3.7%) — **rejected**: held its breakout but is now **2.04×ATR extended** over its 20d SMA (not_extended false); entering at $190.77 up 3 days into a record is a chase; 2R target ~$211 in blue-sky air. **Primary watch — a retest/pullback toward $188.82 = clean entry with a tighter stop.**
+- **AVGO** (stock, semis/AI) — catalyst: AI-chip momentum — quant **4/5** (fails volume; last $417.76, sma20 $398.35 rising, ret_10d +7.6%, ATR $15.63, risk/sh $31.25, stop $386.51, hi_20d $432.66, rs +2.8%) — **rejected**: pinned 0.48R under its $432.66 high; must clear resistance to reach a 2R target (~$480 blue-sky) → fails 2:1.
+- **SMH** (ETF, Semis) — catalyst: semis leadership — quant **4/5** (fails volume 0.47×; last $589.06, sma20 $562.46 rising, ret_10d +9.4%, ATR $22.92, risk/sh $45.83, stop $543.23, hi_20d $597.86, rs +4.5%, not_extended true) — **rejected**: pinned 0.19R under its $597.86 high; 2R target ~$681 in blue-sky air → fails 2:1.
+- **NVDA** (stock, semis/AI) — catalyst: AI-chip momentum + PPI — quant **3/5** (fails volume, not_extended; last $225.36, sma20 $209.29 rising, ret_10d +15.6%, ATR $7.51, risk/sh $15.02, stop $210.34, hi_20d $227.20, rs +10.7%) — **rejected**: cleared its high but now **2.14×ATR extended** (not_extended false); chasing at all-time highs; 2R target ~$255 blue-sky.
+- **XLE** (ETF, Energy) — catalyst: energy leadership — quant **3/5** (fails rel_strength −1.3%, volume; last $61.05, sma20 $58.94 rising, ret_10d +3.6%, risk/sh $2.81, stop $58.24, hi_20d $61.165) — **rejected**: lags SPY, pinned at its high, momentum stalled; 2R in air.
+- **XLV** (ETF, Health Care) — quant **3/5** (fails rel_strength −1.9%, volume; last $168.38, sma20 $163.94 rising, hi_20d $169.69) — **rejected**: lags SPY, pinned under high.
+
+### Rejected
+- XLK / NVDA — held/cleared their breakouts but are now >2×ATR extended (not_extended false, dropped to 3/5) → chasing records into Friday Retail Sales. Await a retest/pullback.
+- AVGO / SMH — confirmed 4/5 but pinned under their 20d highs → 2R target in blue-sky air above resistance → fails 2:1.
+- XLE / XLV — 3/5, lagging SPY (rel_strength false), pinned/2R in air.
+- Movers (FGI +148%, COOL +84%, INHD +57%, ARX +43%) — micro-cap one-day blow-offs, fail not_extended, un-chaseable.
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD** — 34th straight no-trade session (0/3 trades this week; week closes flat). Regime risk_on with the S&P at a record on a flat, disinflationary PPI, leadership firmly tech/semis. The tension: XLK held its $188.82 breakout a 2nd day (+1.00%) and NVDA cleared $225.10 (+0.56%) — **3rd straight session our rejected leaders ran** (flagged hard for today's weekly review). BUT both are now **>2×ATR extended** (not_extended false, 3/5) — chasing them at record highs into Retail Sales is precisely what the not_extended guard prevents; the AVGO/SMH names that ARE clean-extended remain pinned under their highs with 2R in blue-sky air. No candidate offers a good entry AND ≥2:1 room today. 100% cash, heat 0%, DD −1.90%. **Primary watch: XLK retest of $188.82** (tightens the stop, clean air overhead) or a leader's pullback to a rising 20d.

@@ -13,6 +13,34 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-14 — Scorecard (prior session 2026-08-13)
+
+**Our picks (1d = Aug-13 close vs Aug-12 close, the move since that read):**
+- XLK (ETF, Tech) — decision **REJECTED** (4/5, day-1 breakout, PPI ahead) — actual 1d **+1.00%** ($190.77 vs $188.88) — verdict **missed-entry / held-breakout** — held above its $188.82 20d high for a 2nd day and extended; the R:R filter cost a 3rd straight run.
+- NVDA (stock, semis/AI) — decision **REJECTED** (3/5, pinned, 2R blue-sky) — actual 1d **+0.56%** ($225.36 vs $224.11) — verdict **missed-entry / ran** — cleared its $225.10 20d high; R:R filter cost a run.
+- AVGO (stock, semis/AI) — decision **REJECTED** (4/5, 1.08R under high) — actual 1d **+0.45%** ($417.76 vs $415.87) — verdict **correct/flat**.
+- XLE (ETF, Energy) — decision **REJECTED** (3/5, lags SPY) — actual 1d **+0.05%** ($61.05 vs $61.02) — verdict **correct/flat**.
+
+**Day's top tradeable gainers (Aug-13, ≥$5, no warrants/units/rights):**
+- FGI +147.8% ($11.72) — micro-cap one-day spike — skip
+- COOL +83.8% ($20.40) — one-day spike — skip
+- INHD +57.3% ($10.84) — micro spike — skip
+- ARX +43.4% ($19.51) — one-day spike — skip
+- (AHT.PR* preferreds, CURI $3.99, and warrant/sub-$5 names filtered out)
+
+**Losers (≥$5):** BYND −96.7% ($0.41, reverse-split/delist artifact); OBX −32.4% ($18.92); CLBT −29.2% ($10.80, earnings miss); SNDQ −27.2% ($17.43, leveraged ETN); CBRX −23.7% ($15.29) — earnings-miss / leveraged-product unwinds.
+
+**Best realistic miss:** **None among fresh movers** — every Aug-13 tradeable gainer (FGI/COOL/INHD/ARX) was a micro-cap one-day blow-off → all fail not_extended, un-chaseable. The real miss again is **our own rejects: XLK +1.00% and NVDA +0.56% ran** — 3rd straight session the confirmed leaders we reject on "2R-in-air" resolve UP, not down. XLK held its $188.82 breakout a 2nd day; NVDA cleared its $225.10 high.
+
+**Lessons:**
+- **3rd straight session leaders ran after rejection** (XLK +1.00%, NVDA +0.56%; prior 2 sessions XLK +1.49%/NVDA +3.06% and XLE +1.17%). The pinned-under-high names keep resolving up in a risk_on/record-high tape — flag hard for TODAY's weekly review: the "2R-in-breakout-air = reject" reading is costing runs on confirmed all-time-high momentum leaders.
+- **But the breakout leaders are now EXTENDED** — XLK 2.04×ATR and NVDA 2.14×ATR over their 20d SMAs (not_extended now FALSE, both dropped to 3/5). Chasing them here at record highs into Friday Retail Sales is exactly what the not_extended flag guards against. The clean play is a **retest/pullback entry** (XLK toward $188.82), not a chase.
+- **Movers all micro/one-day blow-offs** — nothing chaseable, consistent 34th-session pattern.
+
+**Rolling 7d:** recurring leading sectors = **Info Tech / Semis / AI-hardware** (XLK broke out & held, NVDA cleared its high, SMH/AVGO firm), **Energy** (XLE holding but now lagging SPY), **Health Care** (XLV, lags SPY). Recurring miss pattern = rejecting confirmed leaders on "2R in blue-sky air" — now **3rd session those names broke out and ran**, so the pattern has inverted from "dodged-loss" to "missed-run." Counter-risk: those same leaders are now extended (>2 ATR), so the disciplined edge is a **pullback/retest limit entry**, not chasing records. **July PPI flat (disinflationary) → S&P record close; Retail Sales lands today 8:30 ET (fcst +0.2–0.3%), resolved by the open** — the last macro binary of the week. Soft-bias fix: prioritize a XLK retest of $188.82 (tightens stop, clean air overhead) or a leader's pullback to a rising 20d.
+
+
+
 ## 2026-08-13 — Scorecard (prior session 2026-08-12)
 
 **Our picks (1d = Aug-12 close vs Aug-11 close, the move since that read):**
