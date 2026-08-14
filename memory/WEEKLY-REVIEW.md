@@ -597,3 +597,68 @@ Template for each entry:
 
 ### Overall Grade: C−
 *(Process A — an eighth week with every risk rule respected, the regime read correctly as risk_on at record highs, the Perplexity "semi rally" caught as a bar-checked mirage, the AMZN +11% gap not chased, and no risk taken into the July NFP binary. But the outcome is the worst *relative* week of the phase: flat into the best S&P week since April (~+3.4%), a ≈−3.4% opportunity cost, eighth straight flat week and sixth zero-trade week with no compounding in two months. Where Jul-17's cash beat a down tape, this week's identical discipline simply missed a big up tape — process A, outcome F, and with the drag now this large the average lands C−, a notch below the prior flat weeks. Survival fully intact; the pre-set geometry-review window has now opened, but the conservative, self-consistent call is to hold the hard rules one more window and build the evidence — fire on data, not on a single missed melt-up.)*
+
+---
+
+## Week ending 2026-08-14
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,068.31 (Mon Aug-10 open) |
+| Ending portfolio | $1,068.31 (Fri Aug-14) |
+| Week return | +$0.00 (0.00%) |
+| Peak equity (week) | $1,068.31 · max intra-week DD 0.00% |
+| S&P 500 week | ≈ +0.6% (7,757.64 Jul-31→Aug-7 record → ~7,809 Aug-14; **third straight winning week**, fresh record highs, intraday ATH 7,816.70 Aug-13; sources noisy on the exact Fri close — Barchart mid-session 7,782, Investing.com close 7,808.87) — FYI only |
+| Bot vs S&P | ≈ −0.6% (100% cash into a mild-up, record-grind tape — FYI context, NOT the goal) |
+| Trades | 0 (W:0 / L:0 / open:0) — none opened, none closed |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A (no positions) |
+| Worst trade | N/A (no positions) |
+| Profit factor | N/A (no closed trades) |
+| Avg R multiple | N/A (no closed trades) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades — 100% cash entire week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| (none — 100% cash) | — | — | — | — |
+
+### What Worked
+- **Refused to chase the breakout leaders into extension at record highs.** By Fri Aug-14 XLK (2.04×ATR) and NVDA (2.14×ATR) had run above their 20d highs and BOTH failed not_extended (dropped to 3/5) — chasing them at all-time highs into Retail Sales is exactly what the not_extended guard prevents. The clean play was always a retest/pullback, never a market chase; the routine held.
+- **The R:R filter still dodged a real loss the same week it cost runs.** Aug-11 NVDA faded −2.87% off its high (the pinned-under-high reject dropped, didn't run) — a reminder the filter isn't only costing runs. AVGO/SMH, rejected pinned under their highs with 2R in blue-sky air, stayed correctly un-entered.
+- **No new risk into the week's binaries.** July core CPI (Aug-11, in-line/supportive) and PPI + Retail Sales (Aug-14, 8:30 ET) both cleared with the book flat — no fractional-with-no-overnight-stop entry into a macro print. Regime read cleanly risk_on all week (SPY $776–778 > rising 50d ~$749).
+- **Zero rule violations for a ninth week.** 0/3 weekly trades, heat 0%, DD −1.90% « 20% breaker, no inverse-sleeve error in a risk_on record-grind tape. Every mover (FGI +148%, COOL +84%, BOXL +169%, leveraged single-stock ETNs) was a one-day micro/ETN blow-off, correctly un-chaseable.
+
+### What Didn't Work
+- **The R:R-reject pattern INVERTED this week — the single most important negative datapoint of the phase.** For 3 straight sessions (Aug-12/13, capping a run from Aug-11) the confirmed leaders we rejected on "2R-in-breakout-air" broke out and RAN: NVDA +3.06% then +0.56%, XLK +1.49% (a confirmed close above its $188.82 20d high) then +1.00% holding it. Where weeks 6–8 those pinned-under-high names stayed flat or faded (filter vindicated), this week — in a risk_on record-high tape — they resolved UP. The "2R in air = reject" reading cost real runs, not just missed a fade.
+- **Ninth straight flat week, seventh zero-trade week.** Phase P&L stuck at −$11.69 (−1.08%); ~34 trading days now idle since the SMH time-stop exit (Jun 26). Two-plus months, zero compounding.
+- **The standing-trigger idea still converted nothing — and the reason is now sharp.** XLK's breakout close (Aug-12) never offered a *retest* to buy; NVDA cleared its high intraday and was already >2×ATR extended by the next pre-market read. The pre-market-only routine structurally cannot act on an intraday break at a clean price — by the time it re-scans, the name is extended and the entry is gone. This is the fourth week the "watch" items failed to convert, and the cause is execution timing, not the risk math.
+- **The Jul-31 evidence-build (structural-support-stop vs 2×ATR) was not formally logged this week** as last week's adjustment directed — the pre-market ran the standard quant/R:R read but did not tabulate the tighter-structural-stop comparison for the watch names. That prep is still owed before any geometry decision.
+
+### Key Lessons
+- **A record-high melt-up is the tape where the R:R-reject cost finally shows up as missed runs, not dodged losses.** Weeks 1–8 the "confirms only at the extreme" geometry mostly protected the book (leaders faded, inverse ETFs whipsawed). This week the same rejects broke out and ran for three sessions — the first clear evidence the geometry can *cost* in a sustained up-trend, not just protect in chop. That is a real signal, but it is **one week old**; the prior eight weeks of vindication (and Aug-11's own dodged −2.87% NVDA) mean it is not yet a 2+-week clear failure.
+- **The runs did NOT hand us a clean market entry — they left the names extended.** Once XLK/NVDA broke out they were >2×ATR over their 20d SMAs, so a market chase at the next open would still have been the wrong trade. The only entry that would have captured these cleanly is a *lower* one — a breakout-retest or pullback-to-rising-20d, where the standard entry−2×ATR stop sits below real support with 2R of room. The lever is **execution (act on the retest at a pre-set price)**, not loosening the stop.
+- **The binding constraint has narrowed from "geometry" to "geometry × timing."** The pre-market-only routine watches for the right shape but can never *act* on the intraday tag, so every qualifying retest/pullback expires unfilled and re-appears as an extended reject the next morning. A standing resting order at the pre-defined level is the missing piece — and it adds no risk, because it just executes an already-qualifying setup at a better price.
+- **Ninth week: process A, outcome C.** No rule violated, capital fully intact, and the mild +0.6% tape made the opportunity cost small (vs last week's −3.4%). But the internal signal (leaders running post-reject, 3 sessions) is a genuine process concern that the small relative miss understates — hence a real (if modest) mark-down, and a concrete execution fix codified this week.
+
+### Adjustments for Next Week
+- **Standing entry orders are now codified in the strategy (see Strategy File Changes).** Next week the pre-market must, for the 1–2 best confirmed leaders, write the *exact* breakout-retest and pullback-to-rising-20d trigger price, the entry−2×ATR stop at that price, and the 2R target — and market-open must place them as **resting whole-share buy-stop / buy-limit orders** so an intraday tag fills at the clean price instead of being re-rejected extended the next morning.
+- **Still owe the geometry-review evidence.** Log, for XLK/NVDA/AVGO/SMH, what a structural-support stop (below the retested breakout / rising 20d / last swing low) would have been vs the blind 2×ATR, and whether it clears 2:1 with room — so the Aug-21 decision is data-backed, not eyeballed.
+- **Geometry decision point is Aug-21, not now.** The Jul-31 window was 2–3 weeks. This is week 2, and the "leaders run post-reject" inversion is only 1 week old — loosening a stop-width rule on that would be single-week churn. Hold the hard rules; let the standing-order execution fix get one week to convert a real setup before touching 2×ATR/2:1. If Aug-21 shows the standing orders still can't convert AND leaders keep running post-reject, *that* completes the window for a narrow, vehicle-specific geometry refinement.
+- **Regime gate first Monday.** SPY ~$776 > rising 50d (~$749) = risk_on at record highs. Trade long only on a real retest/pullback that a resting order can catch; inverse sleeve stays un-sanctioned unless SPY loses a rising 50d into a confirmed downtrend — a record-grind tape is the opposite.
+- **Don't force a trade to break the streak.** Full $1,068.31 buying power, 0/3 weekly trades, heat 0%, DD −1.90%. Add ONE name only if it clears catalyst + 3/5 quant + 2:1 R:R + allowing regime — but next week the mandate is to *place the standing orders* so a watched retest can finally convert, not to keep re-rejecting extended names.
+
+### Strategy File Changes
+- **One conservative execution refinement added** to *Entry Method* — **"Standing entry orders (breakout-retest / pullback-to-rising-20d)."** Rationale: the failure mode "flagged watch-item never converts" is now four weeks documented, and this week gave the sharpest cause — the pre-market-only routine cannot act on an intraday break at a clean price, so every qualifying retest/pullback expires unfilled and re-surfaces as an extended reject the next morning (XLK's breakout offered no retest to buy; NVDA was >2×ATR extended by the next read). Codifying pre-defined trigger levels placed as *resting whole-share buy-stop/limit orders* fixes that timing gap. Critically, this is an **execution mechanism, not a loosening**: entry is at the retest/pullback price, the stop stays the standard **entry−2×ATR**, and 2:1 clears only because the *lower entry* puts 2R of room below the next resistance — the 3% risk, 2:1 minimum, 2×ATR stop, heat/sleeve caps, and regime gate are all unchanged.
+- **NO change to the hard geometry (2×ATR / 2:1) this week.** The "leaders run post-reject" inversion — genuinely new and important — is only one week old, and the same week still saw the filter dodge a −2.87% NVDA fade; amending a stop-width rule on that would be the exact single-week churn STEP 5 forbids. Per the Jul-31 threshold, the narrow structural-support-stop geometry evaluation fires only at the **Aug-21** review, IF the standing-order execution fix (added this week) still cannot convert a qualifying setup AND leaders keep running post-reject. The case has strengthened; the verdict on geometry is held one more window while the execution fix is given its first real chance.
+
+### Overall Grade: C
+*(Process A for a ninth week — every risk rule respected, no chase of the XLK/NVDA breakouts into >2×ATR extension at record highs, no risk into the CPI/PPI/Retail-Sales binaries, every micro/ETN mover correctly passed. But the outcome carries the phase's most important negative datapoint: for the first time the R:R-reject pattern inverted, with rejected confirmed leaders breaking out and running three straight sessions in a risk_on melt-up — the filter cost runs, not just missed fades. The mild +0.6% tape kept the relative miss small (unlike last week's −3.4%), but the internal signal is a real process concern, so C, a notch above last week's C− on smaller opportunity cost yet still capped by a ninth flat week and no compounding in two months. The right response is the conservative one taken: codify the zero-risk execution fix (standing retest/pullback orders) now, and hold the hard geometry for the Aug-21 window rather than churning a stop rule on one week of inversion. Survival fully intact; the execution fix gets one week to prove it can finally convert a watched setup.)*

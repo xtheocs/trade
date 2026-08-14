@@ -83,6 +83,24 @@ Require **at least 3 of 5**:
 
 Catalyst + ≥3/5 quant + acceptable regime → candidate for PENDING-TRADES.md.
 
+**Standing entry orders — breakout-retest / pullback-to-rising-20d (execution, added 2026-08-14):**
+A confirmed leader (catalyst + ≥3/5 quant) that is rejected *only* because it is pinned
+under its 20-day high (2R in breakout air) or is >2 ATR extended is a **watch**, not a dead
+name — but the pre-market-only routine cannot act on the intraday tag where it *would* clear
+2:1, so those setups expire unfilled and re-surface extended the next morning. To convert
+them, pre-market records the **exact actionable level** for the two shapes that clear 2:1
+with room, and market-open places them as **resting whole-share buy-stop / buy-limit orders**:
+- **Breakout-retest:** name closes above its 20-day high on volume, then pulls back to retest
+  that level (now support) → buy-limit on the retest.
+- **Pullback-to-rising-20d:** name retraces to its rising 20-day SMA with clear air overhead
+  → buy-limit at the tag.
+This is an **execution mechanism, not a loosening.** Entry is the *lower* retest/pullback
+price; the stop stays the standard **entry − 2×ATR**; 2:1 clears only because the lower entry
+puts 2R of room *below* the next resistance. The 3% risk, 2:1 minimum, 2×ATR stop, heat/sleeve
+caps, and regime gate are all unchanged. Only whole-share positions can rest a real order;
+fractional names still cannot rest a stop overnight (size accordingly), so a fractional entry
+still waits for a routine to arm its day stop.
+
 ---
 
 ## Stops & Sizing (ATR-based)
