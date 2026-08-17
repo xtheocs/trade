@@ -631,3 +631,14 @@ drawdown are measured from here.
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (35th straight no-trade session; regime risk_on, SPY $776.30 over rising 50d; XLE 5/5 the standout watch but pinned 0.07R under its $62.105 20d high, 2R in blue-sky air; SMH/XLK 4/5 similarly pinned; NVDA >2×ATR extended; AVGO thesis fading, now 2/5 after −5.92% Friday). Weekly trades used: 0/3.
 
 ---
+
+### Aug 17 — EOD Snapshot (Day 46, Monday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** 36th straight no-trade day. Account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Midday held the pre-market HOLD: regime risk_on, SPY $776.30 over rising 50d; XLE 5/5 the standout watch but pinned 0.07R under its $62.105 20d high with 2R in blue-sky air; SMH/XLK 4/5 similarly pinned; NVDA >2×ATR extended; AVGO thesis fading (now 2/5 after −5.92% Friday). Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (week of Aug 17 opens no-trade). Capital fully idle awaiting a setup that clears both quant confirmation and the 2:1 R:R filter. Note: Aug 14 (Fri) had a midday scan logged but no EOD snapshot — equity was unchanged at $1,068.31 per that scan, so continuity to today's flat figure holds. Tomorrow: pre-market rescans XLE/SMH/XLK for any close of the R:R gap.
+
+---
