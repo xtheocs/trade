@@ -1358,3 +1358,35 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 34th straight no-trade session (0/3 trades this week; week closes flat). Regime risk_on with the S&P at a record on a flat, disinflationary PPI, leadership firmly tech/semis. The tension: XLK held its $188.82 breakout a 2nd day (+1.00%) and NVDA cleared $225.10 (+0.56%) — **3rd straight session our rejected leaders ran** (flagged hard for today's weekly review). BUT both are now **>2×ATR extended** (not_extended false, 3/5) — chasing them at record highs into Retail Sales is precisely what the not_extended guard prevents; the AVGO/SMH names that ARE clean-extended remain pinned under their highs with 2R in blue-sky air. No candidate offers a good entry AND ≥2:1 room today. 100% cash, heat 0%, DD −1.90%. **Primary watch: XLK retest of $188.82** (tightens the stop, clean air overhead) or a leader's pullback to a rising 20d.
+
+## 2026-08-17 — Pre-market
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $776.30 > 50-day SMA $748.89, rising). New long equity allowed at full size; inverse sleeve not sanctioned. S&P closed a 3rd straight up week at a record.
+
+### Market Context
+- **Light macro Monday** — no scheduled releases; week's key event is **Fed minutes Wed**; **Target/Walmart earnings** this week for consumer read-through; PANW/FN report after today's close. Futures up, tech-tilted; earnings season strong (~85–87% of S&P beat).
+- **Energy has rotated to sector leadership** — XLE leads relative strength this week (Energy/Utilities/Industrials up; Tech/Health Care lagging). Oil firm: **WTI ~$82, Brent ~$89** on Middle East / Strait-of-Hormuz supply risk; energy earnings upgraded on higher crude. This is the freshest, cleanest catalyst on the board.
+- Semis/AI leaders cooling: XLK/NVDA flat-to-down Fri and >2×ATR extended or pinned; **AVGO −5.92% Fri** (thesis fading, now 2/5).
+
+### Candidates (catalyst + quant confirmed)
+- **XLE** (ETF, Energy) — catalyst: energy sector-leadership rotation + firm oil (Hormuz supply risk) — quant **5/5** (trend/momentum/rel-strength/volume/not-extended all true; last $61.915, sma20 $59.154 rising, ret_10d +3.99%, ATR $1.38, risk/sh $2.76, stop $59.15, hi_20d $62.105, vol 1.03×, rs +0.04%) — **rejected on R:R**: pinned 0.07R under its $62.105 20d high; 2R target ~$67.44 (+8.9%) sits in blue-sky air above near-term resistance → fails 2:1 to a sensible objective. **Primary watch — best setup on the board.**
+- **SMH** (ETF, Semis) — catalyst: semis leadership — quant **4/5** (fails volume 0.73×; last $587.78, sma20 $564.04 rising, ret_10d +8.7%, ATR $21.21, risk/sh $42.42, stop $545.36, hi_20d $597.86, rs +4.8%) — **rejected**: pinned 0.24R under its high; 2R target ~$673 blue-sky → fails 2:1.
+- **XLK** (ETF, Tech) — catalyst: tech leadership — quant **4/5** (fails volume 0.43×; last $190.025, sma20 $181.00 rising, ret_10d +8.4%, ATR $4.84, risk/sh $9.68, stop $180.34, hi_20d $191.71, rs +4.5%) — **rejected**: pinned 0.17R under its high; 2R target ~$209 blue-sky → fails 2:1.
+- **NVDA** (stock, semis/AI) — catalyst: AI-chip momentum — quant **3/5** (fails volume + not_extended; last $225.16, sma20 $210.40 rising, ret_10d +12.2%, ATR $6.78, risk/sh $13.56, stop $211.60, hi_20d $227.47, rs +8.2%) — **rejected**: >2×ATR extended and pinned at its high; chasing all-time highs.
+
+### Rejected
+- XLE / SMH / XLK — confirmed leaders (5/5, 4/5, 4/5) but pinned at/under their 20d highs → 2R target in blue-sky air above resistance → fails 2:1. XLE is the standout watch (breakout trigger below).
+- NVDA — 3/5, >2×ATR extended at its high → chase, fails not_extended.
+- AVGO — 2/5, **NOT confirmed** (trend/momentum/rel-strength all false after −5.92% Fri) → thesis fading.
+- QQQ — 3/5, >2×ATR extended (not_extended false) → chase.
+- Movers (IPST/MYSZ/TRUG micro-cap pumps; WETO/CAPR/BANL/UMAL/ETON/AEYE +35–128% one-day blow-offs) — un-tradeable, fail not_extended.
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD** — 35th straight no-trade session (0/3 trades this week). Regime risk_on, but no candidate offers a clean entry AND ≥2:1 room: the confirmed leaders (XLE 5/5, SMH 4/5, XLK 4/5) are all pinned at their 20d highs with 2R in blue-sky air, NVDA/QQQ are extended, AVGO's thesis is fading (−5.92% Fri, now 2/5). Friday validated the filter — AVGO dropped hard, the extended-leader guard kept us out of flat-to-down semis. 100% cash, heat 0%, DD −1.90%. **Primary watch: XLE — a close above $62.105 on volume that holds/retests opens a clean energy entry (energy is the fresh sector leader on oil/Hormuz);** or a leader's pullback to its rising 20d SMA (XLE $59.15 / XLK $181.00). Fed minutes Wed.

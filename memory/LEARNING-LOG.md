@@ -13,6 +13,35 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-17 — Scorecard (prior session 2026-08-14)
+
+**Our picks (1d = Aug-14 close vs Aug-13 close, the move since that read):**
+- AVGO (stock, semis/AI) — decision **REJECTED** (4/5, pinned under high) — actual 1d **−5.92%** ($393.02 vs $417.76) — verdict **dodged-loss** — sold off hard; the "pinned-under-high / 2R-in-air" caution paid off in full.
+- XLK (ETF, Tech) — decision **REJECTED** (>2ATR extended, 3/5) — actual 1d **−0.39%** ($190.025 vs $190.77) — verdict **correct/flat** — the not_extended guard was right; no chase.
+- NVDA (stock, semis/AI) — decision **REJECTED** (>2ATR extended, 3/5) — actual 1d **−0.09%** ($225.16 vs $225.36) — verdict **correct/flat**.
+- SMH (ETF, Semis) — decision **REJECTED** (4/5, pinned under high) — actual 1d **−0.22%** ($587.78 vs $589.06) — verdict **correct/flat**.
+- XLV (ETF, Health Care) — decision **REJECTED** (3/5, lags SPY) — actual 1d **−0.60%** ($167.37 vs $168.375) — verdict **correct/flat**.
+- XLE (ETF, Energy) — decision **REJECTED** (3/5, lags SPY, pinned) — actual 1d **+1.42%** ($61.915 vs $61.05) — verdict **missed-entry / ran** — broke to its 20d high on volume; now 5/5 confirmed.
+
+**Day's top tradeable gainers (Aug-14, ≥$5, no warrants/units/rights):**
+- WETO +127.7% ($8.22) — micro-cap one-day spike — skip
+- CAPR +58.0% ($6.65) — biotech micro spike — skip
+- BANL +55.9% ($10.93) — micro spike — skip
+- UMAL +50.9% ($27.71) — one-day spike — skip
+- ETON +44.3% ($58.86) / DAAQ +43.5% ($10.42, SPAC) / SPAI +37.7% ($6.17) / AEYE +37.5% ($7.99) / HTFL +35.7% ($42.08) / APLM +34.7% ($23.40) — micro-cap / SPAC one-day blow-offs, un-chaseable.
+
+**Losers (≥$5):** INV −55.1% ($1.62→<$5); KLC −46.2% ($2.60); MVIS −40.7% ($2.24); YXT −36.8% ($3.57); AAOZ −31.0% ($8.07) — micro-cap / earnings unwinds.
+
+**Best realistic miss:** **XLE +1.42%** — Energy — real catalyst (energy rotated to sector leadership + firm oil on Middle East/Hormuz supply) AND now **5/5 quant confirmed**. It was our own reject (3/5 lagging SPY on Aug-14) that flipped to a clean leader — the one name worth having surfaced. Every fresh mover was a micro/SPAC blow-off (un-chaseable).
+
+**Lessons:**
+- **R:R filter validated hard this session** — AVGO **−5.92%** was a genuine dodged-loss, and the extended-leader guard kept us out of flat-to-down XLK/NVDA/SMH. After 3 sessions of the "pinned / 2R-in-air" reject costing runs, it just prevented a real loss: the filter is sound, don't loosen it.
+- **Energy is the new rotation leader** — XLE flipped to 5/5 (trend/momentum/rel-strength/volume/not-extended all true), oil firm (WTI ~$82, Brent ~$89, Hormuz supply risk), energy earnings up. Semis (XLK/NVDA/SMH) cooled/extended. Lean the soft bias toward energy.
+- **Movers all micro/one-day blow-offs again** — 35th straight session nothing chaseable there; edge stays in confirmed leaders, not spikes.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE now 5/5, oil/Hormuz catalyst — the fresh leader) and **Info Tech / Semis** (XLK/NVDA/SMH — cooling, now extended/pinned). Recurring miss pattern = rejecting confirmed leaders pinned at their 20d highs on "2R in blue-sky air" — net verdict now **balanced-to-vindicated** (AVGO −5.92% dodged; only XLE ran). The documented fix stands: convert pinned leaders via the **breakout-retest / pullback-to-20d** execution mechanism, and prioritize **energy** while it leads. Hard rules unchanged.
+
+
 ## 2026-08-14 — Scorecard (prior session 2026-08-13)
 
 **Our picks (1d = Aug-13 close vs Aug-12 close, the move since that read):**
