@@ -624,3 +624,10 @@ drawdown are measured from here.
 **Action:** No-op — nothing to manage. Pre-market HOLD decision stands (regime risk_on, SPY $777.84 over rising 50d, S&P at a record post-PPI; XLK/NVDA held/cleared their breakouts but are now >2×ATR extended — chasing records into Retail Sales fails not_extended; AVGO/SMH confirmed but pinned under highs with 2R in blue-sky air). Weekly trades used: 0/3.
 
 ---
+
+### Aug 17 — Midday Scan (100% cash / no positions)
+**Positions:** None. 0 orders live.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. Pre-market HOLD decision stands (35th straight no-trade session; regime risk_on, SPY $776.30 over rising 50d; XLE 5/5 the standout watch but pinned 0.07R under its $62.105 20d high, 2R in blue-sky air; SMH/XLK 4/5 similarly pinned; NVDA >2×ATR extended; AVGO thesis fading, now 2/5 after −5.92% Friday). Weekly trades used: 0/3.
+
+---
