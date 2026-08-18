@@ -1,3 +1,11 @@
-# Pending Trades — 2026-08-17
+# Pending Trades — 2026-08-18
 
-No trades. Reason: 35th straight no-trade session — regime risk_on (SPY $776.30 over rising 50d), but no candidate clears both quant AND the 2:1 R:R filter. XLE (5/5, energy now the sector leader on oil/Hormuz) and SMH/XLK (4/5) are all pinned at their 20d highs with 2R in blue-sky air; NVDA/QQQ >2×ATR extended; AVGO fading (−5.92% Fri, now 2/5). Primary watch: XLE close above $62.105 on volume that holds/retests = clean energy entry; or a leader pullback to its rising 20d.
+Veto: delete a block before 3:30 PM Paris / 9:30 AM ET on GitHub. Market-open executes ONLY blocks still in this file.
+
+## BUY XLE — 4 shares — ~$248.60 (23.3% eq) — [sector ETF]
+- **Execution: breakout-retest, resting whole-share order.** Place a **buy-limit at $62.15** (retest of the $62.105 20d-high breakout, now support). Whole-share ETF → on fill, place a **real GTC stop at $59.48**.
+- Catalyst: energy sector leadership + firm oil (WTI ~$85, Brent ~$91, geopolitical supply premium); XLE closed above its $62.105 20d high on volume Aug-17 = confirmed breakout.
+- Quant 4/5 (trend, momentum, rel-strength, volume true; not_extended false — mitigated by the lower retest entry).
+- Entry ~$62.15 | Stop $59.48 (−2×ATR, ATR ~$1.34) | risk/sh $2.67 | Target ~$67.49 | R:R 2:1
+- Risk ~$10.69 (1.0% eq) — position 25%-cap-constrained (not risk-constrained). Heat after fill: 1.0% ≪ 12%.
+- No fill if XLE never retests $62.15 (keeps running) → we do not chase.

@@ -1390,3 +1390,32 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — 35th straight no-trade session (0/3 trades this week). Regime risk_on, but no candidate offers a clean entry AND ≥2:1 room: the confirmed leaders (XLE 5/5, SMH 4/5, XLK 4/5) are all pinned at their 20d highs with 2R in blue-sky air, NVDA/QQQ are extended, AVGO's thesis is fading (−5.92% Fri, now 2/5). Friday validated the filter — AVGO dropped hard, the extended-leader guard kept us out of flat-to-down semis. 100% cash, heat 0%, DD −1.90%. **Primary watch: XLE — a close above $62.105 on volume that holds/retests opens a clean energy entry (energy is the fresh sector leader on oil/Hormuz);** or a leader's pullback to its rising 20d SMA (XLE $59.15 / XLK $181.00). Fed minutes Wed.
+
+## 2026-08-18 — Pre-market
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $1,068.31
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Week trades: 0/3 / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $772.62 > 50-day SMA $749.20, rising). New long equity allowed at full size; inverse sleeve not sanctioned. Note: futures soft this morning (~−0.5%), VIX +6.6% to ~15.2 — Alpaca regime is the authority (risk_on stands).
+
+### Market Context
+- **Energy is the fresh, cleanest catalyst** — oil firm: **WTI ~$85, Brent ~$91**, up on a geopolitical supply premium. XLE/XOM/XOP/CVX/COP/VLO all quant-confirmed; energy is also the right sleeve into a Fed-heavy week (oil-supply-driven, not rate-driven).
+- **Macro binaries this week:** Housing Starts/IP today; **FOMC minutes Wed 2pm ET**; **Jackson Hole (Powell) Fri**. Energy's oil catalyst is largely insulated from these.
+- Semis/AI leaders (SMH/XLK/NVDA) still confirmed but pinned at/under 20d highs or >2×ATR extended — cooling.
+
+### Candidates (catalyst + quant confirmed)
+- **XLE** (ETF, Energy) — catalyst: energy sector leadership + firm oil (geopolitical supply premium); **closed above its $62.105 20d high on volume Aug-17 = confirmed breakout** — quant **4/5** (trend/momentum/rel-strength/volume true; not_extended false ~2.4×ATR — last $62.59, sma20 $59.39 rising, ret_10d +6.48%, hi_20d $62.675, risk/sh $2.67, vol 1.05×) — **TRADE via breakout-retest**: resting whole-share buy-limit on a retest of the $62.105 breakout level (~$62.15); entry is the *lower* retest price, stop the standard entry−2×ATR ($59.48). 25%-cap-constrained to 4 sh ($248.60, 23.3% eq), risk $10.69 (1.0% eq). Target ~$67.49 (+8.6%), R:R 2:1. The not_extended failure is mitigated by the lower retest entry (~2.0×ATR there). This converts the energy watch the log has flagged for 4+ sessions via the sanctioned execution mechanism.
+
+### Rejected
+- XOM (5/5) / XOP (4/5) — energy, confirmed and clean (XOM not_extended true), but **pinned just under their 20d highs** ($161.53 vs $162.51; $183.36 vs $183.50) — no breakout trigger yet, 2R in blue-sky air → fail 2:1 as a plain entry. Watch: a close above their highs on volume arms the same breakout-retest setup.
+- CVX / COP / VLO — energy, 3/5 (fail volume; CVX/COP/VLO also extended or pinned) → no clean 2:1.
+- SMH (4/5) / XLK (4/5) — semis, pinned under 20d highs → 2R in blue-sky air → fail 2:1.
+- NVDA (3/5) — >2×ATR extended at its high → chase.
+- Movers (SIC/IPST/WETO/AXT* +34–244%) — micro-cap/one-day pump blow-offs, un-chaseable.
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**TRADE — XLE breakout-retest.** After 36 flat sessions, the first genuinely actionable setup: energy is the confirmed rolling-7d leader with a live oil catalyst, and XLE fired the exact breakout trigger the log pre-registered (closed above $62.105 on volume). The sanctioned breakout-retest mechanism converts it via a resting whole-share buy-limit on the retest (~$62.15), with the standard entry−2×ATR stop ($59.48). Every hard rule respected: 25%-cap-constrained to 4 sh (23.3% eq), risk only $10.69 (1.0% eq), heat 1.0% ≪ 12%, R:R 2:1, regime risk_on, 1 of ≤4 slots. Not a forced trade — the mechanism firing as designed. Backup watch: XOM/XOP close above their 20d highs on volume.

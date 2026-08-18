@@ -13,6 +13,32 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-18 — Scorecard (prior session 2026-08-17)
+
+**Our picks (1d = Aug-17 close vs Aug-14 close, the move since that read):**
+- XLE (ETF, Energy) — decision **REJECTED** (5/5, pinned at high / 2R-in-air) — actual 1d **+1.09%** ($62.59 vs $61.915) — verdict **missed-entry / ran** — **closed above its $62.105 20d high on volume** = the exact breakout trigger the log pre-registered. Today we act on it via the breakout-retest mechanism.
+- SMH (ETF, Semis) — decision **REJECTED** (4/5, pinned) — actual 1d **+1.05%** ($593.97 vs $587.78) — verdict **missed-entry / ran** — pushed to a fresh 20d high ($600.29) but still pinned/failing 2:1.
+- XLK (ETF, Tech) — decision **REJECTED** (4/5, pinned) — actual 1d **+0.13%** ($190.27 vs $190.025) — verdict **correct/flat**.
+- NVDA (stock, semis/AI) — decision **REJECTED** (3/5, extended) — actual 1d **−0.03%** ($225.10 vs $225.16) — verdict **correct/flat** — the not_extended guard was right.
+
+**Day's top tradeable gainers (Aug-17, ≥$5, no warrants/units/rights):**
+- SIC +243.9% ($49.83) — one-day spike — skip
+- IPST +235.9% ($7.39) — micro pump — skip
+- WETO +199% ($24.59) — one-day spike — skip
+- AXTC +34.2% ($37.97) / AXTX +35.1% ($16.26) / AXTL +35.3% ($6.29) — AXT* cluster, single-day derivative/pump family — un-chaseable.
+
+**Losers (≥$5):** AIFU −52.5% ($17.25); CBRZ −29.8% ($6.42); BALY −26.3% ($10.31); EYPT −67.0% ($4.87→<$5) — micro-cap / earnings unwinds.
+
+**Best realistic miss:** **XLE +1.09%** — Energy — real catalyst (energy sector leadership + firm oil, geopolitical premium) AND it **broke above its $62.105 20d high on volume**, confirming the exact trigger we pre-registered. It's our own watch finally firing — the name to convert (acting on it today via breakout-retest). Every fresh mover was a micro/pump blow-off.
+
+**Lessons:**
+- **XLE breakout trigger MET** — closed above $62.105 on volume Aug-17. The energy watch the log has flagged for 4+ sessions fired; today we convert it via the sanctioned **breakout-retest** (resting whole-share buy-limit on a retest of ~$62.10, stop entry−2×ATR). This is the mechanism working as designed, NOT a loosening — entry is the *lower* retest price with the standard 2×ATR stop.
+- **Energy is the clear rotation leader** — XLE 4/5, XOM 5/5, XOP 4/5, CVX/COP/VLO 3/5 all confirmed; oil firm (WTI ~$85, Brent ~$91, geopolitical supply premium). Energy is also the right sleeve to hold into a Fed-heavy week (FOMC minutes Wed, Jackson Hole Fri) — oil-supply-driven, not rate-driven.
+- **Movers all micro/one-day pumps again** — 36th straight session nothing chaseable there; edge stays in confirmed sector leaders.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (fresh leader — XLE broke out, oil/geopolitical catalyst; XOM/XOP/CVX/COP/VLO confirming) and **Info Tech / Semis** (SMH/XLK/NVDA — pinned/extended, cooling). Recurring miss pattern = confirmed leaders pinned at 20d highs on "2R-in-blue-sky-air" — **now being converted** as XLE triggers the breakout-retest mechanism. Hard rules unchanged.
+
+
 ## 2026-08-17 — Scorecard (prior session 2026-08-14)
 
 **Our picks (1d = Aug-14 close vs Aug-13 close, the move since that read):**
