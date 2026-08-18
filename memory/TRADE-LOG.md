@@ -658,3 +658,14 @@ drawdown are measured from here.
 **Action:** No-op — nothing to manage. No fill on the resting XLE retest order (XLE has not pulled back to $62.15). No open position, no stop to tighten, no thesis to check. Order continues to rest GTC per plan.
 
 ---
+
+### Aug 18 — EOD Snapshot (Day 47, Tuesday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** No fill today. Account flat at $1,068.31, no positions — confirmed via account/positions/orders pull. The XLE buy-limit GTC (4sh @ $62.15, order 58a22af7, breakout-retest mechanism) remains resting and unfilled; XLE never pulled back to the $62.15 retest level. Midday scan reconfirmed no-op — nothing to manage, order continues to rest GTC per plan. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 filled (week of Aug 17: one resting order placed, zero fills). Tomorrow: pre-market rechecks the XLE retest order alongside SMH/XLK for any close of the R:R gap.
+
+---
