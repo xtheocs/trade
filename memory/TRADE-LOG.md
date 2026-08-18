@@ -651,3 +651,10 @@ drawdown are measured from here.
 **No fill if XLE never retests $62.15 (keeps running) — we do not chase.** Account remains 100% cash pending fill. Order rests GTC; midday/EOD routines to monitor for fill and arm the GTC stop immediately if it fills.
 
 ---
+
+### Aug 18 — Midday Scan (100% cash / resting order unfilled)
+**Positions:** None. 1 order live — XLE buy-limit GTC 4sh @ $62.15 (order 58a22af7), unfilled.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. No fill on the resting XLE retest order (XLE has not pulled back to $62.15). No open position, no stop to tighten, no thesis to check. Order continues to rest GTC per plan.
+
+---
