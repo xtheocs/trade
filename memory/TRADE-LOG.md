@@ -642,3 +642,12 @@ drawdown are measured from here.
 **Notes:** 36th straight no-trade day. Account flat at $1,068.31, no positions, no open orders — confirmed via account/positions/orders pull. Midday held the pre-market HOLD: regime risk_on, SPY $776.30 over rising 50d; XLE 5/5 the standout watch but pinned 0.07R under its $62.105 20d high with 2R in blue-sky air; SMH/XLK 4/5 similarly pinned; NVDA >2×ATR extended; AVGO thesis fading (now 2/5 after −5.92% Friday). Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 (week of Aug 17 opens no-trade). Capital fully idle awaiting a setup that clears both quant confirmation and the 2:1 R:R filter. Note: Aug 14 (Fri) had a midday scan logged but no EOD snapshot — equity was unchanged at $1,068.31 per that scan, so continuity to today's flat figure holds. Tomorrow: pre-market rescans XLE/SMH/XLK for any close of the R:R gap.
 
 ---
+
+### Aug 18 — Market-Open: Resting Order Placed (Day 47, Tuesday)
+**Action:** Placed **buy-limit GTC** order for **XLE — 4 sh @ $62.15** (order 58a22af7) — breakout-retest execution mechanism. NOT filled — XLE trading at $63.52 ask (well above the $62.15 retest level) at time of order placement.
+**Catalyst:** Energy sector leadership + firm oil (WTI ~$85, Brent ~$91, geopolitical supply premium); XLE closed above its $62.105 20d high on volume Aug-17 = confirmed breakout. Quant 4/5.
+**Plan:** Entry $62.15 | Stop $59.48 (−2×ATR, on fill) | Risk/sh $2.67 | Risk ~$10.69 (1.0% eq) | Target ~$67.49 | R:R 2:1.
+**Regime:** risk_on (SPY $769 > rising 50d $749.83). Gates checked: positions 0→1 ≤4 ✓, heat 1.0% ≪12% ✓, position 23.3% eq <25% cap ✓, cash sufficient ✓, catalyst confirmed in today's RESEARCH-LOG ✓, trade approved (not vetoed) in PENDING-TRADES ✓.
+**No fill if XLE never retests $62.15 (keeps running) — we do not chase.** Account remains 100% cash pending fill. Order rests GTC; midday/EOD routines to monitor for fill and arm the GTC stop immediately if it fills.
+
+---
