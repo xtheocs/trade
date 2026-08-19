@@ -669,3 +669,10 @@ drawdown are measured from here.
 **Notes:** No fill today. Account flat at $1,068.31, no positions — confirmed via account/positions/orders pull. The XLE buy-limit GTC (4sh @ $62.15, order 58a22af7, breakout-retest mechanism) remains resting and unfilled; XLE never pulled back to the $62.15 retest level. Midday scan reconfirmed no-op — nothing to manage, order continues to rest GTC per plan. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Weekly trades: 0/3 filled (week of Aug 17: one resting order placed, zero fills). Tomorrow: pre-market rechecks the XLE retest order alongside SMH/XLK for any close of the R:R gap.
 
 ---
+
+### Aug 19 — Midday Scan (100% cash / resting order unfilled)
+**Positions:** None. 1 order live — XLE buy-limit GTC 4sh @ $62.15 (order 58a22af7), unfilled.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. XLE trading $63.665 (+2.4% above the $62.15 retest level), no fill; no position to cut, no stop to tighten, no thesis to check. Pre-market HOLD decision stands (37th no-fill session; regime risk_on, SPY $767.37 over rising 50d; XLE/XOM/XOP/TAK all confirmed leaders but pinned at 20d highs or >2×ATR extended — 2R in blue-sky air). Weekly trades: 0/3 filled.
+
+---
