@@ -13,6 +13,30 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-19 — Scorecard (prior session 2026-08-18)
+
+**Our picks (1d = Aug-18 close vs Aug-17 close, the move since that read):**
+- XLE (ETF, Energy) — decision **TRADE via resting buy-limit @ $62.15** (breakout-retest; order placed, NOT filled) — actual 1d **+1.72%** ($63.665 vs $62.59) — verdict **missed-entry / ran** — never pulled back to the $62.15 retest, climbed straight to a fresh 20d high ($63.705). Energy leader keeps running away from every clean entry; the resting order is the disciplined wait, we do not chase.
+
+**Day's top tradeable gainers (Aug-18, ≥$5, no warrants/units/rights):**
+- PFSA +506.6% ($27.48) — Profusa micro-cap pump — skip
+- IPST +113.3% ($15.76) — micro pump (again) — skip
+- SLE +82.1% ($5.50) — micro spike — skip
+- AMLX +63.8% ($35.11) — Amylyx (biotech, likely clinical/ALS catalyst) — one-day binary blow-off, un-chaseable
+- (XOS +112% $4.44, CAST $2.10 — dropped <$5)
+
+**Losers (≥$5):** FNG −38.7% ($7.17); KEEX −32.0% ($25.01); AEHG −30.5% ($15.51); AAOX −30.2% ($17.92) — micro-cap / earnings unwinds.
+
+**Best realistic miss:** **None clean.** AMLX (+63.8%) had a real biotech catalyst but a +64% one-day spike fails not_extended by miles — a binary we never chase. Every other fresh mover was a micro/pump. The only "miss" remains our own leader **XLE +1.72%** running away above the $62.15 retest — a discipline cost, not a surfacing failure.
+
+**Lessons:**
+- **XLE ran again (+1.72%)** — never retested $62.15; to a fresh 20d high. Energy keeps climbing away from clean 2:1 entries. Resting breakout-retest order is the right posture — do not chase into extension (XLE now 4/5, not_extended false).
+- **Rotation confirmed defensive** — Aug-18 tech sold off hard (Info Tech −1.9%, biggest S&P drag), Energy +1.76% led, Healthcare/Staples bid (XLV +1.60%, XLP +1.06%). Bond yields up + fading Iran-peace hopes lifted oil.
+- **Movers all micro/pump/biotech-binary** (PFSA/IPST/SLE/AMLX) — 37th straight session nothing chaseable there; edge stays in confirmed sector leaders.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE/XOM/XOP/TAK confirmed, oil + geopolitical premium) plus **rotating-in Defensives** (Healthcare XLV, Staples XLP) as **Tech/Semis roll over** (Info Tech −1.9% Aug-18). Recurring miss pattern = confirmed leaders **pinned at 20d highs / >2×ATR extended, 2R in blue-sky air** — energy names keep running away from clean 2:1 entries; only convertible via the resting breakout-retest mechanism. Hard rules unchanged.
+
+
 ## 2026-08-18 — Scorecard (prior session 2026-08-17)
 
 **Our picks (1d = Aug-17 close vs Aug-14 close, the move since that read):**

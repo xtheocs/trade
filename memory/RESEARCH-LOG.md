@@ -1419,3 +1419,32 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **TRADE — XLE breakout-retest.** After 36 flat sessions, the first genuinely actionable setup: energy is the confirmed rolling-7d leader with a live oil catalyst, and XLE fired the exact breakout trigger the log pre-registered (closed above $62.105 on volume). The sanctioned breakout-retest mechanism converts it via a resting whole-share buy-limit on the retest (~$62.15), with the standard entry−2×ATR stop ($59.48). Every hard rule respected: 25%-cap-constrained to 4 sh (23.3% eq), risk only $10.69 (1.0% eq), heat 1.0% ≪ 12%, R:R 2:1, regime risk_on, 1 of ≤4 slots. Not a forced trade — the mechanism firing as designed. Backup watch: XOM/XOP close above their 20d highs on volume.
+
+## 2026-08-19 — Pre-market
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $819.70 ($248.61 reserved for resting XLE order)
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Open orders: 1 (XLE buy-limit GTC 4sh @ $62.15, unfilled) / Week trades: 0/3 filled / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $767.37 > 50-day SMA $749.80, rising). New long equity allowed at full size; inverse sleeve not sanctioned. Note: SPY sold off Aug-18 on a tech-led drop (Info Tech −1.9%) + rising bond yields, but Alpaca regime is the authority — risk_on stands.
+
+### Market Context
+- **Rotation is defensive + energy.** Aug-18: Info Tech −1.9% (biggest S&P drag), Energy +1.76% led, Healthcare/Staples bid (XLV +1.60%, XLP +1.06%). Drivers: bond yields climbing + fading Iran-peace hopes lifting oil (geopolitical supply premium). Energy stays the cleanest, freshest catalyst — and it's oil-supply-driven, insulated from this week's rate binaries.
+- **Macro binaries this week:** **FOMC minutes** (rates-sensitive tech read) and **Jackson Hole / Powell Fri**. Don't hold into unplanned binary events; energy's oil catalyst is largely insulated.
+- **TAK** (Takeda) fresh news — $5.6B U.S. VA contract + FDA approval of Orzeyful (first-in-class narcolepsy). Real catalyst, quant-confirmed 4/5, but **pinned at its 20d high** ($18.05 vs $18.15) → 2R in blue-sky air, fails 2:1.
+
+### Candidates (catalyst + quant confirmed)
+- **XLE** (ETF, Energy) — catalyst: energy sector-leadership rotation + firm oil (geopolitical supply premium) — quant **4/5** (trend/momentum/rel-strength/volume true; not_extended false ~3.1×ATR — last $63.665, sma20 $59.643 rising, ret_10d +8.79%, hi_20d $63.705, ATR $1.29, risk/sh $2.58, vol 1.04×, rs +9.3%) — **HOLD the resting breakout-retest order.** The buy-limit GTC 4sh @ $62.15 (order 58a22af7) stays resting: entry is the *lower* retest of the $62.105 breakout level, stop entry−2×ATR (~$59.57 on fill), target ~$67.31, R:R 2:1. Fills only on a pullback to $62.15 — XLE now $63.665 (+2.4% above), extended; we do NOT chase into extension. No fill if it keeps running.
+
+### Rejected
+- XLE as a *plain* entry at $63.665 — extended (not_extended false, ~3.1×ATR above sma20), pinned at 20d high → 2R target ~$68.8 in blue-sky air, fails 2:1. Only actionable via the lower resting retest (above).
+- TAK (4/5) — real catalyst ($5.6B VA contract + FDA narcolepsy approval) but pinned at 20d high ($18.05 vs $18.15), not_extended false → 2R (~$19.5) in blue-sky air, fails 2:1. Watch: a close above $18.15 on volume arms a breakout-retest.
+- XOM (4/5) — energy, confirmed, but pinned at its 20d high ($165.61 vs $165.65), extended → 2R (~$180.5) blue-sky, fails 2:1.
+- XOP (3/5) — energy, fails volume (0.98×), pinned at high, extended → no clean 2:1.
+- Movers (PFSA +507% / IPST +113% / SLE +82% / AMLX +64%) — micro-cap pumps + one-day biotech binary, un-chaseable (fail not_extended).
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades (37th no-fill session).** Regime risk_on but every confirmed leader is pinned at its 20d high / >2×ATR extended with 2R in blue-sky air (XLE, XOM, XOP, TAK). The only actionable setup remains the **XLE breakout-retest** — its buy-limit GTC @ $62.15 stays resting; it fills only on a disciplined pullback to the breakout level (XLE now +2.4% above, extended — we do not chase). Backup watch: TAK / XOM close above their 20d highs on volume arms the same breakout-retest. 100% cash, heat 0%, DD −1.90%. FOMC minutes + Jackson Hole (Powell) Fri = binary risk; energy's oil catalyst is insulated.

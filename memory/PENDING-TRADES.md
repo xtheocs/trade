@@ -1,12 +1,10 @@
-# Pending Trades — 2026-08-18
+# Pending Trades — 2026-08-19
 
-Veto: delete a block before 3:30 PM Paris / 9:30 AM ET on GitHub. Market-open executes ONLY blocks still in this file.
+**No NEW trades today.** Reason: every confirmed leader (XLE, XOM, XOP, TAK) is pinned at its 20d high / >2×ATR extended → 2R in blue-sky air, fails the 2:1 filter. Regime risk_on but no clean entry.
 
-## BUY XLE — 4 shares — ~$248.60 (23.3% eq) — [sector ETF]
-- **Status: Order placed 2026-08-18 market-open** — buy-limit GTC @ $62.15 resting (order 58a22af7), NOT filled (XLE $63.52 ask at placement, above the retest level). On fill, place a **real GTC stop at $59.48**. Monitor at midday/EOD.
-- **Execution: breakout-retest, resting whole-share order.** Place a **buy-limit at $62.15** (retest of the $62.105 20d-high breakout, now support). Whole-share ETF → on fill, place a **real GTC stop at $59.48**.
-- Catalyst: energy sector leadership + firm oil (WTI ~$85, Brent ~$91, geopolitical supply premium); XLE closed above its $62.105 20d high on volume Aug-17 = confirmed breakout.
-- Quant 4/5 (trend, momentum, rel-strength, volume true; not_extended false — mitigated by the lower retest entry).
-- Entry ~$62.15 | Stop $59.48 (−2×ATR, ATR ~$1.34) | risk/sh $2.67 | Target ~$67.49 | R:R 2:1
-- Risk ~$10.69 (1.0% eq) — position 25%-cap-constrained (not risk-constrained). Heat after fill: 1.0% ≪ 12%.
-- No fill if XLE never retests $62.15 (keeps running) → we do not chase.
+## Carry-over (already resting — DO NOT re-place)
+- **XLE — buy-limit GTC 4 sh @ $62.15** (order 58a22af7), placed 2026-08-18, still resting/unfilled. Breakout-retest execution mechanism. Fills only on a pullback to the $62.105 breakout level; XLE now $63.665 (+2.4% above), extended — we do not chase.
+- **On fill:** place a real GTC stop at entry−2×ATR (≈ $59.57, ATR ~$1.29). Risk/sh ~$2.58, risk ~$10.32 (1.0% eq), target ~$67.31, R:R 2:1.
+- Market-open: **do not duplicate** this order — it is already live GTC. Monitor for fill and arm the stop immediately on fill.
+
+Veto: n/a (no new trade blocks to veto).
