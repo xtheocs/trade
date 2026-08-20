@@ -676,3 +676,10 @@ drawdown are measured from here.
 **Action:** No-op — nothing to manage. XLE trading $63.665 (+2.4% above the $62.15 retest level), no fill; no position to cut, no stop to tighten, no thesis to check. Pre-market HOLD decision stands (37th no-fill session; regime risk_on, SPY $767.37 over rising 50d; XLE/XOM/XOP/TAK all confirmed leaders but pinned at 20d highs or >2×ATR extended — 2R in blue-sky air). Weekly trades: 0/3 filled.
 
 ---
+
+### Aug 20 — Midday Scan (100% cash / resting order unfilled)
+**Positions:** None. 1 order live — XLE buy-limit GTC 4sh @ $62.15 (order 58a22af7), unfilled.
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Peak:** $1,089.01 | **DD:** −1.90% | Breaker: inactive
+**Action:** No-op — nothing to manage. XLE trading $64.03 (+3.0% above the $62.15 retest level), no fill; no position to cut, no stop to tighten, no thesis to close. XLE thesis intact (still confirmed 3/5 — trend/momentum/rel-strength true, sma20 $60.09 rising, ret_10d +10.05%, rs +10.4%; volume 0.59× and not_extended false, i.e. still extended and un-chaseable). Pre-market HOLD decision stands (38th no-fill session; regime risk_on, SPY > rising 50d; XLE/XOM/XOP/XLV all confirmed leaders but pinned at/under their 20d highs — 2R in blue-sky air). No new risk taken into Friday's Jackson Hole/Powell binary. Weekly trades: 0/3 filled.
+
+---
