@@ -683,3 +683,14 @@ drawdown are measured from here.
 **Action:** No-op — nothing to manage. XLE trading $64.03 (+3.0% above the $62.15 retest level), no fill; no position to cut, no stop to tighten, no thesis to close. XLE thesis intact (still confirmed 3/5 — trend/momentum/rel-strength true, sma20 $60.09 rising, ret_10d +10.05%, rs +10.4%; volume 0.59× and not_extended false, i.e. still extended and un-chaseable). Pre-market HOLD decision stands (38th no-fill session; regime risk_on, SPY > rising 50d; XLE/XOM/XOP/XLV all confirmed leaders but pinned at/under their 20d highs — 2R in blue-sky air). No new risk taken into Friday's Jackson Hole/Powell binary. Weekly trades: 0/3 filled.
 
 ---
+
+### Aug 20 — EOD Snapshot (Day 49, Thursday)
+**Equity:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day:** 0.00% | **Phase:** −1.08% | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | | |
+
+**Notes:** 39th straight no-fill session. Account flat at $1,068.31, zero positions — confirmed via account/positions/orders pull. The XLE buy-limit GTC (4sh @ $62.15, order 58a22af7, breakout-retest mechanism) still rests unfilled; XLE closed $63.76, +2.6% above the retest level, having faded from an intraday $64.03 but never coming back to $62.15. XLE thesis intact but un-chaseable: 3/5 confirmed (trend/momentum/rel-strength true; sma20 $60.08 rising, ret_10d +9.58%, rs +10.4%), while volume 0.93× and not_extended false keep it off a fresh entry, and its $64.70 20d high leaves 2R in blue-sky air. Regime stays risk_on — SPY $762.62 over a rising 50d $750.91, though the index slipped from Tuesday's $767 into tomorrow's Jackson Hole/Powell session. No new risk taken into that binary. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive. Trades today: 0. Weekly trades: 0/3 filled (week of Aug 17: one resting order placed, zero fills). Note: Aug 19 had a midday scan logged but no EOD snapshot — equity was unchanged at $1,068.31 per that scan, so continuity to today's flat figure holds. Tomorrow: Powell at Jackson Hole is the week's catalyst — pre-market weighs the reaction; Friday also carries the weekly review.
+
+---
