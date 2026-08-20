@@ -1448,3 +1448,32 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades (37th no-fill session).** Regime risk_on but every confirmed leader is pinned at its 20d high / >2×ATR extended with 2R in blue-sky air (XLE, XOM, XOP, TAK). The only actionable setup remains the **XLE breakout-retest** — its buy-limit GTC @ $62.15 stays resting; it fills only on a disciplined pullback to the breakout level (XLE now +2.4% above, extended — we do not chase). Backup watch: TAK / XOM close above their 20d highs on volume arms the same breakout-retest. 100% cash, heat 0%, DD −1.90%. FOMC minutes + Jackson Hole (Powell) Fri = binary risk; energy's oil catalyst is insulated.
+
+## 2026-08-20 — Pre-market
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $819.70 ($248.61 reserved for resting XLE order)
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Open orders: 1 (XLE buy-limit GTC 4sh @ $62.15, unfilled) / Week trades: 0/3 filled / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $769.09 > 50-day SMA $750.40, rising). New long equity allowed at full size; inverse sleeve not sanctioned.
+
+### Market Context
+- **MRNA +177% ($174.27) yesterday** on positive Phase 3 adjuvant melanoma data (intismeran + Keytruda) — a real large-cap catalyst that drove Healthcare's rotation, but a +177% one-day binary blow-off = un-chaseable (fails not_extended by miles). Leveraged derivatives MRNX +352% / MRNY +169% just amplify the same binary — not our sleeve.
+- **Rotation = Energy + Healthcare.** Energy stays the recurring leader (Brent ~$91.5, up ~0.7% on Strait-of-Hormuz supply risk); Healthcare rotating in behind the MRNA move (XLV bid). Tech/Semis cooling.
+- **Macro today Aug-20:** jobless claims + Philly Fed (8:30 ET), Walmart earnings, StL Fed Musalem speaks. **Jackson Hole / Powell Fri = binary looming** — don't hold into it; energy's oil catalyst is insulated.
+
+### Candidates (catalyst + quant confirmed)
+- **XLE** (ETF, Energy) — catalyst: energy leadership + firm oil (Hormuz supply premium) — quant **4/5** (trend/momentum/rel-strength/volume true; not_extended false — last $63.565, sma20 $59.86 rising, ret_10d +10.95%, hi_20d $64.245, ATR $1.27, risk/sh $2.55, vol 1.01×, rs +11.0%) — **HOLD the resting breakout-retest order.** Buy-limit GTC 4sh @ $62.15 (order 58a22af7) stays resting: entry is the *lower* retest of the $62.105 breakout level, stop entry−2×ATR (~$59.61 on fill), target ~$67.24, R:R 2:1. Fills only on a pullback to $62.15 — XLE now $63.565 (+2.3% above), extended; we do NOT chase.
+
+### Rejected
+- XLE as a *plain* entry at $63.565 — extended (not_extended false), pinned ~0.7R under its 20d high → 2R target ~$68.7 in blue-sky air, fails 2:1. Only actionable via the lower resting retest (above).
+- **XOM** (4/5, not_extended TRUE) — energy, confirmed and clean, but pinned $164.80 vs 20d high $168.175 → 2R (~$179.8) in blue-sky air, fails 2:1. Watch: a close above $168.175 on volume arms a breakout-retest.
+- **XOP** (4/5) — energy, confirmed but pinned $186.325 vs high $187.785 → 2R blue-sky, fails 2:1. Watch: close above $187.785.
+- **XLV** (4/5, Healthcare) — fresh rotation catalyst (MRNA-led), confirmed, but pinned $175.70 vs 20d high $176.58, extended → 2R (~$187.5) blue-sky, fails 2:1. Watch: a close above $176.58 on volume arms a breakout-retest — the first HC name to track.
+- Movers (MRNA/MRNX/MRNY +170–352%, FIXX/TNON/PUR micro) — one-day binaries / micro-pumps, fail not_extended, un-chaseable.
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades (38th no-fill session).** Regime risk_on but every confirmed leader (XLE, XOM, XOP, XLV) is pinned at/under its 20d high with 2R in blue-sky air → fails 2:1. The only actionable setup remains the **XLE breakout-retest** — its buy-limit GTC @ $62.15 stays resting; fills only on a disciplined pullback to the breakout level (XLE now +2.3% above — no chase). New watch: **XLV** (Healthcare rotation, MRNA-led) — a close above $176.58 on volume arms the same breakout-retest; backup watches XOM/XOP above their highs. 100% cash, heat 0%, DD −1.90%. Jackson Hole/Powell Fri = binary risk; energy's oil catalyst is insulated.

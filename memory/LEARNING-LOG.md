@@ -13,6 +13,29 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-20 — Scorecard (prior session 2026-08-19)
+
+**Our picks (1d = Aug-19 close vs Aug-18 close, the move since that read):**
+- XLE (ETF, Energy) — decision **HOLD resting buy-limit @ $62.15** (breakout-retest; NOT filled) — actual 1d **−0.16%** ($63.565 vs $63.665) — verdict **correct-hold / no-fill** — never dipped to $62.15 (day low $63.405, +2.3% above the retest); resting order is the disciplined wait, we did not chase into extension.
+
+**Day's top tradeable gainers (Aug-19, ≥$5, no warrants/units/rights):**
+- MRNA +176.9% ($174.27) — Moderna, healthcare — positive Phase 3 adjuvant melanoma data (intismeran + Keytruda) — real large-cap catalyst but a **one-day binary blow-off, un-chaseable** (fails not_extended by miles)
+- MRNX +352% ($141.64) — Defiance 2X Long MRNA ETF — leveraged derivative of the same MRNA binary — un-chaseable
+- MRNY +169% ($42.00) — YieldMax MRNA ETF — same MRNA binary derivative
+- FIXX +1414% ($14.15) / TNON +109% ($11.41) / PUR +61% ($22.56) / RDAC +50% ($8.78) / TEMT +48% ($24.15) — micro-cap pumps/spikes — skip
+
+**Losers (≥$5):** PFSA −50.6% ($13.57); IPST −46.4% ($8.45); ARKY −28.7% ($20.88); GDXD −28.0% ($18.38); SMST −25.2% ($43.61); AEHG −25.0% ($11.63) — prior-pump unwinds / leveraged-ETF decay.
+
+**Best realistic miss:** **None clean.** MRNA (+177%) had a genuine large-cap catalyst (Phase 3 melanoma data) but a +177% one-day binary fails not_extended by miles — the exact blow-off we never chase; MRNX/MRNY just leverage the same binary. Every other fresh mover was a micro/pump. The only "miss" remains our own confirmed leaders (XLE/XOM/XOP/XLV) still pinned at their 20d highs — a discipline cost, not a surfacing failure.
+
+**Lessons:**
+- **MRNA +177% biotech binary** — real Phase 3 catalyst but un-chaseable; leveraged derivatives (MRNX +352%, MRNY +169%) amplify the same binary — never our sleeve. But it hands **Healthcare a fresh sector leader** (XLV up, rotation confirmed).
+- **Every energy/HC leader pinned again** — XLE/XOM/XOP/XLV all confirmed 4/5 but at/under 20d highs, 2R in blue-sky air → fail 2:1. 38th straight session of the same pattern.
+- **XLE flat (−0.16%)**, never retested $62.15 — resting breakout-retest order is the correct posture; no chase into extension.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE/XOM/XOP, oil + Strait-of-Hormuz supply premium, Brent ~$91.5) + **Healthcare rotating in** (XLV, now with a live MRNA leader) as **Tech/Semis cool**. Recurring miss pattern = confirmed leaders **pinned at 20d highs / >2×ATR extended, 2R in blue-sky air** — only convertible via the resting breakout-retest mechanism. Hard rules unchanged.
+
+
 ## 2026-08-19 — Scorecard (prior session 2026-08-18)
 
 **Our picks (1d = Aug-18 close vs Aug-17 close, the move since that read):**
