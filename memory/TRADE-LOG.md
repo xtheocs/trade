@@ -701,3 +701,14 @@ drawdown are measured from here.
 **Action:** No-op — nothing to manage. No fill on the resting XLE retest order (still above $62.15). No open position, no stop to tighten, no thesis to close. Pre-market HOLD stands (40th no-fill session; regime risk_on, SPY $762.62 over rising 50d; XLE/XOM/XOP/XLV/TAK all confirmed leaders but pinned at/under their 20d highs — 2R in blue-sky air). Powell/Jackson Hole binary today — no new index-beta risk taken. Weekly trades: 0/3 filled.
 
 ---
+
+### Aug 21 — EOD Snapshot (Day 50, Friday)
+**Portfolio:** $1,068.31 | **Cash:** $1,068.31 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$11.69 (−1.08%) | **Peak:** $1,089.01 | **DD:** −1.90%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| (none — 100% cash) | | | | | | |
+
+**Notes:** 41st straight no-fill session, flat close to Jackson Hole week. Account unchanged at $1,068.31, zero positions, confirmed via account/positions/orders pull — buying power $819.70. The XLE buy-limit GTC (4sh @ $62.15, order 58a22af7, breakout-retest mechanism) still rests unfilled since Aug 18; XLE has stayed pinned above the retest level all week and never pulled back. Day P&L flat at $0.00 (0.00%) — no positions to move it. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive, nowhere close. Trades today: 0. Weekly trades: 0/3 filled (week of Aug 17: one resting order placed Monday, zero fills through Friday). Capital remains fully idle, disciplined patience over a 41-session no-trade streak — no setup has cleared both quant confirmation and the 2:1 R:R filter without chasing extension. Weekly review due this afternoon. Tomorrow: fresh pre-market regime/catalyst/quant scan; Powell's Jackson Hole remarks are now digested — watch for any regime shift into next week.
+
+---
