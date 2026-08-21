@@ -101,6 +101,18 @@ caps, and regime gate are all unchanged. Only whole-share positions can rest a r
 fractional names still cannot rest a stop overnight (size accordingly), so a fractional entry
 still waits for a routine to arm its day stop.
 
+**Geometry review closed (2026-08-21) — 2×ATR/2:1 kept, on data.** A multi-week review (threshold
+set 2026-07-31) evaluated loosening the hard geometry — a structural-support stop tighter than
+2×ATR, or a 1.75:1 floor on the lowest-ATR vehicles — for the names that keep failing 2:1. Built
+on live bars for the recurring watch names (XLE, XLV, XOP), the evidence *refuted* the refinement:
+each fails 2:1 because its 2R target lands **above** its 20-day-high resistance (it is extended
+above a rising 20d), **not** because its stop is too wide — and a structural stop *below* the rising
+20d is in fact **wider** than the 2×ATR stop (worsening R:R), while a 1.75:1 floor still leaves the
+target in breakout air. Neither would convert a single name. The binding constraint is **entry
+price relative to resistance**, and the only fix is a **lower entry** — exactly the standing-order
+mechanism above. Do not re-open a geometry loosening on this same basis; the tool is lower-entry
+execution, never a looser stop or ratio.
+
 ---
 
 ## Stops & Sizing (ATR-based)

@@ -662,3 +662,69 @@ Template for each entry:
 
 ### Overall Grade: C
 *(Process A for a ninth week — every risk rule respected, no chase of the XLK/NVDA breakouts into >2×ATR extension at record highs, no risk into the CPI/PPI/Retail-Sales binaries, every micro/ETN mover correctly passed. But the outcome carries the phase's most important negative datapoint: for the first time the R:R-reject pattern inverted, with rejected confirmed leaders breaking out and running three straight sessions in a risk_on melt-up — the filter cost runs, not just missed fades. The mild +0.6% tape kept the relative miss small (unlike last week's −3.4%), but the internal signal is a real process concern, so C, a notch above last week's C− on smaller opportunity cost yet still capped by a ninth flat week and no compounding in two months. The right response is the conservative one taken: codify the zero-risk execution fix (standing retest/pullback orders) now, and hold the hard geometry for the Aug-21 window rather than churning a stop rule on one week of inversion. Survival fully intact; the execution fix gets one week to prove it can finally convert a watched setup.)*
+
+---
+
+## Week ending 2026-08-21
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,068.31 (Mon Aug-17 open) |
+| Ending portfolio | $1,068.31 (Fri Aug-21) |
+| Week return | +$0.00 (0.00%) |
+| Peak equity (week) | $1,068.31 · max intra-week DD 0.00% (phase peak $1,089.01, phase DD −1.90%) |
+| S&P 500 week | ≈ −1.9% (FRED weekly; SPY on Alpaca ~$777 Aug-14 → $765.64 Aug-21 ≈ −1.5%; **first down week in 4**, Jackson Hole/Powell week — Wed–Thu selloff, partial Fri rebound) — FYI only |
+| Bot vs S&P | ≈ +1.9% (100% cash *beat* a down tape — FYI context, NOT the goal) |
+| Trades | 0 (W:0 / L:0 / open:0) — none filled; **1 standing order deployed** (XLE breakout-retest, unfilled) |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A (no positions) |
+| Worst trade | N/A (no positions) |
+| Profit factor | N/A (no closed trades) |
+| Avg R multiple | N/A (no closed trades) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades — 100% cash entire week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| (none — 100% cash) | — | — | — | — |
+| *resting order* | XLE buy-limit GTC 4sh @ $62.15 (order 58a22af7, breakout-retest) — unfilled since Aug-18; XLE stayed pinned above $62.15 all week | — | — | on fill: entry−2×ATR |
+
+### What Worked
+- **The standing-order execution fix was DEPLOYED for the first time — and it worked exactly as designed.** XLE closed above its $62.105 20d high on volume Aug-17 (confirmed breakout); Aug-18 pre-market placed the sanctioned resting whole-share buy-limit GTC (4sh @ $62.15) at the *retest* level, stop entry−2×ATR, risk ~1% eq, R:R 2:1. This is the mechanism codified Aug-14 finally in live use — a valid, correctly-sized order resting at a clean price, no chase. It didn't fill only because XLE never pulled back (ran to $64.03 intraday Aug-20), which is the mechanism refusing a chase, not the mechanism failing.
+- **100% cash beat a −1.9% down tape — the second time this phase discipline was directly rewarded (cf. Jul-17).** The Jackson Hole/Powell week sold off Wed–Thu (SPY $767→$762); the book carried zero index-beta risk into the Powell binary and dodged the drawdown. Regime read risk_on cleanly all week (SPY $765.64 > rising 50d $751.71), so no inverse-sleeve error into a tape that fell but stayed above its rising 50d.
+- **The R:R 2:1 filter vindicated a tenth straight week.** Every confirmed leader (XLE 3/5, XOM 3/5, XOP 4/5, XLV 4/5, TAK 3/5) was pinned at/under its 20d high with 2R in blue-sky air, or >2×ATR extended → all correctly refused a plain entry; only the *lower* retest was actionable, via the resting order.
+- **Zero rule violations for a tenth week.** 0/3 weekly trades filled, heat 0% (the resting order carries no risk until filled), DD −1.90% « 20% breaker, no fractional-with-no-overnight-stop entry into the Powell binary. Every mover (WETO/ARBB/PCLA micro-pumps, MRNX −47.5% leveraged unwind) correctly un-chaseable.
+
+### What Didn't Work
+- **Tenth straight flat week, and no fill on the first-ever deployed standing order.** Phase P&L stuck at −$11.69 (−1.08%); 41 straight no-fill sessions since the SMH time-stop exit (Jun 26). The execution fix removed the *timing* excuse (an order now rests at the clean price), but the market still didn't offer the pullback — XLE broke out and ran *away* from the retest rather than back to it.
+- **A breakout that runs straight up never offers the retest the mechanism waits for.** XLE's Aug-17 breakout went $62.59 → $64.03 with no pullback to $62.15 — the same "confirms only at the extreme, never gives room" geometry, now expressed as "breaks out and never retests." The resting order is the right tool but it can only fill if the market presents the pullback; a one-directional grind up doesn't.
+- **The owed geometry-review evidence (structural-support stop vs 2×ATR) was still not logged in the daily pre-markets** — the Aug-21 pre-market ran the standard quant/R:R read but did not tabulate the comparison. It was instead built *in this review* (see below) rather than across the week as Aug-7/Aug-14 directed. The decision got made on data, but later than planned.
+- **Cash's win was tape-luck, not edge.** +1.9% relative this week vs −3.4% two weeks ago on identical discipline — the scoreboard is entirely the tape's. Ten weeks, one real (losing) trade, zero compounding is the honest through-line regardless of any single week's relative print.
+
+### Key Lessons
+- **The Aug-21 geometry review fired, and the data-backed verdict is: KEEP the 2×ATR / 2:1 geometry unchanged.** The pre-set threshold (Jul-31, restated Aug-7/14) said Aug-21 would evaluate a narrow geometry refinement — a structural-support stop tighter than 2×ATR, or a 1.75:1 floor on lowest-ATR vehicles — if standing orders converted nothing. Built on this week's bars, the evidence *refutes* that refinement: for every watch name (XLE, XLV, XOP) the 2R target lands **above** the 20d-high resistance, i.e. they fail 2:1 on **extension**, not stop-width — and a structural stop below the rising 20d is *wider* than the 2×ATR stop in every case ($3.34 vs $2.45 for XLE; $7.53 vs $6.04 for XLV; $13.01 vs $8.72 for XOP), making R:R strictly **worse**. A 1.75:1 floor still leaves the target above resistance. **Neither contemplated refinement would have converted a single name.** The only fix for their R:R is a *lower entry* — which is precisely the standing-order mechanism already codified. The review resolves on the merits, not by deferral: the constraint is entry price, and the correct tool was already adopted.
+- **The binding constraint is now precisely located: entry price relative to resistance, fixed only by a lower-entry mechanism — not by any stop-width or ratio change.** Ten weeks isolate it. Loosening the stop or the ratio would *not* have put on a single trade (proven this week on live bars); it would only have degraded the risk math on trades that still wouldn't clear. This is the strongest possible argument *against* touching the hard geometry — and it comes from the very review that was set up to consider touching it.
+- **The execution fix is 4 trading days old and deserves a real window, which is not can-kicking because the reason is concrete.** Prior deferrals waited for the fix to be *built*; it is now *deployed* and did place a valid order. One breakout that ran away in 4 days is not a fair test of a mechanism that only fills on pullbacks. Give it a genuine window (through ~Sep-11) to catch a retest or pullback the market actually offers.
+- **Tenth week: process A, outcome C+.** No rule violated, capital fully intact, cash beat a down tape, the execution fix went live and worked mechanically, and the multi-week geometry question was closed on data (verdict: don't change it). But still zero compounding in 2.5 months and no fill — survival intact, the account not yet put to work.
+
+### Adjustments for Next Week
+- **Geometry review CLOSED — hard rules held, on data.** No amendment to 2×ATR / 2:1. Rationale is now evidenced (above), not just asserted: the failing names fail on 2R-above-resistance (extension), and a tighter structural stop is *wider* than 2×ATR for extended names, so it worsens R:R. The lower-entry standing-order mechanism is the sanctioned and sufficient fix. A one-line note documenting this resolution is added to the strategy so future sessions don't re-litigate it (see Strategy File Changes).
+- **Keep the XLE resting order and place new ones as leaders confirm.** XLE's buy-limit GTC @ $62.15 stays resting (it fills only on a disciplined pullback — no chase). As XLV/XOM/XOP/TAK each close above their 20d highs on volume, pre-market records the exact retest/pullback trigger and market-open arms the whole-share resting order — give the mechanism multiple shots, not just one name.
+- **Consider a pullback-to-rising-20d resting order, not only breakout-retest.** XLE broke out and ran *away* from its retest; a name pulling back toward its rising 20d (the other sanctioned shape) may offer a fill where a breakout-retest doesn't. Prioritize watch names *coming back to* a rising 20d with air overhead over those that just gapped through their highs.
+- **Regime gate first Monday.** SPY $765.64 > rising 50d ($751.71) = risk_on, though the index pulled back into Jackson Hole and Powell's remarks are now digested — watch for any shift. Trade long only on a retest/pullback a resting order can catch; inverse sleeve stays un-sanctioned unless SPY loses a rising 50d into a confirmed downtrend.
+- **Don't force a trade to break the streak.** Full $1,068.31 equity ($819.70 buying power with the XLE order reserved), 0/3 weekly trades filled, heat 0%, DD −1.90%. Add a name only via a resting order at a clean retest/pullback that clears catalyst + 3/5 quant + 2:1 R:R + risk_on; zero fills remains valid — this week's down tape is fresh proof that not chasing preserved capital.
+
+### Strategy File Changes
+- **Geometry review resolved — a one-line note added to *Entry Method* documenting the Aug-21 data-backed verdict to KEEP the 2×ATR / 2:1 geometry.** This is documenting a rule that *proved out*, exactly what STEP 5 sanctions — not churn. Rationale: the pre-set Jul-31 threshold made Aug-21 the point of record to evaluate loosening the geometry (structural-support stop or 1.75:1 floor on low-ATR vehicles). Built on this week's live bars, the evidence *refutes* the refinement for every watch name — they fail 2:1 because their 2R target sits above the 20d-high resistance (extension), and a structural stop below the rising 20d is *wider* than 2×ATR, worsening R:R; a 1.75:1 floor still fails. Neither would have converted a single trade. The constraint is entry price, fixed only by the lower-entry standing-order mechanism already codified Aug-14. The note closes the open multi-week review so no future session re-opens a loosening on this same, already-refuted basis.
+- **NO loosening of any hard rule.** 3% risk, 2×ATR stop, 2:1 minimum, heat/sleeve caps, and regime gate all unchanged and, this week, *re-vindicated on data*. The execution fix (standing orders) is 4 trading days old and deployed correctly; it gets a genuine window (through ~Sep-11) to convert a real retest/pullback before any further process change is even considered.
+
+### Overall Grade: B−
+*(Process A for a tenth week — every risk rule respected, 100% cash *beat* a −1.9% Jackson Hole down tape by dodging the Wed–Thu selloff, no risk into the Powell binary, and the standing-order execution fix DEPLOYED for the first time and working exactly as designed: a valid, correctly-sized XLE breakout-retest order resting at the clean price, refusing to chase when XLE ran away. The multi-week geometry-review question — hanging over four reviews — was finally CLOSED on data, and the verdict *vindicated* the hard rules: the failing names fail on extension, not stop-width, so a tighter structural stop (wider than 2×ATR for extended names) or a 1.75:1 floor would have converted nothing. That is the review working, not deferring. Result still zero compounding — tenth flat week, no fill, 41 idle sessions — which caps the grade, but cash beating a down week plus a live-and-correct execution fix plus a data-closed rule review is a materially better week than a pure idle one, landing B−, in line with the Jul-17 "cash beat a down tape" precedent. Survival fully intact; the correctly-built execution fix now gets a real window to put the account to work.)*
