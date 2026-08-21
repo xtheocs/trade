@@ -13,6 +13,32 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-21 — Scorecard (prior session 2026-08-20)
+
+**Our picks (1d = Aug-20 close vs Aug-19 close, the move since that read):**
+- XLE (ETF, Energy) — decision **HOLD resting buy-limit @ $62.15** (breakout-retest; NOT filled) — actual 1d **+0.31%** ($63.76 vs $63.565) — verdict **correct-hold / no-fill** — never dipped to $62.15 (Aug-20 low $63.695, +2.5% above the retest); resting order is the disciplined wait, we did not chase into extension.
+
+**Day's top tradeable gainers (Aug-20, ≥$5, no warrants/units/rights):**
+- WETO +32.6% ($27.53) — micro-cap spike, ~600 trades/day, illiquid — skip
+- ARBB +32.2% ($5.30) — micro-cap spike, ~2.5k shares — skip
+- PCLA +31.4% ($8.41) — micro-cap spike, thin — skip
+- MHX +31.3% ($18.46) — 100 shares on the day, effectively untradeable — skip
+- MRAL +30.9% ($38.40) — 320 shares on the day, illiquid — skip
+- (UXRP/XRPT/XXRP +29–32% — XRP leveraged crypto ETFs, off-mandate; USDE $4 / XOS $3.72 dropped <$5)
+
+**Losers (≥$5):** MRNX −47.5% ($74.31) — 2X-long MRNA ETF, the Aug-19 melanoma binary decaying; PFSA −44.2% ($7.57) — prior-pump unwind; TNON −38.6% ($7.01) — pump unwind.
+
+**Best realistic miss:** **None clean.** Every fresh gainer was a thin micro-cap spike (WETO/ARBB/PCLA/MHX/MRAL — 100–600 shares/day, no volume, no identifiable catalyst, fail not_extended) — the exact pumps we never chase. MRNX −47.5% is just the MRNA leveraged binary unwinding. The only "miss" remains our own confirmed leaders (XLE/XOM/XOP/XLV/TAK) still pinned at/under their 20d highs — a discipline cost, not a surfacing failure.
+
+**Lessons:**
+- **40th straight session, movers all micro-pumps/binary-decay** — nothing chaseable in the gainer tape; edge stays in confirmed sector leaders, not the top-% list.
+- **Every energy/HC leader still pinned** — XLE/XOM/XOP/XLV/TAK all confirmed 3–4/5 but at/under 20d highs, 2R in blue-sky air → fail 2:1. XLV is the least-extended (not_extended TRUE, 0.70R below its high) but still fails 2:1 to its $176.58 20d-high resistance.
+- **XLE flat again (+0.31%)**, never retested $62.15 — resting breakout-retest order stays the correct posture; no chase.
+- **Powell/Jackson Hole today = binary** — don't open new risk into it; energy's oil catalyst (Brent ~$93) is insulated but we still stand aside on the index event.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE/XOM/XOP, oil + Strait-of-Hormuz supply premium, Brent ~$93, +44.6% YTD sector leader) + **Healthcare rotating in** (XLV, MRNA-led) as **Tech/Semis cool**. Recurring miss pattern = confirmed leaders **pinned at 20d highs / >2×ATR extended, 2R in blue-sky air** — only convertible via the resting breakout-retest mechanism; the gainer tape itself is 40 straight sessions of un-chaseable micro-pumps. Hard rules unchanged.
+
+
 ## 2026-08-20 — Scorecard (prior session 2026-08-19)
 
 **Our picks (1d = Aug-19 close vs Aug-18 close, the move since that read):**

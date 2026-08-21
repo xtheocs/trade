@@ -1477,3 +1477,36 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades (38th no-fill session).** Regime risk_on but every confirmed leader (XLE, XOM, XOP, XLV) is pinned at/under its 20d high with 2R in blue-sky air → fails 2:1. The only actionable setup remains the **XLE breakout-retest** — its buy-limit GTC @ $62.15 stays resting; fills only on a disciplined pullback to the breakout level (XLE now +2.3% above — no chase). New watch: **XLV** (Healthcare rotation, MRNA-led) — a close above $176.58 on volume arms the same breakout-retest; backup watches XOM/XOP above their highs. 100% cash, heat 0%, DD −1.90%. Jackson Hole/Powell Fri = binary risk; energy's oil catalyst is insulated.
+
+---
+
+## 2026-08-21 — Pre-market
+
+### Account
+- Equity: **$1,068.31** / Cash: $1,068.31 (100%) / Buying power: $819.70 ($248.61 reserved for resting XLE order)
+- Drawdown from peak: **−1.90%** (peak $1,089.01) — 20% breaker inactive
+- Open positions: 0 / Open orders: 1 (XLE buy-limit GTC 4sh @ $62.15, unfilled) / Week trades: 0/3 filled / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $762.62 > 50-day SMA $750.91, rising). New long equity allowed at full size; inverse sleeve not sanctioned.
+
+### Market Context
+- **Powell / Jackson Hole speech TODAY = the week's binary** (~10 AM ET). Market watching for a September rate-cut signal; futures soft/mixed (E-mini ~7,680–7,710, "higher-for-longer" worries), VIX ~16. Strategy stance: **do not open new index-beta risk into an unplanned binary.** Energy's oil catalyst is insulated.
+- **Oil firm:** WTI ~$85.9, Brent ~$93.1 (+1.65%) on Strait-of-Hormuz supply premium. Energy stays the recurring, macro-insulated leader (XLE +44.6% YTD, #1 S&P sector).
+- **Rotation = Energy + Healthcare in, Tech/Comm-Svcs out.** Healthcare rotating toward leadership (XLV), Communication Services + Utilities lagging.
+- Movers tape = 40th straight session of thin micro-pumps (WETO/ARBB/PCLA/MHX/MRAL, 100–600 sh/day) + MRNA-binary leveraged unwind (MRNX −47.5%) — nothing chaseable.
+
+### Candidates (catalyst + quant confirmed)
+- **XLE** (ETF, Energy) — catalyst: energy leadership + firm oil (Hormuz premium, Brent ~$93) — quant **3/5** (trend/momentum/rel-strength true; not_extended false + volume 0.93× false — last $63.76, sma20 $60.08 rising, ret_10d +9.58%, hi_20d $64.70, ATR $1.26, risk/sh $2.52, rs +10.4%) — **HOLD the resting breakout-retest order.** Buy-limit GTC 4sh @ $62.15 (order 58a22af7) stays resting: entry is the *lower* retest of the $62.105 breakout level, stop entry−2×ATR (~$59.64 on fill), risk/sh ~$2.52, risk ~$10.06 (0.94% eq), target ~$67.18, R:R 2:1. Fills only on a pullback to $62.15 — XLE now $63.76 (+2.6% above), extended; we do NOT chase.
+
+### Rejected
+- XLE as a *plain* entry at $63.76 — extended (not_extended false), $0.94 (0.37R) under its $64.70 20d high → 2R target ~$68.8 in blue-sky air, fails 2:1. Only actionable via the lower resting retest (above).
+- **XLV** (4/5, Healthcare, not_extended TRUE) — best-positioned of the group, last $172.42 vs 20d high $176.58 (0.70R of room), sma20 $166.48 rising, rs +5.7% — but 2R target (~$184.4, risk/sh $5.98) sits well above the $176.58 20d-high resistance → fails 2:1. Watch: a close above $176.58 on volume arms a breakout-retest — first HC name to track.
+- **XOM** (3/5) — energy, confirmed but pinned $166.24 vs 20d high $168.64 (0.33R), extended → 2R blue-sky, fails 2:1. Watch: close above $168.64 on volume.
+- **XOP** (4/5) — energy, confirmed (volume 1.25× true) but pinned $187.45 vs high $191.20 (0.42R), extended → 2R blue-sky, fails 2:1. Watch: close above $191.20.
+- **TAK** (3/5) — real catalyst ($5.6B VA contract + FDA narcolepsy approval) but pinned $18.12 vs high $18.475 (0.53R) → 2R blue-sky, fails 2:1. Watch: close above $18.475 on volume.
+- Movers (WETO/ARBB/PCLA/MHX/MRAL micro-pumps; MRNX −47.5% binary unwind; UXRP/XRPT/XXRP crypto ETFs) — un-chaseable / off-mandate.
+- Inverse sleeve (SQQQ/SH/SPXU) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades (40th no-fill session).** Regime risk_on but every confirmed leader (XLE, XOM, XOP, XLV, TAK) is pinned at/under its 20d high with 2R in blue-sky air → fails 2:1; and today's Powell/Jackson Hole binary is a reason to stand aside on new index-beta risk regardless. The only actionable setup remains the **XLE breakout-retest** — its buy-limit GTC @ $62.15 stays resting; fills only on a disciplined pullback to the breakout level (XLE now +2.6% above — no chase). Watches: **XLV** (Healthcare, closest to a clean setup) above $176.58, XOM above $168.64, XOP above $191.20, TAK above $18.475 — a close above on volume arms the same breakout-retest. 100% cash, heat 0%, DD −1.90%. Energy's oil catalyst is insulated from the Powell binary.
