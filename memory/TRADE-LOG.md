@@ -712,3 +712,12 @@ drawdown are measured from here.
 **Notes:** 41st straight no-fill session, flat close to Jackson Hole week. Account unchanged at $1,068.31, zero positions, confirmed via account/positions/orders pull — buying power $819.70. The XLE buy-limit GTC (4sh @ $62.15, order 58a22af7, breakout-retest mechanism) still rests unfilled since Aug 18; XLE has stayed pinned above the retest level all week and never pulled back. Day P&L flat at $0.00 (0.00%) — no positions to move it. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive, nowhere close. Trades today: 0. Weekly trades: 0/3 filled (week of Aug 17: one resting order placed Monday, zero fills through Friday). Capital remains fully idle, disciplined patience over a 41-session no-trade streak — no setup has cleared both quant confirmation and the 2:1 R:R filter without chasing extension. Weekly review due this afternoon. Tomorrow: fresh pre-market regime/catalyst/quant scan; Powell's Jackson Hole remarks are now digested — watch for any regime shift into next week.
 
 ---
+
+### Aug 31 — Midday Scan (XLE stop tightened)
+**Positions:** XLE 4 sh @ $62.15, now $63.345 (+1.92% / +$4.78 unrealized). 1 order live — GTC stop.
+**Equity:** $1,073.26 | **Cash:** $819.70 | **Peak:** $1,089.01 | **DD:** −1.45% | Breaker: inactive
+**Action:** Tightened XLE stop. Position up +1.16×ATR from entry (ATR₁₄ $1.0836) — past the +1×ATR breakeven trigger, but literal breakeven ($62.15) sits only 1.89% below the $63.345 price, inside the hard 3%-of-price floor, so breakeven itself is not usable this run. Applied the trail formula instead: new stop = max(current $60.60, last−2×ATR $61.18, 10-day low $61.32) = **$61.32** — tighter than the prior $60.60, never moved down, and clears the 3% floor (2.03 away = 3.20%). Canceled stop f843bfae ($60.60) and armed new GTC stop **98ead3d9 @ $61.32** (4 sh).
+**Thesis check:** XLE still confirmed 4/5 (trend/momentum/rel-strength/not_extended true, volume 0.51× false), sma20 $61.48 rising, energy sector leadership intact. No thesis break, not at −7%, no time-stop (held since Aug-21 fill). No cut.
+**Notified ClickUp** (stop tightened).
+
+---
