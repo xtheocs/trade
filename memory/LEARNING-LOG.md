@@ -13,6 +13,28 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-08-31 — Scorecard (prior session 2026-08-21)
+
+**Our picks (period since last logged session; last bars Aug-28):**
+- XLE (ETF, Energy) — decision **HOLD resting buy-limit @ $62.15** (breakout-retest) — **FILLED** during the gap; now hold 4 sh, current ~$62.66, position +$5.88 (+2.4%) — verdict **worked** — the retest mechanism did its job: XLE pulled back to $62.15 (from the $63.76 Aug-21 read), our lower entry filled, and it recovered. Discipline (no chase) converted to a green fill. Note: position sat **naked (no stop)** through the gap — this run armed a GTC stop @ $60.60 (hard-rule fix).
+
+**Day's top tradeable gainers (Aug-28 movers, ≥$5, no warrants/units/rights):**
+- AXTQ +25.7% ($57.5) — thin spike, no identifiable liquid catalyst — skip
+- IREZ +24.7% ($14.5) — spike, thin — skip
+- TJGC +24.7% ($9.9) — spike, thin — skip
+- (Balance of the tape = warrants MIACW/GFAIW/SAIHW + sub-$5 micro-pumps FNGR/QNRX/AEMD — off-universe)
+
+**Best realistic miss:** **GAP** — Q2 EPS beat ($0.52 vs $0.49) + raised FY EPS guidance ($2.35–2.45), premkt +19% ($24.73), liquid (1.4M premkt). Real large-cap catalyst — BUT fails not_extended (a +19% earnings blow-off gap) and its 2R target lands above the $25.775 20d high (blue-sky) → fails 2:1. Correctly a no-chase, not a surfacing failure. Watch: a close above $25.775 on volume arms a breakout-retest.
+
+**Lessons:**
+- **The resting breakout-retest mechanism paid off** — XLE's lower-entry order filled on a genuine pullback and is green. Validates the standing-order tool: patience + a pre-set lower entry beats chasing extension.
+- **Never leave a whole-share fill naked** — the XLE order filled during the multi-session gap with no protective stop armed. Fixed this run (GTC @ $60.60). Management routines must arm the stop the same session a resting order fills.
+- **GAP = textbook don't-chase** — best catalyst on the tape, but a +19% earnings gap fails not_extended + 2:1. The edge is the retest above $25.775, not the gap.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE, #1 S&P YTD ~+41.5%, macro-insulated) with **Comm Services / Consumer Disc** rotating to the front of the weekly tape (XLC/XLY); **Healthcare faded** (XLV −0.25%, 7th YTD). Recurring miss pattern = confirmed leaders **pinned at/under 20d highs with 2R in blue-sky air** + **liquid earnings gaps (GAP) too extended to chase** — both only convertible via the resting breakout-retest. Hard rules unchanged.
+
+---
+
 ## 2026-08-21 — Scorecard (prior session 2026-08-20)
 
 **Our picks (1d = Aug-20 close vs Aug-19 close, the move since that read):**

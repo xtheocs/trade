@@ -1,10 +1,11 @@
-# Pending Trades — 2026-08-21
+# Pending Trades — 2026-08-31
 
-**No NEW trades today.** Reason: every confirmed leader (XLE, XOM, XOP, XLV, TAK) is pinned at/under its 20d high → 2R in blue-sky air, fails the 2:1 filter; and Powell/Jackson Hole today = binary — no new index-beta risk into it.
+**No NEW trades today.** Reason: regime risk_on and we already hold XLE (green), but no fresh name cleared catalyst + quant + 2:1. GAP is the only real catalyst (Q2 beat + raised guide) but a +19% earnings gap → fails not_extended and 2:1; watch for a close above $25.775 to arm a breakout-retest. August NFP Friday = binary; no new index-beta risk needed.
 
-## Carry-over (already resting — DO NOT re-place)
-- **XLE — buy-limit GTC 4 sh @ $62.15** (order 58a22af7), placed 2026-08-18, still resting/unfilled. Breakout-retest execution mechanism. Fills only on a pullback to the $62.105 breakout level; XLE now $63.76 (+2.6% above), extended — we do not chase.
-- **On fill:** place a real GTC stop at entry−2×ATR (≈ $59.64, ATR ~$1.26). Risk/sh ~$2.52, risk ~$10.06 (0.94% eq), target ~$67.18, R:R 2:1.
-- Market-open: **do not duplicate** this order — it is already live GTC. Monitor for fill and arm the stop immediately on fill.
+## Open position — managed (NOT a pending trade)
+- **XLE — 4 sh @ $62.15**, now ~$63.62 (+$5.88 / +2.4%). Protective **GTC stop @ $60.60** armed (order f843bfae). Energy thesis intact. Management routines: trail toward breakeven with live intraday prices as the 3%-of-price rule allows.
+
+## Watches (arm a breakout-retest on a close above, on volume)
+- **GAP** > $25.775 (20d high) — earnings-gap leader, only actionable via a retest, never the gap.
 
 Veto: n/a (no new trade blocks to veto).

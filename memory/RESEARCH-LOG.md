@@ -1510,3 +1510,30 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades (40th no-fill session).** Regime risk_on but every confirmed leader (XLE, XOM, XOP, XLV, TAK) is pinned at/under its 20d high with 2R in blue-sky air → fails 2:1; and today's Powell/Jackson Hole binary is a reason to stand aside on new index-beta risk regardless. The only actionable setup remains the **XLE breakout-retest** — its buy-limit GTC @ $62.15 stays resting; fills only on a disciplined pullback to the breakout level (XLE now +2.6% above — no chase). Watches: **XLV** (Healthcare, closest to a clean setup) above $176.58, XOM above $168.64, XOP above $191.20, TAK above $18.475 — a close above on volume arms the same breakout-retest. 100% cash, heat 0%, DD −1.90%. Energy's oil catalyst is insulated from the Powell binary.
+
+## 2026-08-31 — Pre-market
+
+### Account
+- Equity: **$1,074.18** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15 (now ~$63.62, +$5.88 / +2.4%)
+- Drawdown from peak: **−1.36%** (peak $1,089.01) — 20% breaker inactive
+- Week trades: 0 new / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $769.28 > 50-day SMA $753.90, rising). New long equity allowed full size; inverse sleeve not sanctioned.
+
+### Position management (action taken)
+- **XLE resting buy-limit FILLED** during the Aug-21→Aug-31 gap (4 sh @ $62.15). Position was **naked — no protective stop live** (hard-rule breach from the gap). **Armed a GTC protective stop @ $60.60** (4 sh, order f843bfae) this run. XLE quant intact: 4/5 confirmed (trend/momentum/rel-strength/not_extended true; volume 0.84× false), sma20 $61.256 rising, ATR $1.03. Up +1.4×ATR — stop floored by the 3%-of-price rule; management routines to trail toward breakeven with live intraday prices. Energy thesis intact (#1 S&P YTD ~+41.5%, macro-insulated).
+
+### Candidates (catalyst + quant)
+- **None cleared both gates for a NEW entry.**
+
+### Rejected
+- **GAP** (stock, Cons Disc) — strong catalyst (Q2 EPS $0.52 vs $0.49 beat + raised FY EPS guide $2.35–2.45, premkt +19% $24.73) — quant 3/5 confirmed (trend/rel-strength/volume 2.08× true; **not_extended false, momentum false**). Reject: a +19% earnings blow-off gap = chase; 2R target (~$28.5) sits above the $25.775 20d high → fails 2:1. Watch: close above $25.775 on volume arms a breakout-retest.
+- **SAIA** (stock) — analyst catalyst (Deutsche Bank call-buy) but quant **2/5, not confirmed** (trend/momentum/rel-strength all false; ret_10d −8.3%, below sma20). Reject.
+- **AFRM** (stock) — premkt +11% but **no identifiable catalyst** in research. Reject (no catalyst → no trade).
+- Movers tape (AXTQ/IREZ/TJGC +25% thin spikes; FNGR/QNRX/AEMD sub-$5 pumps; MIACW/GFAIW warrants) — un-chaseable / off-universe.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on. We now hold XLE (4 sh, green, protective GTC stop @ $60.60 armed this run). No new name cleared both catalyst + quant + 2:1: GAP is the only real catalyst but a +19% earnings gap that fails not_extended and 2:1 (watch >$25.775). Macro: ISM Manufacturing + Fed Barr today; **August NFP Friday** = week's binary — no new index-beta risk needed. Heat = XLE position risk only; DD −1.36%.
