@@ -728,3 +728,14 @@ drawdown are measured from here.
 **Positions:** 1/4 (XLE) · Heat now locked-in gain, not risk (stop above entry). Weekly trades: 0/3.
 
 ---
+
+### Sep 1 — EOD Snapshot (Day 57, Tuesday)
+**Portfolio:** $1,078.78 | **Cash:** $819.70 (76.0%) | **Day P&L:** +$3.24 (+0.30%) | **Phase P&L:** −$1.22 (−0.11%) | **Peak:** $1,089.01 | **DD:** −0.94%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 4 | $62.15 | $64.77 | +1.27% | +$10.48 (+4.22%) | $62.33 |
+
+**Notes:** Sole position XLE (4 sh @ $62.15) closed $64.77, +4.22% unrealized ($10.48) — confirmed via account/positions/orders pull. Stop was trailed twice today per the +ATR lock-gains rule: market-open moved it to breakeven $62.15 (XLE +2.3×ATR), then midday trailed it further to $62.33 (XLE +2.2×ATR, = last−2×ATR), order 5ee71906 live GTC, 3.4% below price — never moved down, outside the 3%-no-touch band. No new trades today; weekly trades 0/3. Regime risk_on (SPY over rising 50d). Day P&L +$3.24 (+0.30%) vs Alpaca's own last_equity $1,075.54 (Aug 31 close). Phase P&L −$1.22 (−0.11%) vs $1,080.00 starting equity. Drawdown −0.94% from the $1,089.01 peak — 20% breaker inactive, nowhere close. Continuity note: no EOD/midday snapshots were logged for Aug 24–28 or Aug 31 (last prior entry was the Aug 21 weekly review; routines resumed with Aug 31 pre-market research) — equity path over that gap is not reconstructable from this log, but Alpaca's last_equity confirms no discontinuity into today. Tomorrow: pre-market rescans regime/catalyst/quant; XLE thesis stays intact (3/5, still extended) with gains now locked above breakeven.
+
+---
