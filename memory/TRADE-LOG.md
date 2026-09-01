@@ -720,3 +720,11 @@ drawdown are measured from here.
 **Positions:** 1/4 (XLE) · Heat ~1% (stop now at breakeven — effectively 0 realized risk). Weekly trades: 0/3.
 
 ---
+
+### Sep 1 — Midday Scan: Stop Trailed
+**Positions:** 1 — XLE 4 sh @ $62.15, now $64.52 (+3.8%). 1 order live.
+**Action:** XLE up +2.2×ATR (entry $62.15, last $64.52, ATR14 $1.09). Trailing rule: new stop = max(current $62.15, last−2×ATR $62.33, 10d-low $61.32) = **$62.33**. Cancelled breakeven stop (42798914), placed new GTC stop @ $62.33 (order 5ee71906). New stop is 3.4% below live price — outside the 3%-no-touch band; never moved down. Quant still 3/5 confirmed (trend/momentum/rel-strength true; volume 0.79× + not_extended false — still extended, no fresh add). Thesis intact (energy sector leadership, oil firm); regime risk_on (SPY $766.87 > rising 50d $754.31). No time-stop concern (position ~2 weeks old, trending in favor).
+**Account:** Equity ~$1,078 | Cash $819.70 | Peak $1,089.01 | DD ~−0.9% | Breaker inactive.
+**Positions:** 1/4 (XLE) · Heat now locked-in gain, not risk (stop above entry). Weekly trades: 0/3.
+
+---
