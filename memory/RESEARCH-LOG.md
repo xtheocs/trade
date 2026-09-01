@@ -1537,3 +1537,29 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on. We now hold XLE (4 sh, green, protective GTC stop @ $60.60 armed this run). No new name cleared both catalyst + quant + 2:1: GAP is the only real catalyst but a +19% earnings gap that fails not_extended and 2:1 (watch >$25.775). Macro: ISM Manufacturing + Fed Barr today; **August NFP Friday** = week's binary — no new index-beta risk needed. Heat = XLE position risk only; DD −1.36%.
+
+## 2026-09-01 — Pre-market
+
+### Account
+- Equity: **$1,078.30** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $64.65 (+$10.00 / +4.0%)
+- Drawdown from peak: **−0.98%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4sh @ $61.32, order 98ead3d9) / Week trades: 0 new / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $766.87 > 50-day SMA $754.31, rising). New long equity allowed full size; inverse sleeve not sanctioned.
+
+### Position management (XLE)
+- XLE up **+2.3×ATR** (entry $62.15 → $64.65; ATR $1.08). Quant intact: 3/5 confirmed (trend/momentum/rel-strength true; volume 0.83× + not_extended false), sma20 $61.51 rising, last near 20d high $64.70. Protective GTC stop @ $61.32 live (= 10d-low trail, order 98ead3d9). Well past +1×ATR → **market-open should raise stop to breakeven $62.15** (3.9% below price, outside the 3% no-touch band). Energy thesis intact (#1 S&P sector, +42.3% YTD, oil/Middle-East insulated from Friday NFP).
+
+### Candidates (catalyst + quant)
+- **None cleared both gates for a NEW entry.**
+
+### Rejected
+- **ESTC** (stock, Software) — strong catalyst (Q1 FY27 beat: EPS $0.70 vs $0.58 +20.7%, rev $478.1M +15.1% YoY, raised guide, AI-product strength; +21% gap Aug-28) — quant **3/5 confirmed** (trend/rel-strength/volume 1.24× true; **momentum false, not_extended false**). Reject: last $97.52 vs sma20 $82.02 (>2 ATR extended), risk/sh $10.93; 2R target ~$119.4 sits well above the $107.90 20d high → blue-sky, fails 2:1. Also position value at full size ~27% > 25% cap. **Watch: close above $107.90 on volume arms a breakout-retest.**
+- **GAP** — prior watch (>$25.775); faded −4.9% to $22.325, never held the breakout. Off the watch list unless it re-reclaims $25.775.
+- Movers tape (AEHL +83% micro-cap spike; TP/USDE thin/crypto; warrants BRLSW/ILLRW + sub-$5 GPRO/NCRA/RDHL) — un-chaseable / off-universe.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on; we hold XLE (green, +4%, protective GTC stop @ $61.32). No fresh name cleared catalyst + quant + 2:1: ESTC is the only real large-cap catalyst but a +21% earnings gap fails not_extended and 2:1 (watch >$107.90). Energy remains #1 sector leadership. Macro: **August NFP Friday = week's binary** — no new index-beta risk needed. Heat = XLE position only; DD −0.98%.

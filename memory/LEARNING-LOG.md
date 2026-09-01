@@ -13,6 +13,29 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-01 — Scorecard (prior session 2026-08-31)
+
+**Our picks (1d = Aug-31 close vs Aug-28 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **+2.03%** ($63.93 vs $62.66) — verdict **worked** — position green (+$10, +4%), quant intact 3/5 (trend/momentum/rel-strength true; volume 0.83× + not_extended false), GTC stop live @ $61.32 (10d-low trail). Energy leadership persists (#1 S&P YTD +42.3%).
+- GAP (watch, not a position) — was watch >$25.775 — **faded −4.9%** ($22.325 vs $23.48), never held the breakout — verdict **correctly not chased**.
+
+**Day's top tradeable gainers (Aug-31 movers, ≥$5, no warrants/units/rights):**
+- AEHL +83.3% ($6.49) — micro-cap (China e-commerce) spike, thin — skip
+- USDE +31.2% ($8.87) — leveraged crypto ETN, off-mandate — skip
+- TP +30.9% ($10.25) — thin spike, no identifiable liquid catalyst — skip
+- (Balance = warrants BRLSW/ILLRW/LCFYW + sub-$5 micro-pumps GPRO/NCRA/RDHL — off-universe)
+
+**Best realistic miss:** **None** — no liquid large-cap with a real catalyst on Aug-31's tape (AEHL/TP thin spikes, USDE crypto). The week's best catalyst name is **ESTC** (Elastic, clean Q1 FY27 beat EPS $0.70 vs $0.58, rev $478M +15%, raised guide) but its +21% earnings pop was Aug-28 and it faded −2.4% Aug-31 — a chase, not a miss. 2R target (~$119) sits well above the $107.90 20d high → fails 2:1. Watch >$107.90 for a breakout-retest.
+
+**Lessons:**
+- **Energy leadership is durable** — XLE hold green and #1 sector again; the patient retest entry keeps paying.
+- **ESTC = the new GAP** — best liquid catalyst on the tape, but a +21% earnings gap fails not_extended + 2:1. The edge is a retest above $107.90, never the gap.
+- **Thin-pump tape persists** — another session of warrants + sub-$5 micro-caps; nothing chaseable, discipline correct.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE +42.3% YTD, #1, macro-insulated on oil/Middle-East), with **Materials / Consumer Staples / Industrials** also in the leading quadrant; **Tech mixed/lagging, Healthcare weakening**. Recurring miss pattern = **liquid earnings gaps (GAP, ESTC) too extended to chase** + **confirmed leaders pinned at/under 20d highs with 2R in blue-sky air** — both only convertible via the resting breakout-retest. Hard rules unchanged.
+
+---
+
 ## 2026-08-31 — Scorecard (prior session 2026-08-21)
 
 **Our picks (period since last logged session; last bars Aug-28):**
