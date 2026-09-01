@@ -712,3 +712,11 @@ drawdown are measured from here.
 **Notes:** 41st straight no-fill session, flat close to Jackson Hole week. Account unchanged at $1,068.31, zero positions, confirmed via account/positions/orders pull — buying power $819.70. The XLE buy-limit GTC (4sh @ $62.15, order 58a22af7, breakout-retest mechanism) still rests unfilled since Aug 18; XLE has stayed pinned above the retest level all week and never pulled back. Day P&L flat at $0.00 (0.00%) — no positions to move it. Phase P&L holds at −$11.69 (−1.08%) vs $1,080.00 starting equity; drawdown from the $1,089.01 peak steady at −1.90% — 20% breaker inactive, nowhere close. Trades today: 0. Weekly trades: 0/3 filled (week of Aug 17: one resting order placed Monday, zero fills through Friday). Capital remains fully idle, disciplined patience over a 41-session no-trade streak — no setup has cleared both quant confirmation and the 2:1 R:R filter without chasing extension. Weekly review due this afternoon. Tomorrow: fresh pre-market regime/catalyst/quant scan; Powell's Jackson Hole remarks are now digested — watch for any regime shift into next week.
 
 ---
+
+### Sep 1 — Market-Open: Stop Tightened (No new trades)
+**PENDING-TRADES:** No new trades today (no fresh name cleared catalyst + quant + 2:1; regime risk_on).
+**Action:** XLE up +2.3×ATR (entry $62.15, price $64.625, ATR14 $1.09) → moved protective stop to **breakeven $62.15** GTC (cancelled old stop 98ead3d9 @ $61.32, new order 42798914), per §7 lock-gains rule. New stop is 3.8% below live price — outside the 3%-no-touch band. Quant still 3/5 confirmed (trend/momentum/rel-strength true; volume/not_extended false — extended, no fresh add). Regime risk_on (SPY $761.80 > rising 50d $754.66).
+**Account:** Equity $1,078.18 | Cash $819.70 | Peak $1,089.01 | DD −0.99% | Breaker inactive.
+**Positions:** 1/4 (XLE) · Heat ~1% (stop now at breakeven — effectively 0 realized risk). Weekly trades: 0/3.
+
+---
