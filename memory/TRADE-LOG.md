@@ -739,3 +739,11 @@ drawdown are measured from here.
 **Notes:** Sole position XLE (4 sh @ $62.15) closed $64.77, +4.22% unrealized ($10.48) — confirmed via account/positions/orders pull. Stop was trailed twice today per the +ATR lock-gains rule: market-open moved it to breakeven $62.15 (XLE +2.3×ATR), then midday trailed it further to $62.33 (XLE +2.2×ATR, = last−2×ATR), order 5ee71906 live GTC, 3.4% below price — never moved down, outside the 3%-no-touch band. No new trades today; weekly trades 0/3. Regime risk_on (SPY over rising 50d). Day P&L +$3.24 (+0.30%) vs Alpaca's own last_equity $1,075.54 (Aug 31 close). Phase P&L −$1.22 (−0.11%) vs $1,080.00 starting equity. Drawdown −0.94% from the $1,089.01 peak — 20% breaker inactive, nowhere close. Continuity note: no EOD/midday snapshots were logged for Aug 24–28 or Aug 31 (last prior entry was the Aug 21 weekly review; routines resumed with Aug 31 pre-market research) — equity path over that gap is not reconstructable from this log, but Alpaca's last_equity confirms no discontinuity into today. Tomorrow: pre-market rescans regime/catalyst/quant; XLE thesis stays intact (3/5, still extended) with gains now locked above breakeven.
 
 ---
+
+### Sep 2 — Market-Open: Stop Trailed (No new trades)
+**PENDING-TRADES:** No new trades today (no fresh name cleared catalyst + quant + 2:1; regime risk_on; GTLB +21% gap and DELL 2/5 downtrend bounce both rejected).
+**Action:** XLE up +2.5×ATR (entry $62.15, last $64.86, ATR14 $1.0782). Trailing rule: new stop = max(current $62.33, last−2×ATR $62.70, 10d-low) = **$62.70**. Cancelled prior stop (5ee71906 @ $62.33), placed new GTC stop @ $62.70 (order c70acb13). New stop is 3.3% below live price — outside the 3%-no-touch band; never moved down. Quant still confirmed (trend/momentum/rel-strength true; volume/not_extended false — extended, no fresh add, passes 3/5). Thesis intact (energy sector leadership, oil firm); regime risk_on (SPY $761.63 > rising 50d $754.66). No time-stop concern (position trending in favor since Aug 18/31 fill).
+**Account:** Equity $1,079.20 | Cash $819.70 | Peak $1,089.01 | DD −0.90% | Breaker inactive.
+**Positions:** 1/4 (XLE) · Heat = locked-in gain, not risk (stop above entry). Weekly trades: 0/3.
+
+---
