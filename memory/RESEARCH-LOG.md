@@ -1563,3 +1563,30 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on; we hold XLE (green, +4%, protective GTC stop @ $61.32). No fresh name cleared catalyst + quant + 2:1: ESTC is the only real large-cap catalyst but a +21% earnings gap fails not_extended and 2:1 (watch >$107.90). Energy remains #1 sector leadership. Macro: **August NFP Friday = week's binary** — no new index-beta risk needed. Heat = XLE position only; DD −0.98%.
+
+## 2026-09-02 — Pre-market
+
+### Account
+- Equity: **$1,079.10** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $64.85 (+$10.80 / +4.34%)
+- Drawdown from peak: **−0.91%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4sh @ $62.33, order 5ee71906) / Week trades: 0 new / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $761.63 > 50-day SMA $754.66, rising). New long equity allowed full size; inverse sleeve not sanctioned.
+
+### Position management (XLE)
+- XLE up **+2.5×ATR** (entry $62.15 → $64.85; ATR $1.09). Quant intact/improved: **4/5 confirmed** (trend/momentum/rel-strength/volume 1.28× true; not_extended false — last near 20d high $64.91), sma20 $61.83 rising. Protective GTC stop @ $62.33 live (order 5ee71906). **Market-open should trail stop to $62.66** = max(current $62.33, last−2×ATR $62.66, 10d-low $61.32); $62.66 is 3.4% below price, outside the 3% no-touch band. Energy thesis intact (#1 S&P sector +42.3% YTD, now paired with Tech leadership; oil-insulated).
+
+### Candidates (catalyst + quant)
+- **None cleared both gates for a NEW entry.**
+
+### Rejected
+- **GTLB** (stock, Software) — strong catalyst (Q2 FY27 beat+raise: EPS $0.24 vs $0.18, rev $286.3M +21.3% YoY, FY guide raised, net ARR +42%; +21% AH gap) — quant **5/5 confirmed on Sep-1 close** ($45.05) but the **actionable price today is the +21% gap ~$54.20**, which fails not_extended (~6.5 ATR above sma20 $41.76) and 2:1 (2R target ~$61.8 sits well above the $46.64 20d high → blue-sky). Reject: textbook don't-chase earnings gap. **Watch: a pullback/retest toward $46.64 arms a breakout-retest.**
+- **DELL** (stock, Tech) — huge beat (Q2 FY27 EPS $7.04 vs $4.91, rev $46.97B, FY guide up to $25.50 EPS / $192B, AI-server rev to triple to $74B; +9% premkt) — quant **2/5, not confirmed** (trend/momentum/rel-strength all false; last $424.65 < sma20 $457 falling, ret_10d −9.38%, far below $513.35 20d high). Reject: a beaten-down downtrend name bouncing on earnings — no trend confirmation. Not a chase, a broken chart.
+- **FRVO** (stock) — real catalyst (Google 396MW geothermal PPA) but a +28% small-cap spike, thin, extended → chase. Off-mandate size/liquidity.
+- Movers tape (ISRL illiquid; BIAF/RDAC micro-cap spikes; warrants GFAIW/BIAFW; sub-$5 GPRO/LIDR/SSM) — un-chaseable / off-universe.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on; we hold XLE (green +4.3%, protective GTC stop @ $62.33, market-open to trail to $62.66). No fresh name cleared catalyst + quant + 2:1: GTLB is a clean beat+raise but a +21% gap fails not_extended and 2:1 (watch a retest toward $46.64); DELL beat huge but is a 2/5 downtrend bounce. Energy + Tech lead. Macro: ES futures ~−0.6%, VIX ~17 (calm); **August NFP Friday = week's binary** — no new index-beta risk needed. Heat = XLE position only; DD −0.91%.

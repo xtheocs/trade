@@ -13,6 +13,30 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-02 — Scorecard (prior session 2026-09-01)
+
+**Our picks (1d = Sep-1 close vs Aug-31 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **+1.33%** ($64.78 vs $63.93) — verdict **worked** — position green (+$10.80, +4.34%), quant now 4/5 confirmed (trend/momentum/rel-strength/volume 1.28× true; not_extended false), GTC stop live @ $62.33 (trailed). Energy #1 sector persists (+42.3% YTD).
+- ESTC (watch, not a position) — was watch >$107.90 breakout-retest — never reclaimed; not chased — verdict **correctly stood aside**.
+
+**Day's top tradeable gainers (Sep-1 movers, ≥$5, no warrants/units/rights):**
+- ISRL +98.95% ($24.67) — thin/illiquid (bars flat $12.34, 0 vol) — skip
+- BIAF +44.52% ($6.59) — micro-cap biotech spike, thin — skip
+- RDAC +41.45% ($6.45) — micro-cap spike, thin — skip
+- FRVO +28.41% ($19.75) — geothermal, real catalyst (Google 396MW PPA) but a +28% small-cap spike — skip (chase)
+- (Balance = warrants GFAIW/BIAFW/RVSNW + sub-$5 pumps GPRO/LIDR/SSM — off-universe)
+
+**Best realistic miss:** **None clean — FRVO closest.** Fervo Energy (FRVO) surged +28% on a genuine **396-megawatt geothermal power-purchase agreement with Google** (Cape Station, Utah) — a real contract catalyst in a leading theme (energy/clean power). BUT a +28% one-day spike fails not_extended, is a small/thin newer name, and its 2R target sits in blue-sky air → correctly a no-chase, not a surfacing failure. All other tradeable gainers were thin micro-cap pumps (ISRL illiquid, BIAF/RDAC spikes).
+
+**Lessons:**
+- **Energy leadership durable** — XLE hold green, #1 sector, now paired with **Technology** leading the weekly tape (XLK, software beats GTLB/ESTC). The patient retest entry keeps paying.
+- **GTLB = new GAP/ESTC** — clean Q2 beat+raise (EPS $0.24 vs $0.18, rev $286M +21% YoY, guide up, net ARR +42%), 5/5 confirmed on Sep-1 close — but a **+21% earnings gap to ~$54** fails not_extended and 2:1 (2R in blue-sky above the $46.64 20d high). The edge is a retest, never the gap.
+- **Real catalyst ≠ tradeable** — FRVO's Google PPA is legit, but a +28% thin small-cap spike is still a chase. Discipline over FOMO.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE +42.3% YTD, #1, macro-insulated on oil) **+ Technology** (XLK/software — GTLB, ESTC beats); **Materials / Industrials / Healthcare** mid-pack; **Comm Services / Financials / Consumer Disc lagging**. Recurring miss pattern = **liquid earnings gaps (GAP → ESTC → GTLB) too extended to chase** + **confirmed leaders pinned at/above 20d highs with 2R in blue-sky air** — both only convertible via the resting breakout-retest. Hard rules unchanged.
+
+---
+
 ## 2026-09-01 — Scorecard (prior session 2026-08-31)
 
 **Our picks (1d = Aug-31 close vs Aug-28 close):**
