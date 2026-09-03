@@ -1590,3 +1590,34 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on; we hold XLE (green +4.3%, protective GTC stop @ $62.33, market-open to trail to $62.66). No fresh name cleared catalyst + quant + 2:1: GTLB is a clean beat+raise but a +21% gap fails not_extended and 2:1 (watch a retest toward $46.64); DELL beat huge but is a 2/5 downtrend bounce. Energy + Tech lead. Macro: ES futures ~−0.6%, VIX ~17 (calm); **August NFP Friday = week's binary** — no new index-beta risk needed. Heat = XLE position only; DD −0.91%.
+
+## 2026-09-03 — Pre-market
+
+### Account
+- Equity: **$1,081.46** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $65.44 (+$13.16 / +5.29%)
+- Drawdown from peak: **−0.69%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4sh @ $62.76, order a1285598) / Week trades: 0 new / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $765.13 > 50-day SMA $755.29, rising). New long equity allowed full size; inverse sleeve not sanctioned.
+- Macro: ES futures ~flat (roughly muted/slightly up), VIX ~15.4 (calm). Jobs week — ADP today-ish + Friday August payrolls the binary; no CPI/PPI/FOMC today. This week's sector tape rotated: Materials / Comm Services / Financials led, Tech underperformed, Real Estate lagged (Energy only modestly higher this week, still #1 YTD).
+
+### Position management (XLE)
+- XLE up **+2.98×ATR** (entry $62.15 → $65.44; ATR $1.105). Quant 3/5 confirmed (trend/momentum/rel-strength true; volume 0.98× + not_extended false — last $65.08 near 20d high $65.345), sma20 $62.22 rising. Protective GTC stop @ $62.76 live (order a1285598). **Market-open should trail stop to $62.87** = max(current $62.76, last−2×ATR $62.87, 10d-low ~$61.32); $62.87 is 3.9% below live price, outside the 3% no-touch band; never moved down. Still extended → no fresh add. Energy leadership intact (XLE near 52-wk high, holding firm) though weekly tape rotated toward Materials/Comm Svcs/Financials.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **SNOW** (stock, Software) — strong catalyst (Q2 beat+raise: product rev $1.09B +32% YoY, EPS $0.35 beat, FY product guide raised to $4.395B, op-margin guide to 9%, AI-coding adoption; +23% gap) — quant **2/5, NOT confirmed** (trend/momentum/rel-strength all false; sma20 $326 falling, ret_10d −5.5%, last $306.86 well below 20d high $341.66). Reject: a downtrending name gapping +23% on earnings — no trend confirmation, textbook DELL-pattern chase on a broken chart.
+- **FIVE** (stock, Consumer Disc) — catalyst (lifted full-year outlook) — quant **3/5 confirmed** (rel-strength/volume/not_extended true; trend/momentum false — last $242.72 below sma20 $243.94). Reject: fails 2:1 — risk/sh $15.97, sensible objective = 20d high $263.88 → only ~1.3R of room (2R $274.66 = blue-sky). Also full-size value >25% cap.
+- **OLLI** (stock, Retail) — catalyst (EPS beat + raised guide) — quant **2/5, NOT confirmed** (trend/momentum/rel-strength false; sma20 $76.12 falling, ret_10d −6.9%, below 20d high $81.67). Reject: bounce in a downtrend.
+- **AFRM** (stock, Fintech) — earnings pop (+13% premkt) — quant **2/5, NOT confirmed** (trend/momentum/rel-strength false; sma20 $75.82 falling, ret_10d −4.3%, far below 20d high $90.36). Reject: broken-chart bounce.
+- **ESTC** (stock, Software) — Aug-28 beat rebounding +17.9% today — quant **3/5 confirmed** (trend/rel-strength/not_extended true; momentum/volume false). Reject: today's gap (~$105.6) is a +18% intraday chase, still **below** the $107.90 20d-high watch trigger; 2R target blue-sky above $107.90. **Watch remains: close >$107.90 on volume arms the breakout-retest.**
+- **GAP** (stock, Retail) — +16.78% premkt but **no identified catalyst** in the tape (unexplained squeeze) — quant 3/5 (trend/rel-strength/not_extended true; momentum/volume false). Reject: fails the catalyst gate (no news); watch reclaim/hold >$25.775 only with a real catalyst.
+- **AVGO** — beat but stock traded LOWER on near-term outlook → not a long. **HPE/PANW/GIII** — beats sold off / mixed → no. Movers tape (GIPR/BTAI/MIMI micro-caps; BIAF thin) — un-chaseable/off-universe.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on; we hold XLE (green +5.3%, protective GTC stop @ $62.76, market-open to trail to $62.87). Big liquid catalysts today (SNOW beat+raise, FIVE/OLLI raised guides, AFRM) all fail the gates — SNOW/OLLI/AFRM are downtrend bounces (2/5, no trend confirm), FIVE's 2R is blue-sky (~1.3R to resistance). ESTC/GAP watches stay below their triggers. Textbook recurring miss pattern = extended earnings gaps we correctly don't chase. Heat = XLE only (stop above entry); DD −0.69%.

@@ -13,6 +13,32 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-03 — Scorecard (prior session 2026-09-02)
+
+**Our picks (1d = Sep-2 close vs Sep-1 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **+0.46%** ($65.08 vs $64.78) — verdict **worked** — position green (+$13.16, +5.29%), quant 3/5 confirmed (trend/momentum/rel-strength true; volume 0.98× + not_extended false — near 20d high $65.345), GTC stop live @ $62.76 (above breakeven).
+- GTLB (watch, retest toward $46.64) — **gapped UP** to $55.38 open then faded to $49.56 (+10.0% on the day) — the retest never came; we correctly did **not** chase the +21% gap — verdict **correctly stood aside**.
+- ESTC (watch >$107.90) — $89.55, still faded below trigger — verdict **correctly stood aside**.
+
+**Day's top tradeable gainers (Sep-2 movers, ≥$5, no warrants/units/rights):**
+- BIAF +47.95% ($9.75) — micro-cap biotech spike, thin (0 vol Aug-31) — skip
+- SGLD +42.32% ($7.23) — thin leveraged/gold ETN, off-mandate — skip
+- EO +37.80% ($7.22) — micro-cap spike, thin — skip
+- FCUV +33.57% ($15.16) — micro-cap spike, thin — skip
+- DLLL +31.58% ($28.33) — micro-cap, erratic ($21.55→$28.28 intraday), illiquid — skip
+- (Balance = warrants RCKTW/KTTAW/GFAIW/BIAFW + sub-$5 pumps GPRO/VIOT/GELS — off-universe)
+
+**Best realistic miss:** **None clean.** The liquid catalyst name was **GTLB** (Q2 beat+raise), which gapped +10% but never retested $46.64 — we correctly declined the chase, and the extension only extended. All tradeable gainers were thin micro-cap pumps (BIAF/EO/FCUV/DLLL/SGLD) — un-chaseable, off-mandate liquidity. Not a surfacing failure.
+
+**Lessons:**
+- **Don't-chase confirmed again** — GTLB gapped further up (+10% day) rather than retesting; the extension we declined kept extending. Discipline correct; the edge is still a retest, never the gap.
+- **Micro-cap tape persists** — BIAF/EO/FCUV/DLLL all thin spikes, no liquid large-cap with a clean setup at a sensible price.
+- **XLE patience pays** — sole position +5.29% unrealized, stop trailed to $62.76 (above breakeven), heat = locked-in gain not risk.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE, #1 YTD +40–47%, macro-insulated on oil) **+ Technology** (software beats), BUT this week's SPY tape **rotated** — Materials / Comm Services / Financials led, Tech underperformed, Real Estate lagged (watch for rotation out of Energy/Tech leadership). Recurring miss pattern = **liquid earnings gaps too extended to chase** (GAP → ESTC → GTLB → now SNOW +23%) + **confirmed leaders pinned at/above 20d highs with 2R in blue-sky** — both only convertible via the resting breakout-retest. Hard rules unchanged.
+
+---
+
 ## 2026-09-02 — Scorecard (prior session 2026-09-01)
 
 **Our picks (1d = Sep-1 close vs Aug-31 close):**
