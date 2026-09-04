@@ -728,3 +728,70 @@ Template for each entry:
 
 ### Overall Grade: B−
 *(Process A for a tenth week — every risk rule respected, 100% cash *beat* a −1.9% Jackson Hole down tape by dodging the Wed–Thu selloff, no risk into the Powell binary, and the standing-order execution fix DEPLOYED for the first time and working exactly as designed: a valid, correctly-sized XLE breakout-retest order resting at the clean price, refusing to chase when XLE ran away. The multi-week geometry-review question — hanging over four reviews — was finally CLOSED on data, and the verdict *vindicated* the hard rules: the failing names fail on extension, not stop-width, so a tighter structural stop (wider than 2×ATR for extended names) or a 1.75:1 floor would have converted nothing. That is the review working, not deferring. Result still zero compounding — tenth flat week, no fill, 41 idle sessions — which caps the grade, but cash beating a down week plus a live-and-correct execution fix plus a data-closed rule review is a materially better week than a pure idle one, landing B−, in line with the Jul-17 "cash beat a down tape" precedent. Survival fully intact; the correctly-built execution fix now gets a real window to put the account to work.)*
+
+---
+
+## Week ending 2026-09-04
+
+*(No Aug-28 review — routines were down Aug 24–28; this section covers the Aug 31–Sep 4 trading week, the first full week the mechanism ran a live position.)*
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,075.54 (Mon Aug-31 close, Alpaca last_equity) |
+| Ending portfolio | $1,075.50 (Fri Sep-4) |
+| Week return | −$0.04 (−0.00%) Mon→Fri · ≈ +$5.15 (+0.48%) vs prior-Fri Aug-28 est. $1,070.35 (the XLE fill was carried in) |
+| Peak equity (week) | $1,081.46 (Sep-3 AM) / $1,080.10 (Sep-2 close) · max intra-week DD −0.55% (Sep-3 peak → Fri) · phase peak $1,089.01, phase DD −1.25% |
+| S&P 500 week | ≈ +0.5% (FRED weekly, week ending Sep-4; SPY on Alpaca $766.87 Aug-31 → $770.18 Sep-4 ≈ +0.43%) — **August NFP Friday trimmed the gain** (SPX −0.28% Sep-4) — FYI only |
+| Bot vs S&P | ≈ −0.5% (flat vs a +0.5% up tape — FYI context, NOT the goal) |
+| Trades | 0 new opened this week · **1 open (XLE, filled ~Aug-27 from the Aug-18 resting order)** · 0 closed |
+| Win rate | N/A (no closed trades) |
+| Best trade | XLE (open) +3.1% (+$7.68 at Sep-4 close $64.07) |
+| Worst trade | N/A (sole position green) |
+| Profit factor | N/A (no closed trades) |
+| Avg R multiple | N/A (no closed trades) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| XLE | $62.15 (4 sh, filled ~Aug-27 via the Aug-18 breakout-retest buy-limit) | $64.07 | +$7.68 (+3.1%) | $62.99 GTC (order dcfd369d) — **above entry, +$0.84/sh locked (~+$3.36), zero residual risk** |
+
+### What Worked
+- **THE MECHANISM CONVERTED — first fill of the phase, and it was managed textbook.** The XLE breakout-retest buy-limit (4 sh @ $62.15, placed Aug-18) filled on a ~Aug-27 pullback to the retest level, exactly the disciplined lower entry it was built to catch. It then ran to +5% (Sep-2 close $65.10) before NFP-Friday trimmed it to +3.1%. After ~11 idle weeks / 41+ no-fill sessions, the standing-order execution fix (codified Aug-14) did precisely what it was designed to do: refuse every extended chase, then fill the one clean pullback. This is the single most important positive datapoint of the phase.
+- **Winner management was flawless — gains locked, zero residual risk.** As XLE cleared +1×ATR the stop went to breakeven $62.15 (Sep-1 open), then trailed by last−2×ATR to $62.33 → $62.76 → $62.99 across the week — every move up, never down, always outside the 3% no-touch band, all whole-share GTC. The position now carries a **locked +$0.84/sh gain (~+$3.36)**: the worst case is a small win. This is §7/§9 executed cleanly on the first live winner in months.
+- **Discipline held while a real earnings-catalyst deluge tempted a chase.** SNOW (+23% beat+raise), DELL (5/5, +21% gap), FIVE, OLLI, AFRM, IOT, MU — all correctly rejected: SNOW/OLLI/AFRM/IOT were downtrend bounces (no trend confirm), and DELL/FIVE failed 2:1 with the 2R target in blue-sky above resistance (DELL only 0.25R to its 20d high). Zero risk taken into the Friday August-NFP binary. The recurring "extended earnings gap we don't chase" pattern held.
+- **Zero rule violations for an 11th week; regime read clean.** SPY $766.87→$770.18 over a rising 50d ($756) = risk_on all week; no inverse-sleeve error, XLE at 23.8% eq (<25% cap), heat ~0, 0/3 new weekly trades, DD −1.25% « 20% breaker.
+
+### What Didn't Work
+- **The gain is small and gave back into NFP Friday.** XLE peaked at +5% (Sep-2) but the August-jobs print (rate-hike-bet reaction, SPX −0.28%) pulled it to +3.1% by Friday close and equity from a $1,081 intra-week high back to ~$1,075.50 — a flat Mon→Fri print. The mechanism converted, but the account still isn't compounding materially: phase P&L hovers near break-even ($1,080.00 start → $1,075.50).
+- **Only one name is working — no second confirmed setup was armed all week.** Despite a heavy earnings tape, not one new leader cleared catalyst + 3/5 quant + 2:1 with room, so no second resting order went out. The book is a single 24%-equity ETF position; the other ~76% sat idle. Giving the mechanism "multiple shots" (Aug-21 adjustment) didn't materialize — the tape offered extended gaps, not retests.
+- **Two watch names (DELL, ESTC/GTLB) are strong catalysts stuck in breakout air.** DELL (5/5, huge beat+raise) and the software beats are genuine leaders whose only flaw is entry price vs resistance — the exact constraint the standing order fixes, but none pulled back to an actionable retest/rising-20d this week. The watch list is healthy; conversion still depends on the market offering the pullback.
+- **A four-session routine gap (Aug 24–28) left the fill itself unlogged.** XLE filled during the down-routine window, so the exact fill bar/price confirmation lives only in Alpaca, not the daily log — a monitoring gap on the most important event of the phase. The position was picked up cleanly on Aug-31 resume, but the fill should not have gone unrecorded.
+
+### Key Lessons
+- **The multi-week thesis is now empirically settled: the binding constraint was entry price, and the lower-entry standing order was the correct and sufficient fix.** Aug-21 closed the geometry review on data (don't loosen 2×ATR/2:1) and predicted the standing order — not a looser stop — was the only tool that would convert. This week it *did* convert, on a real fill, with the hard geometry fully intact. The four-review-long question is answered by a live trade, not an argument.
+- **Patience across 41+ idle sessions was not dead time — it was the setup.** The same discipline that produced 10 flat weeks is what made this fill clean: no chase, a resting order at a pre-defined price, a fill only on a disciplined pullback. The idle streak and this conversion are the same behavior, one week apart.
+- **A locked-gain trailing stop turns "will it hold?" into a free option.** With the stop above entry, XLE cannot lose money; every further up-day just ratchets the floor. This is the structural payoff of §7/§9 and the reason the strategy tolerates small, slow winners: survival first, then let the runner run with zero downside.
+- **The account is finally at work, but one 24%-eq position is not a portfolio.** The next unlock is *breadth* — a second and third resting order on confirmed leaders so heat and capital actually deploy. The mechanism is proven; the job now is to run it on more names when the tape gives retests.
+
+### Adjustments for Next Week
+- **Hold XLE and keep trailing — never widen, never touch within 3%.** Stop stays $62.99 GTC (locked +$0.84/sh); trail only up by max(current, last−2×ATR, 10-day low). Thesis intact (energy #1 YTD, oil ~$90), quant 4/5 with not_extended now true. No add — position already near the 25% cap and still fully valued. Watch the time-stop only if it stalls; it is progressing, so no concern yet.
+- **Arm second/third resting orders as leaders confirm — breadth is the mandate.** DELL (5/5) on a breakout-retest of $530.5 or pullback to the rising 20d (~$462); ESTC on a close >$107.90 then retest; GTLB toward ~$46.64. Pre-market records the exact trigger, entry−2×ATR stop, 2R target; market-open arms the whole-share buy-stop/limit. The mechanism works — now give it more names.
+- **Regime gate first Monday.** SPY $770.18 > rising 50d (~$756) = risk_on. August NFP is now digested (rate-path repricing is the swing factor) — trade long only on retests/pullbacks a resting order can catch; inverse sleeve stays un-sanctioned unless SPY loses a rising 50d into a confirmed downtrend.
+- **Don't force a second trade to deploy cash.** ~76% cash idle is fine; a resting order is not a market order. Add only on a clean retest/pullback that clears catalyst + 3/5 quant + 2:1 + risk_on. Zero *new* trades remains valid — the account is now working via the one converted runner.
+- **Log the fill next time.** If routines drop again, the resume run must reconstruct and record any fill (bar, price, time) from Alpaca into the TRADE-LOG — the most important event of the phase should never live only in the broker.
+
+### Strategy File Changes
+- **One proof-out note added to *Entry Method* (Standing entry orders).** Documents that the mechanism converted its first fill (XLE @ $62.15, ~Aug-27, managed to a locked gain) — recording a rule that *proved out* over 2+ weeks (codified Aug-14, deployed Aug-18, filled Aug-27, validated this week), exactly what STEP 5 sanctions. It reinforces the existing mechanism; it does **not** add, loosen, or change any hard rule.
+- **NO change to any hard rule.** 3% risk, 2×ATR stop, 2:1 minimum, heat/sleeve caps, and the regime gate are all unchanged and this week *validated in live use* — the winner was sized ~1% risk, stopped at 2×ATR, and trailed to a locked gain without a single band violation. The geometry review stays closed (Aug-21); nothing here re-opens it.
+
+### Overall Grade: B+
+*(The phase turned a corner. After ~11 flat weeks and 41+ no-fill sessions, the standing-order execution mechanism — the answer the multi-review geometry debate kept pointing to — CONVERTED its first live fill: XLE caught a disciplined ~Aug-27 pullback to $62.15, ran to +5%, and was managed textbook to a locked +$0.84/sh gain with zero residual risk. Process stayed A: every earnings-gap chase (SNOW, DELL 5/5, FIVE, AFRM, IOT) correctly refused, no risk into the NFP binary, regime read clean, all risk rules validated in live use for the first time in months. The knock is outcome scale — NFP Friday trimmed the runner and the Mon→Fri print was flat, so no real compounding yet, and the book is still a single 24%-eq name with ~76% cash idle and no second order armed. But a proven-and-working mechanism, a green managed winner, and a four-review thesis settled by a live trade is materially the best week of the phase — B+, a clear step up from the run of C's. Survival fully intact; the account is finally at work. Next: breadth.)*

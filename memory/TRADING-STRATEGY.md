@@ -101,6 +101,13 @@ caps, and regime gate are all unchanged. Only whole-share positions can rest a r
 fractional names still cannot rest a stop overnight (size accordingly), so a fractional entry
 still waits for a routine to arm its day stop.
 
+*Proved out (2026-09-04): the mechanism converted its first fill — the XLE breakout-retest
+buy-limit (4 sh @ $62.15, placed 2026-08-18) filled on a ~Aug-27 pullback to the retest level,
+then ran to +5% and was managed textbook (stop trailed above breakeven → a locked gain, zero
+residual risk). This is the lower-entry mechanism working exactly as designed after ~11 idle
+weeks: it refused every extended chase, then caught the one disciplined pullback. Keep placing
+these orders as leaders confirm.*
+
 **Geometry review closed (2026-08-21) — 2×ATR/2:1 kept, on data.** A multi-week review (threshold
 set 2026-07-31) evaluated loosening the hard geometry — a structural-support stop tighter than
 2×ATR, or a 1.75:1 floor on the lowest-ATR vehicles — for the names that keep failing 2:1. Built
