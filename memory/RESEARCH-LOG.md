@@ -1621,3 +1621,31 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on; we hold XLE (green +5.3%, protective GTC stop @ $62.76, market-open to trail to $62.87). Big liquid catalysts today (SNOW beat+raise, FIVE/OLLI raised guides, AFRM) all fail the gates — SNOW/OLLI/AFRM are downtrend bounces (2/5, no trend confirm), FIVE's 2R is blue-sky (~1.3R to resistance). ESTC/GAP watches stay below their triggers. Textbook recurring miss pattern = extended earnings gaps we correctly don't chase. Heat = XLE only (stop above entry); DD −0.69%.
+
+## 2026-09-04 — Pre-market
+
+### Account
+- Equity: **$1,076.57** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $64.22 (+$8.27 / +3.33%)
+- Drawdown from peak: **−1.14%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4sh @ $62.99, order dcfd369d) / Week trades: 0 new / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $773.12 > 50-day SMA $756.09, rising — strong). New long equity allowed full size; inverse sleeve not sanctioned.
+- Macro: **August NFP jobs report TODAY (Fri 04-09)** = the week's binary event (8:30 AM ET). Nasdaq/SPY futures up into the print (Reuters). Oil ~$90.8 (−0.5%). Sector tape rotated pro-cyclical this week: **Tech/IT + Consumer Discretionary + Financials led, Energy lagged this week** (XLE still #1 YTD +42–46%, holding near highs). No new index-beta risk warranted ahead of the jobs binary.
+
+### Position management (XLE)
+- XLE up **+2.26×ATR** (entry $62.15 → $64.63 Sep-3 close; ATR $1.096). Quant **4/5 confirmed** (trend/momentum/volume 1.1× true; rel_strength false — flat vs SPY; not_extended now TRUE, last $64.63 vs 20d-high $65.515), sma20 $62.54 rising. Protective GTC stop @ $62.99 live (order dcfd369d). **Trail: keep $62.99** = max(current $62.99, last−2×ATR $62.44, 10d-low $61.32) — last−2ATR is below current, so no move (never down). Energy leadership intact YTD though weekly tape rotated to Tech/Cons-Disc/Financials; thesis holds while stop protects the gain.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **DELL** (stock, Tech) — strong catalyst (Q2 FY27 beat+raise: EPS $7.04 vs $4.91, rev $46.97B, FY guide up to $25.50 EPS / $192B, AI-server rev tripling to $74B) — quant **5/5 confirmed** on Sep-3 close ($515.90, up from a 2/5 downtrend a day ago after a +21% earnings gap). Reject on **R:R / room-to-target**: risk/sh $57.64, sensible near-term objective = 20d-high $530.5 → only **0.25R** of room; 2R target $631 sits in pure blue-sky above resistance (+22%). Textbook extended-earnings-gap-pinned-under-20d-high we don't chase. **Watch: a breakout-retest close >$530.5 on volume then pullback, or a pullback to the rising 20d ($462), arms a lower-entry order.**
+- **IOT** (Samsara, stock) — earnings pop (~+15%) — quant **2/5, NOT confirmed** (trend/momentum/rel-strength false; sma20 $39.79, last $38.76 below it, ret_10d −0.5%). Reject: downtrend earnings bounce, no trend confirm.
+- **MU** (stock, Semis) — active/higher premkt — quant **2/5, NOT confirmed** (trend true only; momentum/volume/rel-strength false; last $958 well below 20d-high $1036, vol 0.96×). Reject: no momentum/participation confirm.
+- Movers tape (Sep-3): dominated by **MSTR & HOOD single-stock leveraged ETFs** (MSTC/MSTP/MSTX/MSTU, HOOC/HOOX/HOOG all +33–35%) — off-mandate (single-stock leveraged, extreme decay, MSTR crypto-linked); **CHPT** +75% ($9.07) low-priced erratic spike — off-universe. None chaseable.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on but today is **NFP day** (binary) — no fresh index-beta warranted. We hold XLE (green +3.3%, protective GTC stop @ $62.99, trail keeps $62.99). Best liquid catalyst = DELL, now 5/5 but its 2R is blue-sky (0.25R to the $530.5 20d-high) — a don't-chase gap, watch a breakout-retest of $530.5 or pullback to the rising 20d. IOT/MU are downtrend/no-momentum bounces. Recurring miss pattern confirmed again = extended earnings gaps with 2R in breakout air. Heat = XLE only (stop above entry); DD −1.14%.

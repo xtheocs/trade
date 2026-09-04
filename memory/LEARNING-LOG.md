@@ -13,6 +13,30 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-04 — Scorecard (prior session 2026-09-03)
+
+**Our picks (1d = Sep-3 close vs Sep-2 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **−0.69%** ($64.63 vs $65.08) — verdict **worked** — position green (+3.3% unrealized), GTC stop untouched @ $62.99 (above breakeven), quant 4/5.
+- GTLB (watch, retest toward $46.64) — closed $49.33 vs $49.56 (**−0.46%**), never retested $46.64 — verdict **correctly stood aside**.
+- ESTC (watch >$107.90) — closed $96.11 vs $89.55 (**+7.3%**) but still below the $107.90 trigger — verdict **correctly stood aside**.
+
+**Day's top tradeable gainers (Sep-3 movers, ≥$5, no warrants/units/rights):**
+- CHPT +74.95% ($9.07) — ChargePoint, low-priced erratic spike (was ~$5.2), thin — skip
+- AEHL +37.2% ($7.45) — micro-cap spike, thin — skip
+- MSTC +35.2% ($61.11) / MSTP +35% / MSTX +34.97% / MSTU +34.95% — MSTR single-stock **leveraged ETFs** (crypto/bitcoin proxy) — off-mandate, extreme decay — skip
+- HOOC +33.5% ($26.12) / HOOX +33.4% / HOOG +33% — HOOD single-stock **leveraged ETFs** — off-mandate — skip
+
+**Best realistic miss:** **None clean.** The Sep-3 tape's real leaders were **MSTR** (bitcoin proxy — off-mandate, crypto-linked) and **HOOD** momentum, both surfacing only as single-stock leveraged ETFs (decay, off-universe); CHPT was a sub-$10 erratic spike. **DELL** ran +21% on its beat but was correctly rejected as a 2/5 downtrend at the time — it only became 5/5 *after* the gap; quant did its job avoiding a falling knife. Not a surfacing failure.
+
+**Lessons:**
+- **Downtrend earnings bounces we reject sometimes explode (DELL +21%)** — that is variance, not lost edge; we don't chase 2/5 falling knives even when the print beats. DELL is now 5/5 but its 2R is blue-sky — still a don't-chase until a breakout-retest of $530.5.
+- **Leveraged single-stock ETF dominance** (MSTR/HOOD sleeves 8 of the top movers) = off-mandate momentum we don't play; when the tape leaders are all 3x single-stock decay vehicles, cash/patience is the correct posture.
+- **XLE patience pays** — sole position green, stop above breakeven, heat = locked-in gain not risk.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE #1 YTD +42–46%, macro-insulated) BUT the SPY tape has now **rotated pro-cyclical for 2+ weeks** — **Tech/IT + Consumer Discretionary + Financials** leading week-to-date, Energy lagging *this week* (watch for XLE leadership fatigue; the stop protects the gain). Recurring miss pattern = **liquid earnings gaps too extended to chase** (GAP → ESTC → GTLB → SNOW → now DELL 5/5-but-blue-sky) + **leaders pinned at/above 20d highs with 2R in breakout air** — only convertible via a resting breakout-retest. Hard rules unchanged.
+
+---
+
 ## 2026-09-03 — Scorecard (prior session 2026-09-02)
 
 **Our picks (1d = Sep-2 close vs Sep-1 close):**
