@@ -758,3 +758,14 @@ drawdown are measured from here.
 **Notes:** Sole position XLE (4 sh @ $62.15) closed $65.10, +4.75% unrealized ($11.80) — confirmed via account/positions/orders pull. Stop was trailed once today at midday, from $62.70 to **$62.76** GTC (order a1285598, = last−2×ATR at the time), 3.33% below price at that point — never moved down, outside the 3%-no-touch band. No new trades today; weekly trades 0/3 (week of Sep 1). Regime risk_on. Day P&L +$1.32 (+0.12%) vs Sep 1's $1,078.78 close. Phase P&L +$0.10 (+0.01%) vs the $1,080.00 starting equity — essentially flat, 58 sessions in. Drawdown −0.82% from the $1,089.01 peak — 20% breaker inactive, nowhere close. PENDING-TRADES logged GTLB (5/5 quant, clean beat+raise) as a watch-only name — its actionable price is a +21% earnings gap that fails both not_extended and 2:1 R:R, so no chase; only a retest toward $46.64 makes it live. ESTC stays a watch above $107.90. Tomorrow: pre-market rescans regime/catalyst/quant; XLE thesis intact (3/5, still extended) with gains locked well above breakeven; watch GTLB/ESTC for a retest.
 
 ---
+
+### Sep 4 — EOD Snapshot (Day 60, Friday)
+**Portfolio:** $1,075.94 | **Cash:** $819.70 (76.2%) | **Day P&L:** −$2.24 (−0.21%) | **Phase P&L:** −$4.06 (−0.38%) | **Peak:** $1,089.01 | **DD:** −1.20%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 4 | $62.15 | $64.06 | −0.87% | +$7.64 (+3.07%) | $62.99 |
+
+**Notes:** Sole position XLE (4 sh @ $62.15) closed $64.06, +3.07% unrealized ($7.64), down −0.87% on the day — confirmed via account/positions/orders pull. Protective GTC stop unchanged at $62.99 (order dcfd369d, live) — pre-market's trail rule kept it flat since last−2×ATR ($62.44) sat below the current stop. No new trades today; NFP jobs day was the week's binary and no fresh index-beta risk was taken (DELL 5/5 quant but 2R blue-sky, rejected; IOT/MU downtrend bounces, rejected). Weekly trades: 0/3 (week of Sep 1–4). Regime risk_on (SPY over rising 50d). Continuity note: no EOD/midday snapshot was logged for Sep 3 — Day P&L here is computed against Alpaca's own last_equity ($1,078.18, Sep 3 close) rather than this log's Sep 2 entry ($1,080.10), per the same convention used Sep 1. Phase P&L −$4.06 (−0.38%) vs the $1,080.00 starting equity — essentially flat, 60 sessions in. Drawdown −1.20% from the $1,089.01 peak — 20% breaker inactive, nowhere close. Tomorrow: pre-market rescans regime/catalyst/quant post-NFP; XLE thesis intact with gains locked above breakeven; watch DELL for a breakout-retest of $530.5 or pullback to the rising 20d, GTLB toward $46.64, ESTC above $107.90.
+
+---
