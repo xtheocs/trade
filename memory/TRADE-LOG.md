@@ -758,3 +758,14 @@ drawdown are measured from here.
 **Notes:** Sole position XLE (4 sh @ $62.15) closed $65.10, +4.75% unrealized ($11.80) — confirmed via account/positions/orders pull. Stop was trailed once today at midday, from $62.70 to **$62.76** GTC (order a1285598, = last−2×ATR at the time), 3.33% below price at that point — never moved down, outside the 3%-no-touch band. No new trades today; weekly trades 0/3 (week of Sep 1). Regime risk_on. Day P&L +$1.32 (+0.12%) vs Sep 1's $1,078.78 close. Phase P&L +$0.10 (+0.01%) vs the $1,080.00 starting equity — essentially flat, 58 sessions in. Drawdown −0.82% from the $1,089.01 peak — 20% breaker inactive, nowhere close. PENDING-TRADES logged GTLB (5/5 quant, clean beat+raise) as a watch-only name — its actionable price is a +21% earnings gap that fails both not_extended and 2:1 R:R, so no chase; only a retest toward $46.64 makes it live. ESTC stays a watch above $107.90. Tomorrow: pre-market rescans regime/catalyst/quant; XLE thesis intact (3/5, still extended) with gains locked well above breakeven; watch GTLB/ESTC for a retest.
 
 ---
+
+### Sep 7 — EOD Snapshot (Day 61, Monday / Labor Day)
+**Portfolio:** $1,075.94 | **Cash:** $819.70 (76.2%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$4.06 (−0.38%) | **Peak:** $1,089.01 | **DD:** −1.20%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 4 | $62.15 | $64.06 | 0.00% | +$7.64 (+3.07%) | $62.99 |
+
+**Notes:** US markets closed for Labor Day — no trading session, confirmed via account/positions/orders pull (change_today 0.00% on XLE, account last_equity = equity). Day P&L flat at $0.00 since no trading occurred. Sole position XLE (4 sh @ $62.15) unchanged at $64.06 close, +3.07% unrealized ($7.64), protective GTC stop live at $62.99 (order dcfd369d) — 5/5 quant confirmed per today's pre-market, energy leadership intact, gain locked well above breakeven. Continuity note: no EOD/midday snapshots were logged for Sep 3–4 (market-open/midday routines did not run those days; only pre-market research is on record) — equity path over that gap is not reconstructable from this log, but Alpaca's balance_asof (2026-09-04) confirms $1,075.94 is the standing Friday close carried into today's holiday. Phase P&L −$4.06 (−0.38%) vs the $1,080.00 starting equity. Drawdown −1.20% from the $1,089.01 peak — 20% breaker inactive, nowhere close. Trades today: 0. Weekly trades: 0/3 (fresh week — first trading day is tomorrow, Sep 8, since Monday was the holiday). Pre-market rejected NVDA (4/5, Hugging Face M&A catalyst, pinned 0.30R under 20d high) and HOOD (4/5, analyst upgrade, extended blow-off 2.57 ATR above sma20); NTAP a 2/5 downtrend earnings bounce. Tomorrow: first trading day of the week — pre-market/market-open resume normal cadence; watch for XLE stop trail continuation and any fresh setup clearing catalyst + quant + 2:1 R:R.
+
+---
