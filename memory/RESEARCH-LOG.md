@@ -1649,3 +1649,31 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on but today is **NFP day** (binary) — no fresh index-beta warranted. We hold XLE (green +3.3%, protective GTC stop @ $62.99, trail keeps $62.99). Best liquid catalyst = DELL, now 5/5 but its 2R is blue-sky (0.25R to the $530.5 20d-high) — a don't-chase gap, watch a breakout-retest of $530.5 or pullback to the rising 20d. IOT/MU are downtrend/no-momentum bounces. Recurring miss pattern confirmed again = extended earnings gaps with 2R in breakout air. Heat = XLE only (stop above entry); DD −1.14%.
+
+## 2026-09-07 — Pre-market (Labor Day; US markets CLOSED — research for Tue Sep-8 open)
+
+### Account
+- Equity: **$1,075.94** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $64.06 (+$7.64 / +3.07%)
+- Drawdown from peak: **−1.20%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4sh @ $62.99, order dcfd369d) / Week trades: 0 new / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $770.18 > 50-day SMA $756.82, rising). New long equity allowed full size; inverse sleeve not sanctioned.
+- Macro: **Strong August jobs (162k, above expectations) landed Fri Sep-4** → yields jumped, a Sept Fed-hike back on the table, indexes slid modestly (SPX −0.38%, Dow −0.51%). Oil elevated on Iran tensions. SPY still ~1% below all-time highs, dip-buyers active. Sector tape: intra-week pro-cyclical (Tech/IT + Consumer-Disc + Financials) with **Energy a persistent pocket of strength**. No CPI/PPI/FOMC today; watch hawkish repricing into the Sept FOMC.
+
+### Position management (XLE)
+- XLE **5/5 confirmed** (trend/momentum/rel_strength/volume 1.18×/not_extended all true), last $64.07, sma20 $62.87 rising, hi_20d $65.515, ATR $1.122. Protective GTC stop @ $62.99 live (order dcfd369d). **Trail: keep $62.99** = max(current $62.99, last−2×ATR $61.83, 10d-low $61.32) — last−2ATR is below current, no move (never down). Energy leadership intact; thesis holds, gain protected above breakeven. (Market closed today — no market-open trail runs; recommendation stands for Tue.)
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **NVDA** (stock, Semis) — strong catalyst (reported ~$12.9B acquisition of AI platform Hugging Face; +1.8% Sep-4) — quant **4/5 confirmed** (trend/momentum/rel_strength/not_extended true; volume 0.94× false), last $230.19, sma20 $220.10 rising, hi_20d $234.75. Reject on **R:R**: risk/sh $15.14, sensible objective = 20d-high $234.75 → only **0.30R** of room ($4.56); 2R target $260.5 sits in blue-sky above resistance. Textbook pinned-under-20d-high we don't chase. **Watch: a breakout-retest close >$234.75 on volume then pullback, or a pullback to the rising 20d ($220), arms a lower-entry order.**
+- **HOOD** (stock, Fintech) — catalyst (Morgan Stanley upgrade, PT $124→$150) — quant **4/5 confirmed** (trend/momentum/rel_strength/volume true; not_extended FALSE — last $122.06 is 2.57 ATR above sma20 $103.28). Reject: **extended blow-off** + fails 2:1 (risk/sh $14.62, only 0.19R to 20d-high $124.87; 2R blue-sky). Watch a pullback to the rising 20d.
+- **NTAP** (stock, Tech/Storage) — catalyst (Q1 FY27 EPS $2.58 beat $2.13) — quant **2/5, NOT confirmed** (volume/not_extended true; trend/momentum/rel_strength false — sma20 $193.28 falling, ret_10d −3.5%, last $185.59 well below 20d-high $208.88). Reject: earnings pop in a downtrend, no trend confirm.
+- **AVGO** — issued weaker-than-expected Q4 guide, sold off → not a long. **CPB** — EPS miss → no. **ZS** — beat already digested last week, extended. Movers tape (AOUT small-cap +44% spike; GRNQ/WZRD micro-caps; balance warrants/sub-$5 pumps) — un-chaseable/off-universe.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** US markets closed today (Labor Day); research is for the Tue Sep-8 open. Regime risk_on but the strong-jobs print revived Sept rate-hike risk (no fresh index-beta warranted into a hawkish repricing). We hold XLE (green +3.07%, 5/5 confirmed, protective GTC stop @ $62.99 — keeps $62.99). Best liquid catalysts (NVDA M&A 4/5, HOOD upgrade 4/5) both fail 2:1 — pinned under / extended above their 20d highs with 2R in blue-sky; NTAP is a downtrend earnings bounce. Recurring miss pattern confirmed again = liquid catalysts too extended to chase. Heat = XLE only (stop above entry); DD −1.20%.

@@ -1,3 +1,3 @@
-# Pending Trades — 2026-09-04
+# Pending Trades — 2026-09-07
 
-No trades. Reason: HOLD — no fresh name cleared catalyst + quant + 2:1. DELL is 5/5 but its 2R is blue-sky (0.25R to the $530.5 20d-high) — a don't-chase earnings gap; IOT/MU are downtrend bounces. Today is NFP day (binary) — no new index-beta. Hold XLE (GTC stop $62.99).
+No trades. Reason: HOLD — US markets closed (Labor Day); research is for the Tue Sep-8 open. No fresh name cleared catalyst + quant + 2:1. NVDA (M&A) and HOOD (upgrade) are both 4/5 but pinned under / extended above their 20d highs (2R blue-sky); NTAP is a 2/5 downtrend earnings bounce. Regime risk_on but strong-jobs print revived Sept rate-hike risk — no new index-beta. Hold XLE (GTC stop $62.99, keeps $62.99).

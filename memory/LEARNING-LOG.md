@@ -13,6 +13,30 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-07 — Scorecard (prior session 2026-09-04)
+
+**Our picks (1d = Sep-4 close vs Sep-3 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **−0.87%** ($64.07 vs $64.63) — verdict **worked** — position green (+3.07% unrealized), GTC stop untouched @ $62.99 (above breakeven), quant now **5/5** confirmed.
+- DELL (watch, breakout-retest >$530.5 or pullback to rising 20d) — closed **$523.65 vs $515.90 (+1.50%)**; high $534.71 poked above the $530.5 20d-high intraday but closed back below — no clean retest — verdict **correctly stood aside**.
+- IOT / MU (rejected 2/5, downtrend/no-momentum) — dodged, no chase of falling knives.
+
+**Day's top tradeable gainers (Sep-4 movers, ≥$5, no warrants/units/rights):**
+- AOUT +44.66% ($14.48) — American Outdoor Brands, small-cap outdoor products, thin single-day spike — skip
+- GRNQ +30.77% ($18.70) — Greenpro Capital micro-cap, thin/erratic — skip
+- WZRD +29.04% ($11.83) — micro-cap spike, thin — skip
+- (balance = warrants GIPRW/FSHPR/BIAFW/EONR.WS/PSQH.WS/FTRA.WS + sub-$5 pumps IMRN/ONCO/NRSN — off-universe)
+
+**Best realistic miss:** **None clean.** Sep-4 (NFP day) tape was dominated by warrants/micro-cap pumps; AOUT was the only ≥$5 non-warrant with size but a +44% thin small-cap spike (fails not_extended + 2:1, illiquid) — un-chaseable. The liquid weekend catalysts (**NVDA** Hugging Face M&A, **HOOD** MS upgrade→$150) were both 4/5 but pinned under their 20d highs with 2R in blue-sky — correctly not surfaced. Not a surfacing failure.
+
+**Lessons:**
+- **Strong August jobs (162k, above expectations) flipped the tape risk-off intraday Sep-4** (yields jumped, Sept Fed-hike risk revived, oil elevated on Iran) — yet SPY held above a rising 50d, so regime stays **risk_on**; watch for hawkish repricing into the Sept FOMC.
+- **Fresh liquid catalysts keep landing extended** — NVDA (M&A) 4/5 and HOOD (upgrade) 4/5 both fail 2:1 (0.19–0.30R to the 20d high, 2R blue-sky). Same don't-chase-under-20d-high shape; only a breakout-retest / pullback-to-20d converts them.
+- **XLE patience pays** — sole position green +3%, now 5/5 confirmed, stop $62.99 above breakeven → heat = locked-in gain, not risk.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE, still a "pocket of strength" per market wraps) alongside an intra-week **pro-cyclical rotation** (Tech/IT + Consumer Discretionary + Financials); recurring miss pattern = **liquid catalyst names too extended / pinned under their 20d highs with 2R in breakout air** (NVDA → HOOD → DELL → GTLB → ESTC → SNOW) — convertible only via a lower-entry retest, never the gap. Hard rules unchanged.
+
+---
+
 ## 2026-09-04 — Scorecard (prior session 2026-09-03)
 
 **Our picks (1d = Sep-3 close vs Sep-2 close):**
