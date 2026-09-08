@@ -759,6 +759,14 @@ drawdown are measured from here.
 
 ---
 
+### Sep 8 — Midday Scan (No action)
+**Positions:** 1 — XLE 4 sh @ $62.15, now $64.385 (+3.60% / +$8.94). 1 order live (GTC stop dcfd369d @ $62.99).
+**Action:** No-op. Not a loser (no −7% cut). Quant 4/5 confirmed (trend/momentum/rel_strength/not_extended true; volume 0.78× false) — thesis intact (energy leadership, regime risk_on, SPY > rising 50d). Trail check: new stop = max(current $62.99, last−2×ATR $62.15, 10d-low $61.32) = **$62.99 — unchanged** (last−2ATR and 10d-low both below current stop; never move down). Current stop is 2.2% below price — inside the 3%-no-touch band, so no tightening even if the math called for it. No time-stop concern (~8 trading days held, in profit and trending in favor, meaningful progress made). No ClickUp notice — no action taken.
+**Account:** Equity $1,077.20 | Cash $819.70 | Peak $1,089.01 | DD −1.08% | Breaker inactive.
+**Positions:** 1/4 (XLE) · Heat = locked-in gain, not risk (stop above entry). Weekly trades: 0/3.
+
+---
+
 ### Sep 7 — EOD Snapshot (Day 61, Monday / Labor Day)
 **Portfolio:** $1,075.94 | **Cash:** $819.70 (76.2%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$4.06 (−0.38%) | **Peak:** $1,089.01 | **DD:** −1.20%
 
