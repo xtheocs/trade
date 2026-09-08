@@ -13,6 +13,25 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-08 — Scorecard (prior session 2026-09-07, Labor Day — US markets CLOSED)
+
+**Our picks:**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — **no session** (Sep-7 holiday), carried flat; now **5/5 confirmed** into Tue open (last $64.07, sma20 $62.87 rising, vol 1.18×), GTC stop untouched @ $62.99 above breakeven — verdict **held, working**.
+- NVDA (watch, breakout-retest >$234.75 or pullback to rising 20d) / HOOD (watch, pullback to rising 20d) — **no session to trigger** — verdict **standing aside, correct**.
+
+**Day's top tradeable gainers:** **None new** — no trading Sep-7 (Labor Day); the Alpaca movers feed still shows the Sep-4 tape (micro-cap/warrant pumps: AOUT +44%, GRNQ +30%, WZRD +29%), already scored in the 09-07 card. Nothing fresh to learn.
+
+**Best realistic miss:** **None** — no market session on the prior calendar day. Not a surfacing failure.
+
+**Lessons:**
+- **Holiday gap, not a data point** — Sep-7 closed, so no new mover tape; scoring rolls to the next real session (today's close feeds tomorrow's card).
+- **XLE now 5/5** on the Tue open (rel_strength flipped true) — sole position green, stop above breakeven → heat = locked-in gain, not risk. Energy still a YTD leader (+42%) but wraps flag it "approaching overbought."
+- **Tape leadership rotated to Tech/Semis** into today (SMH +2.61%, XLK +0.70%, Financials firm; Consumer-Disc/Comms lagging) — watch for fresh semis catalysts that aren't already extended.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE, macro-insulated, now flagged near-overbought) alongside a firming **Tech/Semis + Financials** rotation (SMH/XLK leading this week, Consumer-Disc/Comms lagging); recurring miss pattern = **liquid catalyst names too extended / pinned under their 20d highs with 2R in breakout air** (NVDA → HOOD → DELL → GTLB → ESTC), plus **copper/premarket pops on names that have themselves pulled back** (FCX 2/5, INTC 2/5 — catalyst without trend/momentum confirm) — convertible only via a lower-entry retest, never the gap. Hard rules unchanged.
+
+---
+
 ## 2026-09-07 — Scorecard (prior session 2026-09-04)
 
 **Our picks (1d = Sep-4 close vs Sep-3 close):**

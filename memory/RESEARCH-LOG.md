@@ -1677,3 +1677,31 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** US markets closed today (Labor Day); research is for the Tue Sep-8 open. Regime risk_on but the strong-jobs print revived Sept rate-hike risk (no fresh index-beta warranted into a hawkish repricing). We hold XLE (green +3.07%, 5/5 confirmed, protective GTC stop @ $62.99 — keeps $62.99). Best liquid catalysts (NVDA M&A 4/5, HOOD upgrade 4/5) both fail 2:1 — pinned under / extended above their 20d highs with 2R in blue-sky; NTAP is a downtrend earnings bounce. Recurring miss pattern confirmed again = liquid catalysts too extended to chase. Heat = XLE only (stop above entry); DD −1.20%.
+
+## 2026-09-08 — Pre-market
+
+### Account
+- Equity: **$1,078.70** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $64.75 (+$10.40 / +4.18%)
+- Drawdown from peak: **−0.95%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4 sh @ $62.99, order dcfd369d) / Week trades: 0 new / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $770.18 > 50-day SMA $756.82, rising). New long equity allowed full size; inverse sleeve not sanctioned.
+- Macro: No CPI/PPI/FOMC confirmed today (watch hawkish repricing into the Sept FOMC after Fri's strong jobs). WTI ~$91.5, copper hit an all-time record ($14,617/ton LME). Sector tape rotated to **Tech/Semis leading** (SMH +2.61%, XLK +0.70%), Financials firm; **Consumer-Disc/Comms lagging** (Zacks: 8 of 11 sectors red Fri). Energy still #1 YTD (+42%) but wraps flag it "approaching overbought."
+
+### Position management (XLE)
+- XLE **5/5 confirmed** (trend/momentum/rel_strength/volume 1.18×/not_extended all true), last $64.07, sma20 $62.87 rising, hi_20d $65.515, ATR $1.122. Protective GTC stop @ $62.99 live (order dcfd369d). **Trail: keep $62.99** = max(current $62.99, last−2×ATR $61.83, 10d-low $61.32) — last−2ATR below current, no move (never down). Market-open re-checks the trail intraday. Energy leadership intact; thesis holds, gain locked above breakeven.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **FCX** (stock, Materials/Copper) — catalyst present (copper hit an all-time record $14,617/ton on the LME on supply-demand imbalance + tariff speculation) — quant **2/5, NOT confirmed** (trend/not_extended true; momentum/rel_strength/volume false — ret_10d −5.1%, RS −5.7% vs SPY, last $72.69 well below 20d-high $80.235, vol 0.62×). Reject: the *metal* made a record but the *stock* has pulled back and lags — no momentum/participation confirm. Watch a reclaim of the rising 20d with volume.
+- **INTC** (stock, Semis) — catalyst (Trump social-media post amplifying the recovery + Apple/Google-Nvidia foundry-customer reports + semis rally; +3.9% premkt to ~$95.8) — quant **2/5, NOT confirmed** (rel_strength/not_extended true; trend/momentum/volume false — **sma20 $93.95 falling**, vol 0.81×, last $95.8 far below 20d-high $107.56). Reject: choppy/down-trending chart despite the pop, no trend confirm. Watch a reclaim of a rising 20d.
+- **NVDA** (watch, from 09-07) — +0.3% premkt to ~$231; still pinned under the $234.75 20d-high, 2R blue-sky. Watch a breakout-retest of $234.75 or a pullback to the rising 20d. **HOOD** (watch) — pullback to the rising 20d only.
+- Premarket tape otherwise dominated by micro-cap/warrant pumps (BNC/OFAL/SER/IMRN/GMEX, all sub-$6) — off-universe/un-chaseable.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on; we hold XLE (green +4.18%, 5/5 confirmed, protective GTC stop @ $62.99 — keeps $62.99, market-open re-checks trail). Today's two liquid catalysts both fail quant: FCX (copper record) is 2/5 because the stock itself has pulled back and lags; INTC (Trump post + foundry chatter) is 2/5 on a falling 20d. Recurring miss pattern confirmed = catalysts landing on names too extended or too broken to clear catalyst + ≥3/5 quant + 2:1. Heat = XLE only (stop above entry); DD −0.95%. Week trades 0/3.
