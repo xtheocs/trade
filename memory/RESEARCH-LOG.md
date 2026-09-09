@@ -1705,3 +1705,32 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on; we hold XLE (green +4.18%, 5/5 confirmed, protective GTC stop @ $62.99 — keeps $62.99, market-open re-checks trail). Today's two liquid catalysts both fail quant: FCX (copper record) is 2/5 because the stock itself has pulled back and lags; INTC (Trump post + foundry chatter) is 2/5 on a falling 20d. Recurring miss pattern confirmed = catalysts landing on names too extended or too broken to clear catalyst + ≥3/5 quant + 2:1. Heat = XLE only (stop above entry); DD −0.95%. Week trades 0/3.
+
+## 2026-09-09 — Pre-market
+
+### Account
+- Equity: **$1,080.46** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $65.19 (+$12.16 / +4.89%)
+- Drawdown from peak: **−0.79%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4 sh @ $62.99, order dcfd369d) / Week trades: 0 new / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $766.06 > 50-day SMA $757.56, rising). New long equity allowed full size; inverse sleeve not sanctioned.
+- Macro: No CPI/PPI/FOMC today (hawkish repricing risk into the Sept FOMC persists after last Fri's strong jobs). Sector tape: **Semiconductors + Energy leading** (Tue: SMH +1.19%, XLE +1.11%, XLU +0.86%); **Financials/Healthcare lagging** (XLF −1.38%, XLV −2.52%). Energy still #1 YTD (+42%) but flagged near-overbought; Materials/copper firming.
+
+### Position management (XLE)
+- XLE **5/5 confirmed** (trend/momentum/rel_strength/volume 1.22×/not_extended all true), last $64.77, sma20 $63.10 rising, hi_20d $65.515, ATR $1.126. Protective GTC stop @ $62.99 live (order dcfd369d). **Trail: keep $62.99** = max(current $62.99, last−2×ATR $62.52, 10d-low ~$61.3) — last−2ATR below current, no move (never down). Market-open re-checks the trail intraday. Position value $260.76 = 24.1% eq (under 25% cap, no trim). Energy leadership intact; gain locked above breakeven.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.** Strongest catalyst (QCOM/AWS) fails 2:1.
+
+### Rejected
+- **QCOM** (stock, Semis) — **strong catalyst**: multi-generational Amazon/AWS AI data-center chip + optical partnership (announced Sep-8, ~$60B opportunity, targeting $15B rev by FY29) — quant **4/5 confirmed** (trend/rel_strength/volume 2.68×/not_extended true; momentum false — $174.08 is 5.1% below the 20d high, just outside the band). Reject on **R:R**: risk/sh $11.22, resistance = 20d-high $183.44 → only **0.83R** of room ($9.36); 2R target $196.5 sits in blue-sky above the Sep-8 spike high (day range 172–183, closed back at $174 = rejection candle). Textbook pinned-under-20d-high. **Watch: a breakout-retest close >$183.44 on volume then pullback, or a pullback to the rising 20d ($164.6), arms a lower-entry order.**
+- **INTC** (stock, Semis) — catalyst (foundry-customer chatter + Trump post; +9% Sep-8) — quant **4/5 confirmed** (trend/momentum/rel_strength/volume true; **not_extended FALSE** — $104.46 is 2.33 ATR above sma20 $94.29 after the blow-off). Reject: **extended chase** + fails 2:1 (risk/sh $8.73, only 0.36R to 20d-high $107.56). Watch a pullback to the rising 20d.
+- **FCX** (stock, Materials/Copper) — catalyst (copper record, tariff/supply theme; reclaimed its 20d Sep-8 +5.4%) — quant **3/5 confirmed** (trend/volume/not_extended true; momentum/rel_strength false — ret_10d −1.5%, RS −1.9% vs SPY). Reject on **R:R**: risk/sh $6.49, only **0.55R** to 20d-high $80.235; 2R blue-sky. Still lags SPY. Watch a clean momentum reclaim.
+- **ORCL** (+5.6% premkt) — reports earnings today (binary event), no chase into the print. **ROIV** (+14% premkt) — biotech news, off-strategy single-name binary.
+- Premarket ≥$5 non-warrant gainers (BNC/WYHG/TDOT/SMRX/SST/SWVL) — micro-cap/thin pumps, off-universe.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on; we hold XLE (green +4.89%, 5/5 confirmed, protective GTC stop @ $62.99 — keeps $62.99, market-open re-checks trail). Today's liquid catalysts all fail 2:1: QCOM (AWS $60B deal, 4/5) is pinned 0.83R under its Sep-8 spike high; INTC (foundry, 4/5) is an extended blow-off (2.33 ATR); FCX (copper, 3/5) is 0.55R under its 20d and still lags. Recurring miss pattern confirmed = catalysts landing on names too extended / pinned under their 20d highs with 2R in breakout air — convertible only via a lower-entry retest. Heat = XLE only (stop above entry); DD −0.79%. Week trades 0/3.

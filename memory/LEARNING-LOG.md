@@ -13,6 +13,27 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-09 — Scorecard (prior session 2026-09-08)
+
+**Our picks (1d = Sep-8 close vs Sep-4 close; Sep-7 holiday):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **+1.09%** ($64.77 vs $64.07) — verdict **held, working** — now **5/5 confirmed**, GTC stop $62.99 above breakeven, +4.9% unrealized.
+- FCX (rejected 2/5 — no momentum/rel_strength) — actual 1d **+5.43%** ($76.635 vs $72.69) — verdict **missed-entry / rules-correct** — was 2/5 at decision (no trend/momentum confirm), broke out the next session; now 3/5 but still fails 2:1 (0.55R to 20d high).
+- INTC (rejected 2/5 — falling 20d) — actual 1d **+9.04%** ($104.46 vs $95.80) — verdict **missed-entry / rules-correct** — broken chart at decision, blow-off next day; now 4/5 but not_extended FALSE (2.33 ATR above sma20), fails 2:1.
+- NVDA (watch) — **−1.90%** — stood aside, correct. HOOD (watch) — **−3.84%** — **dodged-loss**.
+
+**Day's top tradeable gainers (Sep-8, ≥$5, no warrants/units/rights):** all micro-cap/thin spikes — BNC +51.6% ($5.25), WYHG +44.8% ($5.88), TDOT +41.6% ($14.90), SMRX +32.3% ($33.52), SST +30.6% ($5.00), SWVL +30.2% ($6.42). **No liquid large-cap with a clean catalyst on the mover tape.**
+
+**Best realistic miss:** **None clean.** INTC (+9%) and FCX (+5.4%) were the liquid catalyst names, but both were **sub-3/5 (no trend/momentum confirm)** when we passed — chasing them pre-confirmation violates the quant gate; the convertible version is a lower-entry retest after trend flips, never the pre-confirmation chase. The ≥$5 mover tape was micro-cap pumps. Not a surfacing failure.
+
+**Lessons:**
+- **Catalyst-on-broken-chart pays the NEXT session, not the decision day** — INTC/FCX both ran +5–9% the day after we correctly passed at 2/5. Same pattern each week; the only rules-clean entry is a lower-entry retest once the 20d turns up.
+- **QCOM is the freshest durable large-cap catalyst** (AWS $60B multi-gen AI-datacenter deal, semis leadership) — but already pinned under its Sep-8 spike high $183.44 with ~0.83R of room; watch a pullback to the rising 20d ($164.6).
+- **Semis + Energy = the leadership pair**; copper/materials firming (FCX reclaimed its 20d). Consistent with rolling-7d bias.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE, +42% YTD, flagged near-overbought) + **Semiconductors** (SMH/QCOM/INTC bellwethers) ; recurring miss pattern = **liquid catalyst names pinned under / extended above their 20d highs with 2R in breakout air** (NVDA → HOOD → INTC → QCOM → FCX) — convertible only via a lower-entry retest, never the gap/blow-off. Hard rules unchanged.
+
+---
+
 ## 2026-09-08 — Scorecard (prior session 2026-09-07, Labor Day — US markets CLOSED)
 
 **Our picks:**
