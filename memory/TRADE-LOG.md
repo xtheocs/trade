@@ -791,3 +791,14 @@ drawdown are measured from here.
 **Notes:** Sole position XLE (4 sh @ $62.15) closed $65.31, +5.08% unrealized ($12.64) — confirmed via account/positions/orders pull. Protective GTC stop unchanged at $62.99 (order dcfd369d, resting since Sep 3; still the max of current/last−2×ATR/10d-low, so no fresh trail warranted today) — 3.6% below live price, outside the 3%-no-touch band. Pre-market found no new catalyst clearing the 2:1 R:R filter: QCOM (AWS $60B cloud deal) 4/5 but pinned 0.83R under its Sep-8 spike high; INTC (foundry chatter) 4/5 but extended 2.33 ATR blow-off; FCX (copper at record) 3/5, only 0.55R to its 20d high — PENDING-TRADES logged "no trades." Day P&L +$2.16 (+0.20%) vs Sep 8's $1,078.78 close. Phase P&L +$0.94 (+0.09%) vs the $1,080.00 starting equity — 63 sessions in, first time back in the green on phase P&L since Sep 2. Drawdown −0.74% from the $1,089.01 peak — 20% breaker inactive, nowhere close. Trades today: 0. Weekly trades: 0/3 (week of Sep 8). Regime risk_on (SPY over rising 50d). Tomorrow: pre-market rescans regime/catalyst/quant; XLE thesis intact with gains locked well above breakeven; watch QCOM/INTC/FCX for a pullback or reclaim that clears 2:1.
 
 ---
+
+### Sep 10 — EOD Snapshot (Day 64, Thursday)
+**Portfolio:** $1,079.42 | **Cash:** $819.70 (75.9%) | **Day P&L:** −$1.52 (−0.14%) | **Phase P&L:** −$0.58 (−0.05%) | **Peak:** $1,089.01 | **DD:** −0.88%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 4 | $62.15 | $64.93 | −0.58% | +$11.12 (+4.47%) | $62.99 |
+
+**Notes:** Sole position XLE (4 sh @ $62.15) closed $64.93, +4.47% unrealized ($11.12) — confirmed via account/positions/orders pull. Protective GTC stop unchanged at $62.99 (order dcfd369d, resting since Sep 3; still the max of current/last−2×ATR/10d-low). A mild pullback day — XLE gave back $0.38 (−0.58%) off Sep 9's $65.31 close, still well above the $62.99 stop and outside the 3%-no-touch band. Pre-market found no new catalyst clearing 2:1 R:R: QCOM (AWS $60B deal) 5/5 but 0.62R under its spike high with 2R blue-sky; SIG (beat+raise) 4/5 extended at its 20d-high; META (+6% gap) 4/5 pinned 0.11R under, extended; AEO (tariff-refund beat) 3/5 on a falling 20d; SAP 2/5 downtrend — PENDING-TRADES logged "no trades," no chase into ORCL/ADBE prints or the 8:30 ET PPI. Day P&L −$1.52 (−0.14%) vs Sep 9's $1,080.94 close. Phase P&L −$0.58 (−0.05%) vs the $1,080.00 starting equity — 64 sessions in, essentially flat. Drawdown −0.88% from the $1,089.01 peak — 20% breaker inactive, nowhere close. Trades today: 0. Weekly trades: 0/3 (week of Sep 8). Regime risk_on. Tomorrow: pre-market rescans regime/catalyst/quant; XLE thesis intact with gains locked well above breakeven; watch QCOM/SIG/META for a pullback or reclaim that clears 2:1.
+
+---
