@@ -1734,3 +1734,34 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on; we hold XLE (green +4.89%, 5/5 confirmed, protective GTC stop @ $62.99 — keeps $62.99, market-open re-checks trail). Today's liquid catalysts all fail 2:1: QCOM (AWS $60B deal, 4/5) is pinned 0.83R under its Sep-8 spike high; INTC (foundry, 4/5) is an extended blow-off (2.33 ATR); FCX (copper, 3/5) is 0.55R under its 20d and still lags. Recurring miss pattern confirmed = catalysts landing on names too extended / pinned under their 20d highs with 2R in breakout air — convertible only via a lower-entry retest. Heat = XLE only (stop above entry); DD −0.79%. Week trades 0/3.
+
+## 2026-09-10 — Pre-market
+
+### Account
+- Equity: **$1,082.26** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $65.641 (+$13.96 / +5.62%)
+- Drawdown from peak: **−0.62%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4 sh @ $62.99, order dcfd369d) / Week trades: 0 new / Daytrade count: 0
+
+### Regime
+- Equity: **RISK_ON** (SPY $762.43 > 50-day SMA $757.99, rising). New long equity allowed full size; inverse sleeve not sanctioned.
+- Macro: **PPI (Aug) + Initial Jobless Claims at 8:30 AM ET today**, Existing Home Sales 10:00 AM; **CPI is Friday Sep-11**, no FOMC today. SPX futures ~−0.40% pre-open, VIX ~18.5 (low). **ORCL + ADBE report AMC today** (binary — no chase into the print). Sector tape: **Energy still #1** (XLE new 52-wk high, +45% YTD, flagged near-overbought), **Semiconductors** a secondary positive (SMH participating), **Industrials/parts of Tech** lagging.
+
+### Position management (XLE)
+- XLE **4/5 confirmed** (trend/momentum/rel_strength/not_extended true; **volume 0.92× false**), last $65.31, sma20 $63.32 rising, hi_20d $65.915, ATR $1.1475. Protective GTC stop @ $62.99 live (order dcfd369d). **Trail: current $62.99 → $63.02 warranted** = max(current $62.99, last−2×ATR $63.015, 10d-low ~$61.3); $63.02 is ~3.5% below price (outside the 3%-no-touch band), a marginal tighten — market-open re-arms/executes the trail intraday (never down). Position value $262.56 = 24.3% eq (under 25% cap, no trim). Energy leadership intact; gain locked well above breakeven → heat = locked-in gain, not risk.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.** Best catalyst names (QCOM 5/5, SIG/META 4/5) all fail the 2:1 R:R — pinned under / at / above their 20d highs with 2R in breakout air.
+
+### Rejected
+- **QCOM** (stock, Semis) — strong catalyst (AWS $60B multi-gen AI-datacenter chip deal, semis leadership) — quant **5/5 confirmed** (all checks true, not_extended now true). Reject on **R:R**: last $176.41, risk/sh $11.40, resistance = 20d-high $183.44 → only **0.62R** of room; 2R target ~$199 sits blue-sky above the Sep-8 spike high $183.44. **Watch: a breakout-retest close >$183.44 on volume then pullback, or a pullback to the rising 20d ($165.3), arms a lower-entry order.**
+- **SIG** (stock, Retail) — catalyst (Q2 beat, adj EPS $2.19, raised outlook, 6th consecutive beat) — quant **4/5 confirmed** (trend/momentum/rel_strength/volume 3.79× true; **not_extended FALSE**). Reject on **R:R**: last $102.49 sits right AT its 20d-high $102.99 (~0R room) after a +21% ret10d; 2R target ~$119 blue-sky. Fresh breakout, no room — convertible only via a retest.
+- **META** (stock, Comms/AI) — catalyst (+6% premkt gap, AI) — quant **4/5 confirmed** (trend/momentum/rel_strength/volume 2.08× true; **not_extended FALSE**). Reject on **R:R**: last $653.41, pinned only $4.42 (0.11R) under 20d-high $657.83, extended; 2R ~$732 blue-sky. Gap chase, no room.
+- **AEO** (stock, Retail) — catalyst (earnings beat + raised FY26 op-income guide $540–550M) but driver is a **one-time $196M IEEPA tariff refund** (low-quality, non-recurring) — quant **3/5 confirmed** (rel_strength/volume 2.03×/not_extended true; **trend FALSE — sma20 falling**, momentum false). Reject: weak/one-time catalyst on a down-trending chart + only 0.66R to 20d-high $17.79.
+- **SAP** (stock/ADR, Software) — catalyst (AI-platform strategic pivot) — quant **2/5, NOT confirmed** (volume/not_extended true; trend/momentum/rel_strength false — sma20 $213.82 falling, lags SPY). Reject on quant (downtrend).
+- **ORCL / ADBE** — report earnings AMC today (binary), no chase into the print.
+- Premarket ≥$5 gainers otherwise micro-cap/warrant pumps (MWG/OLB/SNYR sub-$1) — off-universe.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on; we hold XLE (green +5.62%, 4/5 confirmed, protective GTC stop @ $62.99 → trail to $63.02 at market-open). Today's catalyst names all fail 2:1: QCOM (AWS deal, 5/5) 0.62R under its spike high with 2R blue-sky; SIG (beat+raise, 4/5) at its 20d-high, extended; META (+6% gap, 4/5) pinned 0.11R under, extended; AEO (3/5) a one-time tariff-refund beat on a falling 20d; SAP (2/5) downtrend. Recurring miss pattern confirmed again = liquid catalysts pinned under/at/above their 20d highs with 2R in breakout air — convertible only via a lower-entry retest. Also no chase into ORCL/ADBE prints or the 8:30 ET PPI. Heat = XLE only (stop above entry); DD −0.62%. Week trades 0/3.

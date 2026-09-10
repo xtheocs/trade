@@ -13,6 +13,27 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-10 — Scorecard (prior session 2026-09-09)
+
+**Our picks (1d = Sep-9 close vs Sep-8 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **+0.83%** ($65.31 vs $64.77) — verdict **held, working** — now **4/5 confirmed** (volume 0.92× false), GTC stop $62.99 above breakeven, +5.6% unrealized.
+- QCOM (rejected on R:R — 4/5, 0.83R under Sep-8 spike high) — actual 1d **+1.34%** ($176.41 vs $174.08) — verdict **missed small gain / rules-correct** — now 5/5 confirmed but 2R target still blue-sky above $183.44 (0.62R room); no 2:1 available.
+- INTC (rejected — extended 2.33 ATR blow-off) — actual 1d **+1.70%** ($106.24 vs $104.46) — verdict **missed small gain / rules-correct** — still extended.
+- FCX (rejected on R:R — 3/5, 0.55R, lags) — actual 1d **−0.54%** ($76.225 vs $76.635) — verdict **dodged tiny loss / rules-correct**.
+
+**Day's top tradeable gainers (Sep-9, ≥$5, no warrants/units/rights):** **IRD +32.0% ($5.73)** and **ODD +26.5% ($16.48)** were the only two; the rest of the ≥$5 tape was micro-cap/warrant/penny pumps (MGN/SUNE/YMAT sub-$5, plus a wall of *W/*U/*R warrants/units/rights). **No liquid large-cap with a clean catalyst on the mover tape.**
+
+**Best realistic miss:** **None clean.** ODD (+26.5%, $16.48) was the only real small-cap gainer, on huge volume (9.4×), but it **gapped and closed −10% off its high** (open $17.80 → high $18.25 → close $16.49 = rejection candle) — a chase that fails not_extended intraday, not a rules-clean setup. IRD (+32%) is a $5.73 micro-cap pump. QCOM, the durable large-cap semis catalyst, ran only +1.3% — no 2:1 was ever available. Not a surfacing failure.
+
+**Lessons:**
+- **Rejections all held up** — QCOM/INTC ran <2%, FCX −0.5%: passing their pinned/extended setups cost nothing (no 2:1, and the moves were tiny). The discipline is paying its keep, not leaving money on the table.
+- **ODD's +27% gap closed −10% off its high** — heavy participation (9.4× vol) ≠ a durable setup; the rejection candle confirms it was a chase, exactly the kind we never take.
+- **Semis (QCOM now 5/5) + Energy (XLE new highs) remain the leadership pair**, but both are pinned/extended — convertible only via a lower-entry retest, never the gap.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE, +45% YTD, new 52-wk highs, near-overbought) + **Semiconductors** (QCOM/INTC bellwethers) ; recurring miss pattern = **liquid catalyst names pinned under / at / above their 20d highs with 2R in breakout air** (NVDA → HOOD → INTC → QCOM → FCX → SIG → META) — convertible only via a lower-entry retest, never the gap/blow-off. Hard rules unchanged.
+
+---
+
 ## 2026-09-09 — Scorecard (prior session 2026-09-08)
 
 **Our picks (1d = Sep-8 close vs Sep-4 close; Sep-7 holiday):**
