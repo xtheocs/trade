@@ -795,3 +795,68 @@ Template for each entry:
 
 ### Overall Grade: B+
 *(The phase turned a corner. After ~11 flat weeks and 41+ no-fill sessions, the standing-order execution mechanism — the answer the multi-review geometry debate kept pointing to — CONVERTED its first live fill: XLE caught a disciplined ~Aug-27 pullback to $62.15, ran to +5%, and was managed textbook to a locked +$0.84/sh gain with zero residual risk. Process stayed A: every earnings-gap chase (SNOW, DELL 5/5, FIVE, AFRM, IOT) correctly refused, no risk into the NFP binary, regime read clean, all risk rules validated in live use for the first time in months. The knock is outcome scale — NFP Friday trimmed the runner and the Mon→Fri print was flat, so no real compounding yet, and the book is still a single 24%-eq name with ~76% cash idle and no second order armed. But a proven-and-working mechanism, a green managed winner, and a four-review thesis settled by a live trade is materially the best week of the phase — B+, a clear step up from the run of C's. Survival fully intact; the account is finally at work. Next: breadth.)*
+
+---
+
+## Week ending 2026-09-11
+
+*(Short holiday week — Mon Sep-7 was Labor Day; trading days Tue Sep-8 → Fri Sep-11. Second full week the mechanism ran the live XLE position.)*
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,075.94 (Fri Sep-4 close, carried through Labor Day) |
+| Ending portfolio | $1,080.24 (Fri Sep-11) |
+| Week return | +$4.30 (+0.40%) |
+| Peak equity (week) | ~$1,082.26 (Sep-10 AM) intra-week · max intra-week DD ≈ −0.43% (Sep-10 peak → Sep-11 AM $1,077.64) · phase peak $1,089.01 unchanged, phase DD −0.81% |
+| S&P 500 week | ≈ −0.5% (SPX ~7,712 Sep-4 → ~7,670 Sep-11; MarketWatch 5-day −0.83%, Dow −1.4%; Fri CPI-cool +1% rebound trimmed a deeper mid-week loss) — FYI only |
+| Bot vs S&P | ≈ +0.9% (+0.40% vs a ≈ −0.5% down tape — FYI context, NOT the goal) |
+| Trades | 0 new (W:0 / L:0 / open:1 — XLE) |
+| Win rate | N/A (no closed trades) |
+| Best trade | XLE (open) +4.8% (+$11.94 at Sep-11 close $65.135) |
+| Worst trade | N/A (sole position green) |
+| Profit factor | N/A (no closed trades) |
+| Avg R multiple | N/A (no closed trades) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| XLE | $62.15 (4 sh, filled ~Aug-27 via the Aug-18 breakout-retest buy-limit) | $65.135 | +$11.94 (+4.8%) | $62.99 GTC (order dcfd369d) — **above entry, +$0.84/sh locked (~+$3.36), zero residual risk** |
+
+### What Worked
+- **Discipline actively dodged real losses — not just tape-luck this week.** Every catalyst name rejected on the R:R / trend gate then *fell*: Sep-10's QCOM/SIG/META/AEO/SAP rejections were followed by SIG −4.6%, META −1.4%, AEO −14%, SAP −1.5% into Sep-11. The "extended gap / pinned-under-20d we don't chase" filter kept the book out of names that promptly reversed — the veto had teeth this week, not just a flat opportunity cost.
+- **XLE managed textbook for a second week — gain intact, stop untouched, thesis reinforced.** The runner held +4.5–5.6% all week against a chopping tape; the GTC stop stayed at $62.99 (correctly *not* moved down or widened, and last−2×ATR never exceeded it so no forced trail). Friday's oil shock (Brent >$100 on Iran-tanker strike reports, USO +7%) re-accelerated the energy thesis and put XLE back to 5/5 quant — the position is working *and* its catalyst strengthened.
+- **Regime gate flexed correctly into Friday.** Read risk_on Tue–Thu (SPY over rising 50d), then NEUTRAL Fri as SPY chopped its 50d ($757.87 vs 50d $758.21) → best-only / half-size. No new risk was taken into that ambiguity or into the Friday CPI print; inverse sleeve correctly stayed un-sanctioned (neutral, not risk-off).
+- **Zero rule violations for a 12th-equivalent week.** XLE 24.1% eq (<25% cap), heat = locked gain not risk (stop above entry), 0/3 weekly trades, DD −0.81% « 20% breaker, no fractional-no-overnight-stop entry, no chase into ORCL/ADBE prints or the CPI binary. Clean sheet.
+
+### What Didn't Work
+- **Still one position — breadth never materialized, third straight week.** ~76% cash ($819.70) sat idle again; the book is a single 24%-eq ETF. The Aug-21 / Sep-4 mandate to arm a second and third resting order did not convert: every liquid catalyst (QCOM 5/5, XOP 5/5, SIG/META 4/5, USO 4/5) failed either the 2:1 R:R (pinned/blue-sky above the 20d high) or the trend gate (ORCL/INTC/FCX on falling or lagging 20d). The mechanism is proven on one name; it has yet to run on a portfolio.
+- **No compounding, 64 sessions in.** Phase P&L essentially flat (≈ +$0.24, +0.02% vs the $1,080.00 start); the +$4.30 week is noise-level. XLE peaked ~+5.6% (Sep-10 AM) then gave back to +4.8% into Friday's chop — the runner is green but slow, and it is the *only* engine.
+- **The oil-spike catalyst was un-actionable in every vehicle except the one already held.** Brent >$100 Friday was a clean, durable energy tailwind — but XOP was 0.31R under its 20d high (2R blue-sky) and same-theme as XLE, and USO was an extended +24% 10-day blow-off. The best macro catalyst of the week could only be *held*, not *added* — a recurring shape: catalysts landing on names too extended or too pinned to enter without chasing.
+- **Regime turned neutral at week's end — the risk_on tailwind is no longer a given.** SPY closing right on its rising 50d Friday means next week opens ambiguous; the easy "risk_on, full size" backdrop that carried the phase is now a coin-flip until SPY reclaims or loses the 50d decisively.
+
+### Key Lessons
+- **A rejection that then falls is the strategy paying rent — this week made the veto's value visible.** For 12 weeks the cost of discipline was opportunity cost (names we skipped that went up). This week the skipped names (SIG −4.6%, META −1.4%, AEO −14%, SAP −1.5%) *dropped* the day after rejection. The 2:1 + trend + not-extended filter isn't only refusing chases into blue-sky; it is refusing entries into reversals. That is edge, not just caution.
+- **Breadth is a market-supply problem, not a will problem.** Three weeks of "arm a second order" have produced none — not from hesitation but because no second name has offered catalyst + 3/5 quant + 2:1 with room at a lower entry. The mechanism can only fire on a pullback/retest the tape presents; a one-directional grind (energy) and extended gaps (semis/retail) don't offer them. The honest read: the account will stay single-name until the market gives a *second* clean retest, and forcing a second position would violate the very geometry that is working.
+- **A locked-gain runner plus a rising catalyst is the ideal hold — no action is the correct action.** XLE cannot lose money (stop above entry), is at 5/5 quant, and its catalyst (oil) just strengthened. The temptation to "do something" with 76% cash is the trap; the discipline is to let the free-option runner run and wait for a *qualifying* second setup, not manufacture one.
+- **12th-equivalent week: process A, outcome C+.** No rule violated, capital intact, a green managed runner, a small win that beat a down tape, and the veto demonstrably dodged real losses. Capped by the same through-line: one position, no breadth, no compounding — survival is not yet growth.
+
+### Adjustments for Next Week
+- **Hold XLE and keep trailing — never widen, never touch within 3%.** Stop stays $62.99 GTC (locked +$0.84/sh); trail only up by max(current, last−2×ATR, 10-day low). Thesis intact and *reinforced* by the oil spike (Brent >$100); quant 5/5. No add — position at 24.1% eq, near the 25% cap and fully valued. No time-stop concern (progressing).
+- **Arm a second resting order the moment a name gives a clean lower entry — breadth remains the mandate, but only on a qualifying pullback.** Priority watch: QCOM (breakout-retest close >$183.44 on volume, or pullback to the rising 20d ~$165); XOP/energy-adjacent names *coming back to* a rising 20d rather than gapping through highs. Pre-market records the exact trigger, entry−2×ATR stop, 2R target; market-open arms the whole-share buy-stop/limit. Do not force it — a second order only on a price the geometry sanctions.
+- **Regime gate first, and read it fresh — the backdrop is now neutral.** SPY closed on its rising 50d Friday (NEUTRAL → best-only, half-size). If SPY reclaims the 50d decisively → back to full size; if it loses the 50d into a confirmed downtrend → the inverse sleeve becomes sanctionable for the first time this phase. Trade long only on a retest/pullback a resting order can catch until the regime resolves.
+- **Don't force a trade to deploy cash.** Full $1,080.24 equity, $819.70 buying power, 0/3 weekly trades, heat = locked gain, DD −0.81%. Add a name only via a resting order at a clean retest/pullback that clears catalyst + 3/5 quant + 2:1 + an allowing regime. Zero *new* trades remains valid — this week's dodged reversals are fresh proof that not chasing preserves capital.
+
+### Strategy File Changes
+- **NONE.** No rule clearly proved out or failed on *new* evidence over 2+ weeks this week. The geometry review stays closed (Aug-21, data-backed); the standing-order proof-out note is already recorded (Sep-4). This week is a continuation — the mechanism held one position cleanly and the discipline dodged real losses — not a fresh signal warranting an amendment. Per STEP 5's "be conservative — never churn rules on a single week's noise," no change to TRADING-STRATEGY.md. Every hard rule (3% risk, 2×ATR stop, 2:1 minimum, heat/sleeve caps, regime gate) held and was again validated in live use.
+
+### Overall Grade: B
+*(A clean, quiet holiday week. XLE was held and managed textbook for a second week — a locked +$0.84/sh green runner, stop correctly untouched, and its energy thesis *reinforced* by Friday's Brent >$100 oil shock (back to 5/5 quant). Process stayed A: zero rule violations, regime gate flexed correctly to neutral into Friday's CPI print, no chase into ORCL/ADBE prints or the oil-spike blow-offs (XOP pinned, USO +24% extended). The standout positive is that discipline actively **dodged real losses** this week — every Sep-10 rejection (SIG −4.6%, META −1.4%, AEO −14%, SAP −1.5%) fell the next day, so the 2:1/trend veto demonstrably kept the book out of reversals, not just out of chases. The week's +0.40% also beat a ≈ −0.5% down tape. The cap is unchanged and honest: three straight weeks the "arm breadth" mandate produced no second order because the tape offered no qualifying lower entry, so the account is still a single 24%-eq name with ~76% cash idle and no compounding (phase P&L flat, 64 sessions in). A green managed runner + a veto with teeth + a clean sheet, but no breadth and no growth — B, a notch below last week's conversion-driven B+, reflecting a solid but eventless hold. Survival fully intact; the account works via one runner, still waiting on a second clean setup.)*
