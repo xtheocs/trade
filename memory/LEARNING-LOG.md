@@ -13,6 +13,29 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-11 — Scorecard (prior session 2026-09-10)
+
+**Our picks (1d = Sep-10 close vs Sep-9 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **−0.57%** ($64.94 vs $65.31) — verdict **held, working** — GTC stop $62.99 above breakeven, +4.5% unrealized; now **5/5 confirmed** again on the oil spike.
+- QCOM (rejected on R:R — 5/5, 0.62R under spike high) — actual 1d **+0.28%** ($176.90 vs $176.41) — verdict **missed tiny gain / rules-correct** — still 2R blue-sky, no 2:1.
+- SIG (rejected on R:R — 4/5, at 20d-high, extended) — actual 1d **−4.61%** ($97.76 vs $102.49) — verdict **dodged loss / rules-correct** — the fresh-breakout chase rolled over exactly as flagged.
+- META (rejected on R:R — 4/5, 0.11R under, extended) — actual 1d **−1.39%** ($644.36 vs $653.41) — verdict **dodged loss / rules-correct**.
+- AEO (rejected — 3/5, one-time tariff-refund beat, falling 20d) — actual 1d **−13.99%** ($14.54 vs $16.90) — verdict **dodged big loss / rules-correct** — the low-quality one-off catalyst cratered.
+- SAP (rejected — 2/5 downtrend) — actual 1d **−1.47%** ($206.08 vs $209.15) — verdict **dodged loss / rules-correct**.
+
+**Day's top tradeable gainers (Sep-10, ≥$5, no warrants/units/rights):** only micro-cap pumps — **TNON +117% ($5.30)**, **DBGI +81% ($6.79)**, **PCLA +31% ($9.72)**. No liquid large-cap with a clean catalyst on the mover tape.
+
+**Best realistic miss:** **None clean.** All three ≥$5 gainers are thin micro-cap pumps (TNON medical device, DBGI, PCLA ADR) with no durable catalyst — off-universe, fail liquidity/not_extended. Not a surfacing failure.
+
+**Lessons:**
+- **Discipline paid real money this session** — every rejection FELL: SIG −4.6%, META −1.4%, AEO −14%, SAP −1.5%. Passing extended/pinned/one-off setups wasn't just "missed tiny gains" — it dodged genuine losses. The R:R and quant gates earned their keep.
+- **AEO validated the "low-quality one-time catalyst" filter** — a $196M tariff-refund beat on a falling 20d cratered −14% next session. Correct to reject a non-recurring driver on a broken chart.
+- **Energy leadership re-accelerating** on a fresh geopolitical oil spike (Brent >$100, Iran-tanker strikes) — but it makes XOP/USO gap into their 20d highs, 2R in breakout air; convertible only via a retest, never the spike.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE/XOP, oil spiking on Mideast risk) + **Semiconductors/AI** (QCOM/ORCL/MU, reignited by cooler CPI) ; recurring miss pattern = **liquid catalyst names pinned under / at / above their 20d highs with 2R in breakout air** (NVDA → HOOD → INTC → QCOM → SIG → META → XOP → USO) — convertible only via a lower-entry retest, never the gap/blow-off. Hard rules unchanged.
+
+---
+
 ## 2026-09-10 — Scorecard (prior session 2026-09-09)
 
 **Our picks (1d = Sep-9 close vs Sep-8 close):**

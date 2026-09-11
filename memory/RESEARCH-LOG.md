@@ -1765,3 +1765,32 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on; we hold XLE (green +5.62%, 4/5 confirmed, protective GTC stop @ $62.99 → trail to $63.02 at market-open). Today's catalyst names all fail 2:1: QCOM (AWS deal, 5/5) 0.62R under its spike high with 2R blue-sky; SIG (beat+raise, 4/5) at its 20d-high, extended; META (+6% gap, 4/5) pinned 0.11R under, extended; AEO (3/5) a one-time tariff-refund beat on a falling 20d; SAP (2/5) downtrend. Recurring miss pattern confirmed again = liquid catalysts pinned under/at/above their 20d highs with 2R in breakout air — convertible only via a lower-entry retest. Also no chase into ORCL/ADBE prints or the 8:30 ET PPI. Heat = XLE only (stop above entry); DD −0.62%. Week trades 0/3.
+
+## 2026-09-11 — Pre-market
+
+### Account
+- Equity: **$1,077.64** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $64.484 (+$9.34 / +3.76%)
+- Drawdown from peak: **−1.04%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4 sh @ $62.99, order dcfd369d) / Week trades: 0 new / Daytrade count: 0
+
+### Regime
+- Equity: **NEUTRAL** (SPY $757.87 just under its 50-day SMA $758.21, still rising) — SPY chopping around its 50d → **half size, best setups only**; inverse sleeve not sanctioned.
+- Macro: **August CPI (out today, Fri Sep-11) came in COOLER — +0.3% MoM vs +0.4% consensus** → rate-cut bets firmed, AI/semis trade reignited (SOX +2.5% in cited session). **Oil spiking — Brent >$100** on reports of US military strikes on Iranian tankers (USO +7% premkt, ConocoPhillips higher) — bullish tailwind for our XLE. VIX low-to-moderate. Sector tape: **Energy re-accelerating** (oil shock) + **Tech/Semis** leading on cool CPI; consumer/rate-sensitive lagging.
+
+### Position management (XLE)
+- XLE **5/5 confirmed** (trend/momentum/rel_strength/volume 2.01×/not_extended all true), last $64.94, sma20 $63.51 rising, hi_20d $66.13, ATR $1.19. Protective GTC stop @ $62.99 live (order dcfd369d). **Trail: keep $62.99** = max(current $62.99, last−2×ATR $62.55, 10d-low) — last−2ATR is LOWER, so no move (never widen/lower). $62.99 is ~3.0% below price (at the no-touch band edge) — market-open re-checks. Position value $259.76 = 24.1% eq (under 25% cap, no trim). Oil-spike tailwind reinforces the energy thesis; gain locked above breakeven → heat = locked-in gain, not risk.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.** Best catalyst names all fail the 2:1 R:R or the quant/trend gate — and neutral regime limits us to best-only, half-size.
+
+### Rejected
+- **XOP** (ETF, Energy E&P) — catalyst: oil spike (Brent >$100, Iran-tanker strikes) — quant **5/5 confirmed** (all true). Reject on **R:R**: last $195.46, risk/sh $7.94, resistance = 20d-high $197.96 → only **0.31R** of room; 2R target ~$211 sits blue-sky above the high. Pinned under its 20d high on the oil pop — convertible only via a retest. Also same theme as XLE (theme cap).
+- **USO** (ETF, oil commodity) — catalyst: same oil spike — quant **4/5 confirmed** (**not_extended FALSE**). Reject: at its 20d-high $158.80 after a +24.3% 10-day run — an extended geopolitical blow-off, 2R blue-sky. Classic chase.
+- **ORCL** (stock, Software/AI) — catalyst: blowout cloud/RPO earnings (Sep-9), +7% again premkt — quant **3/5** (rel_strength/volume/not_extended true; **trend FALSE — sma20 $149.6 falling**, momentum false). Reject: catalyst-on-broken-chart, gapping +7% = a gap chase on a down-trending 20d; our own lesson says the only clean entry is a lower-entry retest once the 20d turns up.
+- **ACVA** (stock) — catalyst: +43% premkt (news) — quant **2/5 NOT confirmed** (only volume/not_extended true; trend/momentum/rel_strength false, sma20 falling). Reject on quant.
+- Premarket ≥$5 gainers otherwise micro-cap/thin pumps (TNON/DBGI/PCLA, SURG/BDRX sub-$5) — off-universe. **GAP/AFRM** premkt pops on retail/fintech — no durable catalyst clearing quant+2:1.
+- Inverse sleeve (SQQQ/SH) — regime neutral (not risk-off), not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime neutral (SPY chopping its rising 50d) → best-only, half-size; we hold XLE (green +3.76%, back to 5/5 on the oil spike, GTC stop $62.99 above breakeven — keeps $62.99, market-open re-checks trail). Today's catalyst names all fail: XOP (oil, 5/5) 0.31R under its 20d high with 2R blue-sky and same theme as XLE; USO (oil, 4/5) extended at its high after +24% 10d; ORCL (5/5-headline but 3/5 quant) a gap-chase on a falling 20d; ACVA (2/5) unconfirmed. Recurring miss pattern confirmed again = liquid catalysts pinned/extended at their 20d highs with 2R in breakout air — convertible only via a lower-entry retest, never the gap/spike. Yesterday's rejections all FELL (SIG −4.6%, META −1.4%, AEO −14%, SAP −1.5%), so the discipline dodged real losses. Heat = XLE only (stop above entry); DD −1.04%. Week trades 0/3.
