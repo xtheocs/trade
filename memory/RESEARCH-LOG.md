@@ -1794,3 +1794,32 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime neutral (SPY chopping its rising 50d) → best-only, half-size; we hold XLE (green +3.76%, back to 5/5 on the oil spike, GTC stop $62.99 above breakeven — keeps $62.99, market-open re-checks trail). Today's catalyst names all fail: XOP (oil, 5/5) 0.31R under its 20d high with 2R blue-sky and same theme as XLE; USO (oil, 4/5) extended at its high after +24% 10d; ORCL (5/5-headline but 3/5 quant) a gap-chase on a falling 20d; ACVA (2/5) unconfirmed. Recurring miss pattern confirmed again = liquid catalysts pinned/extended at their 20d highs with 2R in breakout air — convertible only via a lower-entry retest, never the gap/spike. Yesterday's rejections all FELL (SIG −4.6%, META −1.4%, AEO −14%, SAP −1.5%), so the discipline dodged real losses. Heat = XLE only (stop above entry); DD −1.04%. Week trades 0/3.
+
+## 2026-09-14 — Pre-market
+
+### Account
+- Equity: **$1,083.42** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $65.93 (+$15.12 / +6.08%)
+- Drawdown from peak: **−0.51%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4 sh @ $62.99, order dcfd369d) / Week trades: 0 new (fresh week of Sep 14) / Daytrade count: 0
+
+### Regime
+- Equity: **risk_on** (SPY $764.14 over rising 50-day SMA $758.58) — trade long normally.
+- Macro/tape: **AI-slowdown fears spreading** — NVDA (−2.8%), MU (−5%), ORCL (−3.4%) all lower premarket as investors rotate out of high-growth AI/semis into established data-analytics names (RELX leading FTSE). Oil softer intraday but elevated (XLE still #1 YTD +46%). Fed week (FOMC decision ahead). Sector tape: Comm Services / Tech / Industrials leading last session; Utilities lagging.
+
+### Position management (XLE)
+- XLE **5/5 confirmed** (trend/momentum/rel_strength/volume/not_extended all true), last $65.125 (Friday close; live $65.93), sma20 $63.72 rising, hi_20d $66.13, ATR $1.20. Protective GTC stop @ $62.99 live (order dcfd369d). **Trail: keep $62.99** = max(current $62.99, last−2×ATR $62.73, 10d-low) — last−2ATR is LOWER, so no move (never widen/lower). $62.99 is ~4.5% below live price, outside the 3%-no-touch band; market-open re-checks. Position value $263.72 = 24.3% eq (under 25% cap, no trim). Energy thesis intact, gain locked well above breakeven → heat = locked-in gain, not risk.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.** Friday's liquid catalyst movers all fail the 2:1 R:R or trend gate; today's tape is AI-slowdown risk-off for that very theme.
+
+### Rejected
+- **DELL** (stock, Hardware/AI-servers) — catalyst: blowout earnings/guidance, +12% Fri — quant **4/5** (trend/momentum/rel_strength/volume true; **not_extended FALSE**, ~18% above sma20). Reject on **R:R**: last $567.14 sits AT its 20d-high $567.52 (~0R room), 2R target ~$696 blue-sky — pinned-at-high blow-off. Also $567/sh → one share is 52% of equity, un-sizable under the 25% cap.
+- **HPE** (stock, Hardware) — catalyst: earnings beat, +12% Fri — quant **4/5** (**not_extended FALSE**, 13.6% above sma20). Reject on **R:R**: last $62.08 pinned at its 20d-high $62.15 (~0.01R room), 2R blue-sky — same extended-gap pattern.
+- **NTAP** (stock, Storage) — catalyst: earnings, +8.5% Fri — quant **4/5** but **trend FALSE** (falling 20d). Reject: downtrend bounce, last $199.33 only 0.53R under its 20d-high $208.08 with 2R blue-sky.
+- **ACVA / GTBP / FEIM / KRSA** — Fri's ≥$5 gainers (+30–44%) are thin one-day spikes / micro-cap pumps, unconfirmed or extended blow-offs — off-universe, never chase.
+- Premarket ≥$5 gainers otherwise micro-cap/warrant pumps (TNON/BDRX/SER/CHNR) — off-universe.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on; we hold XLE (green +6.08%, 5/5 confirmed, protective GTC stop @ $62.99, market-open re-checks trail — keeps $62.99). Friday's catalyst names all fail 2:1: DELL/HPE (4/5) extended blow-offs pinned at their 20d highs with 2R in breakout air (DELL also un-sizable at $567/sh), NTAP (4/5) a downtrend earnings bounce. Recurring miss pattern confirmed again = liquid catalysts pinned at/above their 20d highs with 2R blue-sky — convertible only via a lower-entry retest, never the gap. Extra caution warranted: today's tape is an AI-slowdown selloff hitting the very AI-infra theme these represent. Heat = XLE only (stop above entry); DD −0.51%. Week trades 0/3.

@@ -13,6 +13,28 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-14 — Scorecard (prior session 2026-09-11)
+
+**Our picks (1d = Sep-11 close vs Sep-10 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **+0.28%** ($65.125 vs $64.94) — verdict **held, working** — GTC stop $62.99 above breakeven, now +6.1% unrealized; **5/5 confirmed**.
+- XOP (rejected on R:R — 5/5, 0.31R under 20d-high, same theme as XLE) — actual 1d **+0.15%** ($195.75 vs $195.46) — verdict **missed tiny gain / rules-correct** — pinned-at-high = no juice.
+- USO (rejected — extended 4/5, +24% 10d blow-off) — actual 1d **−2.19%** ($154.88 vs $158.34) — verdict **dodged loss / rules-correct** — the geopolitical oil spike faded.
+- ORCL (rejected — 3/5 gap-chase on a falling 20d) — actual 1d **−1.81%** ($150.30 vs $153.075) — verdict **dodged loss / rules-correct** — the +7% gap sold off intraday.
+- ACVA (rejected — 2/5 unconfirmed, sma20 falling) — actual 1d **+44.1%** ($10.41 vs $7.225) — verdict **missed / rules-correct** — an unconfirmed momentum pump; chasing a 2/5 name violates quant ≥3/5, we never do it.
+
+**Day's top tradeable gainers (Sep-11, ≥$5, no warrants/units/rights):** **ACVA +44% ($10.41)** auto-auction, **FEIM +42% ($88.38)** defense/space comms, **GTBP +39% ($8.61)** biotech, **SMZ +36% ($17.43)**, **KRSA +30% ($31.91)** biotech — all thin one-day spikes. Larger-cap catalyst movers: **DELL +12%, HPE +12%, NTAP +8.5%** (AI-server/storage earnings).
+
+**Best realistic miss:** **None clean.** FEIM is the highest-quality name (defense/space-comms) but a +42% single-session gap is an extended blow-off (fails not_extended); ACVA/GTBP/KRSA are unconfirmed micro-cap pumps. No liquid name that would pass quant ≥3/5 AND clear 2:1. Not a surfacing failure.
+
+**Lessons:**
+- Rejections dodged real money again — USO −2.2%, ORCL −1.8% next session; XOP's +0.15% confirms pinned-at-high setups carry no juice. The extended/gap-chase filter keeps earning its keep.
+- ACVA +44% is the textbook "why we don't chase 2/5" — an unconfirmed pump on a falling 20d; buying it would have been luck, not process, and repeats far more often than it pays.
+- AI-server/storage earnings (DELL/HPE +12%, NTAP +8.5%) all gapped ≥13% above their 20d — same pinned-at-high miss pattern, now into an emerging **AI-slowdown-fear** tape (NVDA/MU/ORCL down premarket Sep-14), so chasing the blow-off is doubly wrong.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE, oil — softening intraday but #1 YTD +46%) + **Tech/AI-infra** (semis + now DELL/HPE/NTAP data-center hardware) ; recurring miss pattern = **liquid catalyst names pinned at/above their 20d highs with 2R in breakout air** (NVDA→HOOD→INTC→QCOM→SIG→META→XOP→USO→DELL→HPE) — convertible only via a lower-entry retest, never the gap/blow-off. Hard rules unchanged.
+
+---
+
 ## 2026-09-11 — Scorecard (prior session 2026-09-10)
 
 **Our picks (1d = Sep-10 close vs Sep-9 close):**
