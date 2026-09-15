@@ -1,3 +1,3 @@
-# Pending Trades — 2026-09-14
+# Pending Trades — 2026-09-15
 
-No trades. Reason: regime risk_on and we hold XLE (5/5, GTC stop $62.99 above breakeven). Friday's catalyst movers all fail the gates — DELL/HPE (4/5) extended blow-offs pinned at their 20d highs with 2R blue-sky (DELL also un-sizable at $567/sh vs the 25% cap), NTAP (4/5) a downtrend earnings bounce. Today's tape is an AI-slowdown selloff (NVDA/MU/ORCL lower) hitting that very AI-infra theme — no chase.
+No trades. Reason: regime risk_on but FOMC-week overhang (VIX +8%, futures soft, decision Sep 16) and we hold XLE (5/5, GTC stop $62.99 above breakeven). Today's catalyst names all fail the gates — XOP (oil, 4/5) 0.72R under its 20d high with 2R blue-sky and same theme as XLE; USO (oil, 4/5) extended at its high after +20.8% 10d; premarket movers are micro-cap pumps; semis/AI-infra mid-breakdown. No new trade.

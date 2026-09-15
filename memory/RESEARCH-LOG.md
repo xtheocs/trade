@@ -1823,3 +1823,31 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on; we hold XLE (green +6.08%, 5/5 confirmed, protective GTC stop @ $62.99, market-open re-checks trail — keeps $62.99). Friday's catalyst names all fail 2:1: DELL/HPE (4/5) extended blow-offs pinned at their 20d highs with 2R in breakout air (DELL also un-sizable at $567/sh), NTAP (4/5) a downtrend earnings bounce. Recurring miss pattern confirmed again = liquid catalysts pinned at/above their 20d highs with 2R blue-sky — convertible only via a lower-entry retest, never the gap. Extra caution warranted: today's tape is an AI-slowdown selloff hitting the very AI-infra theme these represent. Heat = XLE only (stop above entry); DD −0.51%. Week trades 0/3.
+
+## 2026-09-15 — Pre-market
+
+### Account
+- Equity: **$1,078.18** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $64.62 (+$9.88 / +3.97%)
+- Drawdown from peak: **−0.99%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4 sh @ $62.99, order dcfd369d) / Week trades: 0 new (week of Sep 14) / Daytrade count: 0
+
+### Regime
+- Equity: **risk_on** (SPY $760.755 over rising 50-day SMA $758.90) — trade long normally, but FOMC-week overhang warrants caution.
+- Macro/tape: **FOMC Sep 15–16 (decision ahead)** — VIX **17.1 (+8%)** rising, S&P futures **−0.3/−0.5%**. **Oil spiking again** (WTI ~$103 +2.3%, Brent ~$106) — energy tailwind for XLE. **Semis/AI-infra breaking down** (semis −4.67% on the week on AI-slowdown/AI-safety fears); leadership rotating to **Comm Services** (+2.8% wk) / Health Care. Energy #1 YTD (+47%) but flagged approaching overbought.
+
+### Position management (XLE)
+- XLE **5/5 confirmed** (trend/momentum/rel_strength/volume 1.65×/not_extended all true), last $64.54, sma20 $63.85 rising, hi_20d $66.13, ATR $1.25. Protective GTC stop @ $62.99 live (order dcfd369d). **Trail: keep $62.99** = max(current $62.99, last−2×ATR $62.05, 10d-low) — last−2ATR is LOWER, so no move (never widen/lower). $62.99 is ~2.5% below live price (inside the 3%-no-touch band → cannot tighten). Position value $258.48 = 24.0% eq (under 25% cap, no trim). Oil-spike tailwind reinforces the energy thesis; gain locked above breakeven → heat = locked-in gain, not risk.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.** Today's premarket movers are all thin micro-cap pumps (off-universe); no liquid large-cap has a fresh, durable catalyst clearing quant + 2:1. The only documentable fresh angle (oil spike) is same-theme as XLE and pinned/extended.
+
+### Rejected
+- **XOP** (ETF, Energy E&P) — catalyst: oil spike (WTI ~$103, Brent ~$106) — quant **4/5 confirmed** (volume FALSE 0.79×). Reject on **R:R**: last $193.46, risk/sh $8.12, resistance = 20d-high $199.29 → only **0.72R** of room; 2R target ~$209.70 sits blue-sky above the high. Also **same theme as XLE** (energy already 24% eq; theme cap) into an approaching-overbought sleeve during FOMC week.
+- **USO** (ETF, oil commodity) — catalyst: same oil spike — quant **4/5 confirmed** (**not_extended FALSE**). Reject: at $156.63 near its 20d-high $160.16 after a +20.8% 10-day run — an extended geopolitical blow-off, only 0.37R to the high, 2R blue-sky. Classic chase.
+- **Premarket ≥$5 gainers** (FTFT +179%, BMGL +56%, VNCE +47%, GTBP +35%, ELMT +33%, CRWC +28%; plus BDRX/MYSZ/VEEA-merger/SER/CHNR pumps) — thin one-day micro-cap spikes / unexplained moves, unconfirmed or off-universe. Never chase.
+- **Semis/AI-infra** (MU/NVDA/INTC premarket bounce) — the theme is mid-breakdown (−4.67% wk on AI-slowdown/safety fears); no clean lower-entry retest, regime-wrong micro-tape. No trade.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on but FOMC-week overhang (VIX +8%, futures soft, decision Sep 16). We hold XLE (green +3.97%, back to 5/5 on the fresh oil spike, GTC stop $62.99 above breakeven — keeps $62.99, market-open re-checks trail). Today's catalyst names all fail: XOP (oil, 4/5) 0.72R under its 20d high with 2R blue-sky and same theme as XLE; USO (oil, 4/5) extended at its high after +20.8% 10d; premarket movers are micro-cap pumps; semis/AI-infra mid-breakdown. Yesterday's rejections all cratered (DELL −5.8%, HPE −10.8%, NTAP −5.6%), so the pinned-at-high discipline dodged real losses again. Heat = XLE only (stop above entry); DD −0.99%. Week trades 0/3.

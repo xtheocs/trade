@@ -13,6 +13,27 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-15 — Scorecard (prior session 2026-09-14)
+
+**Our picks (1d = Sep-14 close vs Sep-11 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **−0.90%** ($64.54 vs $65.125) — verdict **held, working** — GTC stop $62.99 above breakeven, +3.97% unrealized; back to **5/5 confirmed** on the fresh oil spike.
+- DELL (rejected on R:R — 4/5, extended, pinned at 20d-high, un-sizable at $567/sh) — actual 1d **−5.83%** ($534.06 vs $567.135) — verdict **dodged loss / rules-correct** — the +12% earnings blow-off reversed.
+- HPE (rejected on R:R — 4/5, extended, pinned at 20d-high) — actual 1d **−10.75%** ($55.405 vs $62.08) — verdict **dodged big loss / rules-correct** — the +12% gap cratered into the AI-slowdown tape.
+- NTAP (rejected — 4/5, trend FALSE, downtrend earnings bounce) — actual 1d **−5.57%** ($188.22 vs $199.33) — verdict **dodged loss / rules-correct**.
+
+**Day's top tradeable gainers (Sep-14, ≥$5, no warrants/units/rights):** **FTFT +179% ($8.04)**, **BMGL +56% ($7.14)**, **VNCE +47% ($7.65)**, **GTBP +35% ($11.63)** biotech, **ELMT +33% ($21.50)**, **CRWC +28% ($35.04)** — all thin one-day spikes. No liquid large-cap catalyst mover on the tape.
+
+**Best realistic miss:** **None clean.** ELMT/CRWC are the higher-priced names but +28–33% single-session spikes with no identifiable durable catalyst that would pass quant (unexplained/thin); FTFT/BMGL/VNCE/GTBP are micro-cap pumps — off-universe or fail not_extended. Not a surfacing failure.
+
+**Lessons:**
+- Discipline dodged real money again — all three AI-server/storage rejections cratered next session (DELL −5.8%, HPE −10.8%, NTAP −5.6%). The pinned-at-20d-high blow-off filter keeps paying.
+- HPE −10.8% is the cleanest validation: a +12% earnings gap pinned at its 20d high reversed hard into the AI-slowdown tape — chasing the gap would have been an instant loss.
+- No liquid catalyst name cleared quant ≥3/5 AND 2:1 for a fourth straight session; micro-cap pumps dominate the mover tape — nothing to surface, not a miss.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (XLE/oil, spiking again on Mideast risk, #1 YTD +47% but approaching overbought) + **fading Tech/AI-infra** (semis −4.67% wk on AI-slowdown/safety fears — leadership rotating to **Comm Services**/Health Care) ; recurring miss pattern = **liquid catalyst names pinned at/above their 20d highs with 2R in breakout air** (NVDA→HOOD→INTC→QCOM→SIG→META→XOP→USO→DELL→HPE→NTAP) — convertible only via a lower-entry retest, never the gap/blow-off. Hard rules unchanged.
+
+---
+
 ## 2026-09-14 — Scorecard (prior session 2026-09-11)
 
 **Our picks (1d = Sep-11 close vs Sep-10 close):**
