@@ -1851,3 +1851,31 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on but FOMC-week overhang (VIX +8%, futures soft, decision Sep 16). We hold XLE (green +3.97%, back to 5/5 on the fresh oil spike, GTC stop $62.99 above breakeven — keeps $62.99, market-open re-checks trail). Today's catalyst names all fail: XOP (oil, 4/5) 0.72R under its 20d high with 2R blue-sky and same theme as XLE; USO (oil, 4/5) extended at its high after +20.8% 10d; premarket movers are micro-cap pumps; semis/AI-infra mid-breakdown. Yesterday's rejections all cratered (DELL −5.8%, HPE −10.8%, NTAP −5.6%), so the pinned-at-high discipline dodged real losses again. Heat = XLE only (stop above entry); DD −0.99%. Week trades 0/3.
+
+## 2026-09-16 — Pre-market
+
+### Account
+- Equity: **$1,081.70** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $65.50 (+$13.40 / +5.39%)
+- Drawdown from peak: **−0.67%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4 sh @ $63.32, order d0828e1d) / Week trades: 0 new (week of Sep 14) / Daytrade count: 0
+
+### Regime
+- Equity: **neutral** (SPY $757.42 just under its rising 50-day SMA $759.02) — half size, best setups only.
+- Macro/tape: **FOMC DECISION TODAY (Sep 16)** — feed frames it as a possible *first rate hike in 3 years* (hawkish-surprise risk); S&P futures +0.2%, Nasdaq +0.4% pre-decision. **Oil at a 4-month high** (WTI ~$104–105, Brent ~$108 on Mideast supply fears) — direct tailwind for XLE. Sector leadership: **Energy #1**, relative Tech/Materials; laggards Consumer Discretionary/Utilities/Comm Services. No new positions taken into the FOMC event.
+
+### Position management (XLE)
+- XLE **5/5 confirmed** (trend/momentum/rel_strength/volume 1.25×/not_extended all true), last $65.94, sma20 $64.01 rising, hi_20d $66.13, ATR $1.28. Protective GTC stop @ $63.32 live (order d0828e1d). **Trail: move up to $63.38** = max(current $63.32, last−2×ATR $63.38, 10d-low) — last−2ATR is marginally higher, so trail up $0.06 (never down/widen). $63.38 is ~3.9% below live, outside the 3%-no-touch band → allowed; market-open re-checks/places. Position value $262 = 24.2% eq (under 25% cap, no trim). Oil-spike tailwind intact; gain locked well above breakeven → heat = locked-in gain, not risk.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.** No fresh liquid large-cap catalyst on the tape into the FOMC; the only documentable angle (oil spike) is same-theme as XLE (theme cap) and extended.
+
+### Rejected
+- **XOP / USO** (ETFs, oil) — catalyst: oil at 4-mo high — **same energy theme as XLE** (already 24% eq → theme cap) and both extended after their run; USO also fails not_extended. No add to an already-held, approaching-overbought theme into FOMC.
+- **Premarket ≥$5 gainers** (NFEGP +776% $492 thin preferred, AT +563% $20 unexplained, VEEA +149% $5.71 merger pump, YYAI/MEDS/TPST micro-caps) — thin one-day spikes / off-universe / no durable catalyst passing quant. Never chase.
+- **INTC** (+2.98% premarket, no stated catalyst) — sma20 falling on prior reads, no fresh durable catalyst; the semis/AI-infra theme is mid-breakdown. No trade.
+- **Stale earnings** (ORCL/ADBE/AVAV) — prints from Sep-10/11, already digested; not today's catalyst. LEN reports AMC today — no pre-print entry.
+- Inverse sleeve (SQQQ/SH) — regime neutral (not risk-off), not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime neutral (SPY just under its rising 50d) → half-size/best-only, and it is **FOMC decision day** with a live hawkish-surprise risk (possible first hike in 3 years) — no new positions into the event. We hold XLE (green +5.39%, 5/5 confirmed on the oil spike, GTC stop trailed to $63.38 above breakeven — market-open re-checks). Today's only angle (oil) is same-theme as XLE and extended (XOP/USO theme-cap rejects); premarket movers are micro-cap pumps; semis/AI-infra mid-breakdown. Heat = XLE only (stop above entry); DD −0.67%. Week trades 0/3.

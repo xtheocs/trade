@@ -13,6 +13,26 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-16 — Scorecard (prior session 2026-09-15)
+
+**Our picks (1d = Sep-15 close vs Sep-14 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **+2.17%** ($65.94 vs $64.54) — verdict **held, working** — GTC stop trailed to $63.32 above breakeven, +5.4% unrealized; **5/5 confirmed** on the fresh oil spike (WTI ~$105).
+- XOP (rejected on R:R + theme-cap — 4/5, 0.72R under 20d-high, same energy theme as XLE) — actual 1d **+3.22%** ($199.68 vs $193.46) — verdict **missed / rules-correct** — it broke its 20d high, but buying it = doubling energy exposure we already hold via XLE (theme cap), not new alpha.
+- USO (rejected — extended 4/5, +20.8% 10d oil blow-off) — actual 1d **+3.36%** ($161.89 vs $156.63) — verdict **missed / rules-correct** — same oil theme, extended chase; captured the move via XLE instead.
+
+**Day's top tradeable gainers (Sep-15, ≥$5, no warrants/units/rights):** **NFEGP +776% ($492.50)** thin preferred spike, **AT +563% ($20.03)** unexplained pump, **VEEA +149% ($5.71)** merger pump, **HQ +28% ($13.20)** thin spike — all one-day micro-cap/unexplained pumps. No liquid large-cap catalyst mover on the tape.
+
+**Best realistic miss:** **None clean.** The filtered gainers are all thin pumps (NFEGP/AT unexplained spikes, VEEA a recurring merger pump) that fail not_extended and have no durable catalyst — never chase. XOP/USO both ran +3% but were theme-cap-correct rejects: energy is already held via XLE (+2.17%), so buying either would double the same bet, not add edge. Not a surfacing failure.
+
+**Lessons:**
+- Energy ran again (WTI ~$105, 4-month high on Mideast supply fears) — XLE +2.17% captured it; XOP +3.2% / USO +3.4% were theme-cap-correct rejects, not missed alpha (doubling one theme isn't diversification).
+- FTFT −28.6% ($5.74): Sep-14's +179% micro-cap pump cratered the very next session — textbook why the mover-tape spikes are never chased, they mean-revert violently.
+- Fifth straight session with no liquid large-cap catalyst clearing quant ≥3/5 AND 2:1; the mover tape is all micro-cap/unexplained pumps — nothing to surface, not a miss.
+
+**Rolling 7d:** recurring leading sectors = **Energy** (oil ~$105 4-mo high, XLE #1 YTD +47%, but flagged approaching-overbought and concentrated in XOM/CVX) + relative **Tech/Materials** leaders; laggards Consumer Discretionary/Utilities/Comm Services ; recurring miss pattern = **liquid catalyst names pinned at/above their 20d highs with 2R in breakout air** (NVDA→HOOD→INTC→QCOM→SIG→META→XOP→USO→DELL→HPE→NTAP) — convertible only via a lower-entry retest, never the gap/blow-off. Hard rules unchanged.
+
+---
+
 ## 2026-09-15 — Scorecard (prior session 2026-09-14)
 
 **Our picks (1d = Sep-14 close vs Sep-11 close):**
