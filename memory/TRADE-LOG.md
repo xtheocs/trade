@@ -835,3 +835,14 @@ drawdown are measured from here.
 **Notes:** FOMC decision day — sole position XLE (4 sh @ $62.15) gave back −2.84% (from Sep 15's $66.02 close to $64.06), confirmed via account/positions/orders pull. Unrealized P&L fell from +$15.48 (Sep 15) to +$7.64 (+3.07%). Protective GTC stop unchanged at $63.32 (order d0828e1d, resting since Sep 15 17:05 UTC) — now only 1.16% below live price, having tightened from the 4.1% cushion at the time it was set; well within the no-new-stop-inside-3% band, but this is an existing stop, not a fresh one, so it stands per the never-move-down rule. Flagging for tomorrow's midday scan to reassess given the compressed cushion. No new trades today; weekly trades 0/3 (week of Sep 14). Day P&L −$7.84 (−0.72%) vs Sep 15's $1,083.78 close. Phase P&L −$4.06 (−0.38%) vs the $1,080.00 starting equity — 68 sessions in, essentially flat. Drawdown −1.20% from the $1,089.01 peak — 20% breaker inactive, nowhere close. Tomorrow: pre-market rescans regime/catalyst/quant post-FOMC; watch whether XLE's stop needs midday attention given the narrowed cushion, and whether the FOMC reaction reopens or closes new setups.
 
 ---
+
+### Sep 17 — EOD Snapshot (Day 69, Thursday)
+**Portfolio:** $1,077.98 | **Cash:** $819.70 (76.0%) | **Day P&L:** +$2.04 (+0.19%) | **Phase P&L:** −$2.02 (−0.19%) | **Peak:** $1,089.01 | **DD:** −1.01%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 4 | $62.15 | $64.57 | +0.84% | +$9.68 (+3.89%) | $63.32 |
+
+**Notes:** Sole position XLE (4 sh @ $62.15) recovered +0.84% to $64.57, confirmed via account/positions/orders pull — unrealized P&L up to +$9.68 (+3.89%) from Sep 16's +$7.64. Protective GTC stop unchanged at $63.32 (order d0828e1d, resting since Sep 15) — cushion is 1.94% below live price, inside the 3%-no-touch band, so no trail action possible today regardless; this is an existing stop, never moved down. Pre-market flagged the thesis weakening (XLE dropped to 3/5 — momentum/rel_strength both turned false as energy rolled from #1 sector leader to the day's worst post-FOMC, −2.97%) but the gain remains locked above breakeven, so the plan was hold-and-let-the-stop-decide; GNRC's real Amazon generator-deal catalyst failed quant 1/5 (35% gap off a downtrend) and was rejected as a chase, no lower-entry retest today. No new trades; weekly trades 0/3 (week of Sep 14, four straight no-trade days). Day P&L +$2.04 (+0.19%) vs Sep 16's $1,075.94 close. Phase P&L −$2.02 (−0.19%) vs the $1,080.00 starting equity — 69 sessions in, essentially flat. Drawdown −1.01% from the $1,089.01 peak — 20% breaker inactive, nowhere close. Tomorrow: pre-market rescans regime/catalyst/quant; watch whether energy's post-FOMC laggard rotation continues to pressure XLE's already-tight 3/5 read, and whether the stop needs midday attention if the cushion compresses further.
+
+---
