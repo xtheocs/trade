@@ -1879,3 +1879,31 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime neutral (SPY just under its rising 50d) → half-size/best-only, and it is **FOMC decision day** with a live hawkish-surprise risk (possible first hike in 3 years) — no new positions into the event. We hold XLE (green +5.39%, 5/5 confirmed on the oil spike, GTC stop trailed to $63.38 above breakeven — market-open re-checks). Today's only angle (oil) is same-theme as XLE and extended (XOP/USO theme-cap rejects); premarket movers are micro-cap pumps; semis/AI-infra mid-breakdown. Heat = XLE only (stop above entry); DD −0.67%. Week trades 0/3.
+
+## 2026-09-17 — Pre-market
+
+### Account
+- Equity: **$1,075.86** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $64.04 (+$7.56 / +3.04%)
+- Drawdown from peak: **−1.21%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4 sh @ $63.32, order d0828e1d) / Week trades: 0 new (week of Sep 14) / Daytrade count: 0
+
+### Regime
+- Equity: **neutral** (SPY $754.05 just under its rising 50-day SMA $759.15) — half size, best setups only.
+- Macro/tape: **Post-FOMC (Sep 16 decision)** read as **hawkish** — Fed (Warsh) warned on inflation; **8 of 11 sectors closed red, Energy −2.97% the worst, Financials −1.63%**, Tech/Health the only modest gainers. Oil **pausing/consolidating** (WTI ~$103, Brent ~$105.5) on faster Saudi supply restoration — the energy tailwind is fading. This week's leadership: **Technology / semis** (held green post-FOMC); laggards Energy / Financials / Consumer Disc / Comm Services.
+
+### Position management (XLE)
+- XLE **3/5 confirmed** (trend TRUE, momentum FALSE, rel_strength FALSE, volume 1.72× TRUE, not_extended TRUE), last $64.05, sma20 $64.03 rising, hi_20d $66.13, ATR $1.32. Protective GTC stop @ $63.32 live (order d0828e1d). **Trail: keep $63.32** = max(current $63.32, last−2×ATR $61.41, 10d-low) — last−2ATR is LOWER, so no move (never widen/lower). $63.32 is ~1.14% below live (inside the 3%-no-touch band → cannot tighten). Position value $256.16 = 23.8% eq (under 25% cap, no trim). **Thesis weakening:** energy rolled from #1 leader to the day's worst sector post-FOMC and oil is consolidating — but momentum/RS just dropped, the stop sits above breakeven (gain locked), and 3/5 still holds. Hold and let the trailing stop decide; market-open re-checks the trail.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **GNRC** (stock, Generac) — catalyst: **real & durable** — Amazon data-center backup-generator supply deal (~$2.4B initial, up to $8B, plus Amazon warrants), AI/data-center demand — but quant **1/5 (NOT confirmed)**: sma20 falling ($190.37), last $175.19 **below** its 20d SMA, ret_10d −3.4%, RS −2.4%, volume 0.68×. It gapped **+35% premarket (~$236)** off a **downtrend** into blue-sky above its 20d high ($212.10) — a gap-chase with no established trend and 2R (ATR $7.28 → risk/sh $14.56) landing in unproven air. **Reject on quant + gap-blow-off.** Watch for a lower-entry retest that builds a new base; do not chase the gap.
+- **INTC / NVDA / MU** (semis, +1.4–2.5% premarket) — most-active by volume but **no fresh durable catalyst** on the tape; INTC's 20d still falling. Semis-relief bounce, not a setup. No trade.
+- **Premarket ≥$5 gainers** (HSAI +708%, ZTG +306%, DKI +116%, ZJYL +119%, YYAI thin) — thin one-day micro-cap/unexplained pumps, off-universe or fail not_extended. Never chase.
+- **Energy adds (XOP/USO)** — theme is now a **laggard** post-FOMC and oil is consolidating; same theme as XLE (theme cap). No add.
+- Inverse sleeve (SQQQ/SH) — regime neutral (not risk-off), not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime neutral (SPY just under its rising 50d → half-size/best-only) and the tape just turned hawkish post-FOMC (8/11 sectors red). We hold XLE (green +3.0%, 3/5 confirmed, GTC stop $63.32 above breakeven — thesis weakening as energy rolls from leader to laggard, but the stop protects the locked gain; market-open re-checks the trail). GNRC has the week's first real large-cap catalyst (Amazon $2.4–8B generator deal) but fails quant 1/5 — a +35% gap off a downtrend into blue-sky, the textbook gap-chase we never take; watch for a lower-entry retest. Semis bouncing but catalyst-less; premarket movers micro-cap pumps. Heat = XLE only (stop above entry); DD −1.21%. Week trades 0/3.

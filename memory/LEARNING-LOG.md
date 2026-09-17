@@ -13,6 +13,27 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-17 — Scorecard (prior session 2026-09-16)
+
+**Our picks (1d = Sep-16 close vs Sep-15 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **−2.87%** ($64.05 vs $65.94) — verdict **held, working** — GTC stop $63.32 above breakeven, +3.0% unrealized; back to **3/5 confirmed** but energy sold off hard post-FOMC; thesis weakening, stop protects.
+- XOP (rejected on R:R + theme-cap — 4/5, same energy theme as XLE) — actual 1d **−3.96%** ($191.78 vs $199.68) — verdict **dodged loss / rules-correct** — energy rolled over post-FOMC; not-adding-to-XLE was correct.
+- USO (rejected — extended 4/5, oil blow-off) — actual 1d **−3.51%** ($156.21 vs $161.89) — verdict **dodged loss / rules-correct** — same faded oil theme.
+- INTC (rejected — no fresh durable catalyst, falling 20d, semis mid-breakdown) — actual 1d **+4.02%** ($101.02 vs $97.12) — verdict **missed / trend-correct at the time** — semis-relief bounce, but chasing a falling-20d name into a hawkish tape isn't the edge.
+
+**Day's top tradeable gainers (Sep-16, ≥$5, no warrants/units/rights):** **MEDS +274% ($6.07)**, **AEHL +79% ($9.22)**, **HCWC +41% ($14.15)** — all thin one-day micro-cap spikes. Losers NGHT −31% ($14.75), TANH −24% ($14.94). No liquid large-cap catalyst mover on the tape.
+
+**Best realistic miss:** **INTC +4.0%** is the lone liquid large-cap that ran, but it bounced on semis-relief with a **falling 20-day** (rejection was trend-correct) into a hawkish post-FOMC tape — not a clean surfacing failure. Filtered gainers are all thin pumps (MEDS/AEHL/HCWC) — never chase.
+
+**Lessons:**
+- Post-FOMC flipped the tape: Fed (Warsh) hawkish / inflation warning → **8 of 11 sectors red, Energy −2.97% the worst**. Our XLE theme is now a **laggard**, not a leader — thesis weakening (still 3/5, stop above breakeven protects the gain).
+- Discipline dodged again — XOP −4.0% / USO −3.5% theme-cap rejects both fell with energy; doubling the XLE bet would have added loss, not alpha.
+- Sixth straight session with no clean liquid catalyst clearing quant ≥3/5 AND 2:1. GNRC's Amazon deal (Sep-17) is the first real large-cap catalyst in a week, but it gapped +35% off a **downtrend** (1/5) into blue-sky — a gap-chase, not a setup.
+
+**Rolling 7d:** recurring leading sectors = **Energy fading post-FOMC** (was #1 YTD +43%, now the day's worst at −2.97% on the hawkish decision) → leadership rotating to **Technology / semis** (the only groups green post-FOMC); laggards **Energy / Financials / Consumer Disc / Comm Services** ; recurring miss pattern = **liquid catalyst names pinned at/above their 20d highs (or gapping blue-sky) with 2R in breakout air** (…→XOP→USO→DELL→HPE→NTAP→GNRC gap) — convertible only via a lower-entry retest, never the gap/blow-off. Hard rules unchanged.
+
+---
+
 ## 2026-09-16 — Scorecard (prior session 2026-09-15)
 
 **Our picks (1d = Sep-15 close vs Sep-14 close):**
