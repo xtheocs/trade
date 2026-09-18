@@ -1,3 +1,3 @@
-# Pending Trades — 2026-09-17
+# Pending Trades — 2026-09-18
 
-No trades. Reason: regime neutral (SPY just under its rising 50d → half-size/best-only) and the tape turned hawkish post-FOMC (8/11 sectors red, Energy −2.97%). We hold XLE (3/5, GTC stop $63.32 above breakeven). GNRC's Amazon $2.4–8B generator deal is the week's first real large-cap catalyst but fails quant 1/5 — a +35% gap off a downtrend into blue-sky (gap-chase, not a setup); watch for a lower-entry retest. Semis bouncing but catalyst-less; other movers are micro-cap pumps. No new trade.
+No trades. Reason: regime flipped risk_on (SPY reclaimed its rising 50d) on a semis-led relief rally, but no name cleared all gates. INTC (SK Hynix talks) is 4/5 but an extended chase pinned 0.23R under its 20d high — 2R lands in breakout air, fails 2:1 (watch a $111 breakout-retest). MU rides the group with no own catalyst and is unsizable; NVDA 2/5; GNRC a gap-and-fade off a falling 20d. Hold XLE (3/5, GTC stop $63.32 above breakeven). No new trade.

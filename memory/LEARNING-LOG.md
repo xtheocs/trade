@@ -13,6 +13,28 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-18 — Scorecard (prior session 2026-09-17)
+
+**Our picks (1d = Sep-17 close vs Sep-16 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **+0.64%** ($64.46 vs $64.05) — verdict **held, working** — GTC stop $63.32 above breakeven, +3.8% unrealized; 3/5 as energy stays a laggard, stop protects the locked gain.
+- GNRC (stock — rejected, quant 1/5 gap-chase off a falling 20d) — actual 1d **+18.36%** ($207.36 vs $175.19) — verdict **rejected, rules-correct** — it gapped to a $229.50 open on the Amazon deal then **faded to $207.36 (−9.6% from the open)**: chasing the gap lost money intraday; the reject was right.
+- INTC (stock — rejected, no fresh catalyst + falling 20d at the time) — actual 1d **+7.65%** ($108.75 vs $101.02) — verdict **missed / trend-correct then** — semis-relief continuation; the SK-Hynix-talks catalyst only broke this morning (Sep-18), not Sep-17.
+- NVDA (rejected — 2/5) — actual 1d **+2.55%** ($219.40 vs $213.94) — verdict **rejected, correct** — no confirmation, just riding the semis bid.
+- MU (rejected — no specific catalyst) — actual 1d **+5.45%** ($976.92 vs $926.40) — verdict **rejected / semis-drift** — rode the group, no clean own catalyst; also unsizable ($977/sh).
+
+**Day's top tradeable gainers (Sep-17, ≥$5, no warrants/units/rights):** **AEMD +374% ($6.78)**, **DAIC +164% ($5.30)**, **BIAF +64% ($8.75)**, **NGHT +45% ($21.46)** — all thin one-day micro-cap spikes. No liquid large-cap catalyst mover on the tape besides the semis-relief drift (INTC/MU/NVDA).
+
+**Best realistic miss:** **None clean.** INTC +7.65% is the lone liquid large-cap that ran, but on Sep-17 it still had a **falling 20-day** and no confirmed fresh catalyst (SK-Hynix-talks headline is Sep-18) — the reject was trend-correct. GNRC +18% *close* but gapped-and-faded −9.6% from the open — a gap-chase, correctly rejected. Filtered gainers are all thin pumps (AEMD/DAIC/BIAF/NGHT) — never chase.
+
+**Lessons:**
+- Post-FOMC tape flipped back **risk-on**: SPY reclaimed its rising 50d ($762.6 vs $759.5), semis (INTC/MU/NVDA/GOOGL) leading premarket — leadership is now **Technology/semiconductors**, Energy a laggard.
+- Gap-and-fade proof: GNRC opened +32% then bled −9.6% to the close — the exact reason we never chase the gap; a lower-entry retest that builds a base is the only way in.
+- Seventh straight session with no liquid large-cap catalyst clearing quant ≥3/5 AND 2:1 with room. INTC is now 4/5 confirmed but pinned 0.23R under its 20d high (2R in breakout air) and not_extended=false — the recurring pinned-at-highs pattern, convertible only via a lower entry.
+
+**Rolling 7d:** recurring leading sectors = **Technology / semiconductors** (SMH/XLK/semis — INTC/MU/NVDA led the post-FOMC bounce; SPY back over its rising 50d, risk_on) ; **Energy rolled from #1 to laggard** post-FOMC (XLE now 3/5) ; laggards Energy / Consumer Disc / Utilities / Comm Services ; recurring miss pattern = **liquid catalyst names pinned at/above their 20d highs (or gapping blue-sky) with 2R in breakout air** (…→XOP→USO→DELL→HPE→NTAP→GNRC→INTC) — convertible only via a lower-entry retest, never the gap/blow-off. Hard rules unchanged.
+
+---
+
 ## 2026-09-17 — Scorecard (prior session 2026-09-16)
 
 **Our picks (1d = Sep-16 close vs Sep-15 close):**

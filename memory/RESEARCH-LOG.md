@@ -1907,3 +1907,32 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime neutral (SPY just under its rising 50d → half-size/best-only) and the tape just turned hawkish post-FOMC (8/11 sectors red). We hold XLE (green +3.0%, 3/5 confirmed, GTC stop $63.32 above breakeven — thesis weakening as energy rolls from leader to laggard, but the stop protects the locked gain; market-open re-checks the trail). GNRC has the week's first real large-cap catalyst (Amazon $2.4–8B generator deal) but fails quant 1/5 — a +35% gap off a downtrend into blue-sky, the textbook gap-chase we never take; watch for a lower-entry retest. Semis bouncing but catalyst-less; premarket movers micro-cap pumps. Heat = XLE only (stop above entry); DD −1.21%. Week trades 0/3.
+
+## 2026-09-18 — Pre-market
+
+### Account
+- Equity: **$1,076.04** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $64.46 (+$7.74 / +3.11%)
+- Drawdown from peak: **−1.19%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4 sh @ $63.32, order d0828e1d) / Week trades: 0 new (week of Sep 14) / Daytrade count: 0
+
+### Regime
+- Equity: **risk_on** (SPY $762.64 back **above** its rising 50-day SMA $759.50) — full size, best setups. Upgraded from neutral: SPY reclaimed the 50d on a post-FOMC relief rally.
+- Macro/tape: Broad risk-on premarket — S&P futures +1.1%, Nasdaq +1.7%, **semis leading** (INTC/MU/NVDA/GOOGL/AMD all green). **BOJ hiked to 1.25%** (31-yr high) — macro, not a direct equity driver for us. **Iran struck a US-escorted tanker in the Strait of Hormuz** — oil-supportive headline (WTI firm), but XLE's own momentum/RS are soft. Sector leadership: **Technology / semiconductors (SMH/XLK) #1**; laggards Energy / Consumer Disc / Utilities.
+
+### Position management (XLE)
+- XLE **3/5 confirmed** (trend TRUE, momentum FALSE, rel_strength FALSE, volume 1.18× TRUE, not_extended TRUE), last $64.46, sma20 $64.08 rising, hi_20d $66.13, ATR $1.31. Protective GTC stop @ $63.32 live (order d0828e1d). **Trail: keep $63.32** = max(current $63.32, last−2×ATR $61.83, 10d-low) — last−2ATR is LOWER, so no move (never widen/lower). $63.32 is ~1.77% below live (inside the 3%-no-touch band → cannot tighten). Position value $256.34 = 23.8% eq (under 25% cap, no trim). Energy has rolled to a laggard and XLE's momentum/RS are false, but the Hormuz oil headline is supportive and the gain sits locked above breakeven — hold and let the trailing stop decide; market-open re-checks the trail.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **INTC** (stock, semis) — catalyst: **fresh** — reports of SK Hynix memory-chip talks + semis-relief bid — quant **4/5 confirmed** (trend/momentum/rel_strength/volume all TRUE) BUT **not_extended FALSE**: last $108.75 has run +18% off the Sep-14 low ($97) in 3 sessions and sits just **$2.62 (0.23R) under its 20d high $111.365**. 2×ATR stop → risk/sh $11.23; a 2R target ($131) lands deep in **breakout air far above resistance** → **fails 2:1** (only 0.23R of room to the 20d high). The textbook pinned-at-highs / extended semis chase — reject on R:R + not_extended. Premarket it's even higher (~$111–112), pushing into the 20d high; watch a **breakout-retest of $111** or a pullback to the rising 20d, do not chase.
+- **MU** (stock, memory) — quant **3/5** (trend/rel_strength TRUE; momentum/volume FALSE) but **no fresh MU-specific catalyst** (riding the semis group), 6% below its 20d high on weak momentum, and **unsizable**: at $976.92/sh, risk/sh $84.82 forces a fractional 0.28-sh cap-trimmed position — no edge, weak read. No trade.
+- **NVDA** (stock) — quant **2/5 (NOT confirmed)** — ret_10d −2.2%, RS negative, volume 0.81×. Just riding the bid, no setup. No trade.
+- **GNRC** (stock, Generac) — catalyst real (Amazon generator deal) but quant **3/5 with trend FALSE (sma20 $190.21 falling)**, last $207.36 after a +32% gap that **faded −9.6% from its open** — the gap-chase off a downtrend we never take. Watch for a lower-entry retest that builds a base; do not chase.
+- **Premarket ≥$5 gainers** (AEMD +374% $6.78, DAIC +164% $5.30, BIAF +64% $8.75, NGHT +45% $21.46) — thin one-day micro-cap spikes, no durable catalyst, fail quant. Never chase.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime flipped risk_on (SPY reclaimed its rising 50d) on a semis-led relief rally, but no name cleared all gates. INTC has the day's cleanest fresh catalyst (SK Hynix talks) and is 4/5, yet it's an extended chase pinned 0.23R under its 20d high — 2R lands in breakout air, fails 2:1 (watch a $111 breakout-retest). MU rides the group with no own catalyst and is unsizable; NVDA is 2/5; GNRC is a gap-and-fade off a falling 20d. We hold XLE (green +3.1%, 3/5, GTC stop $63.32 above breakeven — energy a laggard but the gain is locked; market-open re-checks the trail). Heat = XLE only (stop above entry); DD −1.19%. Week trades 0/3.
