@@ -860,3 +860,68 @@ Template for each entry:
 
 ### Overall Grade: B
 *(A clean, quiet holiday week. XLE was held and managed textbook for a second week — a locked +$0.84/sh green runner, stop correctly untouched, and its energy thesis *reinforced* by Friday's Brent >$100 oil shock (back to 5/5 quant). Process stayed A: zero rule violations, regime gate flexed correctly to neutral into Friday's CPI print, no chase into ORCL/ADBE prints or the oil-spike blow-offs (XOP pinned, USO +24% extended). The standout positive is that discipline actively **dodged real losses** this week — every Sep-10 rejection (SIG −4.6%, META −1.4%, AEO −14%, SAP −1.5%) fell the next day, so the 2:1/trend veto demonstrably kept the book out of reversals, not just out of chases. The week's +0.40% also beat a ≈ −0.5% down tape. The cap is unchanged and honest: three straight weeks the "arm breadth" mandate produced no second order because the tape offered no qualifying lower entry, so the account is still a single 24%-eq name with ~76% cash idle and no compounding (phase P&L flat, 64 sessions in). A green managed runner + a veto with teeth + a clean sheet, but no breadth and no growth — B, a notch below last week's conversion-driven B+, reflecting a solid but eventless hold. Survival fully intact; the account works via one runner, still waiting on a second clean setup.)*
+
+## Week ending 2026-09-18
+
+*(FOMC week — full five-day week Mon Sep-14 → Fri Sep-18, decision Wed Sep-16. Fourth full week the mechanism ran the live XLE position; fifth straight no-trade week.)*
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,080.26 (Fri Sep-11 close) |
+| Ending portfolio | $1,076.94 (Fri Sep-18 close) |
+| Week return | −$3.32 (−0.31%) |
+| Peak equity (week) | $1,083.78 (Sep-15) intra-week · max intra-week DD ≈ −0.72% (Sep-15 $1,083.78 → Sep-16 $1,075.94) · phase peak $1,089.01 unchanged, phase DD −1.11% |
+| S&P 500 week | ≈ +0.6% (Marketscreener 1-wk +0.61%; SPX gyrated −0.45%/day Mon–Wed on oil+yields, then +1.14% Thu post-FOMC) — FYI only |
+| Bot vs S&P | ≈ −0.9% (−0.31% vs a ≈ +0.6% up tape — FYI context, NOT the goal) |
+| Trades | 0 new (W:0 / L:0 / open:1 — XLE) |
+| Win rate | N/A (no closed trades) |
+| Best trade | XLE (open) peaked +6.23% (+$15.48, Sep-15), ended +3.48% (+$8.64) |
+| Worst trade | N/A (sole position green all week) |
+| Profit factor | N/A (no closed trades) |
+| Avg R multiple | N/A (no closed trades) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| XLE | $62.15 (4 sh, filled ~Aug-27 via the Aug-18 breakout-retest buy-limit) | $64.31 | +$8.64 (+3.48%) | $63.32 GTC (order d0828e1d) — **above entry, +$1.17/sh locked (~+$4.68), zero residual risk** |
+
+### What Worked
+- **The stop trailed up to a bigger locked gain — §7/§9 executed cleanly again.** As XLE pushed to $66.02 on Sep-15 (+6.23%), the GTC stop ratcheted from $62.99 to $63.32 (order d0828e1d, 17:05 UTC) — up only, outside the 3% band at the time, whole-share GTC. The locked floor is now +$1.17/sh (~+$4.68) vs +$0.84 entering the week: every up-day widened the free option, and the runner still cannot lose money.
+- **Zero risk taken into a live FOMC binary — and into a real catalyst deluge.** No new position went on into the Wednesday decision; the book carried only a locked-gain runner through the event. Every catalyst name was correctly refused: DELL/HPE (extended post-earnings blow-offs pinned at their 20d highs, DELL also un-sizable at $567/sh vs the 25% cap), NTAP (downtrend earnings bounce), QCOM/XOP/USO (extended or same-theme-as-XLE), and GNRC — a *real* Amazon generator-deal catalyst that failed quant 1/5 on a 35% gap off a downtrend and was correctly rejected as a chase.
+- **Discipline held the stop where the rules demand even as the cushion compressed.** XLE gave back −2.84% on FOMC day (Sep-16), narrowing the stop cushion to ~1.16% (inside the 3% band). The rules were followed exactly: an *existing* stop is never moved down or widened, and no fresh stop could be placed inside 3% — so $63.32 stood untouched, flagged for monitoring but not tampered with. Textbook restraint under pressure.
+- **Zero rule violations for a 13th-equivalent week; regime read clean through the event.** XLE 23.9% eq (<25% cap), heat = locked gain not risk (stop above entry), 0/3 weekly trades, DD −1.11% « 20% breaker, no fractional-no-overnight-stop entry, SPY held its rising 50d = risk_on throughout, inverse sleeve correctly un-sanctioned. Clean sheet.
+
+### What Didn't Work
+- **A down week that lagged a rising tape.** −0.31% (−$3.32) while the S&P closed ≈ +0.6% — the first week in a while the bot both fell and trailed the index. XLE peaked +6.23% (Sep-15) and gave it all back plus a bit as energy rolled from #1 sector to the day's worst post-FOMC (−2.97% Sep-16). The Mon→Fri print is another flat-to-down hold.
+- **XLE's thesis quietly weakened — the sole engine is cooling.** By Sep-17 pre-market XLE had dropped to 3/5 quant (momentum and rel_strength both turned false as energy became the post-FOMC laggard). The runner is still green and locked, but its catalyst edge is fading and the stop cushion is tight (~1.5%) — the position is now more "let the stop decide" than "let the winner run."
+- **Breadth failed for a fourth straight week — no second order, ever.** ~76% cash ($819.70) sat idle again. Not one liquid catalyst (DELL/HPE/NTAP/QCOM/GNRC) cleared catalyst + 3/5 quant + 2:1 with room at a lower entry — every one was extended, pinned, downtrend, or un-sizable. The Aug-21 breadth mandate is now 0-for-4-weeks; the account remains a single 23.9%-eq ETF.
+- **No compounding, 70 sessions in.** Phase P&L −$3.06 (−0.28%) vs the $1,080.00 start — essentially flat for the entire phase. A green managed runner is preserving capital, but survival is still not growth, and the one engine is losing quant strength.
+
+### Key Lessons
+- **A trailed stop plus a fading catalyst is the point where "let it run" becomes "let the stop decide."** XLE was the phase's proof-of-concept runner, but at 3/5 quant with a ~1.5% cushion, the upside thesis is spent — the correct posture is now purely defensive: hold, never widen, and let $63.32 close it if energy keeps rolling. Don't re-underwrite a cooling winner as if it were still 5/5.
+- **The breadth constraint is structural, not behavioral — four weeks confirm it.** Arm-a-second-order has produced nothing for a month, and every week the reason is the same: the tape offers extended gaps and pinned leaders, not qualifying retests. Forcing a second name would break the exact geometry that kept the book clean through FOMC. The honest read persists: single-name until the market presents a *second* clean lower entry.
+- **Refusing a real catalyst on quant is the discipline working, not missing out.** GNRC's Amazon deal was genuine, but a 35% gap off a downtrend (1/5) is a chase by definition. The gate exists precisely to say no to *real* news at a *bad* price — this week it did, correctly, four times.
+- **13th-equivalent clean week: process A, outcome C.** No rule violated, capital intact through a live FOMC decision, stop trailed to a bigger locked gain, four chases refused. Capped by the through-line — one cooling position, no breadth, no compounding, and a down week that lagged the index.
+
+### Adjustments for Next Week
+- **Hold XLE defensively — the stop, not the thesis, now governs.** Keep $63.32 GTC; trail up only by max(current, last−2×ATR, 10-day low), never within 3%, never down. With quant at 3/5 and the cushion tight, treat it as a locked-gain runner on a short leash: if energy's post-FOMC laggard rotation continues, let the stop close it — do not widen to "give it room." Watch the 7-day time-stop only if it stalls flat; it is not there yet.
+- **Keep arming for breadth, but only on a qualifying lower entry — 0-for-4 is a supply problem, not a reason to force.** Priority remains a confirmed leader coming *back to* a rising 20d or a clean breakout-retest that clears catalyst + 3/5 quant + 2:1 with room. Pre-market records the exact trigger, entry−2×ATR stop, 2R target; market-open arms the whole-share buy-stop/limit. Do not manufacture a second position to deploy the ~76% cash.
+- **Regime gate first, read fresh post-FOMC.** SPY held its rising 50d = risk_on this week, but the decision reaction is still digesting (energy rolled, rates/yields the swing factor). Trade long only on retests/pullbacks a resting order can catch; inverse sleeve stays un-sanctioned unless SPY loses a rising 50d into a confirmed downtrend.
+- **Don't force a trade to deploy cash.** Full $1,076.94 equity, $819.70 buying power, 0/3 weekly trades, heat = locked gain, DD −1.11%. Zero *new* trades remains valid — a fifth straight no-trade week is fine if the tape offers no qualifying setup. The job is a second clean entry, not activity.
+
+### Strategy File Changes
+- **NONE.** No rule clearly proved out or failed on *new* evidence over 2+ weeks this week. The geometry review stays closed (Aug-21, data-backed); the standing-order proof-out note is already recorded (Sep-4). This is a continuation week — a cooling runner held cleanly and four chases refused through a live FOMC print — not a fresh signal. Per STEP 5's "be conservative — never churn rules on a single week's noise," no change to TRADING-STRATEGY.md. Every hard rule (3% risk, 2×ATR stop, 2:1 minimum, heat/sleeve caps, regime gate, never-widen/never-move-down stop) held and was again validated in live use, including under the FOMC-day cushion compression.
+
+### Overall Grade: B−
+*(A quiet, slightly-down FOMC week. Process stayed A: zero rule violations, no risk taken into the Wednesday decision, the XLE stop trailed up to a bigger locked gain (+$1.17/sh, order d0828e1d), and four real catalysts — DELL, HPE, NTAP, QCOM, and a genuine GNRC/Amazon deal — were correctly refused as chases or downtrend bounces. Restraint under pressure was the highlight: FOMC day compressed the stop cushion to ~1.16% and the rules held exactly — no widening, no downward move, no fresh stop inside the 3% band. But outcome slips below the recent run of B/B+: the week printed −0.31% and, for the first time in a while, *lagged* a rising S&P (≈ +0.6%), the sole engine XLE cooled to 3/5 quant as energy became the post-FOMC laggard, and breadth failed for a fourth straight week — ~76% cash idle, no second order, phase P&L still flat 70 sessions in. A clean sheet and a defended locked gain, but a down week with a fading single engine and no growth — B−, a notch below last week's eventless B. Survival fully intact; the account now needs both a second setup and a decision on how long to hold a cooling runner.)*
+
+---
