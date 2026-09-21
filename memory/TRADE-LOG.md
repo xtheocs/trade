@@ -857,3 +857,13 @@ drawdown are measured from here.
 **Notes:** Sole position XLE (4 sh @ $62.15) drifted −0.26% to $64.31, confirmed via account/positions/orders pull — unrealized P&L eased to +$8.64 (+3.48%) from Sep 17's +$9.68. Protective GTC stop unchanged at $63.32 (order d0828e1d, resting since Sep 15) — cushion is 1.54% below live price, still inside the 3%-no-touch band, so no trail action was possible; stop stands per the never-move-down rule. No orders filed today (orders pull shows only the resting stop). Day P&L −$1.04 (−0.10%) vs Sep 17's $1,077.98 close. Phase P&L −$3.06 (−0.28%) vs the $1,080.00 starting equity — 70 sessions in, essentially flat; nowhere near the ~10% monthly stretch target (informational only, not a trigger). Drawdown −1.11% from the $1,089.01 peak — 20% breaker inactive, nowhere close. Trades today: 0. Weekly trades: 0/3 (week of Sep 14, five straight no-trade days into the weekly review). Regime read pending fresh confirmation but no change-of-thesis signal since yesterday's 3/5 flag on XLE momentum/rel-strength. Tomorrow: Friday close — weekly review runs separately; Monday's pre-market rescans regime/catalyst/quant and reassesses XLE's now-tight 3/5 read given the compressed stop cushion.
 
 ---
+
+### Sep 21 — Midday Scan: GTC Stop Filled (XLE exit)
+**Positions:** None — Alpaca positions/orders pulls both empty. XLE's resting GTC stop (order d0828e1d, placed Sep 15 @ $63.32) filled **before this scan ran**, at 13:35:31 UTC (09:35 ET).
+**Exit:** SOLD XLE 4 sh @ $63.3025 (entry $62.15).
+**Realized P&L:** +$4.61 (+1.85%).
+**Reason:** Protective trailing stop hit — flagged razor-thin in today's pre-market (cushion ~0.17% below live price, XLE 3/5 with momentum/volume false). No thesis break, no time stop — the stop simply did its job and locked the gain above breakeven as designed. Nothing to cut, tighten, or trail today: 0 open positions, 0 open orders.
+**Account:** Equity $1,072.91 | Cash $1,072.91 (100%) | Peak $1,089.01 | DD −1.48% | Breaker inactive.
+**Positions:** 0/4 · Heat 0%. Weekly trades: 0/3 (exit only, no new entry).
+
+---
