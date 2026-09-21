@@ -867,3 +867,14 @@ drawdown are measured from here.
 **Positions:** 0/4 · Heat 0%. Weekly trades: 0/3 (exit only, no new entry).
 
 ---
+
+### Sep 21 — EOD Snapshot (Day 71, Monday)
+**Equity:** $1,072.91 | **Cash:** $1,072.91 (100%) | **Day:** −0.37% | **Phase:** −0.66% | **Peak:** $1,089.01 | **DD:** −1.48%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — | — |
+
+**Notes:** Flat day — account fully in cash after midday's XLE stop fill (sold 4 sh @ $63.3025, entry $62.15, realized +$4.61/+1.85%), confirmed via account/positions/orders pull (both empty, cash = equity = $1,072.91). Day P&L −$4.03 (−0.37%) vs Sep 18's $1,076.94 close — reflects the gap between Friday's mark-to-market close and today's realized exit price, not a new loss. Phase P&L −$7.09 (−0.66%) vs the $1,080.00 starting equity — 71 sessions in, essentially flat; nowhere near the ~10% monthly stretch target (informational only, not a trigger). Peak unchanged at $1,089.01; drawdown −1.48% from peak — 20% breaker inactive, nowhere close. Trades today: 1 (stop-triggered exit, no new entry). Weekly trades: 0/3 new entries (week of Sep 21, first day). No open positions or pending orders — capital fully freed. Tomorrow: pre-market rescans regime/catalyst/quant for fresh setups clearing catalyst + 3/5 quant + 2:1 R:R; no thesis to carry forward.
+
+---
