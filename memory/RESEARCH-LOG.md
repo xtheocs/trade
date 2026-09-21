@@ -1936,3 +1936,32 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime flipped risk_on (SPY reclaimed its rising 50d) on a semis-led relief rally, but no name cleared all gates. INTC has the day's cleanest fresh catalyst (SK Hynix talks) and is 4/5, yet it's an extended chase pinned 0.23R under its 20d high — 2R lands in breakout air, fails 2:1 (watch a $111 breakout-retest). MU rides the group with no own catalyst and is unsizable; NVDA is 2/5; GNRC is a gap-and-fade off a falling 20d. We hold XLE (green +3.1%, 3/5, GTC stop $63.32 above breakeven — energy a laggard but the gain is locked; market-open re-checks the trail). Heat = XLE only (stop above entry); DD −1.19%. Week trades 0/3.
+
+## 2026-09-21 — Pre-market
+
+### Account
+- Equity: **$1,073.42** / Cash: $819.70 / Buying power: $819.70
+- Open positions: **1** — XLE 4 sh @ $62.15, now $63.43 (+$5.12 / +2.06%)
+- Drawdown from peak: **−1.43%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 1 (XLE protective GTC stop 4 sh @ $63.32, order d0828e1d) / Week trades: 0 new (week of Sep 21) / Daytrade count: 0
+
+### Regime
+- Equity: **risk_on** (SPY $761.62 above its rising 50-day SMA $759.70) — full size, best setups.
+- Macro/tape: Calm risk-on premarket — S&P futures ~7,725 (+), **VIX ~14.8** (low). Semis leading again: **INTC +6% on SK Hynix memory-chip talks**, AMD +3%, NVDA +1%, ACN +5.8%. Sector leadership: **Technology / semiconductors #1**; Energy strong YTD but soft this week; laggards Consumer Disc / Comm Services / Utilities. Thin earnings docket / no major econ release; **MU (Micron) reports tonight AMC** (event risk).
+
+### Position management (XLE)
+- XLE **3/5 confirmed** (trend TRUE, momentum FALSE, rel_strength TRUE, volume 0.75× FALSE, not_extended TRUE), last $64.30 close / live $63.43, sma20 $64.11 rising, hi_20d $66.13, ATR $1.32. Protective GTC stop @ $63.32 live (order d0828e1d). **Trail: keep $63.32** = max(current $63.32, last−2×ATR $60.80, 10d-low) — last−2ATR is LOWER, no move (never widen/lower). $63.32 is only **~0.17% below live** — deep inside the 3%-no-touch band → cannot tighten; existing stop stands per never-move-down. Position value $253.72 = 23.6% eq (under 25% cap, no trim). **Stop cushion razor-thin** — XLE gave back to $63.43; the GTC stop is about to decide. Hold; if it fills it locks +$4.68 above breakeven. Market-open/midday re-check.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **INTC** (stock, semis) — catalyst: **fresh & real** — SK Hynix memory-chip talks, +6% premarket (~$115) — quant **3/5 confirmed** (trend/momentum/rel_strength TRUE; volume 0.8× FALSE, **not_extended FALSE**). last $108.67 sits **0.24R under its 20d high $111.365** and premarket it's already **above it (~$115), blue sky**. risk/sh $11.16; a 2R objective lands far above resistance in breakout air → **fails 2:1**. Buying a +6% gap into new highs = the recurring pinned-at-highs / gap-chase we never take. Reject on not_extended + R:R. Watch a breakout-retest of ~$111.
+- **AMD** (stock, semis) — quant **4/5** (trend/momentum/rel_strength/volume TRUE; **not_extended FALSE**) but **no fresh AMD-specific catalyst** (riding the semis bid), last $559.69 pinned **at its 20d high $559.89**. risk/sh $44.21; 2R in breakout air → fails 2:1. Pinned-at-highs, no catalyst. No trade.
+- **MU** (stock, memory) — real memory up-cycle bid + new high $1015, but **reports earnings TONIGHT (AMC)** = binary event risk (never enter into it), **extended** (broke to new high) and **unsizable** at $1015/sh. Reject on earnings-event + not_extended + unsizable.
+- **NVDA** (stock) — quant **2/5 (NOT confirmed)** — ret_10d −2.8%, RS negative, volume 0.85×. Riding the bid, no setup. No trade.
+- **Premarket ≥$5 pumps** (GLND +156% $3.07, GRML +72% $4.91, CRML +29% $8.70, GEMG/TJGC/SVRN/AUC/HUHU Fri) — thin micro-cap/unexplained spikes, off-universe or fail not_extended. Never chase. **WBD +7%** on M&A rumor — event/arb pop, not a momentum swing setup; no quant edge. Skip.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on (SPY over rising 50d, VIX ~14.8) on continued semis leadership, but no name cleared all gates: INTC has the cleanest fresh catalyst (SK Hynix talks) yet is a +6% gap into blue-sky above its 20d high (fails 2:1, not_extended false); AMD is 4/5 but pinned exactly at its 20d high with no own catalyst; MU reports tonight (event risk) and is unsizable; NVDA is 2/5. Same recurring pinned-at-highs miss pattern — convertible only via a lower-entry retest that hasn't come. We hold XLE (green +2.1%, 3/5, GTC stop $63.32 now only ~0.17% below live — the stop is about to decide, locks the gain if hit). Heat = XLE only (stop above entry); DD −1.43%. Week trades 0/3.

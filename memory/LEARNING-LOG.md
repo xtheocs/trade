@@ -13,6 +13,28 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-21 — Scorecard (prior session 2026-09-18)
+
+**Our picks (1d = Sep-18 close vs Sep-17 close):**
+- XLE (ETF, Energy) — decision **HOLD position (4 sh @ $62.15)** — actual 1d **−0.25%** ($64.30 vs $64.46) — verdict **held, flat** — GTC stop $63.32, +3.5% unrealized; 3/5, momentum still false, stop protects the locked gain.
+- INTC (stock — rejected, extended/R:R: 4/5 but pinned 0.23R under 20d high, 2R in breakout air) — actual 1d **−0.07%** ($108.67 vs $108.75) — verdict **rejected, correct** — stalled at the highs Friday exactly as flagged; no chase-able pullback.
+- MU (stock — rejected, no own catalyst + unsizable $977/sh) — actual 1d **+3.95%** ($1015.53 vs $976.92) — verdict **missed / semis-drift** — broke to a new high on the memory-cycle bid; unsizable at $1015/sh and pinned at highs.
+- NVDA (stock — rejected, 2/5) — actual 1d **+1.20%** ($222.04 vs $219.40) — verdict **rejected, correct** — no confirmation, just riding the semis bid.
+- GNRC (stock — rejected, gap-chase off a falling 20d) — actual 1d **+0.09%** ($207.55 vs $207.36) — verdict **rejected, correct** — the +32% gap kept fading/chopping; a lower base still hasn't formed.
+
+**Day's top tradeable gainers (Sep-18, ≥$5, no warrants/units/rights):** OIG +2967% ($11.66), GEMG +60% ($12.03), TJGC +53% ($16.84), SVRN +43% ($20.32), AUC +39% ($9.33), HUHU +39% ($5.85) — all thin one-day micro-cap spikes. No liquid large-cap catalyst mover besides the ongoing semis/memory drift (MU/NVDA/INTC).
+
+**Best realistic miss:** **MU +3.95%** — the lone liquid large-cap that ran, on the memory up-cycle bid into MU's own earnings (reports Sep-21 AMC). But it broke to a **new high $1015** (pinned at highs, not_extended would fail) and is **unsizable** at $1015/sh (risk/sh ~$85 → sub-0.3 sh). Not a clean surfacing failure — the same pinned-at-highs pattern. Filtered gainers are all thin pumps — never chase.
+
+**Lessons:**
+- Semis/Tech leadership persists: MU (new high), INTC (SK-Hynix-talks bid, +6% Mon premarket), AMD, NVDA all green Fri→Mon — Technology remains the tape's leader; Energy strong YTD but this-week momentum soft (XLE 3/5, momentum false).
+- The pinned-at-highs miss pattern repeated again: INTC, AMD, MU all sit **at/above their 20d highs** with 2R landing in breakout air — none convertible without a lower-entry retest that never came.
+- Micro-cap pumps dominate the gainer board (OIG/GLND/GRML/CRML) — off-universe or fail not_extended; never chase.
+
+**Rolling 7d:** recurring leading sectors = **Technology / semiconductors** (SMH/XLK/semis — MU/INTC/NVDA/AMD; SPY over its rising 50d, risk_on) ; Energy a YTD leader but short-term momentum soft (XLE 3/5) ; laggards Consumer Disc / Comm Services / Utilities ; recurring miss pattern = **liquid catalyst names pinned at/above their 20d highs (or gapping blue-sky) with 2R in breakout air** (…→GNRC→INTC→MU→AMD) — convertible only via a lower-entry retest, never the gap/blow-off. Hard rules unchanged.
+
+---
+
 ## 2026-09-18 — Scorecard (prior session 2026-09-17)
 
 **Our picks (1d = Sep-17 close vs Sep-16 close):**
