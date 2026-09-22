@@ -13,6 +13,28 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-22 — Scorecard (prior session 2026-09-21)
+
+**Our picks (1d = Sep-21 close vs Sep-18 close):**
+- XLE (ETF, Energy) — decision **HOLD → stopped out** — actual 1d **−2.89%** ($62.44 vs $64.30) — verdict **stopped, gain locked** — GTC stop filled midday @ $63.3025 (entry $62.15, realized **+$4.61 / +1.85%**); the razor-thin stop flagged in pre-market did its job, no thesis break.
+- INTC (stock — rejected, extended/blue-sky: 4/5 but pinned under 20d high, 2R in breakout air) — actual 1d **+12.02%** ($121.73 vs $108.67) — verdict **missed / rules-correct** — ran +12% but was the +6% gap into new highs we correctly refuse; still extended today (4/5, not_extended false).
+- AMD (stock — rejected, pinned at 20d high, no own catalyst, 4/5) — actual 1d **+9.98%** ($615.54 vs $559.69) — verdict **missed / rules-correct** — briefly crossed **$1T** on AI-infra bid; the pinned-at-highs chase, 2R in breakout air.
+- MU (stock — rejected, earnings-event + extended + unsizable) — actual 1d **+2.76%** ($1043.51 vs $1015.53) — verdict **rejected, correct** — reported AMC and gapped higher, but unsizable ($1043/sh) and 2R lands above resistance.
+- NVDA (stock — rejected, 2/5) — actual 1d **+2.37%** ($227.30 vs $222.04) — verdict **rejected, correct** — no confirmation, just riding the semis bid (still 2/5).
+
+**Day's top tradeable gainers (Sep-21, ≥$5, no warrants/units/rights):** GRML +230% ($9.42), VEEE +101% ($17.24), CRMX +75% ($8.04), AVAZ +71% ($19.09), TXXS +54% ($38.51), SUIL +54% ($11.37), SVRN +45% ($29.50), CRML +39% ($9.33) — all thin one-day micro-cap spikes. No liquid large-cap catalyst mover besides the semis surge (INTC +12%, AMD +10%).
+
+**Best realistic miss:** **INTC +12.02%** — real fresh catalyst (SK Hynix memory talks) and 4/5 confirmed, BUT a +6% gap into blue-sky above its 20d high (not_extended false, 2R in breakout air → fails 2:1). Same pinned-at-highs/gap pattern; convertible only via a lower-entry retest that never came — the reject was rules-correct, it just kept running. Filtered gainers otherwise all thin pumps — never chase.
+
+**Lessons:**
+- Semis/AI-infra leadership intensified: AMD briefly hit **$1T** (+10%), INTC +12%, Nasdaq closed at a record — Technology is the tape's clear leader; Energy weak this week (we exited XLE at +1.85%).
+- Pinned-at-highs miss pattern repeated hard: INTC/AMD/MU all confirmed (4–5/5) but sit AT/near their 20d highs with 2R in breakout air — none convertible without a lower-entry retest; the mega-cap prices ($120–$1040/sh) also force fractional/unsizable positions.
+- Micro-cap pumps still dominate the gainer board (GRML/VEEE/CRMX/AVAZ) — off-universe or fail not_extended; never chase.
+
+**Rolling 7d:** recurring leading sectors = **Technology / semiconductors** (SMH/XLK — INTC/AMD/MU/NVDA; SPY over its rising 50d, risk_on) ; Energy rolled from #1 to laggard (exited XLE +1.85%) ; laggards Consumer Disc / Utilities / Comm Services ; recurring miss pattern = **liquid catalyst names pinned at/above their 20d highs (or gapping blue-sky) with 2R in breakout air** (…→GNRC→INTC→MU→AMD) — convertible only via a lower-entry retest, never the gap/blow-off; mega-cap semis are also unsizable at these prices. Hard rules unchanged.
+
+---
+
 ## 2026-09-21 — Scorecard (prior session 2026-09-18)
 
 **Our picks (1d = Sep-18 close vs Sep-17 close):**

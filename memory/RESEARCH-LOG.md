@@ -1965,3 +1965,30 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on (SPY over rising 50d, VIX ~14.8) on continued semis leadership, but no name cleared all gates: INTC has the cleanest fresh catalyst (SK Hynix talks) yet is a +6% gap into blue-sky above its 20d high (fails 2:1, not_extended false); AMD is 4/5 but pinned exactly at its 20d high with no own catalyst; MU reports tonight (event risk) and is unsizable; NVDA is 2/5. Same recurring pinned-at-highs miss pattern — convertible only via a lower-entry retest that hasn't come. We hold XLE (green +2.1%, 3/5, GTC stop $63.32 now only ~0.17% below live — the stop is about to decide, locks the gain if hit). Heat = XLE only (stop above entry); DD −1.43%. Week trades 0/3.
+
+## 2026-09-22 — Pre-market
+
+### Account
+- Equity: **$1,072.91** / Cash: $1,072.91 (100%) / Buying power: $1,072.91
+- Open positions: **0** (flat — XLE stopped out Sep-21 @ $63.3025, +$4.61/+1.85% realized)
+- Drawdown from peak: **−1.48%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 0 / Week trades: 0 new (week of Sep 21) / Daytrade count: 0
+
+### Regime
+- Equity: **risk_on** (SPY $773.52 above its rising 50-day SMA $760.07) — full size, best setups.
+- Macro/tape: Risk-on continuation — S&P futures modestly higher (+0.2–0.7%), VIX calm, **Nasdaq closed at a record high** on the AI-infra surge. **AMD briefly crossed $1T** (+10% Sep-21), INTC +12%, MU +2.8%, NVDA +2.4%. Sector leadership: **Technology / Communication Services #1**; Energy weak this week (we exited XLE); laggards Consumer Disc / Utilities. Econ calendar **light** today (Richmond Fed mfg 10:00 ET, Fed speakers Williams/Jefferson/Barkin, 2Y auction) — no CPI/PPI/FOMC/jobs, low event risk. AI-slowdown rhetoric an occasional group headwind (SK Hynix fell in Asia).
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **AMD** (stock, semis) — catalyst **real** (AI-infra bid, briefly $1T mkt cap) — quant **4/5 confirmed** (trend/momentum/rel_strength/volume TRUE; **not_extended FALSE**). last $615.54 pinned **at its 20d high $616.68** (blue sky). ATR $25.37, risk/sh $50.74; a 2R objective (~$717) lands far above resistance in breakout air → **fails 2:1** (~0.02R of room to the 20d high). Also unsizable: 0.03×eq $32.19 ÷ $50.74 = 0.63 sh → $388 = 36% eq, 25%-cap trims to ~0.44 fractional sh. Pinned-at-highs chase — reject on not_extended + R:R + sizing.
+- **INTC** (stock, semis) — catalyst **fresh** (SK Hynix memory talks, AI-infra) — quant **4/5 confirmed** (trend/momentum/rel_strength/volume TRUE; **not_extended FALSE**). last $121.73, ran +25% above sma20 $97.43 (2×ATR=$13.03) = blow-off; near 20d high $124.69. risk/sh $13.03; 2R (~$147.80) deep in breakout air, only ~0.23R to the 20d high → **fails 2:1**. The +12% gap-into-highs chase — reject on not_extended + R:R. Watch a breakout-retest of the 20d high.
+- **MU** (stock, memory) — catalyst real (post-earnings memory/HBM up-cycle) — quant **5/5 confirmed** (all TRUE incl. not_extended). BUT R:R fails: last $1043.51, hi_20d $1064.105, risk/sh $87.93 → 2R (~$1219) lands far above the 20d high (~0.23R of room) → **fails 2:1**; and **unsizable** at $1043/sh (0.37 sh, cap-trimmed). Reject on R:R + unsizable.
+- **NVDA** (stock) — quant **2/5 (NOT confirmed)** — ret_10d −1.3%, RS −1.7%, volume 0.96×. Riding the bid, no setup. No trade.
+- **ONON** (stock) — M&A/acquisition pop +5.4% on thin volume — event/arb, not a momentum swing setup; no quant edge. Skip.
+- **Premarket ≥$5 gainers** (GRML +230% $9.42, VEEE +101% $17.24, CRMX +75% $8.04, AVAZ +71% $19.09, TXXS +54% $38.51) — thin one-day micro-cap spikes, no durable catalyst, fail quant/not_extended. Never chase.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on (SPY over rising 50d, Nasdaq record, VIX calm) on an intensifying semis/AI-infra surge, but no name cleared all gates. The three confirmed leaders are all the recurring pinned-at-highs pattern: AMD (4/5, pinned at 20d high, 2R in breakout air, unsizable at $615/sh), INTC (4/5, +12% blow-off +25% over sma20, 2R breakout air), MU (5/5 but 2R above resistance + unsizable at $1043/sh); NVDA 2/5. Each fails 2:1 because the 2R target lands above its 20d-high resistance — convertible only via a lower-entry retest, which the pre-market-only routine can't act on intraday, and all three are fractional/unsizable at their mega-cap prices anyway. Flat, capital fully free; wait for a disciplined pullback or a fresh catalyst on a non-extended name. Heat 0%; DD −1.48%. Week trades 0/3.
