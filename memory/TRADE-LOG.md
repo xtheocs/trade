@@ -889,3 +889,14 @@ drawdown are measured from here.
 **Notes:** Second straight flat day, fully in cash — account/positions/orders pulls confirm 0 positions, 0 open orders, equity unchanged at $1,072.91 (last_equity also $1,072.91, no mark-to-market move). Day P&L $0.00 (+0.00%) vs Sep 21's $1,072.91 close. Phase P&L −$7.09 (−0.66%) vs the $1,080.00 starting equity — 72 sessions in, essentially flat; nowhere near the ~10% monthly stretch target (informational only, not a trigger). Peak unchanged at $1,089.01; drawdown −1.48% from peak — 20% breaker inactive, nowhere close. Trades today: 0. Weekly trades: 0/3 new entries (week of Sep 21, one stop-triggered exit Monday, no new entries since). No open positions or pending orders — capital fully freed, waiting on pre-market to surface a fresh catalyst + 3/5 quant + 2:1 R:R setup. Tomorrow: pre-market rescans regime/catalyst/quant for fresh setups; no thesis carried forward.
 
 ---
+
+### Sep 23 — EOD Snapshot (Day 73, Wednesday)
+**Equity:** $1,072.91 | **Cash:** $1,072.91 (100%) | **Day:** +0.00% | **Phase:** −0.66% | **Peak:** $1,089.01 | **DD:** −1.48%
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — | — |
+
+**Notes:** Third straight flat day, fully in cash — account/positions/orders pulls confirm 0 positions, 0 open orders, equity unchanged at $1,072.91 (last_equity also $1,072.91, no mark-to-market move). Day P&L $0.00 (+0.00%) vs Sep 22's $1,072.91 close. Phase P&L −$7.09 (−0.66%) vs the $1,080.00 starting equity — 73 sessions in, essentially flat; nowhere near the ~10% monthly stretch target (informational only, not a trigger). Peak unchanged at $1,089.01; drawdown −1.48% from peak — 20% breaker inactive, nowhere close. Trades today: 0. Weekly trades: 0/3 new entries (week of Sep 21, one stop-triggered exit Monday, no new entries since). Pre-market again found no setup clearing 2:1 R:R — ARM/GNRC/BABA/NVDA/XLK/SMH/VKTX all pinned at highs or ATR-too-wide vs room to resistance. No open positions or pending orders — capital fully freed. Tomorrow: pre-market rescans regime/catalyst/quant for fresh setups clearing catalyst + 3/5 quant + 2:1 R:R; no thesis carried forward.
+
+---
