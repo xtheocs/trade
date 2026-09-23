@@ -13,6 +13,27 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-23 — Scorecard (prior session 2026-09-22)
+
+**Our picks (1d = Sep-22 close vs Sep-21 close):**
+- AMD (stock — rejected, pinned at 20d high, 2R in breakout air, unsizable) — actual 1d **+1.37%** ($623.97 vs $615.54) — verdict **rejected, correct** — cooled hard after the +10% $1T pop; the chase we refused barely advanced.
+- INTC (stock — rejected, +12% blow-off, 2R in breakout air) — actual 1d **+1.75%** ($123.86 vs $121.73) — verdict **rejected, correct** — stalled at the highs after its run, exactly the fade an extended chase risks.
+- MU (stock — rejected, 5/5 but 2R above resistance + unsizable $1043/sh) — actual 1d **+4.98%** ($1095.47 vs $1043.51) — verdict **missed / rules-correct** — best of the semis group again, but unsizable at $1095/sh and 2R lands above its 20d high.
+- NVDA (stock — rejected, 2/5) — actual 1d **+0.68%** ($228.85 vs $227.30) — verdict **rejected, correct** — flat, still just riding the group (now 4/5 but no fresh catalyst, 2R in breakout air).
+
+**Day's top tradeable gainers (Sep-22, ≥$5, no warrants/units/rights):** JAGX +1191% ($34.46), ENRG +60% ($19.75), GRML +50% ($14.15), VKTX +36% ($40.85). JAGX/ENRG/GRML are thin one-day micro-cap spikes; VKTX (Viking Therapeutics, obesity/biotech) was the lone liquid large-move name. Main tradeable loser: NFE −25% ($8.15).
+
+**Best realistic miss:** **VKTX +35.5%** — a real liquid biotech catalyst mover, 4/5 confirmed, BUT a **+35% one-day blow-off** (vol 6.48×, not_extended false, pinned 0.2R under its 20d high) → 2R deep in breakout air, fails 2:1. Textbook gap/blow-off we never chase — the reject was rules-correct. Filtered gainers otherwise all thin pumps.
+
+**Lessons:**
+- Semis/AI-infra leadership continued but the mega-caps cooled after Sep-21's blow-off (AMD +1.4%, INTC +1.8%, NVDA +0.7%); MU +5% led again — the group is up but no longer vertical.
+- Every confirmed leader today (ARM 3/5, SMH 3/5, XLK 4/5, NVDA 4/5, GNRC 4/5, BABA 4/5, VKTX 4/5) fails 2:1 for the same reason — 2R lands above the 20d-high resistance (pinned at highs, or ATR too wide vs room). None convertible without a lower entry; the semis mega-caps ($120–$1095/sh) are also fractional/unsizable.
+- New biotech theme surfaced (VKTX obesity data +35%; Cue Biopharma Phase 2) — real catalysts but blow-off gaps, not chase-able. Micro-cap pumps (JAGX/ENRG/GRML) still dominate the board — never chase.
+
+**Rolling 7d:** recurring leading sectors = **Technology / semiconductors** (SMH/XLK/XLK — AMD/INTC/MU/NVDA/ARM; SPY over its rising 50d, risk_on) ; Energy the persistent laggard (MTD −5.3%, exited XLE +1.85%) ; laggards Consumer Disc / Utilities ; recurring miss pattern = **liquid catalyst names pinned at/above their 20d highs (or gapping blue-sky/blow-off) with 2R in breakout air** (…→INTC→MU→AMD→VKTX) — convertible only via a lower-entry retest that keeps not coming; mega-cap semis also unsizable at these prices. Hard rules unchanged.
+
+---
+
 ## 2026-09-22 — Scorecard (prior session 2026-09-21)
 
 **Our picks (1d = Sep-21 close vs Sep-18 close):**

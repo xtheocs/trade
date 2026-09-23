@@ -1992,3 +1992,32 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on (SPY over rising 50d, Nasdaq record, VIX calm) on an intensifying semis/AI-infra surge, but no name cleared all gates. The three confirmed leaders are all the recurring pinned-at-highs pattern: AMD (4/5, pinned at 20d high, 2R in breakout air, unsizable at $615/sh), INTC (4/5, +12% blow-off +25% over sma20, 2R breakout air), MU (5/5 but 2R above resistance + unsizable at $1043/sh); NVDA 2/5. Each fails 2:1 because the 2R target lands above its 20d-high resistance — convertible only via a lower-entry retest, which the pre-market-only routine can't act on intraday, and all three are fractional/unsizable at their mega-cap prices anyway. Flat, capital fully free; wait for a disciplined pullback or a fresh catalyst on a non-extended name. Heat 0%; DD −1.48%. Week trades 0/3.
+
+## 2026-09-23 — Pre-market
+
+### Account
+- Equity: **$1,072.91** / Cash: $1,072.91 (100%) / Buying power: $1,072.91
+- Open positions: **0** (flat since XLE stop-out Sep-21)
+- Drawdown from peak: **−1.48%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 0 / Week trades: 0 new (week of Sep 21) / Daytrade count: 0
+
+### Regime
+- Equity: **risk_on** (SPY $773.44 above its rising 50-day SMA $760.55) — full size, best setups.
+- Macro/tape: Calm risk-on — S&P futures ~7,838 (+), **VIX ~14.7** (low). Econ calendar light: **S&P Global Flash PMI 09:45 ET**, MBA mortgage data; no CPI/PPI/FOMC/jobs. Sector leadership: **Technology #1** (MTD +2.7%); **Energy the laggard** (MTD −5.3%). Semis/AI-infra still the tape's leader but mega-caps cooled after Sep-21's blow-off (AMD/INTC/NVDA up small, MU +5%). Catalyst names today: **ARM +17%**, **GNRC** (Amazon backup-power supply deal), **IONQ +13%** (quantum), **BABA** (cloud/data-center capex), **VKTX +35%** (obesity biotech data).
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **ARM** (stock, semis) — catalyst **real** (+17%, AI/licensing bid) — quant **3/5 confirmed** (trend/momentum/rel_strength TRUE; volume 0.93× FALSE, **not_extended FALSE**). last $333.24 pinned **0.07R under its 20d high $334.49**; ATR $17.53, risk/sh $35.05 → 2R (~$403) deep in breakout air → **fails 2:1**. Also unsizable ($306 = 28.5% eq → cap-trim). Pinned-at-highs chase. Reject on not_extended + R:R + sizing.
+- **GNRC** (stock, industrials/power) — catalyst **fresh** (Amazon long-term backup-generator supply deal) — quant **4/5 confirmed** (trend/rel_strength/volume/not_extended TRUE; momentum FALSE). last $206.10, sma20 $190.30 rising, hi_20d $229.50, ATR $10.09, risk/sh $20.19. Not pinned at highs (mid-range), but room to the overhead 20d high = $23.40 = **1.16R** < 2R → 2R target (~$246) lands **above** resistance in breakout air → **fails 2:1** (ATR too wide vs room). Best-quality catalyst of the day but the geometry fails. Reject on R:R. Watch a tighter base/pullback.
+- **BABA** (stock, China internet/cloud) — catalyst soft (cloud/data-center capex commentary) — quant **4/5 confirmed** (momentum/rel_strength/volume/not_extended TRUE; **trend FALSE**, sma20 $112.88 falling). last $116.29, hi_20d $121.34, risk/sh $5.16 → room to 20d high $5.05 = **0.98R**; 2R (~$127) above resistance → **fails 2:1**; trend not confirmed (falling 20d). Reject on R:R + trend.
+- **NVDA** (stock, semis) — no fresh own catalyst (riding the group) — quant **4/5 confirmed** (trend/momentum/rel_strength/not_extended TRUE; volume 0.75× FALSE). last $228.85, hi_20d $234.75, risk/sh $11.73 → room to 20d high **0.50R**; 2R (~$252) in breakout air → **fails 2:1**. No catalyst + R:R. No trade.
+- **XLK / SMH** (tech/semis ETFs) — quant 4/5 / 3/5 confirmed, but both **pinned at their 20d highs** ($196.27 vs $196.50; $607.41 vs $608.66), not_extended FALSE, 2R in breakout air → **fail 2:1**. The leading-sector ETF sleeve offers no lower-entry room today. Reject on R:R.
+- **IONQ** (stock, quantum) — quant **1/5 (NOT confirmed)** (trend/momentum/rel_strength/volume all FALSE, sma20 falling). No setup. No trade.
+- **VKTX** (stock, biotech) — catalyst real (obesity data) — quant **4/5** but **not_extended FALSE** (+35% one-day blow-off, vol 6.48×), pinned 0.2R under 20d high → 2R breakout air → **fails 2:1**. The gap/blow-off we never chase. Reject.
+- **Premarket ≥$5 pumps** (VTGN +63%, WHLR +204%, LXEH +57%, IPDN +97%, JAGX +1191% Sep-22) — thin micro-cap spikes, no durable catalyst, off-universe/fail not_extended. Never chase.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on (SPY over rising 50d, VIX ~14.7, light calendar), Technology still leading, but no name cleared all gates. Every confirmed leader (ARM 3/5, GNRC 4/5, BABA 4/5, NVDA 4/5, XLK 4/5, SMH 3/5, VKTX 4/5) fails 2:1 for the same reason — the 2R target lands above the 20d-high resistance (pinned at highs, or ATR too wide vs room to overhead resistance). GNRC has the day's cleanest fresh catalyst (Amazon deal) and is mid-range, but its wide ATR ($10) makes 2R exceed the 1.16R of room to its 20d high — convertible only on a tighter base/pullback. Mega-cap semis (AMD/MU/NVDA/ARM) also fractional/unsizable at $120–$1095/sh. Flat, capital fully free; wait for a lower-entry retest or a fresh catalyst on a non-extended name with room. Heat 0%; DD −1.48%. Week trades 0/3.
