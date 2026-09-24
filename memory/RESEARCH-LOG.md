@@ -2021,3 +2021,31 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on (SPY over rising 50d, VIX ~14.7, light calendar), Technology still leading, but no name cleared all gates. Every confirmed leader (ARM 3/5, GNRC 4/5, BABA 4/5, NVDA 4/5, XLK 4/5, SMH 3/5, VKTX 4/5) fails 2:1 for the same reason — the 2R target lands above the 20d-high resistance (pinned at highs, or ATR too wide vs room to overhead resistance). GNRC has the day's cleanest fresh catalyst (Amazon deal) and is mid-range, but its wide ATR ($10) makes 2R exceed the 1.16R of room to its 20d high — convertible only on a tighter base/pullback. Mega-cap semis (AMD/MU/NVDA/ARM) also fractional/unsizable at $120–$1095/sh. Flat, capital fully free; wait for a lower-entry retest or a fresh catalyst on a non-extended name with room. Heat 0%; DD −1.48%. Week trades 0/3.
+
+## 2026-09-24 — Pre-market
+
+### Account
+- Equity: **$1,072.91** / Cash: $1,072.91 (100%) / Buying power: $1,072.91
+- Open positions: **0** (flat since XLE stop-out Sep-21)
+- Drawdown from peak: **−1.48%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 0 / Week trades: 0 new (week of Sep 21) / Daytrade count: 0
+
+### Regime
+- Equity: **risk_on** (SPY $767.93 above its rising 50-day SMA $760.87) — full size, best setups.
+- Macro/tape: Calm risk-on — S&P futures ~7,826, **VIX ~14.3** (low). Econ calendar light: **jobless claims + current account 8:30 ET**, new home sales 10:00, KC Fed mfg 11:00; no CPI/PPI/FOMC/jobs — low event risk. Oil elevated (**WTI ~$91**, Brent ~$102). Sector tape mixed: Technology still the multi-week/MTD #1 (SMH/XLK) but soft on the day; Energy headline-strong on oil but quant-weak on bars; laggards Utilities / Consumer Disc. Catalyst names: **PANW +5%** (cybersecurity), Home Depot/Kroger/Zions earnings beats, Unity raised guidance, WMS +14%, TSM/AMD/ON basing at 50d.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **PANW** (stock, cybersecurity) — catalyst real (+5% Sep-23) — quant **3/5 confirmed** (trend/momentum/rel_strength TRUE; volume 0.-x FALSE, **not_extended FALSE**). last $393.17 pinned **at its 20d high $393.50** (blue sky); ATR $16.66, risk/sh $33.33 → 2R (~$460) deep in breakout air, ~0.01R of room to the 20d high → **fails 2:1**. Pinned-at-highs chase. Reject on not_extended + R:R.
+- **TSM** (stock, semis) — catalyst soft (basing at 50d, group bid) — quant **3/5 confirmed** (trend/momentum/rel_strength TRUE; volume FALSE, not_extended TRUE). last $446.88, hi_20d $452.80, risk/sh $20.83 → room to 20d high $5.92 = **0.28R**; 2R (~$489) lands above resistance in breakout air → **fails 2:1**. Reject on R:R.
+- **ON** (stock, semis) — no fresh specific catalyst (basing at 50d) — quant **5/5 confirmed** (all TRUE incl. not_extended). last $74.13, sma20 $72.26 rising, hi_20d $76.18, ATR $3.55, risk/sh $7.10 → room to 20d high $2.06 = **0.29R**; 2R (~$88) far above the 20d high → **fails 2:1**. Cleanest quant of the day but no catalyst + 2R in breakout air. Reject on catalyst + R:R.
+- **XLE / XOP** (Energy ETFs) — catalyst (oil ~$91, sector-momentum narrative) — quant **2/5 NOT confirmed** (volume + not_extended TRUE; trend/momentum/rel_strength FALSE — XLE last $62.38 below sma20 $63.99; XOP $182.66 below a falling sma20 $190.54). Headline strength refuted by the bars. No trade.
+- **MPC / PSX** (refiners) — catalyst (refining margins, oil) — quant **2/5 NOT confirmed** (below/at 20d, momentum & rel_strength FALSE). No trade.
+- **GNRC** (stock, power) — catalyst (Amazon deal, fading) — quant **2/5 NOT confirmed** (trend/momentum FALSE, sma20 now falling after the −3.2% Sep-23 fade). No trade.
+- **Premarket ≥$5 gainers** (BENF +400% $2.90 off-universe, WHLR/ARTL/IPDN/TJGC micro-pumps, VTGN +55%) — thin one-day spikes, no durable catalyst, fail quant/not_extended. Never chase.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on (SPY over rising 50d, VIX ~14.3, light calendar), Technology still the multi-week leader, but no name cleared all gates. The three confirmed leaders (PANW 3/5, TSM 3/5, ON 5/5) all fail 2:1 for the recurring reason — the 2R target lands above the 20d-high resistance (pinned at/near highs, 2R in breakout air); PANW/TSM also lack real room and ON has no fresh catalyst. The Energy narrative (oil ~$91, XLE/XOP "leading") is refuted by Alpaca bars — all energy names quant-fail at 2/5 (below a flat/falling 20d, weak momentum/RS). Flat, capital fully free; wait for a lower-entry retest or a fresh catalyst on a non-extended name with room. Heat 0%; DD −1.48%. Week trades 0/3.

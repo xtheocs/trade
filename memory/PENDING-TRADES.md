@@ -1,3 +1,3 @@
-# Pending Trades — 2026-09-23
+# Pending Trades — 2026-09-24
 
-No trades. Reason: Regime risk_on but no name cleared all gates — every confirmed leader (ARM 3/5, GNRC 4/5, BABA 4/5, NVDA 4/5, XLK 4/5, VKTX 4/5) fails 2:1 because its 2R target lands above the 20d-high resistance (pinned at highs, or ATR too wide vs room). GNRC has the cleanest fresh catalyst (Amazon backup-power deal) but its wide ATR makes 2R exceed the 1.16R of room to its 20d high; mega-cap semis also unsizable. Flat, capital free — wait for a lower-entry retest or a fresh catalyst on a non-extended name with room.
+No trades. Reason: Regime risk_on but no name cleared all gates — the confirmed leaders (PANW 3/5, TSM 3/5, ON 5/5) all fail 2:1 because their 2R target lands above the 20d-high resistance (pinned at/near highs, 2R in breakout air); ON is clean 5/5 but has no fresh catalyst and only 0.29R of room. The Energy narrative (oil ~$91, XLE/XOP "leading") is refuted by Alpaca bars — all energy names quant-fail at 2/5. Flat, capital free — wait for a lower-entry retest or a fresh catalyst on a non-extended name with room.

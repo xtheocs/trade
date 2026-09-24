@@ -13,6 +13,30 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-24 — Scorecard (prior session 2026-09-23)
+
+**Our picks (1d = Sep-23 close vs Sep-22 close):**
+- ARM (stock — rejected, pinned 0.07R under 20d high, 2R in breakout air) — actual 1d **−0.19%** ($332.61 vs $333.24) — verdict **rejected, correct** — flat/faded at the highs, the chase we refused went nowhere.
+- GNRC (stock — rejected, 4/5 but 2R above 20d high, ATR too wide) — actual 1d **−3.23%** ($199.45 vs $206.10) — verdict **rejected, dodged-loss** — rolled over, sma20 now falling; discipline paid.
+- BABA (stock — rejected, 4/5 but trend false + 2R above resistance) — actual 1d **−4.72%** ($110.80 vs $116.285) — verdict **rejected, dodged-loss** — the falling-20d trend flag was right; sharp fade.
+- NVDA (stock — rejected, no fresh catalyst + 2R in breakout air) — actual 1d **−1.41%** ($225.62 vs $228.85) — verdict **rejected, correct** — faded, still just riding the group.
+- XLK (ETF — rejected, pinned at 20d high) — actual 1d **−0.48%** ($195.33 vs $196.27) — verdict **rejected, correct** — flat/down at the highs.
+- SMH (ETF — rejected, pinned at 20d high) — actual 1d **−1.02%** ($601.20 vs $607.41) — verdict **rejected, correct** — faded from the 20d high.
+- VKTX (stock — rejected, +35% blow-off, not_extended false) — actual 1d **+1.93%** ($41.62 vs $40.83) — verdict **rejected, correct** — blow-off held only marginally, no clean entry.
+
+**Day's top tradeable gainers (Sep-23, ≥$5, no warrants/units/rights):** WHLR +190.9% ($5.44), ARTL +76.1% ($7.31), IPDN +39.0% ($5.42), TJGC +37.8% ($23.28) — all thin one-day micro-cap spikes, no durable catalyst. Main tradeable loser: JAGX −74% ($8.91) — the prior +1191% pump reverting.
+
+**Best realistic miss:** **None.** Every filtered gainer was a thin micro-cap pump (WHLR/ARTL/IPDN/TJGC) with no identifiable durable catalyst and would fail quant/not_extended — the names we never chase. No liquid large-cap catalyst mover made the board. Reject-all was rules-correct.
+
+**Lessons:**
+- Discipline paid hard: all six pinned-at-highs names we rejected Sep-23 faded or were flat Sep-24 (ARM −0.2%, GNRC −3.2%, BABA −4.7%, NVDA −1.4%, XLK −0.5%, SMH −1.0%). Chasing any of them into the 20d high would have lost money — the R:R/not_extended gate did its job.
+- Energy headline vs bars divergence: news says Energy "leading," oil ~$91, XLE/XOP "clearing resistance" — but Alpaca bars refute it (XLE/XOP/MPC/PSX all 2/5: below/at a falling-or-flat 20d, momentum & rel_strength FALSE). Trade the bars, never the narrative.
+- Today's confirmed leaders (PANW 3/5, TSM 3/5, ON 5/5) all fail 2:1 — same pinned-near-20d-high / 2R-in-breakout-air pattern. ON has the cleanest quant (5/5) but no fresh catalyst and only 0.29R of room to its 20d high.
+
+**Rolling 7d:** recurring leading sectors = **Technology / semiconductors** (SMH/XLK — now TSM/ON/PANW joining AMD/INTC/MU/NVDA/ARM; SPY over its rising 50d, risk_on) ; Energy is headline-strong (oil ~$91) but **quant-weak on the bars** — a persistent divergence, don't chase the story ; laggards Utilities / Consumer Disc / Comm Services ; recurring miss pattern = **liquid confirmed leaders pinned at/near their 20d highs with 2R in breakout air** (…→AMD→MU→VKTX→PANW/TSM/ON) — convertible only via a lower-entry retest that keeps not arriving; mega-cap semis also unsizable at their prices. Hard rules unchanged.
+
+---
+
 ## 2026-09-23 — Scorecard (prior session 2026-09-22)
 
 **Our picks (1d = Sep-22 close vs Sep-21 close):**
