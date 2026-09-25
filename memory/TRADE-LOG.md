@@ -911,3 +911,14 @@ drawdown are measured from here.
 **Notes:** Fourth straight flat day, fully in cash — account/positions/orders pulls confirm 0 positions, 0 open orders, equity unchanged at $1,072.91 (last_equity also $1,072.91, no mark-to-market move). Day P&L $0.00 (+0.00%) vs Sep 23's $1,072.91 close. Phase P&L −$7.09 (−0.66%) vs the $1,080.00 starting equity — 74 sessions in, essentially flat; nowhere near the ~10% monthly stretch target (informational only, not a trigger). Peak unchanged at $1,089.01; drawdown −1.48% from peak — 20% breaker inactive, nowhere close. Trades today: 0. Weekly trades: 0/3 new entries (week of Sep 21, one stop-triggered exit Monday, no new entries since). No open positions or pending orders — capital fully freed, waiting on pre-market to surface a fresh catalyst + 3/5 quant + 2:1 R:R setup. Tomorrow: pre-market rescans regime/catalyst/quant for fresh setups clearing catalyst + 3/5 quant + 2:1 R:R; no thesis carried forward.
 
 ---
+
+### Sep 25 — EOD Snapshot (Day 75, Friday)
+**Portfolio:** $1,072.91 | **Cash:** $1,072.91 (100%) | **Day P&L:** $0.00 (+0.00%) | **Phase P&L:** −$7.09 (−0.66%) | **Peak:** $1,089.01 | **DD:** −1.48%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Fifth straight flat day, fully in cash — account/positions/orders pulls confirm 0 positions, 0 open orders, equity unchanged at $1,072.91 (last_equity also $1,072.91, no mark-to-market move). Day P&L $0.00 (+0.00%) vs Sep 24's $1,072.91 close. Phase P&L −$7.09 (−0.66%) vs the $1,080.00 starting equity — 75 sessions in, essentially flat; nowhere near the ~10% monthly stretch target (informational only, not a trigger). Peak unchanged at $1,089.01; drawdown −1.48% from peak — 20% breaker inactive, nowhere close. Trades today: 0. Weekly trades: 0/3 new entries (week of Sep 21, one stop-triggered exit Monday, no new entries since) — closes the week with zero new positions. Pre-market rejected LLY (4/5, FDA approval catalyst but 2R in breakout air), AMD/INTC (4/5, pinned at 20d highs), NVDA (4/5, no catalyst + fails R:R), and EQNR (2/5, Energy the week's laggard, narrative refuted by bars). No open positions or pending orders — capital fully freed. Next week: pre-market rescans regime/catalyst/quant for fresh setups clearing catalyst + 3/5 quant + 2:1 R:R; no thesis carried forward.
+
+---
