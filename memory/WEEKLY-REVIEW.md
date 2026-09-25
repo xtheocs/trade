@@ -925,3 +925,68 @@ Template for each entry:
 *(A quiet, slightly-down FOMC week. Process stayed A: zero rule violations, no risk taken into the Wednesday decision, the XLE stop trailed up to a bigger locked gain (+$1.17/sh, order d0828e1d), and four real catalysts — DELL, HPE, NTAP, QCOM, and a genuine GNRC/Amazon deal — were correctly refused as chases or downtrend bounces. Restraint under pressure was the highlight: FOMC day compressed the stop cushion to ~1.16% and the rules held exactly — no widening, no downward move, no fresh stop inside the 3% band. But outcome slips below the recent run of B/B+: the week printed −0.31% and, for the first time in a while, *lagged* a rising S&P (≈ +0.6%), the sole engine XLE cooled to 3/5 quant as energy became the post-FOMC laggard, and breadth failed for a fourth straight week — ~76% cash idle, no second order, phase P&L still flat 70 sessions in. A clean sheet and a defended locked gain, but a down week with a fading single engine and no growth — B−, a notch below last week's eventless B. Survival fully intact; the account now needs both a second setup and a decision on how long to hold a cooling runner.)*
 
 ---
+
+## Week ending 2026-09-25
+
+*(Exit week — Mon Sep-21 → Fri Sep-25. XLE's protective GTC stop filled Monday, closing the phase's proof-of-concept runner a locked winner; the balance of the week was fully in cash. Sixth straight no-*new*-trade week.)*
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $1,076.94 (Fri Sep-18 close) |
+| Ending portfolio | $1,072.91 (Fri Sep-25 close) |
+| Week return | −$4.03 (−0.37%) |
+| Peak equity (week) | $1,076.94 (Mon carry-in) intra-week · max intra-week DD ≈ −0.37% (to the $1,072.91 post-exit cash line, flat Tue–Fri) · phase peak $1,089.01 unchanged, phase DD −1.48% |
+| S&P 500 week | ≈ +0.7% (WTOP: +53.63 pts / +0.7% for the week; FRED weekly +0.7%; Nasdaq +1.6%, Dow −0.6% — mixed, tech-led) — FYI only |
+| Bot vs S&P | ≈ −1.1% (−0.37% vs a ≈ +0.7% up tape — FYI context, NOT the goal) |
+| Trades | 0 new · 1 closed (XLE exit) — W:1 / L:0 / open:0 |
+| Win rate | 100% (1 of 1 closed) |
+| Best trade | XLE +1.85% (+$4.61 realized) |
+| Worst trade | N/A (sole closed trade was a winner) |
+| Profit factor | N/A — undefined (Σ winners $4.61 / Σ losers $0) |
+| Avg R multiple | +1.4R (XLE: exit $63.3025 vs entry $62.15 = +$1.1525/sh ÷ initial risk $0.83/sh) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| XLE | $62.15 (4 sh, filled ~Aug-27 via the Aug-18 breakout-retest buy-limit) | $63.3025 (Mon Sep-21, 13:35 UTC) | +$4.61 (+1.85%, +1.4R) | Protective trailing GTC stop (order d0828e1d @ $63.32) filled — no thesis break, no time stop. Stop had trailed above entry (locked +$1.17/sh floor); exited above breakeven exactly as designed. Held ~4 weeks; quant had faded to 3/5 (energy the post-FOMC laggard). The stop did its job. |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|-----------|------|
+| — | — | — | — | None — 100% cash ($1,072.91) since Monday's XLE exit; 0 open orders, heat 0%. |
+
+### What Worked
+- **The XLE stop closed the phase's runner a *winner*, above breakeven, mechanically — §7/§9 executed to the letter.** The GTC stop had been trailed up (never down, never widened, never inside 3%) to $63.32, a floor already above the $62.15 entry. When energy kept rolling and the stop filled Monday at $63.3025, it locked +$4.61 (+1.85%, +1.4R) with zero discretion. The whole point of a trailing protective stop — turn a fading winner into a *realized* gain without a decision under pressure — worked exactly as the strategy intends. First closed trade since the Jun-26 SMH time-stop, and it was green.
+- **A cooling thesis was let go, not re-underwritten.** XLE had faded to 3/5 quant (momentum/rel-strength false, energy the post-FOMC #1 laggard). Last week's plan explicitly re-cast it as "let the stop decide, don't widen to give it room." That posture held: no impulse to move the stop down or add on the dip. The stop was allowed to close a spent thesis — the discipline of *not* fighting a rolling sector.
+- **Zero rule violations across the week — clean sheet, 15th-equivalent.** 0 new trades (1 exit), XLE ≤25% eq while held then heat → 0%, weekly trades 0/3, DD −1.48% « 20% breaker, regime read risk_on all week (SPY over a rising 50d), inverse sleeve correctly un-sanctioned, no fresh stop placed inside the 3% band. Every hard rule held.
+- **The 2:1 filter refused a real, fresh FDA catalyst at a bad price — the gate working as designed.** Friday's LLY (Onswik FDA approval, 4/5 quant) was the week's cleanest catalyst but sat 0.26R under its 20d high with 2R deep in breakout air (and fractional-only at $1,183/sh). Rejected correctly. Same for AMD/INTC/NVDA (all 4/5, pinned at 20d highs) and the EQNR energy upgrade (2/5, refuted by the bars). The filter said no to real news at un-enterable geometry, repeatedly — that is the edge, not a miss.
+
+### What Didn't Work
+- **The account is now a fully-cash *engine-less* book — the phase's only position is gone with no replacement.** For four months XLE (and SMH before it) at least gave the account a live thesis to manage. Post-Monday it is 100% cash with zero qualifying setups surfaced in five straight sessions. Survival is intact, but there is now literally nothing working *for* the account — only the absence of losses.
+- **A down week that lagged a rising, tech-led tape.** −0.37% (−$4.03) while the S&P rose ≈ +0.7% and the Nasdaq +1.6%. The down move is just the mark-to-market gap between Friday's XLE close and Monday's realized exit price — not a new loss — but the account still sat out a clean +1.6% week in exactly the sector (Technology, +4.8% on the week) it kept flagging as the leader.
+- **Breadth failed for a *sixth* straight week — the "arm a second order" mandate is now ~0-for-6.** Not one liquid catalyst all week (GNRC, BABA, NVDA, VKTX, PANW, TSM, ON, LLY, AMD, INTC) cleared catalyst + 3/5 quant + 2:1 with room at a lower entry. Every rejection was the identical geometry: a confirmed 4–5/5 leader pinned at/near its 20d high, 2R landing in breakout air. The tape offered breakouts, never the pullback/retest the mechanism needs.
+- **No compounding, 75 sessions in — phase P&L −$7.09 (−0.66%), essentially flat.** The realized +$4.61 on XLE is noise-level, and the account has drifted slightly *below* the $1,080 start over the whole phase. A green closed trade and a clean sheet, but the number that matters (grow the account) has not moved in three-plus months.
+
+### Key Lessons
+- **A trailing stop that closes a fading winner above breakeven is the strategy's success case — not a "position lost."** XLE was underwritten as a breakout-retest, trailed as it worked, and exited a +1.4R winner the moment the trail was hit. That full lifecycle — enter on geometry, trail up only, let the stop realize the gain when the thesis cools — is exactly what §7/§9 are *for*. The takeaway is to keep running that playbook, not to mourn the flat book it leaves behind.
+- **Six weeks confirm the breadth gap is a market-supply constraint, not a will or a rule problem.** Every week the reason is identical — confirmed leaders pinned at highs, 2R in breakout air, no qualifying lower entry. This is now long enough to state as fact: in a one-directional grind (tech breakouts, no pullbacks) the pullback-entry mechanism simply won't fire, and forcing a breakout-chase entry would break the exact 2:1 geometry that has kept the book clean and dodged real losses for a quarter. The honest read: the account stays flat-cash until the tape presents a *retest*, and that is the correct outcome, not a failure of nerve.
+- **An engine-less cash book is a *different* posture than a managed-runner book — and the risk now is boredom, not a bad hold.** With XLE gone, there is no position to defend and 100% dry powder. The temptation shifts from "widen a stop to hold a winner" (last month's trap) to "manufacture a trade to feel invested" (this month's trap). The discipline is identical in spirit: only a qualifying setup — catalyst + 3/5 + 2:1 + allowing regime — puts capital at risk, and a *seventh* zero-new-trade week is fully acceptable if the tape offers none.
+- **15th-equivalent clean week: process A, outcome C+.** No rule violated, the runner closed a +1.4R winner mechanically, six real catalysts refused at un-enterable geometry, capital fully preserved. Capped hard by the through-line — the account is now flat cash with no engine, lagged a +1.6% Nasdaq week, and phase P&L is flat 75 sessions in. Textbook risk management with nothing to show for it on the growth axis.
+
+### Adjustments for Next Week
+- **Keep arming for a *first* new position — the mandate is now breadth from zero, not a second name.** With XLE closed the account has one open slot to fill (0/4 → target 1–2). Priority remains a confirmed leader coming *back to* a rising 20d, or a clean breakout-*retest* (buy-stop/limit on a pullback that clears catalyst + 3/5 quant + 2:1 with real room to the next resistance). Pre-market records the exact trigger, entry−2×ATR stop, and 2R target; market-open arms the whole-share order. Do not chase a breakout into blue-sky air — the six-week rejection log is the proof that geometry, not activity, is the job.
+- **Regime gate first, read fresh — risk_on but tech-extended.** SPY held over a rising 50d all week (risk_on, full size available), but the leadership (Technology +4.8% wk) is exactly what keeps failing 2:1 by being pinned at highs. Trade long only on a retest/pullback a resting order can catch. Inverse sleeve stays un-sanctioned unless SPY loses a rising 50d into a confirmed downtrend.
+- **Don't manufacture a trade to deploy the cash — a seventh no-new-trade week is acceptable.** Full $1,072.91 equity, 100% buying power, 0/3 weekly trades, heat 0%, DD −1.48%. Zero *new* trades remains valid. The bar is unchanged: a qualifying catalyst + 3/5 quant + 2:1 + allowing regime at a price the geometry sanctions — not a breakout-chase to end the drought.
+- **Watch, do not yet amend, the "2R-in-breakout-air" rejection pattern (see Strategy File Changes).** It has now blocked entry for six straight weeks. It is being flagged for a decision if it persists another 2–3 weeks — but no rule change this week.
+
+### Strategy File Changes
+- **NONE.** The candidate for review is the recurring "2:1 R:R fails because 2R lands above the 20d high in breakout air" rejection, which has now blocked *every* would-be entry for six straight weeks (PANW, ON, TSM, AMD, INTC, NVDA, LLY, QCOM, GNRC, and more). It is worth naming, but it is not yet a rule *failing* — the same filter demonstrably dodged real losses across the prior weeks (Sep-10's rejected names fell the next day) and closed XLE a +1.4R winner by refusing to chase in the first place. Loosening 2:1, or measuring the target to the next resistance instead of a fixed 2R, would directly weaken the core edge on the strength of a one-directional grind that has offered no pullbacks — precisely the "single week's noise" (here, a single *regime*) STEP 5 warns against churning on. **Decision: no change now; formally re-examine the 2:1 target-measurement question only if the pattern persists 2–3 more weeks AND the account is still engine-less then.** Every hard rule (3% risk, 2×ATR/trailing stop, never-widen/never-move-down, 2:1 minimum, heat/sleeve caps, regime gate) held and was validated in live use this week — including a textbook trailing-stop exit.
+
+### Overall Grade: C+
+*(A textbook-clean exit week that still leaves the account with nothing on the growth axis. The highlight is real: XLE's trailing GTC stop closed the phase's proof-of-concept runner a +1.4R winner (+$4.61, +1.85%), above breakeven, mechanically — the full breakout-retest → trail-up → stop-realizes-the-gain lifecycle executed exactly as §7/§9 intend, and a cooling 3/5 thesis was correctly let go rather than re-underwritten. Process stayed A: zero rule violations, regime read risk_on throughout, six real catalysts (LLY's fresh FDA approval among them) refused at un-enterable pinned-at-highs geometry, no stop inside the 3% band. But the outcome is thin and the through-line is now stark: the exit leaves a 100%-cash, *engine-less* book that surfaced zero qualifying setups in five straight sessions, the week printed −0.37% and lagged a +0.7% S&P / +1.6% Nasdaq in exactly the tech leadership it kept flagging, breadth failed for a sixth straight week, and phase P&L is flat (−$7.09, −0.66%) 75 sessions in. Survival fully intact; risk management is flawless; growth is absent. C+ — a notch below last week's B−, reflecting that the account's one live engine is now gone with no qualifying replacement, and the job has narrowed to a single question: find the first clean retest the tape will finally offer, without chasing a breakout to do it.)*
+
+---
