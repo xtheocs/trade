@@ -2049,3 +2049,31 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on (SPY over rising 50d, VIX ~14.3, light calendar), Technology still the multi-week leader, but no name cleared all gates. The three confirmed leaders (PANW 3/5, TSM 3/5, ON 5/5) all fail 2:1 for the recurring reason — the 2R target lands above the 20d-high resistance (pinned at/near highs, 2R in breakout air); PANW/TSM also lack real room and ON has no fresh catalyst. The Energy narrative (oil ~$91, XLE/XOP "leading") is refuted by Alpaca bars — all energy names quant-fail at 2/5 (below a flat/falling 20d, weak momentum/RS). Flat, capital fully free; wait for a lower-entry retest or a fresh catalyst on a non-extended name with room. Heat 0%; DD −1.48%. Week trades 0/3.
+
+## 2026-09-25 — Pre-market
+
+### Account
+- Equity: **$1,072.91** / Cash: $1,072.91 (100%) / Buying power: $1,072.91
+- Open positions: **0** (flat since XLE stop-out Sep-21 — 5th straight flat day)
+- Drawdown from peak: **−1.48%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 0 / Week trades: 0 new (week of Sep 21) / Daytrade count: 0
+
+### Regime
+- Equity: **risk_on** (SPY $767.29 above its rising 50-day SMA $761.13) — full size, best setups.
+- Macro/tape: Calm risk-on — S&P futures ~7,750–7,790 (flat), **VIX ~14–15** (low). Econ calendar light — no scheduled CPI/PCE/FOMC/jobs Friday, low event risk. Oil mixed (WTI ~$92–94). Sector tape (this week): **Technology +4.8% (#1)**, Industrials +1.0% — the only two positive; Energy **−4.2%** and Utilities −3.8% the laggards; semis choppy on the day (−1.4%). Catalyst names: **LLY** FDA approval (Onswik basal insulin), **SBUX** reported Japan-stake-sale talks, **EQNR** BofA upgrade, semis (AMD/INTC/NVDA) premarket bid.
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **LLY** (stock, pharma) — catalyst **real/fresh** (FDA approval for Onswik once-weekly basal insulin) — quant **4/5 confirmed** (momentum/rel_strength/volume/not_extended TRUE; **trend FALSE**, sma20 not rising). last $1183.49, hi_20d $1197.74, risk/sh $55.74 → room to 20d high $14.25 = **0.26R**; 2R (~$1295) lands far above resistance in breakout air → **fails 2:1**. Freshest catalyst of the day but geometry fails; also fractional-only at $1183/sh. Reject on R:R.
+- **AMD** (stock, semis) — no fresh own catalyst (group bid, +1.9% premkt) — quant **4/5 confirmed** but **not_extended FALSE**. last $629.01 pinned **at its 20d high $630.80** (0.03R room); risk/sh $53.39 → 2R deep in breakout air → **fails 2:1**. Pinned-at-highs chase. Reject on not_extended + R:R + no catalyst.
+- **INTC** (stock, semis) — catalyst thin (premkt +1.3%, ongoing turnaround narrative) — quant **4/5 confirmed** but **not_extended FALSE**. last $127.34 pinned **at its 20d high $127.44** (0.01R room); risk/sh $13.71 → 2R in breakout air → **fails 2:1**. Reject on R:R.
+- **NVDA** (stock, semis) — no fresh own catalyst (riding the group, +0.5% premkt) — quant **4/5 confirmed** (trend/momentum/rel_strength/not_extended TRUE; volume 0.-x FALSE). last $224.58, hi_20d $234.75, risk/sh $10.72 → room 0.95R; 2R (~$246) above resistance → **fails 2:1**. No catalyst + R:R. No trade.
+- **SBUX** (stock, consumer) — catalyst soft (Japan-stake-sale talks, remodel spend) — quant **2/5 NOT confirmed** (trend/momentum/rel_strength FALSE, last $93.65 below falling sma20 $100.38). No setup. No trade.
+- **EQNR** (stock, energy) — catalyst real (BofA upgrade to Buy, FCF/gas outlook) — quant **2/5 NOT confirmed** (trend/momentum/rel_strength FALSE, below sma20 $43.50); Energy is the week's #1 laggard (−4.2%). Narrative refuted by bars. No trade.
+- **Premarket ≥$5 pumps** (SRZN +108% $33.68 biotech gap, GLND +84% $5.35, GRML +33% $14.89, INLF/ONCO/IFBD micro-pumps) — thin one-day micro-cap spikes, no durable catalyst, fail quant/not_extended. Never chase.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on (SPY over rising 50d, VIX ~14–15, no calendar risk), Technology still the clear weekly leader (+4.8%), but no name cleared all gates. Every confirmed leader (LLY 4/5, AMD 4/5, INTC 4/5, NVDA 4/5) fails 2:1 for the recurring reason — the 2R target lands above the 20d-high resistance (pinned at highs, or ATR too wide vs room to overhead resistance). LLY has the day's freshest catalyst (FDA approval) but is 0.26R from its 20d high → 2R in breakout air, and is fractional-only at $1183/sh. The Energy upgrade (EQNR) is refuted by the bars (2/5, Energy the week's laggard). 5th straight flat day; capital fully free — wait for a lower-entry retest or a fresh catalyst on a non-extended name with room. Heat 0%; DD −1.48%. Week trades 0/3.

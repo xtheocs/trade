@@ -1,3 +1,3 @@
-# Pending Trades — 2026-09-24
+# Pending Trades — 2026-09-25
 
-No trades. Reason: Regime risk_on but no name cleared all gates — the confirmed leaders (PANW 3/5, TSM 3/5, ON 5/5) all fail 2:1 because their 2R target lands above the 20d-high resistance (pinned at/near highs, 2R in breakout air); ON is clean 5/5 but has no fresh catalyst and only 0.29R of room. The Energy narrative (oil ~$91, XLE/XOP "leading") is refuted by Alpaca bars — all energy names quant-fail at 2/5. Flat, capital free — wait for a lower-entry retest or a fresh catalyst on a non-extended name with room.
+No trades. Reason: Regime risk_on but no name cleared all gates — the confirmed leaders (LLY 4/5, AMD 4/5, INTC 4/5, NVDA 4/5) all fail 2:1 because their 2R target lands above the 20d-high resistance (pinned at/near highs, 2R in breakout air). LLY has the day's freshest catalyst (FDA approval) but is only 0.26R from its 20d high and fractional-only at $1183/sh. Energy upgrade names (EQNR) quant-fail 2/5 — Energy is the week's laggard, bars refute the headline. Flat, capital free — wait for a lower-entry retest or a fresh catalyst on a non-extended name with room.

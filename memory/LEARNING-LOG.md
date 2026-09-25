@@ -13,6 +13,26 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-25 — Scorecard (prior session 2026-09-24)
+
+**Our picks (1d = Sep-24 close vs Sep-23 close):**
+- PANW (stock — rejected, pinned at 20d high, 2R in breakout air) — actual 1d **−0.78%** ($390.10 vs $393.17) — verdict **rejected, dodged-loss** — faded off the 20d high, exactly the pinned-at-highs fade we avoid.
+- TSM (stock — rejected, 3/5 but 2R above resistance) — actual 1d **+0.93%** ($451.05 vs $446.88) — verdict **rejected, correct** — modest bounce; still failed 2:1 (2R in breakout air), no clean entry.
+- ON (stock — rejected, 5/5 but no catalyst + 2R above 20d high) — actual 1d **−1.23%** ($73.21 vs $74.125) — verdict **rejected, dodged-loss** — rolled over; clean quant but the missing catalyst / breakout-air target were the right flags.
+
+**Day's top tradeable gainers (Sep-24, ≥$5, no warrants/units/rights):** SRZN +108.4% ($33.68 — Surrozen, biotech gap-up), GLND +83.9% ($5.35), GRML +33.1% ($14.89) — all thin one-day micro-cap spikes, no durable catalyst. Main tradeable losers: TRT −36.6% ($7.26), ARTL −29.3% ($5.17).
+
+**Best realistic miss:** **None.** Every filtered gainer was a thin micro-cap spike (SRZN biotech gap, GLND, GRML) with no identifiable durable catalyst and would fail quant/not_extended — the names we never chase. No liquid large-cap catalyst mover made the board. Reject-all was rules-correct.
+
+**Lessons:**
+- Discipline paid again: PANW −0.8% and ON −1.2% faded (dodged), TSM only +0.9% and still failed 2:1 — chasing any into the 20d high would not have paid. The R:R/not_extended gate keeps doing its job.
+- The recurring miss now spans pharma too: today's freshest catalyst (LLY, FDA approval, 4/5) still **fails 2:1** — 2R lands far above its 20d high in breakout air. It is not a semis-only pattern; it is a resistance-geometry pattern.
+- Energy upgrade vs bars divergence persists: EQNR (BofA Buy upgrade) quant-fails 2/5 and Energy is the week's #1 laggard (−4.2%). Trade the bars, never the upgrade headline.
+
+**Rolling 7d:** recurring leading sectors = **Technology / semiconductors** (weekly #1 at +4.8%; AMD/INTC/NVDA/TSM the perennial confirmed leaders; SPY over its rising 50d, risk_on) ; Industrials a distant #2 ; **Energy the persistent laggard** (−4.2% this week, XLE/XOP/EQNR all quant-weak despite oil/upgrade headlines — don't chase the story) ; Utilities weak. Recurring miss pattern = **liquid confirmed leaders pinned at/near their 20d highs with 2R in breakout air** (…→PANW/TSM/ON→AMD/INTC/NVDA/LLY) — convertible only via a lower-entry retest that keeps not arriving; mega-caps (LLY $1183, AMD $629) also fractional-only. Hard rules unchanged.
+
+---
+
 ## 2026-09-24 — Scorecard (prior session 2026-09-23)
 
 **Our picks (1d = Sep-23 close vs Sep-22 close):**
