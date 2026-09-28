@@ -2077,3 +2077,31 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on (SPY over rising 50d, VIX ~14–15, no calendar risk), Technology still the clear weekly leader (+4.8%), but no name cleared all gates. Every confirmed leader (LLY 4/5, AMD 4/5, INTC 4/5, NVDA 4/5) fails 2:1 for the recurring reason — the 2R target lands above the 20d-high resistance (pinned at highs, or ATR too wide vs room to overhead resistance). LLY has the day's freshest catalyst (FDA approval) but is 0.26R from its 20d high → 2R in breakout air, and is fractional-only at $1183/sh. The Energy upgrade (EQNR) is refuted by the bars (2/5, Energy the week's laggard). 5th straight flat day; capital fully free — wait for a lower-entry retest or a fresh catalyst on a non-extended name with room. Heat 0%; DD −1.48%. Week trades 0/3.
+
+## 2026-09-28 — Pre-market
+
+### Account
+- Equity: **$1,072.91** / Cash: $1,072.91 (100%) / Buying power: $1,072.91
+- Open positions: **0** (flat since XLE stop-out Sep-21 — 6th straight flat session)
+- Drawdown from peak: **−1.48%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 0 / Week trades: 0 new (week of Sep 28) / Daytrade count: 0
+
+### Regime
+- Equity: **risk_on** (SPY $771.35 above its rising 50-day SMA $761.53) — full size, best setups.
+- Macro/tape: Calm risk-on — S&P futures ~7,770–7,806 (SPY closed the week at multi-week highs, +tech optimism), **VIX ~14.9** (−5% premkt, low). Econ calendar light Monday. Sector tape (this week): **Technology / semiconductors #1** (SMH/XLK/AMD leading, StockCharts + StrongBuyAnalytics both rank Tech first), **Communication Services** #2 (META/VZ/DIS); **Energy / Utilities the laggards** (XLE/XLC weak, Utilities −7%+ YTD). Catalyst names: **AKAM** ($11.6B→$20B, 7-yr Anthropic cloud contract, +22% AH — largest deal in its history), semis broadly active premarket (MU/INTC/AMD/NVDA/SNDK heavy volume); **MU** reports Q4 FY26 after close **Sep-30** (binary event — avoid holding into it).
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **AKAM** (stock, cloud/CDN) — catalyst **real/fresh & large** ($11.6B→$20B 7-yr Anthropic cloud commitment, largest in Akamai history, +22% after-hours) — quant on stale Fri bars **4/5 confirmed** (trend/rel_strength/volume 4.17x/not_extended TRUE; **momentum FALSE**). last $113.87, sma20 $108.75 rising, hi_20d $127.925, ATR $6.79, risk/sh $13.58 → **but the +22% catalyst gaps it to ~$139 at the open**, which is ~4.5 ATR above the 20d SMA (a blow-off gap-chase — not_extended fails post-gap) and clears the 20d high only by gapping into breakout air; on the stale bars 2R (~$141) also lands above the 20d high $127.93 → **fails 2:1** either way. Freshest, biggest catalyst of the day but it is a gap-up chase, not a disciplined entry. Reject on gap-extension + R:R. **Watch:** a pullback/retest of the ~$114–128 base with a lower entry would be actionable.
+- **SMH** (ETF, semis) — catalyst (semis sector leadership) — quant **3/5 confirmed** (trend/momentum/rel_strength TRUE; volume 0.68x + **not_extended FALSE**). last $606.56 pinned **0.10R under its 20d high $609.55**; risk/sh $29.68 → 2R (~$666) deep in breakout air → **fails 2:1**. Pinned-at-highs. Reject on not_extended + R:R.
+- **XLK** (ETF, tech) — catalyst (tech leadership) — quant **3/5 confirmed** (trend/momentum/rel_strength TRUE; volume 0.79x + not_extended FALSE). last $196.25 pinned **0.11R under its 20d high $196.93**; risk/sh $6.12 → 2R (~$208) above resistance → **fails 2:1**. Reject on R:R.
+- **AMD** (stock, semis) — no fresh own catalyst (group bid) — quant **3/5 confirmed** (trend/momentum/rel_strength TRUE; volume + not_extended FALSE). last $630.47, hi_20d $638.79 (0.16R room), ~3.9 ATR above sma20 $528 (extended); risk/sh $52.02 → 2R (~$734) in breakout air → **fails 2:1**. Reject on not_extended + R:R + no catalyst.
+- **NVDA** (stock, semis) — no fresh own catalyst (riding the group) — quant **3/5 confirmed** (momentum/rel_strength/not_extended TRUE; **trend FALSE**, sma20 not rising; volume 0.88x FALSE). last $225.04, hi_20d $234.75 (0.94R room); risk/sh $10.38 → 2R (~$246) above resistance → **fails 2:1**. Reject on R:R + no catalyst.
+- **MU** (stock, semis) — active premkt but catalyst is **earnings Sep-30 after close** — binary event, strategy forbids holding into unplanned/scheduled binaries. No trade.
+- **Premarket ≥$5 gainers** (MSGY +310% $8.07, INLF +69% $5.10, APUS +47% $7.25, WHLR +39% $5.20, AIFU +32% $12.02) — thin one-day micro-cap spikes, no durable catalyst, fail quant/not_extended. Never chase.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on (SPY over rising 50d, VIX ~14.9, light calendar), Technology/semiconductors still the clear multi-week leader, but no name cleared all gates. The day's biggest fresh catalyst — AKAM's $11.6B→$20B Anthropic cloud deal — arrives as a **+22% gap-up**, making it a blow-off chase (post-gap ~4.5 ATR above the 20d SMA, 2R in breakout air); it becomes actionable only on a lower-entry pullback/retest. Every confirmed semis leader (SMH 3/5, XLK 3/5, AMD 3/5, NVDA 3/5) fails 2:1 for the recurring reason — pinned at/near the 20d high, 2R in breakout air. MU is blocked by a Sep-30 earnings binary. 6th straight flat session; capital fully free — wait for a lower-entry retest (AKAM base $114–128 the prime watch) or a fresh catalyst on a non-extended name with room. Heat 0%; DD −1.48%. Week trades 0/3.

@@ -13,6 +13,27 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-28 — Scorecard (prior session 2026-09-25)
+
+**Our picks (1d = Sep-25 close vs Sep-24 close):**
+- LLY (stock — rejected, 4/5, FDA approval but 2R in breakout air, fractional-only) — actual 1d **+0.04%** ($1183.99 vs $1183.49) — verdict **rejected, correct** — flat at the highs, no clean entry; the freshest catalyst still went nowhere day-1.
+- AMD (stock — rejected, 4/5, pinned at 20d high) — actual 1d **+0.23%** ($630.47 vs $629.005) — verdict **rejected, correct** — flat, pinned; the chase paid nothing.
+- INTC (stock — rejected, 4/5, pinned 0.01R under 20d high) — actual 1d **−3.42%** ($122.98 vs $127.34) — verdict **rejected, dodged-loss** — faded hard off the 20d high, exactly the pinned-at-highs fade the gate exists for.
+- NVDA (stock — rejected, 4/5, no catalyst + 2R above resistance) — actual 1d **+0.20%** ($225.04 vs $224.58) — verdict **rejected, correct** — flat, still just riding the group.
+
+**Day's top tradeable gainers (Sep-25, ≥$5, no warrants/units/rights):** MSGY +309.6% ($8.07), INLF +68.9% ($5.10), APUS +47.4% ($7.25), WHLR +39.0% ($5.20), AIFU +32.1% ($12.02) — all thin one-day micro-cap spikes, no durable catalyst. Main tradeable loser: WYY −50.6% ($5.47).
+
+**Best realistic miss:** **None.** Every filtered gainer was a thin micro-cap pump (MSGY/INLF/APUS/WHLR/AIFU) with no identifiable durable catalyst and would fail quant/not_extended — the names we never chase. No liquid large-cap catalyst mover made the board. Reject-all was rules-correct.
+
+**Lessons:**
+- Discipline paid again: INTC −3.4% faded off its 20d high (dodged), LLY/AMD/NVDA all flat (+0.0–0.2%) — chasing any of the pinned leaders would have paid nothing or lost. The R:R/not_extended gate keeps doing its job.
+- The one new fresh catalyst today (AKAM, $11.6B→$20B Anthropic cloud deal, +22% AH) is a **gap-up chase**, not a clean entry: post-gap ~$139 is ~4.5 ATR above its rising 20d SMA and clears the 20d high only by gapping into breakout air. Same recurring resistance-geometry trap, now via a gap rather than a slow grind.
+- Semis leadership persists (SMH/XLK/AMD all confirmed) but every one is pinned at/near its 20d high with 2R in breakout air — the convertible setup is still a lower-entry retest that keeps not arriving.
+
+**Rolling 7d:** recurring leading sectors = **Technology / semiconductors** (StockCharts + StrongBuyAnalytics both rank Tech/SMH #1; SMH/XLK/AMD/NVDA the perennial confirmed leaders; SPY $771 over its rising 50d $761, risk_on) ; Communication Services a #2 (META/VZ/DIS) ; **Energy/Utilities the persistent laggards** (XLE/XLC weak, Utilities −7%+ YTD — don't chase the energy story). Recurring miss pattern = **liquid confirmed leaders pinned at/near their 20d highs with 2R in breakout air** (…PANW/TSM/ON→AMD/INTC/NVDA/LLY→SMH/XLK/AMD/AKAM) — convertible only via a lower-entry retest that keeps not arriving; mega-caps (LLY $1184, AMD $630) also fractional-only; fresh catalysts increasingly arrive as gap-ups (AKAM +22%) we won't chase. Hard rules unchanged.
+
+---
+
 ## 2026-09-25 — Scorecard (prior session 2026-09-24)
 
 **Our picks (1d = Sep-24 close vs Sep-23 close):**
