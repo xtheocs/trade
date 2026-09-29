@@ -13,6 +13,28 @@ Filtered/tradeable universe = price ≥ $5, no warrants/units/rights.
 
 ---
 
+## 2026-09-29 — Scorecard (prior session 2026-09-28)
+
+**Our picks (1d = Sep-28 close vs Sep-25 close):**
+- AKAM (stock — rejected, 4/5, +22% gap-up chase, 2R in breakout air) — actual 1d **−4.29%** ($108.99 vs $113.87) — verdict **rejected, dodged-loss** — the gap sold off hard, exactly the blow-off-chase fade the not_extended/R:R gate exists for.
+- SMH (ETF — rejected, 3/5, pinned 0.10R under 20d high) — actual 1d **−1.03%** ($600.33 vs $606.56) — verdict **rejected, correct** — faded from the highs.
+- XLK (ETF — rejected, 3/5, pinned 0.11R under 20d high) — actual 1d **−0.88%** ($194.52 vs $196.25) — verdict **rejected, correct** — flat/down at the highs.
+- AMD (stock — rejected, 3/5, pinned + extended) — actual 1d **−3.58%** ($607.88 vs $630.47) — verdict **rejected, dodged-loss** — rolled over off its 20d high, the pinned-at-highs fade again.
+- NVDA (stock — rejected, 3/5, no catalyst + 2R above resistance) — actual 1d **+1.71%** ($228.89 vs $225.04) — verdict **rejected, correct** — small pop still riding the group; no clean 2:1 entry existed.
+
+**Day's top tradeable gainers (Sep-28, ≥$5, no warrants/units/rights):** KOD +177.96% ($89.92 — Kodiak Sciences, biotech binary gap), LFCR +55.24% ($6.52), CLRO +47.83% ($5.10), HBR +29.22% ($16.54) — all thin one-day spikes, no durable/liquid catalyst. Main tradeable losers: ITG −32.6% ($7.07), ACET −29.6% ($6.35).
+
+**Best realistic miss:** **None.** Every filtered gainer was a thin micro-cap/biotech-binary spike (KOD/LFCR/CLRO/HBR) with no identifiable durable catalyst and would fail quant/not_extended — the names we never chase. No liquid large-cap catalyst mover made the board. Reject-all was rules-correct.
+
+**Lessons:**
+- Discipline paid hard again: AKAM −4.3% (the +22% gap we refused to chase) and AMD −3.6% both faded off the highs — chasing either would have taken a real loss day-1. The not_extended + R:R gate is repeatedly saving losses, not just missing flat names.
+- The freshest catalyst today (AMD's $8.2B World Labs M&A) lands on a name already ~2.8 ATR above its rising 20d with 2R in breakout air — the same resistance-geometry trap, now via M&A rather than a gap or grind. A big deal does not fix the entry price.
+- PANW went 5/5 confirmed but is pinned 0.11R under its 20d high on only a BTIG PT-raise — clean quant, thin catalyst, and 2R still lands in breakout air. Quant strength never substitutes for room to target.
+
+**Rolling 7d:** recurring leading sectors = **Technology / semiconductors** (SMH/XLK/AMD/NVDA the perennial confirmed leaders; SPY $765 over its rising 50d $762, risk_on) ; Energy a 2026-YTD leader on headlines but bars stay weak ; **Consumer Discretionary / Communication Services the persistent laggards**. Recurring miss pattern = **liquid confirmed leaders pinned at/near their 20d highs with 2R in breakout air** (…AMD/INTC/NVDA/LLY→SMH/XLK/AMD/AKAM→AMD/PANW) — convertible only via a lower-entry retest that keeps not arriving; fresh catalysts keep arriving on already-extended names (AKAM +22% gap, AMD M&A) we won't chase. Hard rules unchanged.
+
+---
+
 ## 2026-09-28 — Scorecard (prior session 2026-09-25)
 
 **Our picks (1d = Sep-25 close vs Sep-24 close):**

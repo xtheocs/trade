@@ -2105,3 +2105,29 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new trades.** Regime risk_on (SPY over rising 50d, VIX ~14.9, light calendar), Technology/semiconductors still the clear multi-week leader, but no name cleared all gates. The day's biggest fresh catalyst — AKAM's $11.6B→$20B Anthropic cloud deal — arrives as a **+22% gap-up**, making it a blow-off chase (post-gap ~4.5 ATR above the 20d SMA, 2R in breakout air); it becomes actionable only on a lower-entry pullback/retest. Every confirmed semis leader (SMH 3/5, XLK 3/5, AMD 3/5, NVDA 3/5) fails 2:1 for the recurring reason — pinned at/near the 20d high, 2R in breakout air. MU is blocked by a Sep-30 earnings binary. 6th straight flat session; capital fully free — wait for a lower-entry retest (AKAM base $114–128 the prime watch) or a fresh catalyst on a non-extended name with room. Heat 0%; DD −1.48%. Week trades 0/3.
+
+## 2026-09-29 — Pre-market
+
+### Account
+- Equity: **$1,072.91** / Cash: $1,072.91 (100%) / Buying power: $1,072.91
+- Open positions: **0** (flat since XLE stop-out Sep-21 — 7th straight flat session)
+- Drawdown from peak: **−1.48%** (peak $1,089.01) — 20% breaker inactive
+- Open orders: 0 / Week trades: 0 new (week of Sep 28) / Daytrade count: 0
+
+### Regime
+- Equity: **risk_on** (SPY $765.49 above its rising 50-day SMA $761.98) — full size, best setups.
+- Macro/tape: Risk-on but softer open — S&P futures ~7,742 (−0.06% to −0.15%), Nasdaq-100 futures +0.1%. Higher Treasury yields and firmer oil (Mideast concerns) the macro headwinds; prior session closed modestly lower. Econ calendar: **JOLTS + Consumer Confidence 10:00 AM ET, Case-Shiller 9:00 AM ET** — no CPI/PPI/FOMC; low-to-moderate event risk. Sector tape: **Technology/semiconductors** still the multi-week leader (SMH/XLK/AMD/NVDA active, SOXL/QQQ top premarket dollar-volume); Energy a 2026-YTD leader on headlines but bars weak; Consumer Discretionary / Comm Services the laggards. Catalyst names: **AMD** — $8.2B acquisition of Fei-Fei Li's World Labs (M&A); **PANW** — BTIG price-target raise; **AKAM** — Anthropic cloud deal still in coverage (gap now faded); **SMMT** +22% premarket (biotech, unusual volume).
+
+### Candidates (catalyst + quant)
+- **None cleared all gates for a NEW entry.**
+
+### Rejected
+- **AMD** (stock, semis) — catalyst **real/fresh** ($8.2B World Labs M&A) — quant **4/5 confirmed** (trend/momentum/rel_strength/volume TRUE; **not_extended FALSE**). last $607.88, sma20 $535.20 (~2.8 ATR above → extended), hi_20d $638.79, ATR $25.97, risk/sh $51.94 → room to 20d high $30.91 = **0.60R**; 2R (~$712) lands well above resistance in breakout air → **fails 2:1**. Also fractional at $608/sh and 0.62 sh (~$377) would exceed the 25% cap. Big deal, but entry price is extended. Reject on not_extended + R:R.
+- **PANW** (stock, cybersecurity) — catalyst **thin** (BTIG PT raise, analyst action) — quant **5/5 confirmed**. last $392.19, sma20 $361.91, hi_20d $396.12 (0.11R room — pinned at the 20d high), ATR $17.70, risk/sh $35.41 → 2R (~$463) deep in breakout air → **fails 2:1**. Clean quant, but pinned at highs on a weak catalyst. Reject on R:R + thin catalyst.
+- **AKAM** (stock, cloud/CDN) — catalyst aging (Anthropic deal, day-4; the +22% gap has faded to ~$109) — quant **4/5 confirmed** (trend/rel_strength/volume/not_extended TRUE; **momentum FALSE** — 14.8% below the 20d high). last $108.985, sma20 $108.83, hi_20d $127.925, risk/sh $13.37 → room to 20d high 1.42R; 2R (~$136) still lands above the 20d high in breakout air → **fails 2:1**. A broken gap sitting on its 20d, not a clean pullback-to-support. Reject on R:R + broken momentum.
+- **SMMT** (stock, biotech) — catalyst (+22% premarket, unusual volume) — quant **1/5 NOT confirmed** (trend/momentum/rel_strength/volume FALSE; last $15.49 below falling-momentum, 14.8% below sma20 $16.66). Biotech spike into a downtrend. No trade.
+- **Premarket ≥$5 pumps** (BKYI +71% $?, YMT +41%, SANG +36%, plus warrants ARBEW/ASTLW) — thin one-day micro-cap spikes, no durable catalyst, fail quant/not_extended. Never chase.
+- Inverse sleeve (SQQQ/SH) — regime risk_on, not sanctioned.
+
+### Decision
+**HOLD — no new trades.** Regime risk_on (SPY $765.49 over its rising 50d $761.98, futures fractionally soft, JOLTS/Confidence at 10am ET the only calendar items), Technology/semiconductors still the multi-week leader, but no name cleared all gates. The freshest catalyst — AMD's $8.2B World Labs M&A — lands on a name ~2.8 ATR extended with 2R in breakout air (fails 2:1). PANW went 5/5 but is pinned at its 20d high on only a BTIG PT raise. AKAM's Anthropic-deal gap has faded to a broken setup (momentum FALSE, 2R still above resistance). SMMT is a biotech spike into a downtrend (1/5). Same recurring resistance-geometry trap — convertible only on a lower-entry retest that keeps not arriving. 7th straight flat session; capital fully free. Heat 0%; DD −1.48%. Week trades 0/3.
