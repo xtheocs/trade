@@ -933,3 +933,14 @@ drawdown are measured from here.
 **Notes:** Sixth straight flat day, fully in cash — account/positions/orders pulls confirm 0 positions, 0 open orders, equity unchanged at $1,072.91. Day P&L $0.00 (+0.00%) vs Sep 25's $1,072.91 close. Phase P&L −$7.09 (−0.66%) vs the $1,080.00 starting equity — 76 sessions in, essentially flat; well short of the ~10% monthly stretch target (informational only, not a trigger). Peak unchanged at $1,089.01; drawdown −1.48% — 20% breaker inactive. Trades today: 0. Weekly trades: 0/3 (week of Sep 28, first day). No open positions or pending orders. Tomorrow: pre-market rescans regime/catalyst/quant for fresh setups clearing catalyst + 3/5 quant + 2:1 R:R; no thesis carried forward.
 
 ---
+
+### Sep 29 — EOD Snapshot (Day 77, Tuesday)
+**Portfolio:** $1,072.91 | **Cash:** $1,072.91 (100%) | **Day P&L:** $0.00 (+0.00%) | **Phase P&L:** −$7.09 (−0.66%) | **Peak:** $1,089.01 | **DD:** −1.48%
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Seventh straight flat day, fully in cash — 0 positions, 0 open orders, equity unchanged at $1,072.91. Day P&L $0.00 vs Sep 28. Phase P&L −$7.09 (−0.66%) vs $1,080.00 start; well short of ~10% monthly stretch (informational only). Peak unchanged $1,089.01; DD −1.48%, 20% breaker inactive. Trades today: 0. Weekly trades: 0/3 (week of Sep 28). Tomorrow: pre-market rescans for setups clearing catalyst + 3/5 quant + 2:1 R:R; no thesis carried forward.
+
+---
